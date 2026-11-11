@@ -1,0 +1,1928 @@
+{
+  "nodes": [
+    {
+      "id": "vp35_trayaruna",
+      "label": "Trayyāruṇa · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_satyavrata_trishanku",
+      "label": "Satyavrata / Triśaṅku · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_harishchandra",
+      "label": "Hariścandra · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_rohitashva",
+      "label": "Rohitāśva · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_harita_bahu_branch",
+      "label": "Harita · Bāhu branch · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_cancu",
+      "label": "Cañcu · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_vijaya_cancu",
+      "label": "Vijaya · Cañcu branch · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_sudeva",
+      "label": "Sudeva · Cañcu branch · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_ruruka",
+      "label": "Ruruka · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_vrka",
+      "label": "Vṛka · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_bahu",
+      "label": "Bāhu · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_sagara",
+      "label": "Sagara · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_sumati_sagara",
+      "label": "Sumati · Sagara’s wife · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_kesini_sagara",
+      "label": "Keśinī · Sagara’s wife · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_asamanjas",
+      "label": "Asamañjas · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_amshumant",
+      "label": "Aṃśumant · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_dilipa_amshumant",
+      "label": "Dilīpa · son of Aṃśumant · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_bhagiratha",
+      "label": "Bhagīratha · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_shruta",
+      "label": "Śruta · Sagara branch · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_nabhaga_sagara",
+      "label": "Nābhāga · Sagara branch · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_ambarisha_sagara",
+      "label": "Ambarīṣa · Sagara branch · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_sindhudvipa",
+      "label": "Sindhudvīpa · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_ayutayu",
+      "label": "Ayutāyu · Sagara branch · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_rtuparna",
+      "label": "Ṛtuparṇa · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_sarvakama",
+      "label": "Sarvakāma · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_sudasa_sagara",
+      "label": "Sudāsa · Sagara branch · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_saudasa",
+      "label": "Saudāsa / Mitrasaha / Kalmāṣapāda · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_madayanti",
+      "label": "Madayantī · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_vasishtha_ashmaka",
+      "label": "Vasiṣṭha · Aśmaka’s biological father · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_ashmaka",
+      "label": "Aśmaka · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_mulaka_narikavaca",
+      "label": "Mūlaka / Nārīkavaca · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_dasaratha_mulaka",
+      "label": "Daśaratha · son of Mūlaka · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_ilivila",
+      "label": "Ilivila · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_visvasaha_pre_rama",
+      "label": "Viśvasaha · pre-Rāma branch · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_khatvanga_dilipa",
+      "label": "Khaṭvāṅga / Dilīpa · pre-Rāma branch · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_dirghabahu",
+      "label": "Dīrghabāhu · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_raghu",
+      "label": "Raghu · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_ikshvaku",
+      "label": "Ikṣvāku · Nimi’s father · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_nimi",
+      "label": "Nimi · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_janaka_mithi",
+      "label": "Janaka / Vaideha / Mithi · Nimi line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_udavasu",
+      "label": "Udāvasu · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_nandivardhana_videha",
+      "label": "Nandivardhana · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_suketu_videha",
+      "label": "Suketu · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_devarata_videha",
+      "label": "Devarāta · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_brihaduktha_videha",
+      "label": "Bṛhaduktha · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_mahavirya_videha",
+      "label": "Mahāvīrya · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_satyadhriti",
+      "label": "Satyadhṛti · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_dhrishtaketu_videha",
+      "label": "Dhṛṣṭaketu · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_haryashva_videha",
+      "label": "Haryaśva · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_maru_videha",
+      "label": "Maru · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_pratibandhaka",
+      "label": "Pratibandhaka · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_krtaratha_videha",
+      "label": "Kṛtaratha · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_kriti_videha_1",
+      "label": "Kṛti · Videha line, earlier namesake · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_vibudha_videha",
+      "label": "Vibudha · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_mahadhrti",
+      "label": "Mahādhṛti · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_krtirata",
+      "label": "Kṛtirāta · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_maharoman",
+      "label": "Mahāroman · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_suvarnaroman",
+      "label": "Suvarṇaroman · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_hrasvaroman",
+      "label": "Hrasvaroman · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_siradhvaja",
+      "label": "Sīradhvaja · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_kushadhvaja",
+      "label": "Kuśadhvaja · brother of Sīradhvaja · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_bhanumant",
+      "label": "Bhānumant · Sīradhvaja descendant · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_satadyumna",
+      "label": "Śatadyumna · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_suchi_videha",
+      "label": "Śuci · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_urjavaha",
+      "label": "Ūrjavaha · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_satyadhvaja",
+      "label": "Satyadhvaja · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_kuni_videha",
+      "label": "Kuṇi · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_anjana_videha",
+      "label": "Añjana · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_rtujit",
+      "label": "Ṛtujit · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_aristanemi_videha",
+      "label": "Ariṣṭanemi · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_shrutaayus_videha",
+      "label": "Śrutāyus · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_suparshva_videha",
+      "label": "Supārśva · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_sanjaya_videha",
+      "label": "Saṃjaya · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_kshemari_videha",
+      "label": "Kṣemāri · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_anenas_videha",
+      "label": "Anenas · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_minaratha",
+      "label": "Mīnaratha · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_satyaratha",
+      "label": "Satyaratha · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_satyarathi",
+      "label": "Sātyarathi · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_upagu_videha",
+      "label": "Upagu · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_shashvata",
+      "label": "Śāśvata · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_sudhanvan_videha",
+      "label": "Sudhanvan · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_subhasha_videha",
+      "label": "Subhāṣa · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_susruta_videha",
+      "label": "Suśruta · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_jaya_videha",
+      "label": "Jaya · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_vijaya_videha",
+      "label": "Vijaya · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_rta_videha",
+      "label": "Ṛta · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_sunaya_videha",
+      "label": "Sunaya · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_vitahavya_videha",
+      "label": "Vītahavya · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_dhriti_videha",
+      "label": "Dhṛti · Videha line · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_bahulashva",
+      "label": "Bahulāśva · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_kriti_videha_terminal",
+      "label": "Kṛti · terminal Videha king · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp35_janaka_ch4",
+      "label": "King Janaka · Sītā’s father in 4.4 · Viṣṇu Purāṇa 4.3–5 witness",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "vp4_3_anu",
+      "title": "Viṣṇu Purāṇa, Book 4, chapter 3: the Bāhu–Sagara line",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 3.",
+      "locator": "4.3.14, 17–18, 24",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_4_genealogy_anu",
+      "title": "Viṣṇu Purāṇa, Book 4, chapter 4: Sagara’s descendants and the story of Rāma",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 4.",
+      "locator": "4.4.1–5, 24, 26–27, 37–49",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_5_anu",
+      "title": "Viṣṇu Purāṇa, Book 4, chapter 5: Nimi and the Videha/Janaka line",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 5.",
+      "locator": "4.5.1, 9–12",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "VSG001",
+      "facet": "puranic",
+      "subject": "vp35_trayaruna",
+      "predicate": "father_of",
+      "object": "vp35_satyavrata_trishanku",
+      "source": "vp4_3_anu",
+      "locator": "4.3.14",
+      "summary": "Trayyāruṇa’s son Satyavrata is also named Triśaṅku.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Satyavrata and Triśaṅku are one individual; no duplicate alias node.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG002",
+      "facet": "puranic",
+      "subject": "vp35_satyavrata_trishanku",
+      "predicate": "father_of",
+      "object": "vp35_harishchandra",
+      "source": "vp4_3_anu",
+      "locator": "4.3.17",
+      "summary": "Hariścandra is named as Triśaṅku’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG003",
+      "facet": "puranic",
+      "subject": "vp35_harishchandra",
+      "predicate": "father_of",
+      "object": "vp35_rohitashva",
+      "source": "vp4_3_anu",
+      "locator": "4.3.17",
+      "summary": "Rohitāśva is named in the father-to-son line descending from Hariścandra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG004",
+      "facet": "puranic",
+      "subject": "vp35_rohitashva",
+      "predicate": "father_of",
+      "object": "vp35_harita_bahu_branch",
+      "source": "vp4_3_anu",
+      "locator": "4.3.17",
+      "summary": "Harita is named in the father-to-son line descending from Rohitāśva.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG005",
+      "facet": "puranic",
+      "subject": "vp35_harita_bahu_branch",
+      "predicate": "father_of",
+      "object": "vp35_cancu",
+      "source": "vp4_3_anu",
+      "locator": "4.3.17",
+      "summary": "Cañcu is named in the father-to-son line descending from Harita.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG006",
+      "facet": "puranic",
+      "subject": "vp35_cancu",
+      "predicate": "father_of",
+      "object": "vp35_vijaya_cancu",
+      "source": "vp4_3_anu",
+      "locator": "4.3.17",
+      "summary": "Cañcu is named as the father of Vijaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG007",
+      "facet": "puranic",
+      "subject": "vp35_cancu",
+      "predicate": "father_of",
+      "object": "vp35_sudeva",
+      "source": "vp4_3_anu",
+      "locator": "4.3.17",
+      "summary": "Cañcu is named as the father of Sudeva.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG008",
+      "facet": "puranic",
+      "subject": "vp35_vijaya_cancu",
+      "predicate": "father_of",
+      "object": "vp35_ruruka",
+      "source": "vp4_3_anu",
+      "locator": "4.3.17",
+      "summary": "Ruruka is named in the father-to-son line descending from Vijaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG009",
+      "facet": "puranic",
+      "subject": "vp35_ruruka",
+      "predicate": "father_of",
+      "object": "vp35_vrka",
+      "source": "vp4_3_anu",
+      "locator": "4.3.17",
+      "summary": "Vṛka is named in the father-to-son line descending from Ruruka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG010",
+      "facet": "puranic",
+      "subject": "vp35_vrka",
+      "predicate": "father_of",
+      "object": "vp35_bahu",
+      "source": "vp4_3_anu",
+      "locator": "4.3.18",
+      "summary": "Bāhu is named as the son of Vṛka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG011",
+      "facet": "puranic",
+      "subject": "vp35_bahu",
+      "predicate": "father_of",
+      "object": "vp35_sagara",
+      "source": "vp4_3_anu",
+      "locator": "4.3.18, 24",
+      "summary": "Sagara is born to Bāhu’s pregnant wife after Bāhu’s death.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The mother is unnamed in this passage; Bāhu’s paternity follows the explicit pregnancy and birth context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG012",
+      "facet": "puranic",
+      "subject": "vp35_sagara",
+      "predicate": "is_husband_of",
+      "object": "vp35_sumati_sagara",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.1",
+      "summary": "Sumati is named as one of Sagara’s wives.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a spouse relationship, not a parent claim.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG013",
+      "facet": "puranic",
+      "subject": "vp35_sagara",
+      "predicate": "is_husband_of",
+      "object": "vp35_kesini_sagara",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.1",
+      "summary": "Keśinī is named as one of Sagara’s wives.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a spouse relationship, not a parent claim.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG014",
+      "facet": "puranic",
+      "subject": "vp35_sagara",
+      "predicate": "father_of",
+      "object": "vp35_asamanjas",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.3–4",
+      "summary": "Sagara is the father of Asamañjas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG015",
+      "facet": "puranic",
+      "subject": "vp35_kesini_sagara",
+      "predicate": "mother_of",
+      "object": "vp35_asamanjas",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.3–4",
+      "summary": "Keśinī bore Asamañjas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG016",
+      "facet": "puranic",
+      "subject": "vp35_asamanjas",
+      "predicate": "father_of",
+      "object": "vp35_amshumant",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.5",
+      "summary": "Aṃśumant is named as Asamañjas’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG017",
+      "facet": "puranic",
+      "subject": "vp35_amshumant",
+      "predicate": "father_of",
+      "object": "vp35_dilipa_amshumant",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.24",
+      "summary": "Dilīpa is named in the father-to-son line descending from Aṃśumant.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG018",
+      "facet": "puranic",
+      "subject": "vp35_dilipa_amshumant",
+      "predicate": "father_of",
+      "object": "vp35_bhagiratha",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.24",
+      "summary": "Bhagīratha is named in the father-to-son line descending from Dilīpa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG019",
+      "facet": "puranic",
+      "subject": "vp35_bhagiratha",
+      "predicate": "father_of",
+      "object": "vp35_shruta",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.26",
+      "summary": "Śruta is named in the father-to-son line descending from Bhagīratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG020",
+      "facet": "puranic",
+      "subject": "vp35_shruta",
+      "predicate": "father_of",
+      "object": "vp35_nabhaga_sagara",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.26",
+      "summary": "Nābhāga is named in the father-to-son line descending from Śruta.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG021",
+      "facet": "puranic",
+      "subject": "vp35_nabhaga_sagara",
+      "predicate": "father_of",
+      "object": "vp35_ambarisha_sagara",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.26",
+      "summary": "Ambarīṣa is named in the father-to-son line descending from Nābhāga.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG022",
+      "facet": "puranic",
+      "subject": "vp35_ambarisha_sagara",
+      "predicate": "father_of",
+      "object": "vp35_sindhudvipa",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.26",
+      "summary": "Sindhudvīpa is named in the father-to-son line descending from Ambarīṣa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG023",
+      "facet": "puranic",
+      "subject": "vp35_sindhudvipa",
+      "predicate": "father_of",
+      "object": "vp35_ayutayu",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.26",
+      "summary": "Ayutāyu is named in the father-to-son line descending from Sindhudvīpa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG024",
+      "facet": "puranic",
+      "subject": "vp35_ayutayu",
+      "predicate": "father_of",
+      "object": "vp35_rtuparna",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.26",
+      "summary": "Ṛtuparṇa is named in the father-to-son line descending from Ayutāyu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG025",
+      "facet": "puranic",
+      "subject": "vp35_rtuparna",
+      "predicate": "father_of",
+      "object": "vp35_sarvakama",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.27",
+      "summary": "Sarvakāma is named in the father-to-son line descending from Ṛtuparṇa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG026",
+      "facet": "puranic",
+      "subject": "vp35_sarvakama",
+      "predicate": "father_of",
+      "object": "vp35_sudasa_sagara",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.27",
+      "summary": "Sudāsa is named in the father-to-son line descending from Sarvakāma.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG027",
+      "facet": "puranic",
+      "subject": "vp35_sudasa_sagara",
+      "predicate": "father_of",
+      "object": "vp35_saudasa",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.27",
+      "summary": "Saudāsa / Mitrasaha / Kalmāṣapāda is named in the father-to-son line descending from Sudāsa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG028",
+      "facet": "puranic",
+      "subject": "vp35_saudasa",
+      "predicate": "is_husband_of",
+      "object": "vp35_madayanti",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.37–45",
+      "summary": "Madayantī is named as Saudāsa’s consort.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Saudāsa is also called Mitrasaha and Kalmāṣapāda in this chapter.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG029",
+      "facet": "puranic",
+      "subject": "vp35_vasishtha_ashmaka",
+      "predicate": "father_of",
+      "object": "vp35_ashmaka",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.45",
+      "summary": "Vasiṣṭha conceived Aśmaka with Madayantī at Saudāsa’s request.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The text says Saudāsa was childless; it does not name him as Aśmaka’s biological father.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG030",
+      "facet": "puranic",
+      "subject": "vp35_madayanti",
+      "predicate": "mother_of",
+      "object": "vp35_ashmaka",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.45",
+      "summary": "Madayantī bore Aśmaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG031",
+      "facet": "puranic",
+      "subject": "vp35_ashmaka",
+      "predicate": "father_of",
+      "object": "vp35_mulaka_narikavaca",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.46",
+      "summary": "Mūlaka / Nārīkavaca is named in the father-to-son line descending from Aśmaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG032",
+      "facet": "puranic",
+      "subject": "vp35_mulaka_narikavaca",
+      "predicate": "father_of",
+      "object": "vp35_dasaratha_mulaka",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.46",
+      "summary": "Daśaratha is named in the father-to-son line descending from Mūlaka / Nārīkavaca.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG033",
+      "facet": "puranic",
+      "subject": "vp35_dasaratha_mulaka",
+      "predicate": "father_of",
+      "object": "vp35_ilivila",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.46",
+      "summary": "Ilivila is named in the father-to-son line descending from Daśaratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG034",
+      "facet": "puranic",
+      "subject": "vp35_ilivila",
+      "predicate": "father_of",
+      "object": "vp35_visvasaha_pre_rama",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.46",
+      "summary": "Viśvasaha is named in the father-to-son line descending from Ilivila.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG035",
+      "facet": "puranic",
+      "subject": "vp35_visvasaha_pre_rama",
+      "predicate": "father_of",
+      "object": "vp35_khatvanga_dilipa",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.46",
+      "summary": "Khaṭvāṅga / Dilīpa is named in the father-to-son line descending from Viśvasaha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG036",
+      "facet": "puranic",
+      "subject": "vp35_khatvanga_dilipa",
+      "predicate": "father_of",
+      "object": "vp35_dirghabahu",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.49",
+      "summary": "Dīrghabāhu is named in the father-to-son line descending from Khaṭvāṅga / Dilīpa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG037",
+      "facet": "puranic",
+      "subject": "vp35_dirghabahu",
+      "predicate": "father_of",
+      "object": "vp35_raghu",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.49",
+      "summary": "Raghu is named in the father-to-son line descending from Dīrghabāhu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG038",
+      "facet": "puranic",
+      "subject": "vp35_raghu",
+      "predicate": "father_of",
+      "object": "vp18_aja",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.49",
+      "summary": "Aja is named as Raghu’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG039",
+      "facet": "puranic",
+      "subject": "vp18_aja",
+      "predicate": "father_of",
+      "object": "dasaratha",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.49",
+      "summary": "Daśaratha is named as Aja’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Reuses the Aja and Daśaratha anchors; the Daśaratha son of Mūlaka above is a different namesake.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG040",
+      "facet": "puranic",
+      "subject": "dasaratha",
+      "predicate": "father_of",
+      "object": "rama",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.49",
+      "summary": "Rāma is named among the four sons of Daśaratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Reuses the existing Rāma and Daśaratha anchors.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG041",
+      "facet": "puranic",
+      "subject": "vp35_janaka_ch4",
+      "predicate": "father_of",
+      "object": "sita",
+      "source": "vp4_4_genealogy_anu",
+      "locator": "4.4.50",
+      "summary": "Sītā is explicitly identified as King Janaka’s daughter.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Kept distinct from the Janaka/Mithi founder and Sīradhvaja nodes in chapter 5; this chapter does not state their identity.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG042",
+      "facet": "puranic",
+      "subject": "vp35_ikshvaku",
+      "predicate": "father_of",
+      "object": "vp35_nimi",
+      "source": "vp4_5_anu",
+      "locator": "4.5.1",
+      "summary": "Nimi is named as a son of Ikṣvāku.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG043",
+      "facet": "puranic",
+      "subject": "vp35_janaka_mithi",
+      "predicate": "generated_from_body_of",
+      "object": "vp35_nimi",
+      "source": "vp4_5_anu",
+      "locator": "4.5.9–10",
+      "summary": "Janaka is generated from Nimi’s body after Nimi’s death; the text says Nimi had no son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a miraculous origin, not a claim of biological paternity.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG044",
+      "facet": "puranic",
+      "subject": "vp35_janaka_mithi",
+      "predicate": "father_of",
+      "object": "vp35_udavasu",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Udāvasu is named in the father-to-son line descending from Janaka / Vaideha / Mithi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG045",
+      "facet": "puranic",
+      "subject": "vp35_udavasu",
+      "predicate": "father_of",
+      "object": "vp35_nandivardhana_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Nandivardhana is named in the father-to-son line descending from Udāvasu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG046",
+      "facet": "puranic",
+      "subject": "vp35_nandivardhana_videha",
+      "predicate": "father_of",
+      "object": "vp35_suketu_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Suketu is named in the father-to-son line descending from Nandivardhana.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG047",
+      "facet": "puranic",
+      "subject": "vp35_suketu_videha",
+      "predicate": "father_of",
+      "object": "vp35_devarata_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Devarāta is named in the father-to-son line descending from Suketu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG048",
+      "facet": "puranic",
+      "subject": "vp35_devarata_videha",
+      "predicate": "father_of",
+      "object": "vp35_brihaduktha_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Bṛhaduktha is named in the father-to-son line descending from Devarāta.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG049",
+      "facet": "puranic",
+      "subject": "vp35_brihaduktha_videha",
+      "predicate": "father_of",
+      "object": "vp35_mahavirya_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Mahāvīrya is named in the father-to-son line descending from Bṛhaduktha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG050",
+      "facet": "puranic",
+      "subject": "vp35_mahavirya_videha",
+      "predicate": "father_of",
+      "object": "vp35_satyadhriti",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Satyadhṛti is named in the father-to-son line descending from Mahāvīrya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG051",
+      "facet": "puranic",
+      "subject": "vp35_satyadhriti",
+      "predicate": "father_of",
+      "object": "vp35_dhrishtaketu_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Dhṛṣṭaketu is named in the father-to-son line descending from Satyadhṛti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG052",
+      "facet": "puranic",
+      "subject": "vp35_dhrishtaketu_videha",
+      "predicate": "father_of",
+      "object": "vp35_haryashva_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Haryaśva is named in the father-to-son line descending from Dhṛṣṭaketu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG053",
+      "facet": "puranic",
+      "subject": "vp35_haryashva_videha",
+      "predicate": "father_of",
+      "object": "vp35_maru_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Maru is named in the father-to-son line descending from Haryaśva.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG054",
+      "facet": "puranic",
+      "subject": "vp35_maru_videha",
+      "predicate": "father_of",
+      "object": "vp35_pratibandhaka",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Pratibandhaka is named in the father-to-son line descending from Maru.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG055",
+      "facet": "puranic",
+      "subject": "vp35_pratibandhaka",
+      "predicate": "father_of",
+      "object": "vp35_krtaratha_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Kṛtaratha is named in the father-to-son line descending from Pratibandhaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG056",
+      "facet": "puranic",
+      "subject": "vp35_krtaratha_videha",
+      "predicate": "father_of",
+      "object": "vp35_kriti_videha_1",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Kṛti is named in the father-to-son line descending from Kṛtaratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG057",
+      "facet": "puranic",
+      "subject": "vp35_kriti_videha_1",
+      "predicate": "father_of",
+      "object": "vp35_vibudha_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Vibudha is named in the father-to-son line descending from Kṛti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG058",
+      "facet": "puranic",
+      "subject": "vp35_vibudha_videha",
+      "predicate": "father_of",
+      "object": "vp35_mahadhrti",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Mahādhṛti is named in the father-to-son line descending from Vibudha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG059",
+      "facet": "puranic",
+      "subject": "vp35_mahadhrti",
+      "predicate": "father_of",
+      "object": "vp35_krtirata",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Kṛtirāta is named in the father-to-son line descending from Mahādhṛti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG060",
+      "facet": "puranic",
+      "subject": "vp35_krtirata",
+      "predicate": "father_of",
+      "object": "vp35_maharoman",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Mahāroman is named in the father-to-son line descending from Kṛtirāta.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG061",
+      "facet": "puranic",
+      "subject": "vp35_maharoman",
+      "predicate": "father_of",
+      "object": "vp35_suvarnaroman",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Suvarṇaroman is named in the father-to-son line descending from Mahāroman.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG062",
+      "facet": "puranic",
+      "subject": "vp35_suvarnaroman",
+      "predicate": "father_of",
+      "object": "vp35_hrasvaroman",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Hrasvaroman is named in the father-to-son line descending from Suvarṇaroman.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG063",
+      "facet": "puranic",
+      "subject": "vp35_hrasvaroman",
+      "predicate": "father_of",
+      "object": "vp35_siradhvaja",
+      "source": "vp4_5_anu",
+      "locator": "4.5.10–11",
+      "summary": "Sīradhvaja is named in the father-to-son line descending from Hrasvaroman.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG064",
+      "facet": "puranic",
+      "subject": "vp35_siradhvaja",
+      "predicate": "is_brother_of",
+      "object": "vp35_kushadhvaja",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11",
+      "summary": "Kuśadhvaja is identified as Sīradhvaja’s brother.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Sibling relation as stated; not a descent edge.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG065",
+      "facet": "puranic",
+      "subject": "vp35_siradhvaja",
+      "predicate": "ancestor_of",
+      "object": "vp35_bhanumant",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11",
+      "summary": "Bhānumant is named as a descendant of Sīradhvaja.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The passage does not specify the number of intervening generations.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG066",
+      "facet": "puranic",
+      "subject": "vp35_bhanumant",
+      "predicate": "father_of",
+      "object": "vp35_satadyumna",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Śatadyumna is named in the father-to-son line descending from Bhānumant.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG067",
+      "facet": "puranic",
+      "subject": "vp35_satadyumna",
+      "predicate": "father_of",
+      "object": "vp35_suchi_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Śuci is named in the father-to-son line descending from Śatadyumna.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG068",
+      "facet": "puranic",
+      "subject": "vp35_suchi_videha",
+      "predicate": "father_of",
+      "object": "vp35_urjavaha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Ūrjavaha is named in the father-to-son line descending from Śuci.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG069",
+      "facet": "puranic",
+      "subject": "vp35_urjavaha",
+      "predicate": "father_of",
+      "object": "vp35_satyadhvaja",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Satyadhvaja is named in the father-to-son line descending from Ūrjavaha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG070",
+      "facet": "puranic",
+      "subject": "vp35_satyadhvaja",
+      "predicate": "father_of",
+      "object": "vp35_kuni_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Kuṇi is named in the father-to-son line descending from Satyadhvaja.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG071",
+      "facet": "puranic",
+      "subject": "vp35_kuni_videha",
+      "predicate": "father_of",
+      "object": "vp35_anjana_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Añjana is named in the father-to-son line descending from Kuṇi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG072",
+      "facet": "puranic",
+      "subject": "vp35_anjana_videha",
+      "predicate": "father_of",
+      "object": "vp35_rtujit",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Ṛtujit is named in the father-to-son line descending from Añjana.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG073",
+      "facet": "puranic",
+      "subject": "vp35_rtujit",
+      "predicate": "father_of",
+      "object": "vp35_aristanemi_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Ariṣṭanemi is named in the father-to-son line descending from Ṛtujit.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG074",
+      "facet": "puranic",
+      "subject": "vp35_aristanemi_videha",
+      "predicate": "father_of",
+      "object": "vp35_shrutaayus_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Śrutāyus is named in the father-to-son line descending from Ariṣṭanemi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG075",
+      "facet": "puranic",
+      "subject": "vp35_shrutaayus_videha",
+      "predicate": "father_of",
+      "object": "vp35_suparshva_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Supārśva is named in the father-to-son line descending from Śrutāyus.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG076",
+      "facet": "puranic",
+      "subject": "vp35_suparshva_videha",
+      "predicate": "father_of",
+      "object": "vp35_sanjaya_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Saṃjaya is named in the father-to-son line descending from Supārśva.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG077",
+      "facet": "puranic",
+      "subject": "vp35_sanjaya_videha",
+      "predicate": "father_of",
+      "object": "vp35_kshemari_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Kṣemāri is named in the father-to-son line descending from Saṃjaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG078",
+      "facet": "puranic",
+      "subject": "vp35_kshemari_videha",
+      "predicate": "father_of",
+      "object": "vp35_anenas_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Anenas is named in the father-to-son line descending from Kṣemāri.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG079",
+      "facet": "puranic",
+      "subject": "vp35_anenas_videha",
+      "predicate": "father_of",
+      "object": "vp35_minaratha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Mīnaratha is named in the father-to-son line descending from Anenas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG080",
+      "facet": "puranic",
+      "subject": "vp35_minaratha",
+      "predicate": "father_of",
+      "object": "vp35_satyaratha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Satyaratha is named in the father-to-son line descending from Mīnaratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG081",
+      "facet": "puranic",
+      "subject": "vp35_satyaratha",
+      "predicate": "father_of",
+      "object": "vp35_satyarathi",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Sātyarathi is named in the father-to-son line descending from Satyaratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG082",
+      "facet": "puranic",
+      "subject": "vp35_satyarathi",
+      "predicate": "father_of",
+      "object": "vp35_upagu_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Upagu is named in the father-to-son line descending from Sātyarathi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG083",
+      "facet": "puranic",
+      "subject": "vp35_upagu_videha",
+      "predicate": "father_of",
+      "object": "vp35_shashvata",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Śāśvata is named in the father-to-son line descending from Upagu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG084",
+      "facet": "puranic",
+      "subject": "vp35_shashvata",
+      "predicate": "father_of",
+      "object": "vp35_sudhanvan_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Sudhanvan is named in the father-to-son line descending from Śāśvata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG085",
+      "facet": "puranic",
+      "subject": "vp35_sudhanvan_videha",
+      "predicate": "father_of",
+      "object": "vp35_subhasha_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Subhāṣa is named in the father-to-son line descending from Sudhanvan.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG086",
+      "facet": "puranic",
+      "subject": "vp35_subhasha_videha",
+      "predicate": "father_of",
+      "object": "vp35_susruta_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Suśruta is named in the father-to-son line descending from Subhāṣa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG087",
+      "facet": "puranic",
+      "subject": "vp35_susruta_videha",
+      "predicate": "father_of",
+      "object": "vp35_jaya_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Jaya is named in the father-to-son line descending from Suśruta.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG088",
+      "facet": "puranic",
+      "subject": "vp35_jaya_videha",
+      "predicate": "father_of",
+      "object": "vp35_vijaya_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Vijaya is named in the father-to-son line descending from Jaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG089",
+      "facet": "puranic",
+      "subject": "vp35_vijaya_videha",
+      "predicate": "father_of",
+      "object": "vp35_rta_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Ṛta is named in the father-to-son line descending from Vijaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG090",
+      "facet": "puranic",
+      "subject": "vp35_rta_videha",
+      "predicate": "father_of",
+      "object": "vp35_sunaya_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Sunaya is named in the father-to-son line descending from Ṛta.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG091",
+      "facet": "puranic",
+      "subject": "vp35_sunaya_videha",
+      "predicate": "father_of",
+      "object": "vp35_vitahavya_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Vītahavya is named in the father-to-son line descending from Sunaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG092",
+      "facet": "puranic",
+      "subject": "vp35_vitahavya_videha",
+      "predicate": "father_of",
+      "object": "vp35_dhriti_videha",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Dhṛti is named in the father-to-son line descending from Vītahavya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG093",
+      "facet": "puranic",
+      "subject": "vp35_dhriti_videha",
+      "predicate": "father_of",
+      "object": "vp35_bahulashva",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Bahulāśva is named in the father-to-son line descending from Dhṛti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG094",
+      "facet": "puranic",
+      "subject": "vp35_bahulashva",
+      "predicate": "father_of",
+      "object": "vp35_kriti_videha_terminal",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11–12",
+      "summary": "Kṛti is named in the father-to-son line descending from Bahulāśva.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and records only the stated genealogy; it does not harmonize variant traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VSG095",
+      "facet": "puranic",
+      "subject": "sita",
+      "predicate": "appears_at_ploughshare_of",
+      "object": "vp35_siradhvaja",
+      "source": "vp4_5_anu",
+      "locator": "4.5.11",
+      "summary": "Sītā appears at the tip of Sīradhvaja’s ploughshare while he is ploughing the sacrificial ground.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The chapter does not explicitly call Sīradhvaja her biological father or state that he adopted her; no father_of edge is inferred.",
+      "original_language_reviewed": false
+    }
+  ],
+  "notes": [
+    "Count: 92 new named-person nodes plus four existing anchors (vp18_aja, dasaratha, rama, sita) = 96 distinct named people. Existing Rama-descendant nodes are not redefined. No anonymous Sagara sons or collective descendants are represented as individual people.",
+    "Name collisions are branch-scoped: Cañcu’s Vijaya differs from the later Videha Vijaya; the pre-Rāma Viśvasaha differs from the Viśvasaha already in the Rāma-descendant batch; Daśaratha son of Mūlaka differs from Rāma’s father; earlier Videha Kṛti differs from the terminal Kṛti. Khaṭvāṅga/Dilīpa is one person; he is not the earlier Dilīpa son of Aṃśumant.",
+    "Satyavrata and Triśaṅku are one person; Saudāsa, Mitrasaha and Kalmāṣapāda are one person; Mūlaka and Nārīkavaca are one person; Khaṭvāṅga and Dilīpa are one person. The Janaka born from Nimi’s body is also named Vaideha and Mithi. Aliases are labels on a single node, not extra people.",
+    "The chapter-4 king Janaka identified as Sītā’s father is kept distinct from the chapter-5 Janaka/Mithi and Sīradhvaja because these passages do not explicitly equate them. Sīradhvaja’s ploughshare event is linked to the existing Sītā node, but not encoded as biological or adoptive fatherhood.",
+    "Aśmaka is linked biologically to Vasiṣṭha and Madayantī: the text says Saudāsa was childless and requested a son. No biological father claim is made from Saudāsa to Aśmaka.",
+    "Rāma’s antecedents are linked through the stated line Khaṭvāṅga/Dilīpa → Dīrghabāhu → Raghu → Aja → Daśaratha → Rāma. Aja, Daśaratha and Rāma use the existing graph anchors. The Bāhu–Sagara branch is followed in chapters 3–4; the separate Nimi/Videha branch is followed in chapter 5."
+  ]
+}

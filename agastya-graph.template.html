@@ -1,0 +1,118 @@
+<div id="agastya-evidence">
+  <style>
+    #agastya-evidence { color:var(--foreground); }
+    #agastya-evidence .ag-controls { display:flex; gap:16px; flex-wrap:wrap; margin:12px 0; }
+    #agastya-evidence .ag-controls label { flex:1 1 220px; min-width:0; }
+    #agastya-evidence svg { display:block; width:100%; overflow:visible; }
+    #agastya-evidence svg text { fill:var(--foreground); font-size:12px; font-weight:400; }
+    #agastya-evidence .ag-link { stroke:var(--border); stroke-width:1.25; fill:none; }
+    #agastya-evidence .ag-link.active { stroke:var(--viz-series-1); stroke-width:2; }
+    #agastya-evidence .ag-node { fill:var(--background); stroke:var(--border); }
+    #agastya-evidence .ag-node.active { fill:color-mix(in srgb,var(--viz-series-1) 15%,var(--background)); stroke:var(--viz-series-1); }
+    #agastya-evidence .ag-focus { fill:color-mix(in srgb,var(--viz-series-1) 14%,var(--background)); stroke:var(--border); }
+    #agastya-evidence .ag-legend { display:flex;flex-wrap:wrap;gap:16px; }
+    #agastya-evidence .ag-detail { margin:12px 0 20px;min-height:100px; }
+    #agastya-evidence .ag-detail p { margin:6px 0;overflow-wrap:anywhere; }
+    #agastya-evidence .ag-node-group { cursor:inherit; }
+    #agastya-evidence table { table-layout:fixed;width:100%; }
+    #agastya-evidence th:first-child { width:34%; }
+    #agastya-evidence td { overflow-wrap:anywhere;vertical-align:top; }
+  </style>
+  <h2>Agastya: texts, people, places, and time</h2>
+  <div class="ag-controls">
+    <label class="form-label">Textual tradition
+      <select class="form-select" id="ag-facet">
+        <option value="vedic">Vedic witnesses</option>
+        <option value="ramayana">Rāmāyaṇa</option>
+        <option value="mahabharata">Mahābhārata</option>
+        <option value="puranic">Purāṇic witnesses</option>
+        <option value="tamil">Tamil traditions</option>
+        <option value="buddhist">Buddhacarita reception</option>
+      </select>
+    </label>
+    <label class="form-label">Evidence relationship
+      <select class="form-select" id="ag-claim"></select>
+    </label>
+  </div>
+  <div class="ag-legend text-small"><span>□ Text</span><span>○ Person, deity, or collective</span><span>◇ Place</span><span>Dashed = attribution, report, or hypothesis</span></div>
+  <svg id="ag-network" role="img" aria-label="Directed Agastya evidence graph"></svg>
+  <div class="ag-detail" id="ag-detail" aria-live="polite"></div>
+  <h3>Chronological claims</h3>
+  <table class="table table-sm"><thead><tr><th>Claim</th><th>Period and evidence</th></tr></thead><tbody id="ag-dates"></tbody></table>
+  <p class="text-small text-muted">Three-person-link overview · 27 October 2026 · Passage-level review. The standalone 2D and 3D graphs include the wider network. Source-local Agastya facets do not establish a single historical identity.</p>
+  <script type="application/json" id="ag-data">__AGASTYA_DATA__</script>
+  <script>
+  (() => {
+    const root=document.getElementById('agastya-evidence');
+    const data=JSON.parse(root.querySelector('#ag-data').textContent);
+    const nodes=new Map(data.nodes.map(n=>[n.id,n]));
+    const sources=new Map(data.sources.map(s=>[s.id,s]));
+    const facetInput=root.querySelector('#ag-facet'), claimInput=root.querySelector('#ag-claim');
+    const svg=root.querySelector('#ag-network'), detail=root.querySelector('#ag-detail'), dates=root.querySelector('#ag-dates');
+    const ns='http://www.w3.org/2000/svg';
+    let selected=null;
+    const label=id=>nodes.get(id).label;
+    const human=s=>s.replaceAll('_',' ');
+    const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    function elem(tag,attrs,parent=svg){const e=document.createElementNS(ns,tag);Object.entries(attrs).forEach(([k,v])=>e.setAttribute(k,v));parent.appendChild(e);return e;}
+    function state(){
+      if(window.openai?.setWidgetState) window.openai.setWidgetState({modelContent:{tradition:facetInput.value,claim:selected},privateContent:null}).catch(()=>{});
+    }
+    function setClaim(id,save=true){selected=id;claimInput.value=id;draw();showDetail();if(save)state();}
+    function showDetail(){
+      const c=data.claims.find(x=>x.id===selected);if(!c)return;
+      const s=sources.get(c.source);
+      detail.innerHTML=`<p><strong>${esc(label(c.subject))} → ${esc(human(c.predicate))} → ${esc(label(c.object))}</strong></p><p>${esc(c.summary)}</p><p class="text-small"><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} · ${esc(c.locator)}</a> · ${esc(human(c.status))}</p>${c.note?`<p class="text-small">${esc(c.note)}</p>`:''}`;
+    }
+    function setFacet(save=true){
+      const list=data.claims.filter(c=>c.facet===facetInput.value);
+      claimInput.replaceChildren(...list.map(c=>{const o=document.createElement('option');o.value=c.id;o.textContent=`${c.id} · ${label(c.subject)} → ${human(c.predicate)} → ${label(c.object)}`;return o;}));
+      if(!list.some(c=>c.id===selected))selected=list[0].id;
+      const times=data.chronology.filter(t=>t.facet===facetInput.value);
+      dates.innerHTML=times.map(t=>{const s=sources.get(t.source);return `<tr><td>${esc(t.label)}<br><span class="text-small">${esc(human(t.kind))}</span></td><td>${esc(t.range)}<br><span class="text-small">${esc(t.note)}</span><br><a class="text-small" href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)}</a></td></tr>`;}).join('');
+      setClaim(selected,save);
+    }
+    function wrap(s,max){const out=[];let line='';for(const word of s.split(' ')){if(line&&line.length+word.length+1>max){out.push(line);line=word;}else line+=(line?' ':'')+word;}if(line)out.push(line);return out;}
+    function draw(){
+      const facet=facetInput.value, list=data.claims.filter(c=>c.facet===facet);
+      const inbound=list.filter(c=>c.object===facet),outbound=list.filter(c=>c.subject===facet),extra=list.filter(c=>c.subject!==facet&&c.object!==facet);
+      const left=[...new Set(inbound.map(c=>c.subject))],right=[...new Set(outbound.map(c=>c.object))];
+      // Indirect geography is linked through its actual subject, not through Agastya.
+      for(const c of extra){if(!right.includes(c.subject))right.push(c.subject);if(!right.includes(c.object))right.push(c.object);}
+      const w=Math.max(300,root.clientWidth),step=w<460?82:65,h=Math.max(350,Math.max(left.length,right.length)*step+68),cx=w/2,cy=h/2;
+      svg.setAttribute('viewBox',`0 0 ${w} ${h}`);svg.style.height=`${h}px`;svg.replaceChildren();
+      const title=elem('title',{});title.textContent=`${label(facet)}: ${list.length} sourced claims; select a relationship for its source.`;
+      const defs=elem('defs',{}),marker=elem('marker',{id:'ag-arrow',viewBox:'0 0 8 8',refX:7,refY:4,markerWidth:5,markerHeight:5,orient:'auto'},defs);elem('path',{d:'M0,0 L8,4 L0,8',fill:'var(--muted-foreground)'},marker);
+      const positions=new Map([[facet,{x:cx,y:cy}]]);
+      for(const [ids,x] of [[left,w*.17],[right,w*.83]])ids.forEach((id,i)=>positions.set(id,{x,y:44+i*step+(h-68-ids.length*step)/2}));
+      const active=data.claims.find(c=>c.id===selected);
+      for(const c of [...list].sort((a,b)=>(a.id===selected)-(b.id===selected))){
+        const a=positions.get(c.subject),b=positions.get(c.object);if(!a||!b)continue;
+        const dx=b.x-a.x,dy=b.y-a.y,len=Math.hypot(dx,dy)||1,cut=19;
+        const e=elem('path',{d:`M${a.x+dx/len*cut},${a.y+dy/len*cut} L${b.x-dx/len*cut},${b.y-dy/len*cut}`,class:'ag-link'+(c.id===selected?' active':''),'marker-end':'url(#ag-arrow)'});
+        if(c.status!=='translation_checked')e.setAttribute('stroke-dasharray','4 4');
+      }
+      for(const [id,p] of positions){
+        const g=elem('g',{class:'ag-node-group cursor-interaction'}),n=nodes.get(id),activeNode=active&&(active.subject===id||active.object===id);
+        const attrs={class:id===facet?'ag-focus':'ag-node'+(activeNode?' active':''),...p};
+        if(n.type==='text')elem('rect',{x:p.x-10,y:p.y-10,width:20,height:20,rx:3,class:attrs.class},g);
+        else if(n.type==='place')elem('path',{d:`M${p.x},${p.y-12} l12,12 -12,12 -12,-12 Z`,class:attrs.class},g);
+        else elem('circle',{cx:p.x,cy:p.y,r:id===facet?17:10,class:attrs.class},g);
+        const name=id===facet?'Agastya':n.label.split(' · ')[0];
+        const lines=wrap(name,Math.floor(w*.3/6.2));
+        const t=elem('text',{x:p.x,y:p.y+27,'text-anchor':'middle'},g);
+        lines.forEach((l,i)=>{const span=elem('tspan',{x:p.x,dy:i?'14':'0'},t);span.textContent=l;});
+        g.addEventListener('click',()=>{const relevant=list.filter(c=>c.subject===id||c.object===id);const current=relevant.findIndex(c=>c.id===selected);setClaim(relevant[(current+1)%relevant.length].id);});
+      }
+      const top=elem('text',{x:8,y:15});top.textContent='Texts / referring voices';
+      const other=elem('text',{x:w-8,y:15,'text-anchor':'end'});other.textContent='References / relationships / places';
+      if(w<540){top.textContent='Refers to Agastya';other.textContent='Agastya’s connections';}
+    }
+    facetInput.addEventListener('change',()=>setFacet());claimInput.addEventListener('change',()=>setClaim(claimInput.value));
+    const restore=s=>{if(s?.tradition&&[...facetInput.options].some(o=>o.value===s.tradition))facetInput.value=s.tradition;selected=s?.claim??null;setFacet(false);};
+    restore(window.openai?.widgetState?.modelContent);
+    window.addEventListener('openai:set_globals',e=>{if(e.detail?.globals?.widgetState)restore(e.detail.globals.widgetState.modelContent);});
+    new ResizeObserver(()=>draw()).observe(root);
+  })();
+  </script>
+</div>

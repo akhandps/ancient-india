@@ -1,0 +1,1013 @@
+{
+  "nodes": [
+    {
+      "id": "rama",
+      "label": "Rāma · commander-in-chief of the allied host in the battle narrative · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "sugriva",
+      "label": "Sugrīva · monkey king whose army’s commanders are described · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "lakshmana",
+      "label": "Lakṣmaṇa · Rāma’s brother and participant in the Lanka battle · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ravana_epic",
+      "label": "Rāvaṇa · rākṣasa king whose forces engage in battle · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "vibhishana_epic",
+      "label": "Vibhīṣaṇa · Rāvaṇa’s younger brother who fights on Rāma’s side · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "indra",
+      "label": "Indra · deity whom Jāmbavān aided in an earlier deva-asura battle · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp20_dharma_deity",
+      "label": "Dharma · deity named as Suṣeṇa’s father in the Sanskrit verse · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_nila",
+      "label": "Nīla · monkey troop commander at the front of Sugrīva’s army · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_angada",
+      "label": "Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_nala",
+      "label": "Nala · monkey troop commander and builder of the bridge · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_shveta",
+      "label": "Śveta · monkey commander who reports to Sugrīva and divides the army · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_kumuda",
+      "label": "Kumuda · monkey troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_rambha",
+      "label": "Rambha · monkey troop commander; source-local identity · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_sarabha",
+      "label": "Śarabha · monkey troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_panasa",
+      "label": "Panasa · monkey troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_vinata",
+      "label": "Vinata · monkey troop commander on the shore · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_krathana",
+      "label": "Krathana · monkey troop commander, named in two consecutive sargas · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_hara",
+      "label": "Hara · monkey troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_dhumra",
+      "label": "Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_jambavan",
+      "label": "Jāmbavān · bear chief and commander of commanders · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_samnadana",
+      "label": "Samnādana · monkey commander and “grandfather of the monkeys” in the gloss · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_pramathi",
+      "label": "Pramathi · monkey troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_gavaksha",
+      "label": "Gavākṣa · monkey troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_kesari",
+      "label": "Kesari · chief among monkey commanders · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_shatabali",
+      "label": "Śatabalī · monkey army leader who vows to destroy Lanka · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_gaja",
+      "label": "Gaja · monkey troop commander and fighter · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_gavaya",
+      "label": "Gavaya · monkey troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_vali",
+      "label": "Vāli · Aṅgada’s father, named in his patronymic · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_indrajit",
+      "label": "Indrajit · rākṣasa combatant who strikes Aṅgada · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_monkey_sampati",
+      "label": "Sampāti · monkey combatant; not merged with the vulture Sampāti · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_prajangha",
+      "label": "Prajaṅgha · rākṣasa combatant killed by the monkey Sampāti · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_hanuman",
+      "label": "Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_jambumali",
+      "label": "Jambūmāli · rākṣasa combatant who wounds Hanumān · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_raksasa_shatrughna",
+      "label": "Śatrughna · rākṣasa combatant; kept distinct from Rāma’s brother Śatrughna · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_tapana",
+      "label": "Tapana · rākṣasa combatant defeated by Gaja · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_nikumbha",
+      "label": "Nikumbha · rākṣasa combatant who fights Nīla and Dvivida · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_praghasa",
+      "label": "Praghasa · rākṣasa combatant killed by Sugrīva · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_virupaksha",
+      "label": "Virūpākṣa · rākṣasa combatant killed by Lakṣmaṇa · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_agniketu",
+      "label": "Agniketu · rākṣasa combatant who fights Rāma · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_rashmiketu",
+      "label": "Raśmiketu · rākṣasa combatant who fights Rāma · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_suptaghna",
+      "label": "Suptaghna · rākṣasa combatant who fights Rāma · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_yajnakopa",
+      "label": "Yajñakopa · rākṣasa combatant who fights Rāma · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_vajramushti",
+      "label": "Vajramuṣṭi · rākṣasa combatant killed by Mainda · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_mainda",
+      "label": "Mainda · monkey combatant who kills Vajramuṣṭi · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_ashaniprabha",
+      "label": "Aśaniprabha · rākṣasa combatant killed by Dvivida · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_dvivida",
+      "label": "Dvivida · monkey combatant who fights Aśaniprabha · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_pratapana",
+      "label": "Pratāpana · rākṣasa combatant killed by Nala · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_sushena",
+      "label": "Suṣeṇa · monkey combatant and son of Dharma · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_vidyunmali",
+      "label": "Vidyunmāli · rākṣasa combatant killed by Suṣeṇa · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "type": "person"
+    },
+    {
+      "id": "ram6_s27_rambha_dambha",
+      "label": "Rambha / Dambha · unresolved Sarga 27 roster name · source-local person mention",
+      "type": "person"
+    }
+  ],
+  "claims": [
+    {
+      "id": "RMW_001",
+      "facet": "ramayana",
+      "subject": "ram6_nila",
+      "predicate": "commands_vanara_troops_under",
+      "object": "sugriva",
+      "source": "ram6_yuddha_26",
+      "locator": "6.26.11–13",
+      "summary": "Nīla is identified as a named commander in Sugrīva’s army and described as prepared for the battle.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_002",
+      "facet": "ramayana",
+      "subject": "ram6_angada",
+      "predicate": "commands_vanara_troops_under",
+      "object": "sugriva",
+      "source": "ram6_yuddha_26",
+      "locator": "6.26.14–20",
+      "summary": "Aṅgada is identified as a named commander in Sugrīva’s army and described as prepared for the battle.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_003",
+      "facet": "ramayana",
+      "subject": "ram6_nala",
+      "predicate": "commands_vanara_troops_under",
+      "object": "sugriva",
+      "source": "ram6_yuddha_26",
+      "locator": "6.26.21–24",
+      "summary": "Nala is identified as a named commander in Sugrīva’s army and described as prepared for the battle.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_004",
+      "facet": "ramayana",
+      "subject": "ram6_shveta",
+      "predicate": "commands_vanara_troops_under",
+      "object": "sugriva",
+      "source": "ram6_yuddha_26",
+      "locator": "6.26.25–26",
+      "summary": "Śveta is identified as a named commander in Sugrīva’s army and described as prepared for the battle.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_005",
+      "facet": "ramayana",
+      "subject": "ram6_kumuda",
+      "predicate": "commands_vanara_troops_under",
+      "object": "sugriva",
+      "source": "ram6_yuddha_26",
+      "locator": "6.26.27–30",
+      "summary": "Kumuda is identified as a named commander in Sugrīva’s army and described as prepared for the battle.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_006",
+      "facet": "ramayana",
+      "subject": "ram6_rambha",
+      "predicate": "commands_vanara_troops_under",
+      "object": "sugriva",
+      "source": "ram6_yuddha_26",
+      "locator": "6.26.31–33",
+      "summary": "Rambha is identified as a named commander in Sugrīva’s army and described as prepared for the battle.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_007",
+      "facet": "ramayana",
+      "subject": "ram6_sarabha",
+      "predicate": "commands_vanara_troops_under",
+      "object": "sugriva",
+      "source": "ram6_yuddha_26",
+      "locator": "6.26.34–37",
+      "summary": "Śarabha is identified as a named commander in Sugrīva’s army and described as prepared for the battle.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_008",
+      "facet": "ramayana",
+      "subject": "ram6_panasa",
+      "predicate": "commands_vanara_troops_under",
+      "object": "sugriva",
+      "source": "ram6_yuddha_26",
+      "locator": "6.26.38–41",
+      "summary": "Panasa is identified as a named commander in Sugrīva’s army and described as prepared for the battle.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_009",
+      "facet": "ramayana",
+      "subject": "ram6_vinata",
+      "predicate": "commands_vanara_troops_under",
+      "object": "sugriva",
+      "source": "ram6_yuddha_26",
+      "locator": "6.26.42–44",
+      "summary": "Vinata is identified as a named commander in Sugrīva’s army and described as prepared for the battle.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_010",
+      "facet": "ramayana",
+      "subject": "ram6_krathana",
+      "predicate": "commands_vanara_troops_under",
+      "object": "sugriva",
+      "source": "ram6_yuddha_26",
+      "locator": "6.26.45",
+      "summary": "Krathana is identified as a named commander in Sugrīva’s army and described as prepared for the battle.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_011",
+      "facet": "ramayana",
+      "subject": "ram6_shveta",
+      "predicate": "reports_to",
+      "object": "sugriva",
+      "source": "ram6_yuddha_26",
+      "locator": "6.26.25–26",
+      "summary": "Śveta returns to Sugrīva while dividing the monkey army and cheering its divisions.",
+      "category": "command_relation",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_012",
+      "facet": "ramayana",
+      "subject": "ram6_angada",
+      "predicate": "son_of",
+      "object": "ram6_vali",
+      "source": "ram6_yuddha_26",
+      "locator": "6.26.18",
+      "summary": "Aṅgada is called the son of Vāli.",
+      "category": "kinship",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_013",
+      "facet": "ramayana",
+      "subject": "ram6_angada",
+      "predicate": "commands_for",
+      "object": "rama",
+      "source": "ram6_yuddha_26",
+      "locator": "6.26.18, 20",
+      "summary": "Aṅgada advances for Rāma’s cause and leads troops toward Lanka.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_014",
+      "facet": "ramayana",
+      "subject": "ram6_nala",
+      "predicate": "built_bridge_for",
+      "object": "rama",
+      "source": "ram6_yuddha_26",
+      "locator": "6.26.21",
+      "summary": "Nala is identified as the builder of the bridge in Rāma’s campaign.",
+      "category": "role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_015",
+      "facet": "ramayana",
+      "subject": "ram6_hara",
+      "predicate": "commands_allied_troops_for",
+      "object": "rama",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.2–4",
+      "summary": "Hara is named in the commander roll for Rāma’s allied host.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Named by Sāraṇa in the commander roll and described in the passage as advancing for Rāma.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_016",
+      "facet": "ramayana",
+      "subject": "ram6_dhumra",
+      "predicate": "commands_allied_troops_for",
+      "object": "rama",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.8–9",
+      "summary": "Dhūmra is named in the commander roll for Rāma’s allied host.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Named by Sāraṇa among the bear commanders in the allied force advancing for Rāma.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_017",
+      "facet": "ramayana",
+      "subject": "ram6_jambavan",
+      "predicate": "commands_allied_troops_for",
+      "object": "rama",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.10–14",
+      "summary": "Jāmbavān is named in the commander roll for Rāma’s allied host.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Named by Sāraṇa among the bear commanders in the allied force advancing for Rāma.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_018",
+      "facet": "ramayana",
+      "subject": "ram6_s27_rambha_dambha",
+      "predicate": "commands_allied_troops_for",
+      "object": "rama",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.15–16",
+      "summary": "Rambha is named in the commander roll for Rāma’s allied host.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "The IAST verse reads Rambha, while the page’s word-gloss and translation give Dambha. Kept as a separate, unresolved source-local mention; not identified with Sarga 26 Rambha.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_019",
+      "facet": "ramayana",
+      "subject": "ram6_samnadana",
+      "predicate": "commands_allied_troops_for",
+      "object": "rama",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.17–20",
+      "summary": "Samnāda is named in the commander roll for Rāma’s allied host.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Named by Sāraṇa in the commander roll and described in the passage as advancing for Rāma.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_020",
+      "facet": "ramayana",
+      "subject": "ram6_krathana",
+      "predicate": "commands_allied_troops_for",
+      "object": "rama",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.21–24",
+      "summary": "Krathana is named in the commander roll for Rāma’s allied host.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Named by Sāraṇa in the commander roll and described in the passage as advancing for Rāma.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_021",
+      "facet": "ramayana",
+      "subject": "ram6_pramathi",
+      "predicate": "commands_allied_troops_for",
+      "object": "rama",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.25–31",
+      "summary": "Pramathi is named in the commander roll for Rāma’s allied host.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Named by Sāraṇa in the commander roll and described in the passage as advancing for Rāma.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_022",
+      "facet": "ramayana",
+      "subject": "ram6_gavaksha",
+      "predicate": "commands_allied_troops_for",
+      "object": "rama",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.32–33",
+      "summary": "Gavākṣa is named in the commander roll for Rāma’s allied host.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Named by Sāraṇa in the commander roll and described in the passage as advancing for Rāma.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_023",
+      "facet": "ramayana",
+      "subject": "ram6_kesari",
+      "predicate": "commands_allied_troops_for",
+      "object": "rama",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.34–37",
+      "summary": "Kesari is named in the commander roll for Rāma’s allied host.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Named by Sāraṇa in the commander roll and described in the passage as advancing for Rāma.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_024",
+      "facet": "ramayana",
+      "subject": "ram6_shatabali",
+      "predicate": "commands_allied_troops_for",
+      "object": "rama",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.43–45",
+      "summary": "Śatabalī is named in the commander roll for Rāma’s allied host.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Named by Sāraṇa in the commander roll and described in the passage as advancing for Rāma.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_025",
+      "facet": "ramayana",
+      "subject": "ram6_gaja",
+      "predicate": "commands_allied_troops_for",
+      "object": "rama",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.46",
+      "summary": "Gaja is named in the commander roll for Rāma’s allied host.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Named by Sāraṇa in the commander roll and described in the passage as advancing for Rāma.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_026",
+      "facet": "ramayana",
+      "subject": "ram6_gavaya",
+      "predicate": "commands_allied_troops_for",
+      "object": "rama",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.46",
+      "summary": "Gavaya is named in the commander roll for Rāma’s allied host.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Named by Sāraṇa in the commander roll and described in the passage as advancing for Rāma.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_027",
+      "facet": "ramayana",
+      "subject": "ram6_nala",
+      "predicate": "commands_allied_troops_for",
+      "object": "rama",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.46",
+      "summary": "Nala is named in the commander roll for Rāma’s allied host.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Named by Sāraṇa in the commander roll and described in the passage as advancing for Rāma.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_028",
+      "facet": "ramayana",
+      "subject": "ram6_nila",
+      "predicate": "commands_allied_troops_for",
+      "object": "rama",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.46",
+      "summary": "Nīla is named in the commander roll for Rāma’s allied host.",
+      "category": "battle_role",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Named by Sāraṇa in the commander roll and described in the passage as advancing for Rāma.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_029",
+      "facet": "ramayana",
+      "subject": "ram6_jambavan",
+      "predicate": "younger_brother_of",
+      "object": "ram6_dhumra",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.10–11",
+      "summary": "Jāmbavān is described as Dhūmra’s younger brother.",
+      "category": "kinship",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_030",
+      "facet": "ramayana",
+      "subject": "ram6_jambavan",
+      "predicate": "aided_in_battle",
+      "object": "indra",
+      "source": "ram6_yuddha_27",
+      "locator": "6.27.12",
+      "summary": "Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Sāraṇa",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_031",
+      "facet": "ramayana",
+      "subject": "ram6_indrajit",
+      "predicate": "duels_with",
+      "object": "ram6_angada",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.6–6",
+      "summary": "Indrajit fights Aṅgada; the following verses describe their blows and the destruction of Indrajit’s chariot.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_032",
+      "facet": "ramayana",
+      "subject": "ram6_monkey_sampati",
+      "predicate": "duels_with",
+      "object": "ram6_prajangha",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.7, 20",
+      "summary": "The monkey Sampāti fights Prajaṅgha and kills him.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_033",
+      "facet": "ramayana",
+      "subject": "ram6_hanuman",
+      "predicate": "duels_with",
+      "object": "ram6_jambumali",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.7, 21–22",
+      "summary": "Hanumān fights Jambūmāli; Jambūmāli wounds him, and Hanumān overturns the chariot with the demon.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_034",
+      "facet": "ramayana",
+      "subject": "vibhishana_epic",
+      "predicate": "duels_with",
+      "object": "ram6_raksasa_shatrughna",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.8",
+      "summary": "Vibhīṣaṇa, identified as Rāvaṇa’s younger brother, confronts the rākṣasa Śatrughna.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_035",
+      "facet": "ramayana",
+      "subject": "ram6_gaja",
+      "predicate": "duels_with",
+      "object": "ram6_tapana",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.9",
+      "summary": "Gaja fights the rākṣasa Tapana.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_036",
+      "facet": "ramayana",
+      "subject": "ram6_nila",
+      "predicate": "duels_with",
+      "object": "ram6_nikumbha",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.9, 29–34",
+      "summary": "Nīla fights Nikumbha; the verses describe reciprocal wounds and Nīla killing Nikumbha.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_037",
+      "facet": "ramayana",
+      "subject": "sugriva",
+      "predicate": "duels_with",
+      "object": "ram6_praghasa",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.10, 24",
+      "summary": "Sugrīva confronts and kills Praghasa.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_038",
+      "facet": "ramayana",
+      "subject": "lakshmana",
+      "predicate": "duels_with",
+      "object": "ram6_virupaksha",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.10, 25",
+      "summary": "Lakṣmaṇa confronts and kills Virūpākṣa.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_039",
+      "facet": "ramayana",
+      "subject": "rama",
+      "predicate": "duels_with",
+      "object": "ram6_agniketu",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.11, 26–27",
+      "summary": "Agniketu fights and wounds Rāma; Rāma kills the four named rākṣasas.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_040",
+      "facet": "ramayana",
+      "subject": "rama",
+      "predicate": "duels_with",
+      "object": "ram6_rashmiketu",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.11, 26–27",
+      "summary": "Raśmiketu fights and wounds Rāma; Rāma kills the four named rākṣasas.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_041",
+      "facet": "ramayana",
+      "subject": "rama",
+      "predicate": "duels_with",
+      "object": "ram6_suptaghna",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.11, 26–27",
+      "summary": "Suptaghna fights and wounds Rāma; Rāma kills the four named rākṣasas.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_042",
+      "facet": "ramayana",
+      "subject": "rama",
+      "predicate": "duels_with",
+      "object": "ram6_yajnakopa",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.11, 26–27",
+      "summary": "Yajñakopa fights and wounds Rāma; Rāma kills the four named rākṣasas.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_043",
+      "facet": "ramayana",
+      "subject": "ram6_mainda",
+      "predicate": "duels_with",
+      "object": "ram6_vajramushti",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.12, 28",
+      "summary": "Mainda fights and kills Vajramuṣṭi.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_044",
+      "facet": "ramayana",
+      "subject": "ram6_dvivida",
+      "predicate": "duels_with",
+      "object": "ram6_ashaniprabha",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.12, 29–34",
+      "summary": "Dvivida fights and kills Aśaniprabha.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_045",
+      "facet": "ramayana",
+      "subject": "ram6_nala",
+      "predicate": "duels_with",
+      "object": "ram6_pratapana",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.13, 23",
+      "summary": "Nala fights and defeats Pratāpana.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_046",
+      "facet": "ramayana",
+      "subject": "ram6_sushena",
+      "predicate": "duels_with",
+      "object": "ram6_vidyunmali",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.14, 35–41",
+      "summary": "Suṣeṇa fights and kills Vidyunmāli.",
+      "category": "battle_relation",
+      "status": "translation_checked",
+      "speaker": "Narrator; Sāraṇa supplies the initial matchup roster",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_047",
+      "facet": "ramayana",
+      "subject": "vibhishana_epic",
+      "predicate": "younger_brother_of",
+      "object": "ravana_epic",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.8",
+      "summary": "Vibhīṣaṇa is identified as Rāvaṇa’s younger brother.",
+      "category": "kinship",
+      "status": "translation_checked",
+      "speaker": "Narrator",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "RMW_048",
+      "facet": "ramayana",
+      "subject": "ram6_sushena",
+      "predicate": "son_of",
+      "object": "vp20_dharma_deity",
+      "source": "ram6_yuddha_43",
+      "locator": "6.43.14",
+      "summary": "Suṣeṇa is called the son of Dharma.",
+      "category": "kinship",
+      "status": "translation_checked",
+      "speaker": "Narrator",
+      "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+      "original_language_reviewed": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "ram6_yuddha_26",
+      "title": "Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 26: Sarana identifies the monkey commanders",
+      "url": "https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga26/yuddharoman26.htm",
+      "kind": "primary_text_and_translation",
+      "edition": "Online Sanskrit text in IAST with verse-by-verse gloss and English translation, SanskritDocuments.org hosted Vālmīki Rāmāyaṇa transcription; chapter page does not specify a print edition. Verse numbering is 6-26-x.",
+      "locator": "Yuddha Kāṇḍa 6.26.1–48",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "ram6_yuddha_27",
+      "title": "Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders",
+      "url": "https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm",
+      "kind": "primary_text_and_translation",
+      "edition": "Online Sanskrit text in IAST with verse-by-verse gloss and English translation, SanskritDocuments.org hosted Vālmīki Rāmāyaṇa transcription; chapter page does not specify a print edition. Verse numbering is 6-27-x.",
+      "locator": "Yuddha Kāṇḍa 6.27.1–48",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "ram6_yuddha_43",
+      "title": "Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 43: named combatants and duels",
+      "url": "https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga43/yuddharoman43.htm",
+      "kind": "primary_text_and_translation",
+      "edition": "Online Sanskrit text in IAST with verse-by-verse gloss and English translation, SanskritDocuments.org hosted Vālmīki Rāmāyaṇa transcription; chapter page does not specify a print edition. Verse numbering is 6-43-x.",
+      "locator": "Yuddha Kāṇḍa 6.43.1–45",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "notes": [
+    "Passage-checked from the online Sanskrit text and verse-by-verse English gloss/translation hosted by SanskritDocuments.org. Chapter pages do not identify the print edition; Sanskrit śloka locators are retained as 6-kanda.sarga.verse.",
+    "Sargas 26–27 contain Śaraṇa’s roster of named commanders in the monkey/bear host. Sarga 43 supplies individually named battlefield opponents and direct duel/defeat claims. There are 50 source-local person records including seven reused graph anchors and 43 newly source-scoped records; the unresolved Sarga 27 Rambha/Dambha mention is kept separate from Sarga 26 Rambha.",
+    "No troop counts, army collectives, places, or unnamed commanders are represented as people. Dhumra and Jāmbavān are bear leaders; most other chiefs are explicitly monkeys.",
+    "Aṅgada here is Vāli’s son, not the later Aṅgada listed in Viṣṇu Purāṇa 4.4 as Lakṣmaṇa’s son. The monkey combatant Sampāti is kept separate from the vulture Sampāti. The rākṣasa Śatrughna is kept separate from Rāma’s brother.",
+    "For Sarga 27, 6.27.15–16, the IAST verse reads Rambha, while the page’s word-gloss and translation give Dambha. This unresolved mention has a separate source-local node and is not identified with Sarga 26 Rambha.",
+    "Clear existing graph IDs reused: Rāma (`rama`), Sugrīva (`sugriva`), Lakṣmaṇa (`lakshmana`), Rāvaṇa (`ravana_epic`), Vibhīṣaṇa (`vibhishana_epic`), Indra (`indra`), Dharma (`vp20_dharma_deity`). No Agastya occurrence is in these roster verses."
+  ]
+}

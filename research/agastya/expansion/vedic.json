@@ -1,0 +1,383 @@
+{
+  "nodes": [
+    {
+      "id": "vedic_vispala",
+      "label": "Viśpalā · referent uncertain",
+      "type": "person_or_entity"
+    },
+    {
+      "id": "vedic_sons_of_mana",
+      "label": "Sons of Māna · Ṛgveda 1.171.5 collective",
+      "type": "people_collective"
+    }
+  ],
+  "sources": [
+    {
+      "id": "vedic_jb_rv",
+      "title": "The Rigveda: The Earliest Religious Poetry of India",
+      "url": "https://wiswo.org/books/_resources/book-reference-pdfs/Jamison-Brereton-2014-The%20Rigveda-The%20Earliest%20Poetry%20of%20India%20all%203%20Volume%20Sets.pdf",
+      "kind": "primary_translation_with_scholarly_commentary",
+      "edition": "Stephanie W. Jamison and Joel P. Brereton, 2014",
+      "locator": "vol. I, hymns 1.117 and 1.165, 1.170–172, pp. 289, 360–371",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "VEX001",
+      "facet": "vedic",
+      "subject": "vedic",
+      "predicate": "appeals_to",
+      "object": "maruts",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 1.171.1–4",
+      "summary": "The hymn voice asks the Maruts to set aside their anger and forgive the speaker after Soma intended for them was given away.",
+      "category": "outgoing",
+      "status": "editorial_attribution",
+      "speaker": "Agastya according to hymn attribution and editorial speaker division",
+      "note": "Speaker divisions are an editorial reconstruction; the hymn itself does not identify each speech by speaker name.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VEX002",
+      "facet": "vedic",
+      "subject": "vedic",
+      "predicate": "asks_for_reconciliation_between",
+      "object": "indra",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 1.171.5–6",
+      "summary": "The speaker asks Indra and the Maruts to be reconciled and prosper together.",
+      "category": "outgoing",
+      "status": "editorial_attribution",
+      "speaker": "Agastya according to hymn attribution and editorial speaker division",
+      "note": "The object Indra is paired with the Maruts in the passage; predicate describes the requested action.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VEX003",
+      "facet": "vedic",
+      "subject": "indra",
+      "predicate": "is_called_brother_of",
+      "object": "maruts",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 1.170.2; Jamison–Brereton translation, p. 370",
+      "summary": "Agastya says to Indra that the Maruts are Indra’s brothers.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Agastya in the editorial speaker division",
+      "note": "This wording is in 1.170.2, not 1.171.2; attribution of the speech is based on editorial verse divisions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VEX004",
+      "facet": "vedic",
+      "subject": "vedic",
+      "predicate": "seeks_prosperity_for",
+      "object": "vedic_sons_of_mana",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 1.171.5; commentary, p. 370",
+      "summary": "The verse asks Indra together with the Maruts to grant fame and strength to the sons of Māna; the commentary identifies Māna as Agastya’s father.",
+      "category": "outgoing",
+      "status": "scholarly_report",
+      "speaker": "Agastya by hymn attribution",
+      "note": "The verse names a collective, not Māna as the recipient. Jamison–Brereton identify Māna as Agastya’s father in commentary (p. 370); do not automatically identify him with Māna in RV 7.33.13.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VEX005",
+      "facet": "vedic",
+      "subject": "vedic",
+      "predicate": "is_attributed_hymns_in_cycle_with",
+      "object": "indra",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 1.165 introduction, pp. 360–361",
+      "summary": "Jamison and Brereton read 1.165, 1.170, and 1.171 together as a poetic sequence about Agastya’s offering and a dispute between Indra and the Maruts.",
+      "category": "text",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "This is a modern reconstruction of a story across hymns, not an explicit continuous narrative in one passage.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VEX006",
+      "facet": "vedic",
+      "subject": "vedic",
+      "predicate": "appeases",
+      "object": "maruts",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 1.165, speaker divisions and introduction, pp. 360–361",
+      "summary": "In the editorial division of 1.165, the closing verses assigned to Agastya address the Maruts and offer them his hymn.",
+      "category": "outgoing",
+      "status": "editorial_attribution",
+      "speaker": "Agastya according to hymn attribution and editorial speaker division",
+      "note": "Jamison–Brereton assign 1.165.13–15 to Agastya; the dialogue structure and individual speakers are editorially analyzed.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VEX007",
+      "facet": "vedic",
+      "subject": "vedic",
+      "predicate": "is_attributed_a_hymn_to",
+      "object": "maruts",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 1.172 introduction, p. 371",
+      "summary": "The three-verse Marut hymn 1.172 is identified in the edition as a short pendant to Agastya’s Indra–Marut hymn cycle.",
+      "category": "text",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "Traditional/editorial hymn attribution does not establish personal authorship or a historical encounter.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VEX008",
+      "facet": "vedic",
+      "subject": "mitra",
+      "predicate": "sees_birth_omen_of",
+      "object": "vasistha",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 7.33.10",
+      "summary": "The translation calls the lightning-radiance seen by Mitra and Varuṇa one of Vasiṣṭha’s births, and mentions another when Agastya brings him to the clan.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "Jamison–Brereton render this as one of two births; Griffith renders “one and only birth.” This claim follows the former without asserting historical biography.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VEX009",
+      "facet": "vedic",
+      "subject": "varuna",
+      "predicate": "sees_birth_omen_of",
+      "object": "vasistha",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 7.33.10",
+      "summary": "The translation calls the lightning-radiance seen by Mitra and Varuṇa one of Vasiṣṭha’s births, and mentions another when Agastya brings him to the clan.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "Jamison–Brereton render this as one of two births; Griffith renders “one and only birth.” This claim follows the former without asserting historical biography.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VEX010",
+      "facet": "vedic",
+      "subject": "vasistha",
+      "predicate": "is_described_as_maitravaruni",
+      "object": "mitra",
+      "source": "rv733",
+      "locator": "Ṛgveda 7.33.11",
+      "summary": "Griffith translates Vasiṣṭha as the son of Varuṇa and Mitra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "The verse belongs to a layered mythic account and does not establish historical parentage.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VEX011",
+      "facet": "vedic",
+      "subject": "vasistha",
+      "predicate": "is_born_from_mind_of",
+      "object": "urvasi",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 7.33.11; Jamison–Brereton translation, p. 941",
+      "summary": "The verse describes Vasiṣṭha as born from Urvaśī, from her mind.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "Griffith instead renders the passage “Born of their love for Urvasi”; the wording here follows Jamison–Brereton.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VEX012",
+      "facet": "vedic",
+      "subject": "vasistha",
+      "predicate": "is_brought_among_people_by",
+      "object": "vedic",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 7.33.10; Jamison–Brereton translation, p. 941",
+      "summary": "The verse calls Agastya bringing Vasiṣṭha here for the clan another of Vasiṣṭha’s births.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "Jamison–Brereton render viśa as “clan”; Griffith says Agastya brought him hither from his stock.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VEX013",
+      "facet": "vedic",
+      "subject": "mitra",
+      "predicate": "deposits_seed_in_vessel_with",
+      "object": "varuna",
+      "source": "rv733",
+      "locator": "Ṛgveda 7.33.13",
+      "summary": "The hymn says the two gods poured their seed together into a vessel during a ritual gathering.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "The verse then names Māna as arising from the middle and says that the sage Vasiṣṭha was born from him; do not equate Māna with Agastya.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VEX014",
+      "facet": "vedic",
+      "subject": "vedic",
+      "predicate": "praises",
+      "object": "asvins",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 1.117.11",
+      "summary": "The verse associates the Aśvins’ restoration of Viśpalā with praise and poetic formulation by Agastya.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "The verse mentions Agastya in the third person; it does not say that he met Viśpalā or personally witnessed the event.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VEX015",
+      "facet": "vedic",
+      "subject": "asvins",
+      "predicate": "restore",
+      "object": "vedic_vispala",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 1.117.11",
+      "summary": "The hymn says the Aśvins reconstituted or restored Viśpalā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "The identity and referent of Viśpalā are debated; retain the name without asserting she was a woman, horse, or prosthesis recipient.",
+      "original_language_reviewed": false
+    }
+  ],
+  "person_notes": [
+    {
+      "person_id": "indra",
+      "findings": [
+        "RV 1.170 already depicts Indra confronting Agastya over an offering; Jamison–Brereton connect it with 1.165 and 1.171 as a cycle."
+      ],
+      "open_questions": [
+        "Dialogue speaker division and whether the three hymns preserve one coherent episode are editorial reconstructions."
+      ]
+    },
+    {
+      "person_id": "maruts",
+      "findings": [
+        "RV 1.171 has the attributed Agastya voice plead with the Maruts to forgive and reconcile with Indra; RV 1.172 is a related short hymn."
+      ],
+      "open_questions": [
+        "Do not treat the reconstructed ritual story as a historical event."
+      ]
+    },
+    {
+      "person_id": "lopamudra",
+      "findings": [
+        "RV 1.179 is already covered in the graph as a marital dialogue with Agastya."
+      ],
+      "open_questions": [
+        "The speaker labels are editorial/traditional; no additional independent Vedic passage connecting her to Agastya was verified in this collection.",
+        "A possible Lopāmudrā interpretation of RV 1.170.4’s dual verb is discussed by Jamison–Brereton, p. 370; left unclaimed because the text does not name her there."
+      ]
+    },
+    {
+      "person_id": "vasistha",
+      "findings": [
+        "RV 7.33.10–13 links Agastya to Vasiṣṭha’s birth imagery, and elaborates layered Mitra–Varuṇa–Urvaśī imagery."
+      ],
+      "open_questions": [
+        "The poetry's multiple birth formulations should not be made into a literal chronology or an asserted historical sibling relationship."
+      ]
+    },
+    {
+      "person_id": "mitra",
+      "findings": [
+        "RV 7.33.10–13 pairs Mitra with Varuṇa in Vasiṣṭha's birth imagery."
+      ],
+      "open_questions": [
+        "The hymn does not offer a historical chronology for divine or sage figures."
+      ]
+    },
+    {
+      "person_id": "varuna",
+      "findings": [
+        "RV 7.33.10–13 pairs Varuṇa with Mitra in Vasiṣṭha's birth imagery."
+      ],
+      "open_questions": [
+        "No direct Agastya–Varuṇa relation beyond the Vasiṣṭha passage was added here."
+      ]
+    },
+    {
+      "person_id": "urvasi",
+      "findings": [
+        "RV 7.33.11 describes Vasiṣṭha as born from Urvaśī's mind."
+      ],
+      "open_questions": [
+        "This is one element of a layered poetic account; it does not establish a historical parentage or date."
+      ]
+    },
+    {
+      "person_id": "asvins",
+      "findings": [
+        "RV 1.180.8 already says Agastya roused the Aśvins with praise.",
+        "RV 1.117.11 links their restoration of Viśpalā with Agastya’s praise/formulation."
+      ],
+      "open_questions": [
+        "This pass did not verify further primary-text connections beyond the existing graph entry.",
+        "Viśpalā’s referent is debated; the new claim preserves that ambiguity."
+      ]
+    },
+    {
+      "person_id": "atri",
+      "findings": [
+        "RV 1.180.4, in a hymn attributed to Agastya, recalls the Aśvins' aid to Atri.",
+        "RV 1.117.3 additionally recalls the Aśvins freeing Atri from a narrow place/cleft, in a hymn that separately mentions Agastya at 1.117.11."
+      ],
+      "open_questions": [
+        "It is a precedent mentioned by the hymn, not evidence of an encounter between Atri and Agastya.",
+        "This is a one-hymn association; it does not establish a personal meeting between Atri and Agastya."
+      ]
+    },
+    {
+      "person_id": "tugras_son",
+      "findings": [
+        "RV 1.180.5, in a hymn attributed to Agastya, recalls the Aśvins' rescue of Tugra's son.",
+        "RV 1.117.15 also recalls the Aśvins rescuing Tugra’s son, separate from the Agastya verse at 1.117.11."
+      ],
+      "open_questions": [
+        "The wording does not itself securely identify Tugra's son with a particular named figure such as Bhujyu.",
+        "Jamison–Brereton identify Tugra’s son with Bhujyu in their translation; this remains an editorial identification rather than an explicit name in 1.117.15."
+      ]
+    },
+    {
+      "person_id": "trasadasyu",
+      "findings": [],
+      "open_questions": [
+        "No direct Vedic passage connecting Trasadasyu with Agastya was verified in this bounded collection; the epic Trasadasyu should not be merged with Vedic names without evidence."
+      ]
+    },
+    {
+      "person_id": "purukutsa",
+      "findings": [],
+      "open_questions": [
+        "No directly relevant Agastya–Purukutsa connection was verified; no new graph claim is made."
+      ]
+    }
+  ],
+  "search_log": [
+    {
+      "query": "Jamison Brereton Rigveda 1.165 1.170 1.171 Agastya Maruts translation commentary",
+      "outcome": "Inspected the accessible 2014 translation/commentary; it explicitly discusses the three-hymn sequence, its inferred story, and editorial voice assignments."
+    },
+    {
+      "query": "Rigveda 7.33.10–13 Mitra Varuna Urvasi Agastya Vasistha translation",
+      "outcome": "Inspected the metrical Sanskrit text at UT Austin and existing Griffith translation source record; verses 10–13 contain the birth imagery and named figures summarized above."
+    },
+    {
+      "query": "Rigveda Agastya Trasadasyu Purukutsa direct connection",
+      "outcome": "No direct relevant connection verified in inspected sources; left as an open question rather than adding claims."
+    },
+    {
+      "query": "Rigveda 1.117.11 Agastya Viśpalā Aśvins translation and Viśpalā referent",
+      "outcome": "Inspected Jamison–Brereton 2014 verse and translation; Agastya’s formulation is connected to the Aśvins restoring Viśpalā. Debate over the Viśpalā referent remains explicitly unresolved."
+    }
+  ]
+}

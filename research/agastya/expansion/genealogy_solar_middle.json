@@ -1,0 +1,2501 @@
+{
+  "nodes": [
+    {
+      "id": "vp67_dhimant",
+      "label": "Dhīmant · Purūravas branch",
+      "type": "person"
+    },
+    {
+      "id": "vp67_amavasu_pururavas",
+      "label": "Amāvasu · son of Purūravas",
+      "type": "person"
+    },
+    {
+      "id": "vp67_vishvavasu_son",
+      "label": "Viśvāvasu · son of Purūravas",
+      "type": "person"
+    },
+    {
+      "id": "vp67_shatayus",
+      "label": "Śatāyus · son of Purūravas",
+      "type": "person"
+    },
+    {
+      "id": "vp67_shrutayus",
+      "label": "Śrutāyus · son of Purūravas",
+      "type": "person"
+    },
+    {
+      "id": "vp67_urvashi",
+      "label": "Urvaśī · Purūravas’s consort",
+      "type": "person"
+    },
+    {
+      "id": "vp67_vishvavasu_gandharva",
+      "label": "Viśvāvasu · gandharva in the Urvaśī episode",
+      "type": "person"
+    },
+    {
+      "id": "vp67_bhima",
+      "label": "Bhīma · Amāvasu branch",
+      "type": "person"
+    },
+    {
+      "id": "vp67_kanchana",
+      "label": "Kāñcana · Amāvasu branch",
+      "type": "person"
+    },
+    {
+      "id": "vp67_suhotra_jahnu",
+      "label": "Suhotra · Amāvasu branch",
+      "type": "person"
+    },
+    {
+      "id": "vp67_jahnu",
+      "label": "Jahnu · Amāvasu branch",
+      "type": "person"
+    },
+    {
+      "id": "vp67_sumantu",
+      "label": "Sumantu · Amāvasu branch",
+      "type": "person"
+    },
+    {
+      "id": "vp67_ajaka",
+      "label": "Ajaka · Amāvasu branch",
+      "type": "person"
+    },
+    {
+      "id": "vp67_balakashva",
+      "label": "Balākāśva · Amāvasu branch",
+      "type": "person"
+    },
+    {
+      "id": "vp67_kusha",
+      "label": "Kuśa · Amāvasu branch",
+      "type": "person"
+    },
+    {
+      "id": "vp67_kushamba",
+      "label": "Kuśāmba · son of Kuśa",
+      "type": "person"
+    },
+    {
+      "id": "vp67_kushanabha",
+      "label": "Kuśanābha · son of Kuśa",
+      "type": "person"
+    },
+    {
+      "id": "vp67_amurtaraya",
+      "label": "Amūrtaraya · son of Kuśa",
+      "type": "person"
+    },
+    {
+      "id": "vp67_amavasu_kusha",
+      "label": "Amāvasu · son of Kuśa",
+      "type": "person"
+    },
+    {
+      "id": "vp67_gadhi",
+      "label": "Gādhi / Kauśaki · son of Kuśāmba",
+      "type": "person"
+    },
+    {
+      "id": "vp67_satyavati",
+      "label": "Satyavatī · daughter of Gādhi",
+      "type": "person"
+    },
+    {
+      "id": "vp67_rcika",
+      "label": "Ṛcīka · Bhṛgu’s scion",
+      "type": "person"
+    },
+    {
+      "id": "vp67_bhrigu",
+      "label": "Bhṛgu",
+      "type": "person"
+    },
+    {
+      "id": "vp67_jamadagni",
+      "label": "Jamadagni · son of Satyavatī",
+      "type": "person"
+    },
+    {
+      "id": "vp67_renuka",
+      "label": "Reṇukā · daughter of Reṇu",
+      "type": "person"
+    },
+    {
+      "id": "vp67_renu",
+      "label": "Reṇu · Ikṣvāku lineage",
+      "type": "person"
+    },
+    {
+      "id": "vp67_parashurama",
+      "label": "Paraśurāma · son of Jamadagni and Reṇukā",
+      "type": "person"
+    },
+    {
+      "id": "vp67_vishvamitra",
+      "label": "Viśvāmitra · son of Satyavatī’s unnamed mother",
+      "type": "person"
+    },
+    {
+      "id": "vp67_sunahshepa",
+      "label": "Śunaḥśepa · given to Viśvāmitra as son",
+      "type": "person"
+    },
+    {
+      "id": "vp67_madhuchchhanda",
+      "label": "Madhucchanda · later son of Viśvāmitra",
+      "type": "person"
+    },
+    {
+      "id": "vp67_jayakrita",
+      "label": "Jayakṛta · later son of Viśvāmitra",
+      "type": "person"
+    },
+    {
+      "id": "vp67_devashtaka",
+      "label": "Devāṣṭaka · later son of Viśvāmitra",
+      "type": "person"
+    },
+    {
+      "id": "vp67_kachchapa",
+      "label": "Kacchapa · later son of Viśvāmitra",
+      "type": "person"
+    },
+    {
+      "id": "vp67_haritaka",
+      "label": "Hārītaka · later son of Viśvāmitra",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_sahasrajit",
+      "label": "Sahasrajit · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_kroshtu",
+      "label": "Kroṣṭu · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_nala",
+      "label": "Nala · Yadu branch · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_raghu",
+      "label": "Raghu · Yadu branch · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_shatajit",
+      "label": "Śatajit · Sahasrajit branch · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_haihaya",
+      "label": "Haihaya · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_hehaya",
+      "label": "Hehaya · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_venuhaya",
+      "label": "Veṇuhaya · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_dharma",
+      "label": "Dharma · Haihaya branch · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_dharmanetra",
+      "label": "Dharmanetra · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_kunti_haihaya",
+      "label": "Kunti · Haihaya branch · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_sahamji",
+      "label": "Sāhaṃji · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_mahishmant",
+      "label": "Mahiṣmant · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_bhadrasrenya",
+      "label": "Bhadraśreṇya · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_durdama",
+      "label": "Durdama · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_dhanaka",
+      "label": "Dhanaka · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_kritavirya",
+      "label": "Kṛtavīrya · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_kritagni",
+      "label": "Kṛtāgni · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_kritadharma",
+      "label": "Kṛtadharma · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_kritaujas",
+      "label": "Kṛtaujas · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_kartavirya_arjuna",
+      "label": "Kārtavīrya Arjuna · son of Kṛtavīrya · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_shura",
+      "label": "Śūra · son of Kārtavīrya Arjuna · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_shurasena",
+      "label": "Śūrasena · son of Kārtavīrya Arjuna · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_vrishana",
+      "label": "Vṛṣaṇa · son of Kārtavīrya Arjuna · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_madhu_kartavirya",
+      "label": "Madhu · son of Kārtavīrya Arjuna · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_jayadhvaja",
+      "label": "Jayadhvaja · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_talajangha",
+      "label": "Tālajaṅgha · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_vitihotra",
+      "label": "Vītahotra · son of Tālajaṅgha · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_bharata_talajangha",
+      "label": "Bharata · son of Tālajaṅgha · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_vrisha_bharata",
+      "label": "Vṛṣa · son of Bharata · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_sujata",
+      "label": "Sujāta · son of Bharata · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_madhu_vrisha",
+      "label": "Madhu · son of Vṛṣa · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_vrishni_madhu",
+      "label": "Vṛṣṇi · son of Madhu · Viṣṇu Purāṇa 4.11 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_vrijinivant",
+      "label": "Vṛjinīvant · Kroṣṭu line",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_svahi",
+      "label": "Svāhi · Kroṣṭu line",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_rushanku",
+      "label": "Ruṣaṅku · Kroṣṭu line",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_citraratha",
+      "label": "Citraratha · Kroṣṭu line",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_shashabindu",
+      "label": "Śaśabindu · Kroṣṭu line",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_tamas",
+      "label": "Tamas · Kroṣṭu line",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_usanas",
+      "label": "Uśanas · Kroṣṭu line",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_shitapu",
+      "label": "Śitapu · Kroṣṭu line",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_rukmakavacha",
+      "label": "Rukmakavaca · Kroṣṭu line",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_paravrit",
+      "label": "Parāvṛt · Kroṣṭu line",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_prithuyashas",
+      "label": "Pṛthuyaśas · son of Śaśabindu",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_prithukarman",
+      "label": "Pṛthukarman · son of Śaśabindu",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_prithujaya",
+      "label": "Pṛthujaya · son of Śaśabindu",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_prithukirti",
+      "label": "Pṛthukīrti · son of Śaśabindu",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_prithudana",
+      "label": "Pṛthudāna · son of Śaśabindu",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_prithushravas",
+      "label": "Pṛthuśravas · son of Śaśabindu",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_rukmeshu",
+      "label": "Rukmeṣu · son of Parāvṛt",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_prithu_paravrit",
+      "label": "Pṛthu · son of Parāvṛt · son of Parāvṛt",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_jyamagha",
+      "label": "Jyāmagha · son of Parāvṛt",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_palita",
+      "label": "Pālita · son of Parāvṛt",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_harita",
+      "label": "Harita · son of Parāvṛt",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_shaibya",
+      "label": "Śaibyā · wife of Jyāmagha · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_vidarbha",
+      "label": "Vidarbha · son of Jyāmagha and Śaibyā · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_kratha",
+      "label": "Kratha · son of Vidarbha · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_kaisika_vidarbha",
+      "label": "Kaiśika · son of Vidarbha · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_romapada",
+      "label": "Romapāda · son of Vidarbha · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_babhru",
+      "label": "Babhru · son of Romapāda · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_dhriti",
+      "label": "Dhṛti · son of Babhru · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_kaisika_dhriti",
+      "label": "Kaiśika · son of Dhṛti · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_cedi",
+      "label": "Cedi · son of Kaiśika · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_kunti_kratha",
+      "label": "Kunti · Kratha branch · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_vrishni_kunti",
+      "label": "Vṛṣṇi · Kunti branch · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_nirvriti",
+      "label": "Nirvṛti · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_dasarha",
+      "label": "Daśārha · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_vyoma",
+      "label": "Vyoma · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_jimuta",
+      "label": "Jīmūta · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_vikriti",
+      "label": "Vikṛti · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_bhimaratha",
+      "label": "Bhīmaratha · Kunti branch · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_navaratha",
+      "label": "Navaratha · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_dasaratha",
+      "label": "Daśaratha · Kunti branch · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_shakuni",
+      "label": "Śakuni · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_karambhi",
+      "label": "Karambhi · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_devarata",
+      "label": "Devarāta · Kunti branch · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_devakshatra",
+      "label": "Devakṣatra · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_madhu_satvata_line",
+      "label": "Madhu · Kunti branch · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_anavaratha",
+      "label": "Anavaratha · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_kuruvatsa",
+      "label": "Kuruvatsa · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_anuratha",
+      "label": "Anuratha · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_puruhotra",
+      "label": "Puruhotra · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_amshu",
+      "label": "Aṃśu · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp1112_satvata",
+      "label": "Satvata · Viṣṇu Purāṇa 4.12 witness",
+      "type": "person"
+    }
+  ],
+  "claims": [
+    {
+      "id": "ANU67_1112_001",
+      "facet": "puranic",
+      "subject": "vp89_pururavas",
+      "predicate": "father_of",
+      "object": "vp89_ayus",
+      "source": "vp4_7_anu",
+      "locator": "4.7.1",
+      "summary": "vp89_ayus is listed among Purūravas’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_002",
+      "facet": "puranic",
+      "subject": "vp89_pururavas",
+      "predicate": "father_of",
+      "object": "vp67_dhimant",
+      "source": "vp4_7_anu",
+      "locator": "4.7.1",
+      "summary": "Dhīmant · Purūravas branch is listed among Purūravas’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_003",
+      "facet": "puranic",
+      "subject": "vp89_pururavas",
+      "predicate": "father_of",
+      "object": "vp67_amavasu_pururavas",
+      "source": "vp4_7_anu",
+      "locator": "4.7.1",
+      "summary": "Amāvasu · son of Purūravas is listed among Purūravas’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_004",
+      "facet": "puranic",
+      "subject": "vp89_pururavas",
+      "predicate": "father_of",
+      "object": "vp67_vishvavasu_son",
+      "source": "vp4_7_anu",
+      "locator": "4.7.1",
+      "summary": "Viśvāvasu · son of Purūravas is listed among Purūravas’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_005",
+      "facet": "puranic",
+      "subject": "vp89_pururavas",
+      "predicate": "father_of",
+      "object": "vp67_shatayus",
+      "source": "vp4_7_anu",
+      "locator": "4.7.1",
+      "summary": "Śatāyus · son of Purūravas is listed among Purūravas’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_006",
+      "facet": "puranic",
+      "subject": "vp89_pururavas",
+      "predicate": "father_of",
+      "object": "vp67_shrutayus",
+      "source": "vp4_7_anu",
+      "locator": "4.7.1",
+      "summary": "Śrutāyus · son of Purūravas is listed among Purūravas’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_007",
+      "facet": "puranic",
+      "subject": "vp67_urvashi",
+      "predicate": "mother_of",
+      "object": "vp89_ayus",
+      "source": "vp4_6_anu",
+      "locator": "4.6.41",
+      "summary": "Urvaśī presents Āyus to Purūravas as their son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_008",
+      "facet": "puranic",
+      "subject": "vp67_urvashi",
+      "predicate": "mother_of",
+      "object": "vp67_dhimant",
+      "source": "vp4_6_anu",
+      "locator": "4.6.42; 4.7.1",
+      "summary": "Urvaśī conceives five more sons after Āyus; chapter 7 names the remaining sons of Purūravas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_009",
+      "facet": "puranic",
+      "subject": "vp67_urvashi",
+      "predicate": "mother_of",
+      "object": "vp67_amavasu_pururavas",
+      "source": "vp4_6_anu",
+      "locator": "4.6.42; 4.7.1",
+      "summary": "Urvaśī conceives five more sons after Āyus; chapter 7 names the remaining sons of Purūravas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_010",
+      "facet": "puranic",
+      "subject": "vp67_urvashi",
+      "predicate": "mother_of",
+      "object": "vp67_vishvavasu_son",
+      "source": "vp4_6_anu",
+      "locator": "4.6.42; 4.7.1",
+      "summary": "Urvaśī conceives five more sons after Āyus; chapter 7 names the remaining sons of Purūravas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_011",
+      "facet": "puranic",
+      "subject": "vp67_urvashi",
+      "predicate": "mother_of",
+      "object": "vp67_shatayus",
+      "source": "vp4_6_anu",
+      "locator": "4.6.42; 4.7.1",
+      "summary": "Urvaśī conceives five more sons after Āyus; chapter 7 names the remaining sons of Purūravas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_012",
+      "facet": "puranic",
+      "subject": "vp67_urvashi",
+      "predicate": "mother_of",
+      "object": "vp67_shrutayus",
+      "source": "vp4_6_anu",
+      "locator": "4.6.42; 4.7.1",
+      "summary": "Urvaśī conceives five more sons after Āyus; chapter 7 names the remaining sons of Purūravas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_013",
+      "facet": "puranic",
+      "subject": "vp67_amavasu_pururavas",
+      "predicate": "father_of",
+      "object": "vp67_bhima",
+      "source": "vp4_7_anu",
+      "locator": "4.7.2",
+      "summary": "Bhīma · Amāvasu branch is named as a child of Amāvasu · son of Purūravas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_014",
+      "facet": "puranic",
+      "subject": "vp67_bhima",
+      "predicate": "father_of",
+      "object": "vp67_kanchana",
+      "source": "vp4_7_anu",
+      "locator": "4.7.2",
+      "summary": "Kāñcana · Amāvasu branch is named as a child of Bhīma · Amāvasu branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_015",
+      "facet": "puranic",
+      "subject": "vp67_kanchana",
+      "predicate": "father_of",
+      "object": "vp67_suhotra_jahnu",
+      "source": "vp4_7_anu",
+      "locator": "4.7.2",
+      "summary": "Suhotra · Amāvasu branch is named as a child of Kāñcana · Amāvasu branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_016",
+      "facet": "puranic",
+      "subject": "vp67_suhotra_jahnu",
+      "predicate": "father_of",
+      "object": "vp67_jahnu",
+      "source": "vp4_7_anu",
+      "locator": "4.7.2",
+      "summary": "Jahnu · Amāvasu branch is named as a child of Suhotra · Amāvasu branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_017",
+      "facet": "puranic",
+      "subject": "vp67_jahnu",
+      "predicate": "father_of",
+      "object": "vp67_sumantu",
+      "source": "vp4_7_anu",
+      "locator": "4.7.5",
+      "summary": "Sumantu · Amāvasu branch is named as a child of Jahnu · Amāvasu branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_018",
+      "facet": "puranic",
+      "subject": "vp67_sumantu",
+      "predicate": "father_of",
+      "object": "vp67_ajaka",
+      "source": "vp4_7_anu",
+      "locator": "4.7.5",
+      "summary": "Ajaka · Amāvasu branch is named as a child of Sumantu · Amāvasu branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_019",
+      "facet": "puranic",
+      "subject": "vp67_ajaka",
+      "predicate": "father_of",
+      "object": "vp67_balakashva",
+      "source": "vp4_7_anu",
+      "locator": "4.7.5",
+      "summary": "Balākāśva · Amāvasu branch is named as a child of Ajaka · Amāvasu branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_020",
+      "facet": "puranic",
+      "subject": "vp67_balakashva",
+      "predicate": "father_of",
+      "object": "vp67_kusha",
+      "source": "vp4_7_anu",
+      "locator": "4.7.5",
+      "summary": "Kuśa · Amāvasu branch is named as a child of Balākāśva · Amāvasu branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_021",
+      "facet": "puranic",
+      "subject": "vp67_kusha",
+      "predicate": "father_of",
+      "object": "vp67_kushamba",
+      "source": "vp4_7_anu",
+      "locator": "4.7.5",
+      "summary": "Kuśāmba · son of Kuśa is named as a child of Kuśa · Amāvasu branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_022",
+      "facet": "puranic",
+      "subject": "vp67_kusha",
+      "predicate": "father_of",
+      "object": "vp67_kushanabha",
+      "source": "vp4_7_anu",
+      "locator": "4.7.5",
+      "summary": "Kuśanābha · son of Kuśa is named as a child of Kuśa · Amāvasu branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_023",
+      "facet": "puranic",
+      "subject": "vp67_kusha",
+      "predicate": "father_of",
+      "object": "vp67_amurtaraya",
+      "source": "vp4_7_anu",
+      "locator": "4.7.5",
+      "summary": "Amūrtaraya · son of Kuśa is named as a child of Kuśa · Amāvasu branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_024",
+      "facet": "puranic",
+      "subject": "vp67_kusha",
+      "predicate": "father_of",
+      "object": "vp67_amavasu_kusha",
+      "source": "vp4_7_anu",
+      "locator": "4.7.5",
+      "summary": "Amāvasu · son of Kuśa is named as a child of Kuśa · Amāvasu branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_025",
+      "facet": "puranic",
+      "subject": "vp67_kushamba",
+      "predicate": "father_of",
+      "object": "vp67_gadhi",
+      "source": "vp4_7_anu",
+      "locator": "4.7.6",
+      "summary": "Indra appears as Gādhi, Kuśāmba’s son; Gādhi is also called Kauśaki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_026",
+      "facet": "puranic",
+      "subject": "vp67_gadhi",
+      "predicate": "father_of",
+      "object": "vp67_satyavati",
+      "source": "vp4_7_anu",
+      "locator": "4.7.7",
+      "summary": "Satyavatī · daughter of Gādhi is named as a child of Gādhi / Kauśaki · son of Kuśāmba.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_027",
+      "facet": "puranic",
+      "subject": "vp67_bhrigu",
+      "predicate": "ancestor_of",
+      "object": "vp67_rcika",
+      "source": "vp4_7_anu",
+      "locator": "4.7.7",
+      "summary": "Ṛcīka is identified as a scion of Bhṛgu; the text does not specify the exact degree.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_028",
+      "facet": "puranic",
+      "subject": "vp67_rcika",
+      "predicate": "father_of",
+      "object": "vp67_jamadagni",
+      "source": "vp4_7_anu",
+      "locator": "4.7.9–18",
+      "summary": "Satyavatī gives birth to Jamadagni after Ṛcīka prepares her gruel.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_029",
+      "facet": "puranic",
+      "subject": "vp67_satyavati",
+      "predicate": "mother_of",
+      "object": "vp67_jamadagni",
+      "source": "vp4_7_anu",
+      "locator": "4.7.18",
+      "summary": "Satyavatī · daughter of Gādhi is named as mother of Jamadagni · son of Satyavatī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_030",
+      "facet": "puranic",
+      "subject": "vp67_renu",
+      "predicate": "father_of",
+      "object": "vp67_renuka",
+      "source": "vp4_7_anu",
+      "locator": "4.7.18",
+      "summary": "Reṇukā · daughter of Reṇu is named as a child of Reṇu · Ikṣvāku lineage.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_031",
+      "facet": "puranic",
+      "subject": "vp67_jamadagni",
+      "predicate": "father_of",
+      "object": "vp67_parashurama",
+      "source": "vp4_7_anu",
+      "locator": "4.7.18",
+      "summary": "Paraśurāma · son of Jamadagni and Reṇukā is named as a child of Jamadagni · son of Satyavatī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_032",
+      "facet": "puranic",
+      "subject": "vp67_renuka",
+      "predicate": "mother_of",
+      "object": "vp67_parashurama",
+      "source": "vp4_7_anu",
+      "locator": "4.7.18",
+      "summary": "Reṇukā · daughter of Reṇu is named as mother of Paraśurāma · son of Jamadagni and Reṇukā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_033",
+      "facet": "puranic",
+      "subject": "vp67_vishvamitra",
+      "predicate": "father_of",
+      "object": "vp67_sunahshepa",
+      "source": "vp4_7_anu",
+      "locator": "4.7.18",
+      "summary": "The translation says the gods gave Viśvāmitra a son, Śunaḥśepa; the claim preserves that wording without asserting biological conception.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_034",
+      "facet": "puranic",
+      "subject": "vp67_vishvamitra",
+      "predicate": "father_of",
+      "object": "vp67_madhuchchhanda",
+      "source": "vp4_7_anu",
+      "locator": "4.7.19",
+      "summary": "Madhucchanda · later son of Viśvāmitra is named as a child of Viśvāmitra · son of Satyavatī’s unnamed mother.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_035",
+      "facet": "puranic",
+      "subject": "vp67_vishvamitra",
+      "predicate": "father_of",
+      "object": "vp67_jayakrita",
+      "source": "vp4_7_anu",
+      "locator": "4.7.19",
+      "summary": "Jayakṛta · later son of Viśvāmitra is named as a child of Viśvāmitra · son of Satyavatī’s unnamed mother.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_036",
+      "facet": "puranic",
+      "subject": "vp67_vishvamitra",
+      "predicate": "father_of",
+      "object": "vp67_devashtaka",
+      "source": "vp4_7_anu",
+      "locator": "4.7.19",
+      "summary": "Devāṣṭaka · later son of Viśvāmitra is named as a child of Viśvāmitra · son of Satyavatī’s unnamed mother.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_037",
+      "facet": "puranic",
+      "subject": "vp67_vishvamitra",
+      "predicate": "father_of",
+      "object": "vp67_kachchapa",
+      "source": "vp4_7_anu",
+      "locator": "4.7.19",
+      "summary": "Kacchapa · later son of Viśvāmitra is named as a child of Viśvāmitra · son of Satyavatī’s unnamed mother.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_038",
+      "facet": "puranic",
+      "subject": "vp67_vishvamitra",
+      "predicate": "father_of",
+      "object": "vp67_haritaka",
+      "source": "vp4_7_anu",
+      "locator": "4.7.19",
+      "summary": "Hārītaka · later son of Viśvāmitra is named as a child of Viśvāmitra · son of Satyavatī’s unnamed mother.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_039",
+      "facet": "puranic",
+      "subject": "vp_yadu",
+      "predicate": "father_of",
+      "object": "vp1112_sahasrajit",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Sahasrajit · Viṣṇu Purāṇa 4.11 witness is named as a child of Yadu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_040",
+      "facet": "puranic",
+      "subject": "vp_yadu",
+      "predicate": "father_of",
+      "object": "vp1112_kroshtu",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Kroṣṭu · Viṣṇu Purāṇa 4.11 witness is named as a child of Yadu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_041",
+      "facet": "puranic",
+      "subject": "vp_yadu",
+      "predicate": "father_of",
+      "object": "vp1112_nala",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Nala · Yadu branch · Viṣṇu Purāṇa 4.11 witness is named as a child of Yadu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_042",
+      "facet": "puranic",
+      "subject": "vp_yadu",
+      "predicate": "father_of",
+      "object": "vp1112_raghu",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Raghu · Yadu branch · Viṣṇu Purāṇa 4.11 witness is named as a child of Yadu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_043",
+      "facet": "puranic",
+      "subject": "vp1112_sahasrajit",
+      "predicate": "father_of",
+      "object": "vp1112_shatajit",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Śatajit · Sahasrajit branch · Viṣṇu Purāṇa 4.11 witness is named as a child of Sahasrajit · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_044",
+      "facet": "puranic",
+      "subject": "vp1112_shatajit",
+      "predicate": "father_of",
+      "object": "vp1112_haihaya",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Haihaya · Viṣṇu Purāṇa 4.11 witness is named as a child of Śatajit · Sahasrajit branch · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_045",
+      "facet": "puranic",
+      "subject": "vp1112_shatajit",
+      "predicate": "father_of",
+      "object": "vp1112_hehaya",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Hehaya · Viṣṇu Purāṇa 4.11 witness is named as a child of Śatajit · Sahasrajit branch · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_046",
+      "facet": "puranic",
+      "subject": "vp1112_shatajit",
+      "predicate": "father_of",
+      "object": "vp1112_venuhaya",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Veṇuhaya · Viṣṇu Purāṇa 4.11 witness is named as a child of Śatajit · Sahasrajit branch · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_047",
+      "facet": "puranic",
+      "subject": "vp1112_haihaya",
+      "predicate": "father_of",
+      "object": "vp1112_dharma",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Dharma · Haihaya branch · Viṣṇu Purāṇa 4.11 witness is named as a child of Haihaya · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_048",
+      "facet": "puranic",
+      "subject": "vp1112_dharma",
+      "predicate": "father_of",
+      "object": "vp1112_dharmanetra",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Dharmanetra · Viṣṇu Purāṇa 4.11 witness is named as a child of Dharma · Haihaya branch · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_049",
+      "facet": "puranic",
+      "subject": "vp1112_dharmanetra",
+      "predicate": "father_of",
+      "object": "vp1112_kunti_haihaya",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Kunti · Haihaya branch · Viṣṇu Purāṇa 4.11 witness is named as a child of Dharmanetra · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_050",
+      "facet": "puranic",
+      "subject": "vp1112_kunti_haihaya",
+      "predicate": "father_of",
+      "object": "vp1112_sahamji",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Sāhaṃji · Viṣṇu Purāṇa 4.11 witness is named as a child of Kunti · Haihaya branch · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_051",
+      "facet": "puranic",
+      "subject": "vp1112_sahamji",
+      "predicate": "father_of",
+      "object": "vp1112_mahishmant",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Mahiṣmant · Viṣṇu Purāṇa 4.11 witness is named as a child of Sāhaṃji · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_052",
+      "facet": "puranic",
+      "subject": "vp1112_mahishmant",
+      "predicate": "father_of",
+      "object": "vp1112_bhadrasrenya",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Bhadraśreṇya · Viṣṇu Purāṇa 4.11 witness is named as a child of Mahiṣmant · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_053",
+      "facet": "puranic",
+      "subject": "vp1112_bhadrasrenya",
+      "predicate": "father_of",
+      "object": "vp1112_durdama",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Durdama · Viṣṇu Purāṇa 4.11 witness is named as a child of Bhadraśreṇya · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_054",
+      "facet": "puranic",
+      "subject": "vp1112_durdama",
+      "predicate": "father_of",
+      "object": "vp1112_dhanaka",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Dhanaka · Viṣṇu Purāṇa 4.11 witness is named as a child of Durdama · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_055",
+      "facet": "puranic",
+      "subject": "vp1112_dhanaka",
+      "predicate": "father_of",
+      "object": "vp1112_kritavirya",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Kṛtavīrya · Viṣṇu Purāṇa 4.11 witness is named as a child of Dhanaka · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_056",
+      "facet": "puranic",
+      "subject": "vp1112_dhanaka",
+      "predicate": "father_of",
+      "object": "vp1112_kritagni",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Kṛtāgni · Viṣṇu Purāṇa 4.11 witness is named as a child of Dhanaka · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_057",
+      "facet": "puranic",
+      "subject": "vp1112_dhanaka",
+      "predicate": "father_of",
+      "object": "vp1112_kritadharma",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Kṛtadharma · Viṣṇu Purāṇa 4.11 witness is named as a child of Dhanaka · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_058",
+      "facet": "puranic",
+      "subject": "vp1112_dhanaka",
+      "predicate": "father_of",
+      "object": "vp1112_kritaujas",
+      "source": "vp4_11_anu",
+      "locator": "4.11.3",
+      "summary": "Kṛtaujas · Viṣṇu Purāṇa 4.11 witness is named as a child of Dhanaka · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_059",
+      "facet": "puranic",
+      "subject": "vp1112_kritavirya",
+      "predicate": "father_of",
+      "object": "vp1112_kartavirya_arjuna",
+      "source": "vp4_11_anu",
+      "locator": "4.11.4",
+      "summary": "Kārtavīrya Arjuna · son of Kṛtavīrya · Viṣṇu Purāṇa 4.11 witness is named as a child of Kṛtavīrya · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_060",
+      "facet": "puranic",
+      "subject": "vp1112_kartavirya_arjuna",
+      "predicate": "father_of",
+      "object": "vp1112_shura",
+      "source": "vp4_11_anu",
+      "locator": "4.11.9",
+      "summary": "Śūra · son of Kārtavīrya Arjuna · Viṣṇu Purāṇa 4.11 witness is named as a child of Kārtavīrya Arjuna · son of Kṛtavīrya · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_061",
+      "facet": "puranic",
+      "subject": "vp1112_kartavirya_arjuna",
+      "predicate": "father_of",
+      "object": "vp1112_shurasena",
+      "source": "vp4_11_anu",
+      "locator": "4.11.9",
+      "summary": "Śūrasena · son of Kārtavīrya Arjuna · Viṣṇu Purāṇa 4.11 witness is named as a child of Kārtavīrya Arjuna · son of Kṛtavīrya · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_062",
+      "facet": "puranic",
+      "subject": "vp1112_kartavirya_arjuna",
+      "predicate": "father_of",
+      "object": "vp1112_vrishana",
+      "source": "vp4_11_anu",
+      "locator": "4.11.9",
+      "summary": "Vṛṣaṇa · son of Kārtavīrya Arjuna · Viṣṇu Purāṇa 4.11 witness is named as a child of Kārtavīrya Arjuna · son of Kṛtavīrya · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_063",
+      "facet": "puranic",
+      "subject": "vp1112_kartavirya_arjuna",
+      "predicate": "father_of",
+      "object": "vp1112_madhu_kartavirya",
+      "source": "vp4_11_anu",
+      "locator": "4.11.9",
+      "summary": "Madhu · son of Kārtavīrya Arjuna · Viṣṇu Purāṇa 4.11 witness is named as a child of Kārtavīrya Arjuna · son of Kṛtavīrya · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_064",
+      "facet": "puranic",
+      "subject": "vp1112_kartavirya_arjuna",
+      "predicate": "father_of",
+      "object": "vp1112_jayadhvaja",
+      "source": "vp4_11_anu",
+      "locator": "4.11.9",
+      "summary": "Jayadhvaja · Viṣṇu Purāṇa 4.11 witness is named as a child of Kārtavīrya Arjuna · son of Kṛtavīrya · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_065",
+      "facet": "puranic",
+      "subject": "vp1112_jayadhvaja",
+      "predicate": "father_of",
+      "object": "vp1112_talajangha",
+      "source": "vp4_11_anu",
+      "locator": "4.11.9",
+      "summary": "Tālajaṅgha · Viṣṇu Purāṇa 4.11 witness is named as a child of Jayadhvaja · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_066",
+      "facet": "puranic",
+      "subject": "vp1112_talajangha",
+      "predicate": "father_of",
+      "object": "vp1112_vitihotra",
+      "source": "vp4_11_anu",
+      "locator": "4.11.10",
+      "summary": "Vītahotra · son of Tālajaṅgha · Viṣṇu Purāṇa 4.11 witness is named as a child of Tālajaṅgha · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_067",
+      "facet": "puranic",
+      "subject": "vp1112_talajangha",
+      "predicate": "father_of",
+      "object": "vp1112_bharata_talajangha",
+      "source": "vp4_11_anu",
+      "locator": "4.11.10",
+      "summary": "Bharata · son of Tālajaṅgha · Viṣṇu Purāṇa 4.11 witness is named as a child of Tālajaṅgha · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_068",
+      "facet": "puranic",
+      "subject": "vp1112_bharata_talajangha",
+      "predicate": "father_of",
+      "object": "vp1112_vrisha_bharata",
+      "source": "vp4_11_anu",
+      "locator": "4.11.10",
+      "summary": "Vṛṣa · son of Bharata · Viṣṇu Purāṇa 4.11 witness is named as a child of Bharata · son of Tālajaṅgha · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_069",
+      "facet": "puranic",
+      "subject": "vp1112_bharata_talajangha",
+      "predicate": "father_of",
+      "object": "vp1112_sujata",
+      "source": "vp4_11_anu",
+      "locator": "4.11.10",
+      "summary": "Sujāta · son of Bharata · Viṣṇu Purāṇa 4.11 witness is named as a child of Bharata · son of Tālajaṅgha · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_070",
+      "facet": "puranic",
+      "subject": "vp1112_vrisha_bharata",
+      "predicate": "father_of",
+      "object": "vp1112_madhu_vrisha",
+      "source": "vp4_11_anu",
+      "locator": "4.11.10",
+      "summary": "Madhu · son of Vṛṣa · Viṣṇu Purāṇa 4.11 witness is named as a child of Vṛṣa · son of Bharata · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_071",
+      "facet": "puranic",
+      "subject": "vp1112_madhu_vrisha",
+      "predicate": "father_of",
+      "object": "vp1112_vrishni_madhu",
+      "source": "vp4_11_anu",
+      "locator": "4.11.10",
+      "summary": "Vṛṣṇi · son of Madhu · Viṣṇu Purāṇa 4.11 witness is named as a child of Madhu · son of Vṛṣa · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_072",
+      "facet": "puranic",
+      "subject": "vp1112_kroshtu",
+      "predicate": "father_of",
+      "object": "vp1112_vrijinivant",
+      "source": "vp4_12_anu",
+      "locator": "4.12.1",
+      "summary": "Vṛjinīvant · Kroṣṭu line is named as a child of Kroṣṭu · Viṣṇu Purāṇa 4.11 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_073",
+      "facet": "puranic",
+      "subject": "vp1112_vrijinivant",
+      "predicate": "father_of",
+      "object": "vp1112_svahi",
+      "source": "vp4_12_anu",
+      "locator": "4.12.1",
+      "summary": "Svāhi · Kroṣṭu line is named as a child of Vṛjinīvant · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_074",
+      "facet": "puranic",
+      "subject": "vp1112_svahi",
+      "predicate": "father_of",
+      "object": "vp1112_rushanku",
+      "source": "vp4_12_anu",
+      "locator": "4.12.1",
+      "summary": "Ruṣaṅku · Kroṣṭu line is named as a child of Svāhi · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_075",
+      "facet": "puranic",
+      "subject": "vp1112_rushanku",
+      "predicate": "father_of",
+      "object": "vp1112_citraratha",
+      "source": "vp4_12_anu",
+      "locator": "4.12.1",
+      "summary": "Citraratha · Kroṣṭu line is named as a child of Ruṣaṅku · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_076",
+      "facet": "puranic",
+      "subject": "vp1112_citraratha",
+      "predicate": "father_of",
+      "object": "vp1112_shashabindu",
+      "source": "vp4_12_anu",
+      "locator": "4.12.1",
+      "summary": "Śaśabindu · Kroṣṭu line is named as a child of Citraratha · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_077",
+      "facet": "puranic",
+      "subject": "vp1112_prithuyashas",
+      "predicate": "father_of",
+      "object": "vp1112_tamas",
+      "source": "vp4_12_anu",
+      "locator": "4.12.2",
+      "summary": "Tamas · Kroṣṭu line is named as a child of Pṛthuyaśas · son of Śaśabindu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_078",
+      "facet": "puranic",
+      "subject": "vp1112_tamas",
+      "predicate": "father_of",
+      "object": "vp1112_usanas",
+      "source": "vp4_12_anu",
+      "locator": "4.12.2",
+      "summary": "Uśanas · Kroṣṭu line is named as a child of Tamas · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_079",
+      "facet": "puranic",
+      "subject": "vp1112_usanas",
+      "predicate": "father_of",
+      "object": "vp1112_shitapu",
+      "source": "vp4_12_anu",
+      "locator": "4.12.2",
+      "summary": "Śitapu · Kroṣṭu line is named as a child of Uśanas · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_080",
+      "facet": "puranic",
+      "subject": "vp1112_shitapu",
+      "predicate": "father_of",
+      "object": "vp1112_rukmakavacha",
+      "source": "vp4_12_anu",
+      "locator": "4.12.2",
+      "summary": "Rukmakavaca · Kroṣṭu line is named as a child of Śitapu · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_081",
+      "facet": "puranic",
+      "subject": "vp1112_rukmakavacha",
+      "predicate": "father_of",
+      "object": "vp1112_paravrit",
+      "source": "vp4_12_anu",
+      "locator": "4.12.2",
+      "summary": "Parāvṛt · Kroṣṭu line is named as a child of Rukmakavaca · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_082",
+      "facet": "puranic",
+      "subject": "vp1112_shashabindu",
+      "predicate": "father_of",
+      "object": "vp1112_prithuyashas",
+      "source": "vp4_12_anu",
+      "locator": "4.12.2",
+      "summary": "Pṛthuyaśas · son of Śaśabindu is named as a child of Śaśabindu · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_083",
+      "facet": "puranic",
+      "subject": "vp1112_shashabindu",
+      "predicate": "father_of",
+      "object": "vp1112_prithukarman",
+      "source": "vp4_12_anu",
+      "locator": "4.12.2",
+      "summary": "Pṛthukarman · son of Śaśabindu is named as a child of Śaśabindu · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_084",
+      "facet": "puranic",
+      "subject": "vp1112_shashabindu",
+      "predicate": "father_of",
+      "object": "vp1112_prithujaya",
+      "source": "vp4_12_anu",
+      "locator": "4.12.2",
+      "summary": "Pṛthujaya · son of Śaśabindu is named as a child of Śaśabindu · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_085",
+      "facet": "puranic",
+      "subject": "vp1112_shashabindu",
+      "predicate": "father_of",
+      "object": "vp1112_prithukirti",
+      "source": "vp4_12_anu",
+      "locator": "4.12.2",
+      "summary": "Pṛthukīrti · son of Śaśabindu is named as a child of Śaśabindu · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_086",
+      "facet": "puranic",
+      "subject": "vp1112_shashabindu",
+      "predicate": "father_of",
+      "object": "vp1112_prithudana",
+      "source": "vp4_12_anu",
+      "locator": "4.12.2",
+      "summary": "Pṛthudāna · son of Śaśabindu is named as a child of Śaśabindu · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_087",
+      "facet": "puranic",
+      "subject": "vp1112_shashabindu",
+      "predicate": "father_of",
+      "object": "vp1112_prithushravas",
+      "source": "vp4_12_anu",
+      "locator": "4.12.2",
+      "summary": "Pṛthuśravas · son of Śaśabindu is named as a child of Śaśabindu · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_088",
+      "facet": "puranic",
+      "subject": "vp1112_prithushravas",
+      "predicate": "father_of",
+      "object": "vp1112_tamas",
+      "source": "vp4_12_anu",
+      "locator": "4.12.2",
+      "summary": "Tamas · Kroṣṭu line is named as a child of Pṛthuśravas · son of Śaśabindu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_089",
+      "facet": "puranic",
+      "subject": "vp1112_paravrit",
+      "predicate": "father_of",
+      "object": "vp1112_rukmeshu",
+      "source": "vp4_12_anu",
+      "locator": "4.12.3",
+      "summary": "Rukmeṣu · son of Parāvṛt is named as a child of Parāvṛt · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_090",
+      "facet": "puranic",
+      "subject": "vp1112_paravrit",
+      "predicate": "father_of",
+      "object": "vp1112_prithu_paravrit",
+      "source": "vp4_12_anu",
+      "locator": "4.12.3",
+      "summary": "Pṛthu · son of Parāvṛt · son of Parāvṛt is named as a child of Parāvṛt · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_091",
+      "facet": "puranic",
+      "subject": "vp1112_paravrit",
+      "predicate": "father_of",
+      "object": "vp1112_jyamagha",
+      "source": "vp4_12_anu",
+      "locator": "4.12.3",
+      "summary": "Jyāmagha · son of Parāvṛt is named as a child of Parāvṛt · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_092",
+      "facet": "puranic",
+      "subject": "vp1112_paravrit",
+      "predicate": "father_of",
+      "object": "vp1112_palita",
+      "source": "vp4_12_anu",
+      "locator": "4.12.3",
+      "summary": "Pālita · son of Parāvṛt is named as a child of Parāvṛt · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_093",
+      "facet": "puranic",
+      "subject": "vp1112_paravrit",
+      "predicate": "father_of",
+      "object": "vp1112_harita",
+      "source": "vp4_12_anu",
+      "locator": "4.12.3",
+      "summary": "Harita · son of Parāvṛt is named as a child of Parāvṛt · Kroṣṭu line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_094",
+      "facet": "puranic",
+      "subject": "vp1112_jyamagha",
+      "predicate": "spouse_of",
+      "object": "vp1112_shaibya",
+      "source": "vp4_12_anu",
+      "locator": "4.12.4–5",
+      "summary": "Jyāmagha · son of Parāvṛt is identified as spouse of Śaibyā · wife of Jyāmagha · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_095",
+      "facet": "puranic",
+      "subject": "vp1112_jyamagha",
+      "predicate": "father_of",
+      "object": "vp1112_vidarbha",
+      "source": "vp4_12_anu",
+      "locator": "4.12.14–15",
+      "summary": "Vidarbha · son of Jyāmagha and Śaibyā · Viṣṇu Purāṇa 4.12 witness is named as a child of Jyāmagha · son of Parāvṛt.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_096",
+      "facet": "puranic",
+      "subject": "vp1112_shaibya",
+      "predicate": "mother_of",
+      "object": "vp1112_vidarbha",
+      "source": "vp4_12_anu",
+      "locator": "4.12.14–15",
+      "summary": "Śaibyā · wife of Jyāmagha · Viṣṇu Purāṇa 4.12 witness is named as mother of Vidarbha · son of Jyāmagha and Śaibyā · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_097",
+      "facet": "puranic",
+      "subject": "vp1112_vidarbha",
+      "predicate": "father_of",
+      "object": "vp1112_kratha",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Kratha · son of Vidarbha · Viṣṇu Purāṇa 4.12 witness is named as a child of Vidarbha · son of Jyāmagha and Śaibyā · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_098",
+      "facet": "puranic",
+      "subject": "vp1112_vidarbha",
+      "predicate": "father_of",
+      "object": "vp1112_kaisika_vidarbha",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Kaiśika · son of Vidarbha · Viṣṇu Purāṇa 4.12 witness is named as a child of Vidarbha · son of Jyāmagha and Śaibyā · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_099",
+      "facet": "puranic",
+      "subject": "vp1112_vidarbha",
+      "predicate": "father_of",
+      "object": "vp1112_romapada",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Romapāda · son of Vidarbha · Viṣṇu Purāṇa 4.12 witness is named as a child of Vidarbha · son of Jyāmagha and Śaibyā · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_100",
+      "facet": "puranic",
+      "subject": "vp1112_romapada",
+      "predicate": "father_of",
+      "object": "vp1112_babhru",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Babhru · son of Romapāda · Viṣṇu Purāṇa 4.12 witness is named as a child of Romapāda · son of Vidarbha · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_101",
+      "facet": "puranic",
+      "subject": "vp1112_babhru",
+      "predicate": "father_of",
+      "object": "vp1112_dhriti",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Dhṛti · son of Babhru · Viṣṇu Purāṇa 4.12 witness is named as a child of Babhru · son of Romapāda · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_102",
+      "facet": "puranic",
+      "subject": "vp1112_dhriti",
+      "predicate": "father_of",
+      "object": "vp1112_kaisika_dhriti",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Kaiśika · son of Dhṛti · Viṣṇu Purāṇa 4.12 witness is named as a child of Dhṛti · son of Babhru · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_103",
+      "facet": "puranic",
+      "subject": "vp1112_kaisika_dhriti",
+      "predicate": "father_of",
+      "object": "vp1112_cedi",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Cedi · son of Kaiśika · Viṣṇu Purāṇa 4.12 witness is named as a child of Kaiśika · son of Dhṛti · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_104",
+      "facet": "puranic",
+      "subject": "vp1112_kratha",
+      "predicate": "father_of",
+      "object": "vp1112_kunti_kratha",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Kunti · Kratha branch · Viṣṇu Purāṇa 4.12 witness is named as a child of Kratha · son of Vidarbha · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_105",
+      "facet": "puranic",
+      "subject": "vp1112_kunti_kratha",
+      "predicate": "father_of",
+      "object": "vp1112_vrishni_kunti",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Vṛṣṇi · Kunti branch · Viṣṇu Purāṇa 4.12 witness is named as a child of Kunti · Kratha branch · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_106",
+      "facet": "puranic",
+      "subject": "vp1112_vrishni_kunti",
+      "predicate": "father_of",
+      "object": "vp1112_nirvriti",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Nirvṛti · Viṣṇu Purāṇa 4.12 witness is named as a child of Vṛṣṇi · Kunti branch · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_107",
+      "facet": "puranic",
+      "subject": "vp1112_nirvriti",
+      "predicate": "father_of",
+      "object": "vp1112_dasarha",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Daśārha · Viṣṇu Purāṇa 4.12 witness is named as a child of Nirvṛti · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_108",
+      "facet": "puranic",
+      "subject": "vp1112_dasarha",
+      "predicate": "father_of",
+      "object": "vp1112_vyoma",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Vyoma · Viṣṇu Purāṇa 4.12 witness is named as a child of Daśārha · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_109",
+      "facet": "puranic",
+      "subject": "vp1112_vyoma",
+      "predicate": "father_of",
+      "object": "vp1112_jimuta",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Jīmūta · Viṣṇu Purāṇa 4.12 witness is named as a child of Vyoma · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_110",
+      "facet": "puranic",
+      "subject": "vp1112_jimuta",
+      "predicate": "father_of",
+      "object": "vp1112_vikriti",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Vikṛti · Viṣṇu Purāṇa 4.12 witness is named as a child of Jīmūta · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_111",
+      "facet": "puranic",
+      "subject": "vp1112_vikriti",
+      "predicate": "father_of",
+      "object": "vp1112_bhimaratha",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Bhīmaratha · Kunti branch · Viṣṇu Purāṇa 4.12 witness is named as a child of Vikṛti · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_112",
+      "facet": "puranic",
+      "subject": "vp1112_bhimaratha",
+      "predicate": "father_of",
+      "object": "vp1112_navaratha",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Navaratha · Viṣṇu Purāṇa 4.12 witness is named as a child of Bhīmaratha · Kunti branch · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_113",
+      "facet": "puranic",
+      "subject": "vp1112_navaratha",
+      "predicate": "father_of",
+      "object": "vp1112_dasaratha",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Daśaratha · Kunti branch · Viṣṇu Purāṇa 4.12 witness is named as a child of Navaratha · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_114",
+      "facet": "puranic",
+      "subject": "vp1112_dasaratha",
+      "predicate": "father_of",
+      "object": "vp1112_shakuni",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Śakuni · Viṣṇu Purāṇa 4.12 witness is named as a child of Daśaratha · Kunti branch · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_115",
+      "facet": "puranic",
+      "subject": "vp1112_shakuni",
+      "predicate": "father_of",
+      "object": "vp1112_karambhi",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Karambhi · Viṣṇu Purāṇa 4.12 witness is named as a child of Śakuni · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_116",
+      "facet": "puranic",
+      "subject": "vp1112_karambhi",
+      "predicate": "father_of",
+      "object": "vp1112_devarata",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Devarāta · Kunti branch · Viṣṇu Purāṇa 4.12 witness is named as a child of Karambhi · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_117",
+      "facet": "puranic",
+      "subject": "vp1112_devarata",
+      "predicate": "father_of",
+      "object": "vp1112_devakshatra",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Devakṣatra · Viṣṇu Purāṇa 4.12 witness is named as a child of Devarāta · Kunti branch · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_118",
+      "facet": "puranic",
+      "subject": "vp1112_devakshatra",
+      "predicate": "father_of",
+      "object": "vp1112_madhu_satvata_line",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Madhu · Kunti branch · Viṣṇu Purāṇa 4.12 witness is named as a child of Devakṣatra · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_119",
+      "facet": "puranic",
+      "subject": "vp1112_madhu_satvata_line",
+      "predicate": "father_of",
+      "object": "vp1112_anavaratha",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Anavaratha · Viṣṇu Purāṇa 4.12 witness is named as a child of Madhu · Kunti branch · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_120",
+      "facet": "puranic",
+      "subject": "vp1112_anavaratha",
+      "predicate": "father_of",
+      "object": "vp1112_kuruvatsa",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Kuruvatsa · Viṣṇu Purāṇa 4.12 witness is named as a child of Anavaratha · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_121",
+      "facet": "puranic",
+      "subject": "vp1112_kuruvatsa",
+      "predicate": "father_of",
+      "object": "vp1112_anuratha",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Anuratha · Viṣṇu Purāṇa 4.12 witness is named as a child of Kuruvatsa · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_122",
+      "facet": "puranic",
+      "subject": "vp1112_anuratha",
+      "predicate": "father_of",
+      "object": "vp1112_puruhotra",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Puruhotra · Viṣṇu Purāṇa 4.12 witness is named as a child of Anuratha · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_123",
+      "facet": "puranic",
+      "subject": "vp1112_puruhotra",
+      "predicate": "father_of",
+      "object": "vp1112_amshu",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Aṃśu · Viṣṇu Purāṇa 4.12 witness is named as a child of Puruhotra · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU67_1112_124",
+      "facet": "puranic",
+      "subject": "vp1112_amshu",
+      "predicate": "father_of",
+      "object": "vp1112_satvata",
+      "source": "vp4_12_anu",
+      "locator": "4.12.16",
+      "summary": "Satvata · Viṣṇu Purāṇa 4.12 witness is named as a child of Aṃśu · Viṣṇu Purāṇa 4.12 witness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.",
+      "original_language_reviewed": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "vp4_6_anu",
+      "title": "Viṣṇu Purāṇa, Book 4, chapter 6: Purūravas and Urvaśī",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 6; claim locators follow ANU chapter/verse markers.",
+      "locator": "4.6.33–42",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_7_anu",
+      "title": "Viṣṇu Purāṇa, Book 4, chapter 7: Jahnu and the Kauśika line",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 7; claim locators follow ANU chapter/verse markers.",
+      "locator": "4.7.1–20",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_11_anu",
+      "title": "Viṣṇu Purāṇa, Book 4, chapter 11: Yadu’s first branch",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 11; claim locators follow ANU chapter/verse markers.",
+      "locator": "4.11.1–11",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_12_anu",
+      "title": "Viṣṇu Purāṇa, Book 4, chapter 12: Jyāmagha and the Kroṣṭu line",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 12; claim locators follow ANU chapter/verse markers.",
+      "locator": "4.12.1–17",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "notes": [
+    "Chapter scope: 4.6–7 and 4.11–12. Chapters 4.8–9 are covered in genealogy_ayus.json; chapter 4.10 is already represented in the graph and genealogy_anu.json; chapter 4.13 is outside this extraction.",
+    "Existing anchors referenced without redefining: vp89_pururavas and vp89_ayus (genealogy_ayus.json), and vp_yadu (canonical graph).",
+    "Namesakes kept separate by lineage: the two Viśvāvasus (Purūravas’s son vs. gandharva); the two Amāvasus (Purūravas’s son vs. Kuśa’s son); the two Kaiśikas (Vidarbha’s son vs. Dhṛti’s son); the two Kuntis (Haihaya line vs. Kratha line); multiple Madhu and Vṛṣṇi names are explicitly branch-scoped.",
+    "No child is inferred for the unnamed princess rescued by Jyāmagha; the text’s conditional speech and later birth identify Vidarbha as Jyāmagha and Śaibyā’s son, but the princess’s personal name is not supplied. Satyavatī’s mother is unnamed; no maternal link is asserted for Viśvāmitra. Devarāta after Śunaḥśepa is omitted because the translation’s “his son” antecedent is uncertain.",
+    "Count: 118 newly defined person nodes and 124 explicit relationship claims, in addition to the three existing anchor persons."
+  ]
+}

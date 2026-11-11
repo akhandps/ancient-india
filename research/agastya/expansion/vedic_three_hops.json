@@ -1,0 +1,92 @@
+{
+  "nodes": [
+    {
+      "id": "vedic_sudas",
+      "label": "Sudās · Ṛgveda 7.33 witness",
+      "type": "person"
+    },
+    {
+      "id": "vedic_bheda",
+      "label": "Bheda · Ṛgveda 7.33.3 adversary",
+      "type": "person_or_king"
+    },
+    {
+      "id": "vedic_vasisthas",
+      "label": "Vasiṣṭhas · poetic lineage in Ṛgveda 7.33",
+      "type": "people_collective"
+    }
+  ],
+  "sources": [
+    {
+      "id": "vedic_jb_rv",
+      "title": "The Rigveda: The Earliest Religious Poetry of India",
+      "url": "https://wiswo.org/books/_resources/book-reference-pdfs/Jamison-Brereton-2014-The%20Rigveda-The%20Earliest%20Poetry%20of%20India%20all%203%20Volume%20Sets.pdf",
+      "kind": "primary_translation_with_scholarly_commentary",
+      "edition": "Stephanie W. Jamison and Joel P. Brereton, 2014",
+      "locator": "vol. III, Ṛgveda 7.33.1–6, pp. 923–924",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "V3H001",
+      "facet": "vedic",
+      "subject": "vedic_vasisthas",
+      "predicate": "are_credited_with_indras_aid_to",
+      "object": "vedic_sudas",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 7.33.3–5",
+      "summary": "The hymn credits the Vasiṣṭhas’ sacred formulation with bringing Indra’s help to Sudās in the Battle of the Ten Kings.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Ṛgveda 7.33 hymn voice; speaker division follows Jamison–Brereton’s editorial reading",
+      "note": "This is a claim within the hymn’s account, not independent historical confirmation. The collective Vasiṣṭhas is retained; it is not collapsed into one individual poet.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "V3H002",
+      "facet": "vedic",
+      "subject": "vedic_vasisthas",
+      "predicate": "are_credited_with_indras_defeat_of",
+      "object": "vedic_bheda",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 7.33.3",
+      "summary": "The verse says Indra, acting with the Vasiṣṭhas, smashed Bheda.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Ṛgveda 7.33 hymn voice; plural referent follows the translation’s ‘with them’",
+      "note": "The action is attributed to Indra; the Vasiṣṭhas are companions/ritual supporters in the verse. This records the hymn’s presentation, not a verified battle report.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "V3H003",
+      "facet": "vedic",
+      "subject": "vasistha",
+      "predicate": "is_narrated_in_hymn_with",
+      "object": "vedic_vasisthas",
+      "source": "vedic_jb_rv",
+      "locator": "Ṛgveda 7.33.1–14; edition heading and translation, pp. 923–924",
+      "summary": "The hymn moves from Vasiṣṭha and his descendants (verses 1–9) to Vasiṣṭha’s birth narrative (verses 10–14).",
+      "category": "relationship",
+      "status": "editorial_attribution",
+      "speaker": "Jamison–Brereton’s edition heading and segmentation",
+      "note": "This is a same-hymn narrative link, not a claim of biological kinship. The verse segmentation and collective-versus-individual distinction are editorial framing.",
+      "original_language_reviewed": false
+    }
+  ],
+  "search_log": [
+    {
+      "query": "Rigveda 7.33 Sudas Bheda Jamison Brereton translation",
+      "result": "Opened the primary translation and checked 7.33.3–5 and its introductory segmentation; retained only named persons and distinctions supported by the text."
+    },
+    {
+      "query": "Rig Veda 7.33.10 English translation",
+      "result": "Cross-checked the Agastya–Vasiṣṭha wording against an online translation with Sanskrit text; used Jamison–Brereton as the claim source."
+    }
+  ],
+  "notes": [
+    "This sampled addition extends the existing Agastya → Vasiṣṭha witness edge to Sudās and Bheda through the Vasiṣṭha poetic lineage in Ṛgveda 7.33; it does not assert meetings with Agastya.",
+    "The Vasiṣṭha birth narrative contains competing and layered motifs. Existing claims about his birth and Agastya bringing him into the clan remain separately qualified; this file adds no parentage claims.",
+    "No new claims were added for names already represented in the graph, including Atri, Gotama, Purumīḍha, and Viśpalā."
+  ]
+}

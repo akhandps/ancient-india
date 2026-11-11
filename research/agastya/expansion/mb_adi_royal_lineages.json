@@ -1,0 +1,2679 @@
+{
+  "nodes": [
+    {
+      "id": "mb_adi_royal_shantanu",
+      "label": "Śāṃtanu",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_satyavati",
+      "label": "Satyavatī",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_bhishma",
+      "label": "Bhīṣma",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_chitrangada",
+      "label": "Citrāṅgada",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_vichitravirya",
+      "label": "Vicitravīrya",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_amba",
+      "label": "Ambā",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_ambika",
+      "label": "Ambikā",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_ambalika",
+      "label": "Ambālikā",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_shalva",
+      "label": "Śālva",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_vyasa",
+      "label": "Kṛṣṇa Dvaipāyana Vyāsa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_parashara",
+      "label": "Parāśara",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_dhritarashtra",
+      "label": "Dhṛtarāṣṭra",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_pandu",
+      "label": "Pāṇḍu",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_vidura",
+      "label": "Vidura",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_dharma",
+      "label": "Dharma (deity)",
+      "type": "deity"
+    },
+    {
+      "id": "mb_adi_royal_mandavya",
+      "label": "Māṇḍavya",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_kunti",
+      "label": "Kuntī / Pṛthā",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_madri",
+      "label": "Mādrī",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_karna",
+      "label": "Karṇa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_gandhari",
+      "label": "Gāndhārī",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_ganga",
+      "label": "Gaṅgā",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_sun",
+      "label": "Sūrya (Sun deity)",
+      "type": "deity"
+    },
+    {
+      "id": "mb_adi_royal_son_v2_01",
+      "label": "Duryodhana · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v2_02",
+      "label": "Yuyutsu · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v2_03",
+      "label": "Duḥśāsana · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v2_04",
+      "label": "Duḥsaha · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v2_05",
+      "label": "Duḥśala · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v2_06",
+      "label": "Jalasaṃdha · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v2_07",
+      "label": "Sama · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v2_08",
+      "label": "Saha · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v3_01",
+      "label": "Vindā · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v3_02",
+      "label": "Anuvinda · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v3_03",
+      "label": "Durdharṣa · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v3_04",
+      "label": "Subāhu · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v3_05",
+      "label": "Duṣpradharṣaṇa · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v3_06",
+      "label": "Durmarṣaṇa · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v3_07",
+      "label": "Durmukha · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v3_08",
+      "label": "Duṣkarṇa · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v3_09",
+      "label": "Karṇa · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v4_01",
+      "label": "Viviṃśati · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v4_02",
+      "label": "Vikarṇa · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v4_03",
+      "label": "Jalasaṃdha · repeated roster reference; distinct identity unresolved",
+      "type": "unresolved_reference"
+    },
+    {
+      "id": "mb_adi_royal_son_v4_04",
+      "label": "Sulocana · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v4_05",
+      "label": "Citra · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v4_06",
+      "label": "Upacitra · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v4_07",
+      "label": "Citrākṣa · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v4_08",
+      "label": "Cārucitra · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v4_09",
+      "label": "Śarāsana · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v5_01",
+      "label": "Durmada · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v5_02",
+      "label": "Duṣpragāha · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v5_03",
+      "label": "Vivitsu · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v5_04",
+      "label": "Vikaṭa · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v5_05",
+      "label": "Sama · repeated roster reference; distinct identity unresolved",
+      "type": "unresolved_reference"
+    },
+    {
+      "id": "mb_adi_royal_son_v5_06",
+      "label": "Ūrṇanābha · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v5_07",
+      "label": "Sunābha · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v5_08",
+      "label": "Nanda · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v5_09",
+      "label": "Upananda · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v6_01",
+      "label": "Senāpati · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v6_02",
+      "label": "Suṣeṇa · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v6_03",
+      "label": "Kuṇḍodara · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v6_04",
+      "label": "Mahodara · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v6_05",
+      "label": "Citrabāṇa · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v6_06",
+      "label": "Citravarman · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v6_07",
+      "label": "Suvarman · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v6_08",
+      "label": "Durvimocana · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v7_01",
+      "label": "Ayobāhu · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v7_02",
+      "label": "Mahābāhu · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v7_03",
+      "label": "Citrāṅga · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v7_04",
+      "label": "Citrakuṇḍala · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v7_05",
+      "label": "Bhīmavega · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v7_06",
+      "label": "Bhīmabala · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v7_07",
+      "label": "Balākī · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v7_08",
+      "label": "Balavardhana · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v8_01",
+      "label": "Ugrāyudha · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v8_02",
+      "label": "Bhīmakarman · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v8_03",
+      "label": "Kanakāyu · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v8_04",
+      "label": "Dṛḍhāyudha · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v8_05",
+      "label": "Dṛḍhavarman · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v8_06",
+      "label": "Dṛḍhakṣatra · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v8_07",
+      "label": "Somakīrti · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v8_08",
+      "label": "Anūdara · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v9_01",
+      "label": "Dṛḍhasaṃdha · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v9_02",
+      "label": "Jarāsaṃdha · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v9_03",
+      "label": "Satyasaṃdha · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v9_04",
+      "label": "Sadaḥsuvāk · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v9_05",
+      "label": "Ugraśravas · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v9_06",
+      "label": "Aśvasena · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v9_07",
+      "label": "Senānī · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v9_08",
+      "label": "Duṣparājaya · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v10_01",
+      "label": "Aparājita · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v10_02",
+      "label": "Paṇḍitaka · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v10_03",
+      "label": "Viśālākṣa · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v10_04",
+      "label": "Durāvara · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v10_05",
+      "label": "Dṛḍhahasta · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v10_06",
+      "label": "Suhasta · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v10_07",
+      "label": "Vātavega · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v10_08",
+      "label": "Suvarcas · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v11_01",
+      "label": "Ādityaketu · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v11_02",
+      "label": "Bahvāśin · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v11_03",
+      "label": "Nāgadanta · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v11_04",
+      "label": "Ugrayāyin · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v11_05",
+      "label": "Kavacin · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v11_06",
+      "label": "Niṣaṅgin · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v11_07",
+      "label": "Pāśin · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v11_08",
+      "label": "Daṇḍadhāra · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v11_09",
+      "label": "Dhanurgraha · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v12_01",
+      "label": "Ugra · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v12_02",
+      "label": "Bhīmaratha · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v12_03",
+      "label": "Vīra · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v12_04",
+      "label": "Vīrabāhu · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v12_05",
+      "label": "Alolupa · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v12_06",
+      "label": "Abhaya · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v12_07",
+      "label": "Raudrakarman · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v12_08",
+      "label": "Dṛḍharatha 1 · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v12_09",
+      "label": "Dṛḍharatha 2 · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v12_10",
+      "label": "Dṛḍharatha 3 · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v13_01",
+      "label": "Anādhr̥ṣya · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v13_02",
+      "label": "Kuṇḍabhedin · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v13_03",
+      "label": "Virāvin · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v13_04",
+      "label": "Dīrghalocana · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v13_05",
+      "label": "Dīrghabāhu · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v13_06",
+      "label": "Mahābāhu · repeated roster reference; distinct identity unresolved",
+      "type": "unresolved_reference"
+    },
+    {
+      "id": "mb_adi_royal_son_v13_07",
+      "label": "Vyūḍhoru · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v13_08",
+      "label": "Kanakadhvaja · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v14_01",
+      "label": "Kuṇḍāśin · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v14_02",
+      "label": "Virajā · Dhṛtarāṣṭra’s son in the CE birth-order roster",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_dushala",
+      "label": "Duḥśalā · daughter of Dhṛtarāṣṭra and Gāndhārī",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_jayadratha",
+      "label": "Jayadratha",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "mb_bori_adi_ce",
+      "title": "Mahābhārata, Ādiparvan, BORI Critical Edition electronic text",
+      "url": "https://bombay.indology.info/mahabharata/text/UR/MBh01.txt",
+      "kind": "primary Sanskrit critical text",
+      "edition": "Bhandarkar Oriental Research Institute Critical Edition, Unicode Roman electronic text (1999; current file updated 2026-08-22)",
+      "locator": "Ādiparvan 1.93.43–44; 1.95.1–13; 1.96.47–58; 1.97–1.108",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "MBAR001",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_satyavati",
+      "predicate": "wife_of",
+      "object": "mb_adi_royal_shantanu",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.95.1",
+      "summary": "Satyavatī is installed in Śāṃtanu’s household as his wife.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The verse follows their marriage and identifies her as the woman Śāṃtanu has married.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR002",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_chitrangada",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_shantanu",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.95.2",
+      "summary": "Citrāṅgada is born to Śāṃtanu and Satyavatī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR003",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_chitrangada",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_satyavati",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.95.2",
+      "summary": "Citrāṅgada is born to Śāṃtanu and Satyavatī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR004",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_vichitravirya",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_shantanu",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.95.3",
+      "summary": "Vicitravīrya is born to Śāṃtanu and Satyavatī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR005",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_vichitravirya",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_satyavati",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.95.3",
+      "summary": "Vicitravīrya is born to Śāṃtanu and Satyavatī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR006",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_bhishma",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_shantanu",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.93.44",
+      "summary": "Satyavatī identifies Bhīṣma as Śāṃtanu’s son and heir to the family’s memorial line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Bhīṣma’s mother is not asserted here.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR007",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_bhishma",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_ganga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.93.43–44",
+      "summary": "Bhīṣma is referred to as Gāṅgeya, the son of Gaṅgā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Gaṅgā is not otherwise included as a node in this batch.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR008",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_ambika",
+      "predicate": "wife_of",
+      "object": "mb_adi_royal_vichitravirya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.96.52–53",
+      "summary": "Ambikā is given in marriage to Vicitravīrya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR009",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_ambalika",
+      "predicate": "wife_of",
+      "object": "mb_adi_royal_vichitravirya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.96.52–53",
+      "summary": "Ambālikā is given in marriage to Vicitravīrya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR010",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_amba",
+      "predicate": "chosen_husband",
+      "object": "mb_adi_royal_shalva",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.96.47–49",
+      "summary": "Ambā says she had chosen Śālva as her husband before the svayaṃvara.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR011",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_vyasa",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_parashara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.99.6–14",
+      "summary": "Satyavatī recounts that Parāśara fathered her son Kṛṣṇa Dvaipāyana, later called Vyāsa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR012",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_vyasa",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_satyavati",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.99.12–15",
+      "summary": "Satyavatī calls Dvaipāyana her son, born to her before her marriage to Śāṃtanu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR013",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_vyasa",
+      "predicate": "maternal_half_brother_of",
+      "object": "mb_adi_royal_vichitravirya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.99.28–30",
+      "summary": "Satyavatī calls Vyāsa her first son and Vicitravīrya her younger son, and says Vyāsa is Vicitravīrya’s brother through her.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR014",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_dhritarashtra",
+      "predicate": "niyoga_begotten_son_of",
+      "object": "mb_adi_royal_vyasa",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.100.4–13",
+      "summary": "Vyāsa begets Dhṛtarāṣṭra with Vicitravīrya’s widow Ambikā under Satyavatī’s niyoga.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "This is the text’s niyoga conception, distinct from the dynastic/legal fatherhood of Vicitravīrya’s field.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR015",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_dhritarashtra",
+      "predicate": "mother_is",
+      "object": "mb_adi_royal_ambika",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.100.4–13",
+      "summary": "Ambikā is Dhṛtarāṣṭra’s mother in the niyoga account.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR016",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_dhritarashtra",
+      "predicate": "dynastic_heir_in_field_of",
+      "object": "mb_adi_royal_vichitravirya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.99.34–38; 1.100.4–13",
+      "summary": "Vyāsa is asked to beget heirs in Vicitravīrya’s field; Dhṛtarāṣṭra is born from that arrangement.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Records the text’s dynastic field relationship, not biological paternity.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR017",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_pandu",
+      "predicate": "niyoga_begotten_son_of",
+      "object": "mb_adi_royal_vyasa",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.100.14–21",
+      "summary": "Vyāsa begets Pāṇḍu with Vicitravīrya’s widow Ambālikā under Satyavatī’s niyoga.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Distinguish biological begetting from dynastic/legal fatherhood in Vicitravīrya’s field.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR018",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_pandu",
+      "predicate": "mother_is",
+      "object": "mb_adi_royal_ambalika",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.100.14–21",
+      "summary": "Ambālikā is Pāṇḍu’s mother in the niyoga account.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR019",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_pandu",
+      "predicate": "dynastic_heir_in_field_of",
+      "object": "mb_adi_royal_vichitravirya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.99.34–38; 1.100.14–21",
+      "summary": "Pāṇḍu is born through the niyoga for heirs in Vicitravīrya’s dynastic field.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Not an assertion of biological paternity.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR020",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_vidura",
+      "predicate": "niyoga_begotten_son_of",
+      "object": "mb_adi_royal_vyasa",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.100.22–27",
+      "summary": "Vyāsa begets Vidura with the widows’ unnamed attendant under Satyavatī’s niyoga.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR021",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_vidura",
+      "predicate": "rebirth_of",
+      "object": "mb_adi_royal_dharma",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.100.28–33; 1.101.10–17",
+      "summary": "The narrative identifies Vidura as Dharma reborn after Māṇḍavya’s curse.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "A rebirth identity claim, not biological parentage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR022",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_mandavya",
+      "predicate": "cursed",
+      "object": "mb_adi_royal_dharma",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.101.10–17",
+      "summary": "Māṇḍavya curses Dharma to be born among humans as a śūdra after the unjust punishment.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR023",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_pandu",
+      "predicate": "husband_of",
+      "object": "mb_adi_royal_kunti",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.105.1–4",
+      "summary": "Pāṇḍu marries Kuntī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR024",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_pandu",
+      "predicate": "husband_of",
+      "object": "mb_adi_royal_madri",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.105.1–4",
+      "summary": "Pāṇḍu marries Mādrī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR025",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_karna",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_kunti",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.104.1–20",
+      "summary": "Kuntī bears Karṇa after invoking the Sun with Durvāsas’s mantra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Karṇa’s divine begetting is narrated separately; no human father is inferred.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR026",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_karna",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_sun",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.104.1–20",
+      "summary": "Karṇa is conceived through Kuntī’s invocation of the Sun.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Add the deity node under the name used by the CE.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR027",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_dhritarashtra",
+      "predicate": "husband_of",
+      "object": "mb_adi_royal_gandhari",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.107.4–9",
+      "summary": "Gāndhārī is identified as Dhṛtarāṣṭra’s wife.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR028",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v2_01",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.2",
+      "summary": "Duryodhana is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR029",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v2_02",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.2",
+      "summary": "Yuyutsu is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR030",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v2_03",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.2",
+      "summary": "Duḥśāsana is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR031",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v2_04",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.2",
+      "summary": "Duḥsaha is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR032",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v2_05",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.2",
+      "summary": "Duḥśala is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR033",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v2_06",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.2",
+      "summary": "Jalasaṃdha is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR034",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v2_07",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.2",
+      "summary": "Sama is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR035",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v2_08",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.2",
+      "summary": "Saha is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR036",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v3_01",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.3",
+      "summary": "Vindā is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR037",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v3_02",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.3",
+      "summary": "Anuvinda is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR038",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v3_03",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.3",
+      "summary": "Durdharṣa is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR039",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v3_04",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.3",
+      "summary": "Subāhu is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR040",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v3_05",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.3",
+      "summary": "Duṣpradharṣaṇa is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR041",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v3_06",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.3",
+      "summary": "Durmarṣaṇa is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR042",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v3_07",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.3",
+      "summary": "Durmukha is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR043",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v3_08",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.3",
+      "summary": "Duṣkarṇa is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR044",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v3_09",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.3",
+      "summary": "Karṇa is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR045",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v4_01",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.4",
+      "summary": "Viviṃśati is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR046",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v4_02",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.4",
+      "summary": "Vikarṇa is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR047",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v4_03",
+      "predicate": "roster_reference_to_son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.4",
+      "summary": "The CE repeats the name Jalasaṃdha in Dhṛtarāṣṭra’s sons roster.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "This second occurrence may be the same person or a distinct son with the same name; it is kept as a source reference rather than counted as a separate person.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR048",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v4_04",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.4",
+      "summary": "Sulocana is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR049",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v4_05",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.4",
+      "summary": "Citra is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR050",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v4_06",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.4",
+      "summary": "Upacitra is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR051",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v4_07",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.4",
+      "summary": "Citrākṣa is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR052",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v4_08",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.4",
+      "summary": "Cārucitra is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR053",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v4_09",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.4",
+      "summary": "Śarāsana is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR054",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v5_01",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.5",
+      "summary": "Durmada is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR055",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v5_02",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.5",
+      "summary": "Duṣpragāha is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR056",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v5_03",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.5",
+      "summary": "Vivitsu is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR057",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v5_04",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.5",
+      "summary": "Vikaṭa is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR058",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v5_05",
+      "predicate": "roster_reference_to_son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.5",
+      "summary": "The CE repeats the name Sama in Dhṛtarāṣṭra’s sons roster.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "This second occurrence may be the same person or a distinct son with the same name; it is kept as a source reference rather than counted as a separate person.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR059",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v5_06",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.5",
+      "summary": "Ūrṇanābha is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR060",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v5_07",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.5",
+      "summary": "Sunābha is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR061",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v5_08",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.5",
+      "summary": "Nanda is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR062",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v5_09",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.5",
+      "summary": "Upananda is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR063",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v6_01",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.6",
+      "summary": "Senāpati is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR064",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v6_02",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.6",
+      "summary": "Suṣeṇa is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR065",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v6_03",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.6",
+      "summary": "Kuṇḍodara is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR066",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v6_04",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.6",
+      "summary": "Mahodara is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR067",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v6_05",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.6",
+      "summary": "Citrabāṇa is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR068",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v6_06",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.6",
+      "summary": "Citravarman is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR069",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v6_07",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.6",
+      "summary": "Suvarman is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR070",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v6_08",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.6",
+      "summary": "Durvimocana is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR071",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v7_01",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.7",
+      "summary": "Ayobāhu is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR072",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v7_02",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.7",
+      "summary": "Mahābāhu is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR073",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v7_03",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.7",
+      "summary": "Citrāṅga is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR074",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v7_04",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.7",
+      "summary": "Citrakuṇḍala is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR075",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v7_05",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.7",
+      "summary": "Bhīmavega is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR076",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v7_06",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.7",
+      "summary": "Bhīmabala is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR077",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v7_07",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.7",
+      "summary": "Balākī is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR078",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v7_08",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.7",
+      "summary": "Balavardhana is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR079",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v8_01",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.8",
+      "summary": "Ugrāyudha is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR080",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v8_02",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.8",
+      "summary": "Bhīmakarman is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR081",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v8_03",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.8",
+      "summary": "Kanakāyu is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR082",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v8_04",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.8",
+      "summary": "Dṛḍhāyudha is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR083",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v8_05",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.8",
+      "summary": "Dṛḍhavarman is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR084",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v8_06",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.8",
+      "summary": "Dṛḍhakṣatra is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR085",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v8_07",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.8",
+      "summary": "Somakīrti is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR086",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v8_08",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.8",
+      "summary": "Anūdara is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR087",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v9_01",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.9",
+      "summary": "Dṛḍhasaṃdha is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR088",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v9_02",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.9",
+      "summary": "Jarāsaṃdha is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR089",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v9_03",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.9",
+      "summary": "Satyasaṃdha is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR090",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v9_04",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.9",
+      "summary": "Sadaḥsuvāk is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR091",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v9_05",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.9",
+      "summary": "Ugraśravas is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR092",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v9_06",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.9",
+      "summary": "Aśvasena is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR093",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v9_07",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.9",
+      "summary": "Senānī is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR094",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v9_08",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.9",
+      "summary": "Duṣparājaya is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR095",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v10_01",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.10",
+      "summary": "Aparājita is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR096",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v10_02",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.10",
+      "summary": "Paṇḍitaka is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR097",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v10_03",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.10",
+      "summary": "Viśālākṣa is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR098",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v10_04",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.10",
+      "summary": "Durāvara is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR099",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v10_05",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.10",
+      "summary": "Dṛḍhahasta is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR100",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v10_06",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.10",
+      "summary": "Suhasta is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR101",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v10_07",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.10",
+      "summary": "Vātavega is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR102",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v10_08",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.10",
+      "summary": "Suvarcas is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR103",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v11_01",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.11",
+      "summary": "Ādityaketu is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR104",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v11_02",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.11",
+      "summary": "Bahvāśin is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR105",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v11_03",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.11",
+      "summary": "Nāgadanta is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR106",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v11_04",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.11",
+      "summary": "Ugrayāyin is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR107",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v11_05",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.11",
+      "summary": "Kavacin is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR108",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v11_06",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.11",
+      "summary": "Niṣaṅgin is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR109",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v11_07",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.11",
+      "summary": "Pāśin is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR110",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v11_08",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.11",
+      "summary": "Daṇḍadhāra is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR111",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v11_09",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.11",
+      "summary": "Dhanurgraha is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR112",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v12_01",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.12",
+      "summary": "Ugra is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR113",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v12_02",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.12",
+      "summary": "Bhīmaratha is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR114",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v12_03",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.12",
+      "summary": "Vīra is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR115",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v12_04",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.12",
+      "summary": "Vīrabāhu is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR116",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v12_05",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.12",
+      "summary": "Alolupa is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR117",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v12_06",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.12",
+      "summary": "Abhaya is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR118",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v12_07",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.12",
+      "summary": "Raudrakarman is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR119",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v12_08",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.12",
+      "summary": "Dṛḍharatha 1 is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR120",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v12_09",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.12",
+      "summary": "Dṛḍharatha 2 is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR121",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v12_10",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.12",
+      "summary": "Dṛḍharatha 3 is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR122",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v13_01",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.13",
+      "summary": "Anādhr̥ṣya is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR123",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v13_02",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.13",
+      "summary": "Kuṇḍabhedin is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR124",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v13_03",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.13",
+      "summary": "Virāvin is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR125",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v13_04",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.13",
+      "summary": "Dīrghalocana is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR126",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v13_05",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.13",
+      "summary": "Dīrghabāhu is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR127",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v13_06",
+      "predicate": "roster_reference_to_son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.13",
+      "summary": "The CE repeats the name Mahābāhu in Dhṛtarāṣṭra’s sons roster.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "This second occurrence may be the same person or a distinct son with the same name; it is kept as a source reference rather than counted as a separate person.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR128",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v13_07",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.13",
+      "summary": "Vyūḍhoru is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR129",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v13_08",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.13",
+      "summary": "Kanakadhvaja is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR130",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v14_01",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.14",
+      "summary": "Kuṇḍāśin is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR131",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v14_02",
+      "predicate": "son_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.14",
+      "summary": "Virajā is named in the sequence of Dhṛtarāṣṭra’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The CE asks for Dhṛtarāṣṭra’s sons by name and says the roster follows their birth order (1.108.1, 15). Paired dual forms and the triple Dṛḍharatha are represented as distinct people by Sanskrit number; repeated exact names are handled as unresolved references.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR132",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_dushala",
+      "predicate": "daughter_of",
+      "object": "mb_adi_royal_dhritarashtra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.107.34–37; 1.108.14",
+      "summary": "Duḥśalā is the daughter counted alongside Dhṛtarāṣṭra’s 101 sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR133",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_dushala",
+      "predicate": "daughter_of",
+      "object": "mb_adi_royal_gandhari",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.107.34–37",
+      "summary": "Duḥśalā is born with Gāndhārī’s hundred sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBAR134",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_dushala",
+      "predicate": "wife_of",
+      "object": "mb_adi_royal_jayadratha",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.108.18",
+      "summary": "Dhṛtarāṣṭra gives Duḥśalā in marriage to Jayadratha, with Śakuni’s approval.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The claim records the marriage relation, not a new parentage inference.",
+      "original_language_reviewed": true
+    }
+  ],
+  "search_log": [
+    {
+      "query": "BORI Mahābhārata Critical Edition Ādiparvan 1.95–1.108 Kuru succession and Dhṛtarāṣṭra children",
+      "outcome": "Read the BORI CE Unicode Roman e-text at verses 1.95–1.108, checking name spellings, birth-order entries, and direct kinship or niyoga statements. Disambiguated same-spelling roster entries by their distinct positions because the CE itself says the list is in birth order."
+    }
+  ],
+  "notes": [
+    "Batch is limited to BORI CE Ādiparvan 1.95–1.108 and is separate from other MB batches.",
+    "The CE states that Dhṛtarāṣṭra has 101 sons and one daughter (1.107.1, 34–37; 1.108.14). The roster contains 104 grammatical person slots when all dual and triple forms are expanded; three exact names recur (Jalasaṃdha, Sama, Mahābāhu). The batch records 101 person nodes by preserving the roster’s stated total and retains the three repeat positions as unresolved references, since each might name the same son again or a distinct homonymous son. Dual forms (Vindānuvinda, Citropacitra, Nandopananda, Ugrayāyin) and the triple Dṛḍharatha are split according to Sanskrit number; transliterated solo forms are editorial segmentation.",
+    "The first three royal princes produced through Vyāsa’s niyoga are represented as biologically begotten by Vyāsa and born to their respective mothers, while Vicitravīrya is recorded only as dynastic field/lineage reference. No biological fatherhood is inferred for Vicitravīrya.",
+    "Yuyutsu’s mother and the widows’ attendant remain unnamed; no personal name is fabricated. Karṇa is a child of Kuntī and Sūrya in the invoked-deity episode."
+  ]
+}

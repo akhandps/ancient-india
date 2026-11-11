@@ -1,0 +1,1784 @@
+{
+  "nodes": [
+    {
+      "id": "vp21_shatanika_parikshit",
+      "label": "Śatānīka · Parīkṣit branch · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_yajnavalkya",
+      "label": "Yājñavalkya · teacher · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_shaunaka",
+      "label": "Śaunaka · teacher · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_ashvamedhadatta",
+      "label": "Aśvamedhadatta · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_adhisimakrishna",
+      "label": "Adhisīmakṛṣṇa · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_niscaknu",
+      "label": "Niścaknu · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_ushna",
+      "label": "Uṣṇa · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_citraratha",
+      "label": "Citraratha · Parīkṣit branch · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_suchiratha",
+      "label": "Śuciratha · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_vrishnimant",
+      "label": "Vṛṣṇimant · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_susena",
+      "label": "Suṣeṇa · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_sunitha",
+      "label": "Sunītha · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_rca",
+      "label": "Ṛca · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_nrichakshus",
+      "label": "Nṛcakṣus · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_sukhibala",
+      "label": "Sukhibala · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_pariplava",
+      "label": "Pariplava · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_sunaya",
+      "label": "Sunaya · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_medhavin",
+      "label": "Medhāvin · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_nripanjaya",
+      "label": "Nṛpaṃjaya · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_mrdu",
+      "label": "Mṛdu · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_tigma",
+      "label": "Tigma · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_brihadratha_future",
+      "label": "Bṛhadratha · Parīkṣit branch · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_vasudana",
+      "label": "Vasudāna · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_shatanika_later",
+      "label": "Śatānīka · Vasudāna branch · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_udayana",
+      "label": "Udayana · Parīkṣit branch · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_ahinara",
+      "label": "Ahīnara · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_dandapani",
+      "label": "Daṇḍapāṇi · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_niramitra_future",
+      "label": "Niramitra · Parīkṣit branch · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp21_kshemaka",
+      "label": "Kṣemaka · Viṣṇu Purāṇa 4.21 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_brihadbala",
+      "label": "Bṛhadbala · Ikṣvāku branch · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_brihatkshana",
+      "label": "Bṛhatkṣaṇa · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_urukshaya",
+      "label": "Urukṣaya · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_vatsa",
+      "label": "Vatsa · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_vatsavyuha",
+      "label": "Vatsavyūha · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_prativyoma",
+      "label": "Prativyoma · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_divakara",
+      "label": "Divākara · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_sahadeva_ikshvaku",
+      "label": "Sahadeva · Bṛhadbala branch · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_brihadasva",
+      "label": "Bṛhadaśva · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_bhanuratha",
+      "label": "Bhānuratha · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_pratitashva",
+      "label": "Pratītāśva · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_supratika",
+      "label": "Supratīka · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_marudeva",
+      "label": "Marudeva · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_sunakshatra",
+      "label": "Sunakṣatra · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_kinnara",
+      "label": "Kiṃnara · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_antariksha",
+      "label": "Antarikṣa · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_suvarna",
+      "label": "Suvarṇa · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_amitrajit",
+      "label": "Amitrajit · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_brihadraja",
+      "label": "Bṛhadrāja · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_dharmin",
+      "label": "Dharmin · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_krtanjaya",
+      "label": "Kṛtaṃjaya · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_rananjaya",
+      "label": "Raṇaṃjaya · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_sanjaya_ikshvaku",
+      "label": "Saṃjaya · Bṛhadbala branch · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_shakya",
+      "label": "Śākya · Bṛhadbala branch · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_shuddhodana",
+      "label": "Śuddhodana · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_rahula",
+      "label": "Rāhula · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_prasenajit",
+      "label": "Prasenajit · Bṛhadbala branch · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_kshudraka",
+      "label": "Kṣudraka · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_kundaka",
+      "label": "Kuṇḍaka · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_suratha_ikshvaku",
+      "label": "Suratha · Bṛhadbala branch · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp22_sumitra_ikshvaku",
+      "label": "Sumitra · Bṛhadbala branch · Viṣṇu Purāṇa 4.22 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_shruta_vant",
+      "label": "Śrutavant · Magadha branch · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_ayutayu_mag",
+      "label": "Ayutāyu · Magadha branch · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_niramitra_mag",
+      "label": "Niramitra · Magadha branch · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_sukshatra",
+      "label": "Sukṣatra · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_brihatkarman_mag",
+      "label": "Bṛhatkarman · Magadha branch · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_senajit_mag",
+      "label": "Senajit · Magadha branch · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_shrutanjaya",
+      "label": "Śrutaṃjaya · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_vipra",
+      "label": "Vipra · Magadha branch · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_shuchinama",
+      "label": "Śucināman · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_kshemya_mag",
+      "label": "Kṣemya · Magadha branch · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_suvrata",
+      "label": "Suvrata · Magadha branch · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_dharma_mag",
+      "label": "Dharma · Magadha branch · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_sushrama",
+      "label": "Suśrama · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_drdhasena",
+      "label": "Dṛḍhasena · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_sumati_mag",
+      "label": "Sumati · Magadha branch · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_subala",
+      "label": "Subala · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_sunita",
+      "label": "Sunīta · Magadha branch · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_satyajit",
+      "label": "Satyajit · Magadha branch · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_visvajit_mag",
+      "label": "Viśvajit · Magadha branch · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    },
+    {
+      "id": "vp23_ripunjaya_mag",
+      "label": "Ripuṃjaya · Magadha branch · Viṣṇu Purāṇa 4.23 future-lineage witness",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "vp4_21_anu",
+      "title": "The Viṣṇu Purāṇa, Book 4, chapter 21: The future descendants of Parīkṣit",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 21",
+      "locator": "4.21.1–4",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_22_anu",
+      "title": "The Viṣṇu Purāṇa, Book 4, chapter 22: The future descendants of Bṛhadbala",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 22",
+      "locator": "4.22.1–13",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_23_anu",
+      "title": "The Viṣṇu Purāṇa, Book 4, chapter 23: The future descendants of Bṛhadratha",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 23",
+      "locator": "4.23.1–3",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_21_sanskrit",
+      "title": "Viṣṇupurāṇa, Aṃśa 4, adhyāya 21 (Sanskrit text and verse translation)",
+      "url": "https://eternalraga.com/en/scriptures/puranas/vishnu-purana/4/21",
+      "kind": "primary_text_original_language_with_translation",
+      "edition": "Verse-indexed Sanskrit and English rendering; checked segmentation and name/father sequence against ANU",
+      "locator": "4.21.1–4",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_22_sanskrit",
+      "title": "Viṣṇupurāṇa, Aṃśa 4, adhyāya 22 (Sanskrit text and verse translation)",
+      "url": "https://eternalraga.com/en/scriptures/puranas/vishnu-purana/4/22",
+      "kind": "primary_text_original_language_with_translation",
+      "edition": "Verse-indexed Sanskrit and English rendering; checked sequence and variant names against ANU",
+      "locator": "4.22.1–13",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_23_sanskrit",
+      "title": "Viṣṇupurāṇa, Aṃśa 4, adhyāya 23 (Sanskrit text and verse translation)",
+      "url": "https://eternalraga.com/en/scriptures/puranas/vishnu-purana/4/23",
+      "kind": "primary_text_original_language_with_translation",
+      "edition": "Verse-indexed Sanskrit and English rendering; checked the future Magadha succession against ANU",
+      "locator": "4.23.1–3",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "GFK001",
+      "facet": "puranic",
+      "subject": "vp20_parikshit_abhimanyu",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp20_janamejaya_parikshit",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.1",
+      "summary": "Parāśara predicts that Parīkṣit will have Janamejaya as one of four sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The four sons are already represented from Viṣṇu Purāṇa 4.20; the same nodes are reused here for the chapter 21 prediction.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK002",
+      "facet": "puranic",
+      "subject": "vp20_parikshit_abhimanyu",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp20_shrutasena_parikshit",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.1",
+      "summary": "Parāśara predicts that Parīkṣit will have Śrutasena as one of four sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The four sons are already represented from Viṣṇu Purāṇa 4.20; the same nodes are reused here for the chapter 21 prediction.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK003",
+      "facet": "puranic",
+      "subject": "vp20_parikshit_abhimanyu",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp20_ugrasena_parikshit",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.1",
+      "summary": "Parāśara predicts that Parīkṣit will have Ugrasena as one of four sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The four sons are already represented from Viṣṇu Purāṇa 4.20; the same nodes are reused here for the chapter 21 prediction.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK004",
+      "facet": "puranic",
+      "subject": "vp20_parikshit_abhimanyu",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp20_bhimasena_parikshit",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.1",
+      "summary": "Parāśara predicts that Parīkṣit will have Bhīmasena as one of four sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The four sons are already represented from Viṣṇu Purāṇa 4.20; the same nodes are reused here for the chapter 21 prediction.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK005",
+      "facet": "puranic",
+      "subject": "vp20_parikshit_abhimanyu",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_shatanika_parikshit",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.2",
+      "summary": "In the ANU translation, Śatānīka is described as another son of Parīkṣit.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The ANU translation differs from the verse-indexed Sanskrit at 4.21.2, which says “Janamejaya’s son will be Śatānīka.” Both readings are preserved in this note; this graph edge follows ANU as requested.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK006",
+      "facet": "puranic",
+      "subject": "vp21_shatanika_parikshit",
+      "predicate": "studies_veda_under",
+      "object": "vp21_yajnavalkya",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.2",
+      "summary": "Śatānīka is predicted to study the Vedas under Yājñavalkya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK007",
+      "facet": "puranic",
+      "subject": "vp21_shatanika_parikshit",
+      "predicate": "receives_weapons_from",
+      "object": "vp19end_kripa",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.2",
+      "summary": "Śatānīka is predicted to obtain weapons from Kṛpa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK008",
+      "facet": "puranic",
+      "subject": "vp21_shatanika_parikshit",
+      "predicate": "receives_self_knowledge_instruction_from",
+      "object": "vp21_shaunaka",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.2",
+      "summary": "Śaunaka is named as the teacher through whose instruction Śatānīka gains knowledge of the Self.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK009",
+      "facet": "puranic",
+      "subject": "vp21_shatanika_parikshit",
+      "predicate": "is_predicted_to_attain_liberation_under_guidance_of",
+      "object": "vp21_shaunaka",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.2",
+      "summary": "The prophecy says Śatānīka will attain final liberation after Śaunaka’s instruction.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK010",
+      "facet": "puranic",
+      "subject": "vp21_shatanika_parikshit",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_ashvamedhadatta",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Aśvamedhadatta is named as the predicted son of Śatānīka · Parīkṣit branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK011",
+      "facet": "puranic",
+      "subject": "vp21_ashvamedhadatta",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_adhisimakrishna",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Adhisīmakṛṣṇa is named as the predicted son of Aśvamedhadatta.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK012",
+      "facet": "puranic",
+      "subject": "vp21_adhisimakrishna",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_niscaknu",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Niścaknu is named as the predicted son of Adhisīmakṛṣṇa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK013",
+      "facet": "puranic",
+      "subject": "vp21_niscaknu",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_ushna",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Uṣṇa is named as the predicted son of Niścaknu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK014",
+      "facet": "puranic",
+      "subject": "vp21_ushna",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_citraratha",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Citraratha · Parīkṣit branch is named as the predicted son of Uṣṇa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK015",
+      "facet": "puranic",
+      "subject": "vp21_citraratha",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_suchiratha",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Śuciratha is named as the predicted son of Citraratha · Parīkṣit branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK016",
+      "facet": "puranic",
+      "subject": "vp21_suchiratha",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_vrishnimant",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Vṛṣṇimant is named as the predicted son of Śuciratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK017",
+      "facet": "puranic",
+      "subject": "vp21_vrishnimant",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_susena",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Suṣeṇa is named as the predicted son of Vṛṣṇimant.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK018",
+      "facet": "puranic",
+      "subject": "vp21_susena",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_sunitha",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Sunītha is named as the predicted son of Suṣeṇa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK019",
+      "facet": "puranic",
+      "subject": "vp21_sunitha",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_rca",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Ṛca is named as the predicted son of Sunītha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK020",
+      "facet": "puranic",
+      "subject": "vp21_rca",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_nrichakshus",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Nṛcakṣus is named as the predicted son of Ṛca.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK021",
+      "facet": "puranic",
+      "subject": "vp21_nrichakshus",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_sukhibala",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Sukhibala is named as the predicted son of Nṛcakṣus.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK022",
+      "facet": "puranic",
+      "subject": "vp21_sukhibala",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_pariplava",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Pariplava is named as the predicted son of Sukhibala.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK023",
+      "facet": "puranic",
+      "subject": "vp21_pariplava",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_sunaya",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Sunaya is named as the predicted son of Pariplava.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK024",
+      "facet": "puranic",
+      "subject": "vp21_sunaya",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_medhavin",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Medhāvin is named as the predicted son of Sunaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK025",
+      "facet": "puranic",
+      "subject": "vp21_medhavin",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_nripanjaya",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Nṛpaṃjaya is named as the predicted son of Medhāvin.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK026",
+      "facet": "puranic",
+      "subject": "vp21_nripanjaya",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_mrdu",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Mṛdu is named as the predicted son of Nṛpaṃjaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK027",
+      "facet": "puranic",
+      "subject": "vp21_mrdu",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_tigma",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Tigma is named as the predicted son of Mṛdu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK028",
+      "facet": "puranic",
+      "subject": "vp21_tigma",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_brihadratha_future",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Bṛhadratha · Parīkṣit branch is named as the predicted son of Tigma.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK029",
+      "facet": "puranic",
+      "subject": "vp21_brihadratha_future",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_vasudana",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Vasudāna is named as the predicted son of Bṛhadratha · Parīkṣit branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK030",
+      "facet": "puranic",
+      "subject": "vp21_vasudana",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_shatanika_later",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.3",
+      "summary": "Śatānīka · Vasudāna branch is named as the predicted son of Vasudāna.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The named Śatānīka here is a later descendant of Vasudāna, distinct from Parīkṣit’s Śatānīka and Nakula’s son Śatānika.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK031",
+      "facet": "puranic",
+      "subject": "vp21_shatanika_later",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_udayana",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.4",
+      "summary": "Udayana · Parīkṣit branch is named as the predicted son of Śatānīka · Vasudāna branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK032",
+      "facet": "puranic",
+      "subject": "vp21_udayana",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_ahinara",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.4",
+      "summary": "Ahīnara is named as the predicted son of Udayana · Parīkṣit branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK033",
+      "facet": "puranic",
+      "subject": "vp21_ahinara",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_dandapani",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.4",
+      "summary": "Daṇḍapāṇi is named as the predicted son of Ahīnara.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK034",
+      "facet": "puranic",
+      "subject": "vp21_dandapani",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_niramitra_future",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.4",
+      "summary": "Niramitra · Parīkṣit branch is named as the predicted son of Daṇḍapāṇi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK035",
+      "facet": "puranic",
+      "subject": "vp21_niramitra_future",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp21_kshemaka",
+      "source": "vp4_21_anu",
+      "locator": "Viṣṇu Purāṇa 4.21.4",
+      "summary": "Kṣemaka is named as the predicted son of Niramitra · Parīkṣit branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK036",
+      "facet": "puranic",
+      "subject": "vp22_brihadbala",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_brihatkshana",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.2",
+      "summary": "Bṛhatkṣaṇa is named as the future son of Bṛhadbala · Ikṣvāku branch in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK037",
+      "facet": "puranic",
+      "subject": "vp22_brihatkshana",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_urukshaya",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.3",
+      "summary": "Urukṣaya is named as the future son of Bṛhatkṣaṇa in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "ANU’s lineage inserts Vatsa between Urukṣaya and Vatsavyūha; the linked Sanskrit verse-indexed text has a different segmentation/name sequence. This claim follows the ANU translation.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK038",
+      "facet": "puranic",
+      "subject": "vp22_urukshaya",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_vatsa",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.3",
+      "summary": "Vatsa is named as the future son of Urukṣaya in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "ANU’s lineage inserts Vatsa between Urukṣaya and Vatsavyūha; the linked Sanskrit verse-indexed text has a different segmentation/name sequence. This claim follows the ANU translation.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK039",
+      "facet": "puranic",
+      "subject": "vp22_vatsa",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_vatsavyuha",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.3",
+      "summary": "Vatsavyūha is named as the future son of Vatsa in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "ANU’s lineage inserts Vatsa between Urukṣaya and Vatsavyūha; the linked Sanskrit verse-indexed text has a different segmentation/name sequence. This claim follows the ANU translation.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK040",
+      "facet": "puranic",
+      "subject": "vp22_vatsavyuha",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_prativyoma",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.3",
+      "summary": "Prativyoma is named as the future son of Vatsavyūha in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK041",
+      "facet": "puranic",
+      "subject": "vp22_prativyoma",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_divakara",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.3",
+      "summary": "Divākara is named as the future son of Prativyoma in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK042",
+      "facet": "puranic",
+      "subject": "vp22_divakara",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_sahadeva_ikshvaku",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.4",
+      "summary": "Sahadeva · Bṛhadbala branch is named as the future son of Divākara in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This Sahadeva is in the future Ikṣvāku line, distinct from the Pāṇḍava and Magadha Sahadevas in earlier chapters.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK043",
+      "facet": "puranic",
+      "subject": "vp22_sahadeva_ikshvaku",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_brihadasva",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.4",
+      "summary": "Bṛhadaśva is named as the future son of Sahadeva · Bṛhadbala branch in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK044",
+      "facet": "puranic",
+      "subject": "vp22_brihadasva",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_bhanuratha",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.4",
+      "summary": "Bhānuratha is named as the future son of Bṛhadaśva in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK045",
+      "facet": "puranic",
+      "subject": "vp22_bhanuratha",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_pratitashva",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.4",
+      "summary": "Pratītāśva is named as the future son of Bhānuratha in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK046",
+      "facet": "puranic",
+      "subject": "vp22_pratitashva",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_supratika",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.4",
+      "summary": "Supratīka is named as the future son of Pratītāśva in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK047",
+      "facet": "puranic",
+      "subject": "vp22_supratika",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_marudeva",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.4",
+      "summary": "Marudeva is named as the future son of Supratīka in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK048",
+      "facet": "puranic",
+      "subject": "vp22_marudeva",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_sunakshatra",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.4",
+      "summary": "Sunakṣatra is named as the future son of Marudeva in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK049",
+      "facet": "puranic",
+      "subject": "vp22_sunakshatra",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_kinnara",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.4",
+      "summary": "Kiṃnara is named as the future son of Sunakṣatra in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK050",
+      "facet": "puranic",
+      "subject": "vp22_kinnara",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_antariksha",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.5",
+      "summary": "Antarikṣa is named as the future son of Kiṃnara in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK051",
+      "facet": "puranic",
+      "subject": "vp22_antariksha",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_suvarna",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.5",
+      "summary": "Suvarṇa is named as the future son of Antarikṣa in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK052",
+      "facet": "puranic",
+      "subject": "vp22_suvarna",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_amitrajit",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.5",
+      "summary": "Amitrajit is named as the future son of Suvarṇa in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK053",
+      "facet": "puranic",
+      "subject": "vp22_amitrajit",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_brihadraja",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.6",
+      "summary": "Bṛhadrāja is named as the future son of Amitrajit in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK054",
+      "facet": "puranic",
+      "subject": "vp22_brihadraja",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_dharmin",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.6",
+      "summary": "Dharmin is named as the future son of Bṛhadrāja in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK055",
+      "facet": "puranic",
+      "subject": "vp22_dharmin",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_krtanjaya",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.6",
+      "summary": "Kṛtaṃjaya is named as the future son of Dharmin in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK056",
+      "facet": "puranic",
+      "subject": "vp22_krtanjaya",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_rananjaya",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.7",
+      "summary": "Raṇaṃjaya is named as the future son of Kṛtaṃjaya in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK057",
+      "facet": "puranic",
+      "subject": "vp22_rananjaya",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_sanjaya_ikshvaku",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.8",
+      "summary": "Saṃjaya · Bṛhadbala branch is named as the future son of Raṇaṃjaya in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK058",
+      "facet": "puranic",
+      "subject": "vp22_sanjaya_ikshvaku",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_shakya",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.8",
+      "summary": "Śākya · Bṛhadbala branch is named as the future son of Saṃjaya · Bṛhadbala branch in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK059",
+      "facet": "puranic",
+      "subject": "vp22_shakya",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_shuddhodana",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.8",
+      "summary": "Śuddhodana is named as the future son of Śākya · Bṛhadbala branch in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK060",
+      "facet": "puranic",
+      "subject": "vp22_shuddhodana",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_rahula",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.8",
+      "summary": "Rāhula is named as the future son of Śuddhodana in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK061",
+      "facet": "puranic",
+      "subject": "vp22_rahula",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_prasenajit",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.8",
+      "summary": "Prasenajit · Bṛhadbala branch is named as the future son of Rāhula in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK062",
+      "facet": "puranic",
+      "subject": "vp22_prasenajit",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_kshudraka",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.9",
+      "summary": "Kṣudraka is named as the future son of Prasenajit · Bṛhadbala branch in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK063",
+      "facet": "puranic",
+      "subject": "vp22_kshudraka",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_kundaka",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.9",
+      "summary": "Kuṇḍaka is named as the future son of Kṣudraka in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK064",
+      "facet": "puranic",
+      "subject": "vp22_kundaka",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_suratha_ikshvaku",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.9",
+      "summary": "Suratha · Bṛhadbala branch is named as the future son of Kuṇḍaka in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This Suratha belongs to the future Ikṣvāku line and is distinct from Suratha in Viṣṇu Purāṇa 4.20.2.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK065",
+      "facet": "puranic",
+      "subject": "vp22_suratha_ikshvaku",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp22_sumitra_ikshvaku",
+      "source": "vp4_22_anu",
+      "locator": "Viṣṇu Purāṇa 4.22.10",
+      "summary": "Sumitra · Bṛhadbala branch is named as the future son of Suratha · Bṛhadbala branch in the Ikṣvāku line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK066",
+      "facet": "puranic",
+      "subject": "vp19end_jarasandha",
+      "predicate": "is_named_as_father_of",
+      "object": "vp19end_sahadeva_jarasandha",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Jarāsandha’s son is named Sahadeva in the future Magadha list.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Reuses the Sahadeva already represented in Jarāsandha’s chapter-19 family.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK067",
+      "facet": "puranic",
+      "subject": "vp19end_sahadeva_jarasandha",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp19end_somapi",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "The prophecy names Somāpi as Sahadeva’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Reuses Somapi from chapter 19; the future list begins by restating the earlier Jarāsandha–Sahadeva–Somapi sequence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK068",
+      "facet": "puranic",
+      "subject": "vp19end_somapi",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_shruta_vant",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Śrutavant · Magadha branch is named as the future son of Somapi in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A prediction in the future Magadha list; kept distinct from the same or similar names in other royal branches.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK069",
+      "facet": "puranic",
+      "subject": "vp23_shruta_vant",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_ayutayu_mag",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Ayutāyu · Magadha branch is named as the future son of Śrutavant · Magadha branch in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A prediction in the future Magadha list; kept distinct from the same or similar names in other royal branches.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK070",
+      "facet": "puranic",
+      "subject": "vp23_ayutayu_mag",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_niramitra_mag",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Niramitra · Magadha branch is named as the future son of Ayutāyu · Magadha branch in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This Magadha Niramitra is distinct from Nakula’s son Niramitra and the Parīkṣit-line Niramitra.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK071",
+      "facet": "puranic",
+      "subject": "vp23_niramitra_mag",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_sukshatra",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Sukṣatra is named as the future son of Niramitra · Magadha branch in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A prediction in the future Magadha list; kept distinct from the same or similar names in other royal branches.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK072",
+      "facet": "puranic",
+      "subject": "vp23_sukshatra",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_brihatkarman_mag",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Bṛhatkarman · Magadha branch is named as the future son of Sukṣatra in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This Magadha Bṛhatkarman is distinct from the Puru-line Bṛhatkarman in chapter 19.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK073",
+      "facet": "puranic",
+      "subject": "vp23_brihatkarman_mag",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_senajit_mag",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Senajit · Magadha branch is named as the future son of Bṛhatkarman · Magadha branch in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This Magadha Senajit is distinct from Senajit in the Puru genealogy of chapter 19.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK074",
+      "facet": "puranic",
+      "subject": "vp23_senajit_mag",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_shrutanjaya",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Śrutaṃjaya is named as the future son of Senajit · Magadha branch in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A prediction in the future Magadha list; kept distinct from the same or similar names in other royal branches.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK075",
+      "facet": "puranic",
+      "subject": "vp23_shrutanjaya",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_vipra",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Vipra · Magadha branch is named as the future son of Śrutaṃjaya in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A prediction in the future Magadha list; kept distinct from the same or similar names in other royal branches.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK076",
+      "facet": "puranic",
+      "subject": "vp23_vipra",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_shuchinama",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Śucināman is named as the future son of Vipra · Magadha branch in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A prediction in the future Magadha list; kept distinct from the same or similar names in other royal branches.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK077",
+      "facet": "puranic",
+      "subject": "vp23_shuchinama",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_kshemya_mag",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Kṣemya · Magadha branch is named as the future son of Śucināman in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This Magadha Kṣemya is distinct from Kṣemya in the Puru branch and Kṣemaka in the Parīkṣit line.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK078",
+      "facet": "puranic",
+      "subject": "vp23_kshemya_mag",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_suvrata",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Suvrata · Magadha branch is named as the future son of Kṣemya · Magadha branch in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A prediction in the future Magadha list; kept distinct from the same or similar names in other royal branches.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK079",
+      "facet": "puranic",
+      "subject": "vp23_suvrata",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_dharma_mag",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Dharma · Magadha branch is named as the future son of Suvrata · Magadha branch in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Dharma here is a predicted Magadha king, not the deity Dharma named in chapter 20.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK080",
+      "facet": "puranic",
+      "subject": "vp23_dharma_mag",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_sushrama",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Suśrama is named as the future son of Dharma · Magadha branch in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A prediction in the future Magadha list; kept distinct from the same or similar names in other royal branches.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK081",
+      "facet": "puranic",
+      "subject": "vp23_sushrama",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_drdhasena",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Dṛḍhasena is named as the future son of Suśrama in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A prediction in the future Magadha list; kept distinct from the same or similar names in other royal branches.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK082",
+      "facet": "puranic",
+      "subject": "vp23_drdhasena",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_sumati_mag",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Sumati · Magadha branch is named as the future son of Dṛḍhasena in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This Magadha Sumati is distinct from the several Puru-branch namesakes.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK083",
+      "facet": "puranic",
+      "subject": "vp23_sumati_mag",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_subala",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Subala is named as the future son of Sumati · Magadha branch in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A prediction in the future Magadha list; kept distinct from the same or similar names in other royal branches.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK084",
+      "facet": "puranic",
+      "subject": "vp23_subala",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_sunita",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Sunīta · Magadha branch is named as the future son of Subala in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A prediction in the future Magadha list; kept distinct from the same or similar names in other royal branches.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK085",
+      "facet": "puranic",
+      "subject": "vp23_sunita",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_satyajit",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Satyajit · Magadha branch is named as the future son of Sunīta · Magadha branch in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A prediction in the future Magadha list; kept distinct from the same or similar names in other royal branches.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK086",
+      "facet": "puranic",
+      "subject": "vp23_satyajit",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_visvajit_mag",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Viśvajit · Magadha branch is named as the future son of Satyajit · Magadha branch in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A prediction in the future Magadha list; kept distinct from the same or similar names in other royal branches.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFK087",
+      "facet": "puranic",
+      "subject": "vp23_visvajit_mag",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp23_ripunjaya_mag",
+      "source": "vp4_23_anu",
+      "locator": "Viṣṇu Purāṇa 4.23.3",
+      "summary": "Ripuṃjaya · Magadha branch is named as the future son of Viśvajit · Magadha branch in the Magadha line.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This Magadha Ripuṃjaya is distinct from the Puru-line Ripuṃjaya named in chapter 19.",
+      "original_language_reviewed": false
+    }
+  ],
+  "search_log": [
+    {
+      "query": "Viṣṇu Purāṇa Book 4 chapters 21–23 ANU Taylor future descendants Parikshit Bṛhadbala Bṛhadratha",
+      "outcome": "Read ANU Press chapters 21–23, retaining their future-tense royal lists as predictions. Added 80 new named persons, while reusing the requested Parīkṣit anchor, earlier four sons, and previously represented Magadha ancestors."
+    },
+    {
+      "query": "Viṣṇu Purāṇa 4.21–23 Sanskrit verse numbering name and genealogy variants",
+      "outcome": "Cross-checked the chapter verse sequence and names against the verse-indexed Sanskrit pages. Kept ANU parentage where translation and Sanskrit presentation differ; documented the Śatānīka parentage variation in chapter 21 and name/sequence variants in chapter 22."
+    }
+  ],
+  "notes": [
+    "This batch contains 80 new nodes across chapters 21–23. It uses the existing `vp20_parikshit_abhimanyu` anchor requested for chapter 21; the four sons already named in chapter 20 are reused rather than redeclared. Chapter 23 similarly reuses the chapter-19 Bṛhadratha, Jarāsandha, Sahadeva and Somapi nodes.",
+    "The source frames these lineages as predictions by Parāśara. Every future-succession edge is recorded as a textual prediction, not as independently established history.",
+    "ANU chapter 21 translates Śatānīka as another son of Parīkṣit; the verse-indexed Sanskrit 4.21.2 reads Janamejaya’s son will be Śatānīka. The batch follows ANU, records the variant in the claim note, and keeps this Śatānīka distinct from Nakula’s Śatānika and the later Vasudāna-branch Śatānīka.",
+    "Chapter 22’s ANU lineage includes Vatsa and places Vatsavyūha after him, while the linked Sanskrit presentation differs in that sequence; ANU forms are retained as the claim authority. Same-name people in separate dynastic lines (including Sahadeva, Suratha, Niramitra, Bṛhadratha, Bṛhatkarman, Senajit, Dharma, Sumati and Ripuṃjaya) receive branch-specific IDs. ANU Niścaknu also differs from the Sanskrit page’s Nicakṣu; the node keeps ANU’s spelling.",
+    "No unnamed sons or generic dynastic groups are expanded. Repeated names from earlier batches are referenced by their existing nodes only where the lineage continuity is explicit."
+  ]
+}

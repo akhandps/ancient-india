@@ -1,0 +1,88 @@
+{
+  "nodes": [
+    {"id": "shurpanakha", "label": "Śūrpaṇakhā · Rāmāyaṇa witness", "type": "person"},
+    {"id": "ravana_epic", "label": "Rāvaṇa · Rāmāyaṇa witness", "type": "person"},
+    {"id": "vishravas_epic", "label": "Viśravas · Rāmāyaṇa witness", "type": "person"},
+    {"id": "kumbhakarna_epic", "label": "Kumbhakarṇa · Rāmāyaṇa witness", "type": "person"},
+    {"id": "vibhishana_epic", "label": "Vibhīṣaṇa · Rāmāyaṇa witness", "type": "person"},
+    {"id": "khara_epic", "label": "Khara · Rāmāyaṇa witness", "type": "person"},
+    {"id": "dushana_epic", "label": "Dūṣaṇa · Rāmāyaṇa witness", "type": "person"}
+  ],
+  "sources": [
+    {
+      "id": "ram317",
+      "title": "Vālmīki Rāmāyaṇa 3.17",
+      "url": "https://www.valmikiramayan.net/utf8/aranya/sarga17/aranya_17_prose.htm",
+      "kind": "primary_translation",
+      "edition": "Desiraju Hanumanta Rao prose translation; site chapter numbering; commentary interspersed",
+      "locator": "3.17, narrative vv. 10, 16, 23–24 (site prose; verse numbering follows the corresponding Sanskrit text)",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "ES001", "facet": "ramayana", "subject": "rama", "predicate": "meets", "object": "shurpanakha", "source": "ram317",
+      "locator": "3.17.10–11, narrative (site prose)",
+      "summary": "While Rāma is at the Pañcavaṭī hermitage with Sītā and Lakṣmaṇa, Śūrpaṇakhā arrives and addresses him.",
+      "category": "relationship", "status": "translation_checked", "speaker": "Narrator",
+      "note": "The meeting occurs downstream of the Agastya-to-Pañcavaṭī direction; this passage does not depict Śūrpaṇakhā meeting Agastya.", "original_language_reviewed": false
+    },
+    {
+      "id": "ES002", "facet": "ramayana", "subject": "shurpanakha", "predicate": "is_sister_of", "object": "ravana_epic", "source": "ram317",
+      "locator": "3.17.10 and 23–24, narrative (site prose)",
+      "summary": "The narrator identifies Śūrpaṇakhā as Rāvaṇa's sister, and she names Rāvaṇa as her brother.",
+      "category": "relationship", "status": "translation_checked", "speaker": "Narrator; Śūrpaṇakhā",
+      "note": "Directly stated in the narrative and her self-introduction.", "original_language_reviewed": false
+    },
+    {
+      "id": "ES003", "facet": "ramayana", "subject": "ravana_epic", "predicate": "is_son_of", "object": "vishravas_epic", "source": "ram317",
+      "locator": "3.17.23, Śūrpaṇakhā's self-introduction (site prose)",
+      "summary": "Śūrpaṇakhā describes Rāvaṇa as the son of Viśravas.",
+      "category": "relationship", "status": "translation_checked", "speaker": "Śūrpaṇakhā",
+      "note": "A lineage statement attributed to Śūrpaṇakhā in this Rāmāyaṇa witness.", "original_language_reviewed": false
+    },
+    {
+      "id": "ES004", "facet": "ramayana", "subject": "shurpanakha", "predicate": "is_sister_of", "object": "kumbhakarna_epic", "source": "ram317",
+      "locator": "3.17.24, Śūrpaṇakhā's self-introduction (site prose)",
+      "summary": "Śūrpaṇakhā names Kumbhakarṇa as her brother.",
+      "category": "relationship", "status": "translation_checked", "speaker": "Śūrpaṇakhā",
+      "note": "Her description that he sleeps profoundly is not encoded as an identity or kinship claim.", "original_language_reviewed": false
+    },
+    {
+      "id": "ES005", "facet": "ramayana", "subject": "shurpanakha", "predicate": "is_sister_of", "object": "vibhishana_epic", "source": "ram317",
+      "locator": "3.17.24, Śūrpaṇakhā's self-introduction (site prose)",
+      "summary": "Śūrpaṇakhā names Vibhīṣaṇa as her brother and says that he does not behave like a demon.",
+      "category": "relationship", "status": "translation_checked", "speaker": "Śūrpaṇakhā",
+      "note": "The characterization is retained as her speech, without importing later narrative framing.", "original_language_reviewed": false
+    },
+    {
+      "id": "ES006", "facet": "ramayana", "subject": "shurpanakha", "predicate": "is_sister_of", "object": "khara_epic", "source": "ram317",
+      "locator": "3.17.24, Śūrpaṇakhā's self-introduction (site prose)",
+      "summary": "Śūrpaṇakhā names Khara among her brothers.",
+      "category": "relationship", "status": "translation_checked", "speaker": "Śūrpaṇakhā",
+      "note": "Her next reference identifies Dūṣaṇa as the other of the two named brothers.", "original_language_reviewed": false
+    },
+    {
+      "id": "ES007", "facet": "ramayana", "subject": "shurpanakha", "predicate": "is_sister_of", "object": "dushana_epic", "source": "ram317",
+      "locator": "3.17.24, Śūrpaṇakhā's self-introduction (site prose)",
+      "summary": "Śūrpaṇakhā names Dūṣaṇa alongside Khara as one of her two brothers renowned for bravery in war.",
+      "category": "relationship", "status": "translation_checked", "speaker": "Śūrpaṇakhā",
+      "note": "The passage explicitly introduces the pair as her brothers.", "original_language_reviewed": false
+    }
+  ],
+  "search_log": [
+    {
+      "query": "Vālmīki Rāmāyaṇa Araṇya Kāṇḍa 3.17 primary translation Śūrpaṇakhā Ravana Vishravas Kumbhakarna Vibhishana Khara Dushana",
+      "outcome": "Read the narrative verses in the chapter translation. Added the encounter and only kinship statements made in the narrative or Śūrpaṇakhā's speech; excluded claims found only in the chapter synopsis or commentary."
+    },
+    {
+      "query": "GRETIL Mahabharata Ramayana machine readable text TEI plain text license corpus",
+      "outcome": "Compared GRETIL text listings, its Mahābhārata archive record, the INDOLOGY Virtual e-Text Archive, and current GRETIL mirror documentation. See notes for corpus path and reuse caveat."
+    }
+  ],
+  "notes": [
+    "The additions form a source-linked chain outward from existing graph material: Agastya directs Rāma toward Pañcavaṭī (already represented), and Rāmāyaṇa 3.17 places Rāma at the hermitage when he meets Śūrpaṇakhā; her speech supplies the sibling and parent links. No direct Agastya–Śūrpaṇakhā encounter is claimed.",
+    "For scalable Sanskrit text discovery, GRETIL is the strongest practical starting point: https://gretil.sub.uni-goettingen.de/gretil.html lists the Tokunaga/John Smith machine-readable Mahābhārata by parvan in UTF-8 files and the Rāmāyaṇa in TEI XML plus plain/analytic transformations. The current mirror documents downloadable files at https://github.com/INDOLOGY/GRETIL-mirror; Mahābhārata is the exception to the mirror's TEI/XML corpus layer, so its downloadable parvan text files are the relevant form. A snapshot is catalogued at https://zenodo.org/records/6467313. The Rāmāyaṇa listing includes Tokunaga/Smith editions and a Southern recension; pin edition/recension before comparing names or locators.",
+    "GRETIL is an index/archive of e-texts with multiple contributors, not one blanket open-license corpus. Treat the ancient Sanskrit text and modern transcription, edition, encoding, markup, and translations separately; inspect each file's provenance and reuse terms before redistribution or commercial use. For machine-readable searchable breadth rather than critical-edition authority, the INDOLOGY Virtual e-Text Archive also links distributed text files: https://indology.info/virtual-e-text-archive-of-indic-texts/. For Ramayana's Baroda Critical Edition-based machine text provenance, see https://sanskritdocuments.org/mirrors/ramayana/valmiki/ramayana.htm; GRETIL is useful for scalable retrieval, while passage claims should still be checked against a declared edition and exact locator."
+  ]
+}

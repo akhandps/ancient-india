@@ -1,0 +1,1146 @@
+{
+  "nodes": [
+    {
+      "id": "vp18_sabhanara",
+      "label": "Sabhānara · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_cakshu",
+      "label": "Cakṣu · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_paramekshu",
+      "label": "Paramekṣu · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_kalanara",
+      "label": "Kālānara · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_srinjaya",
+      "label": "Sṛñjaya · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_puranjaya",
+      "label": "Puraṃjaya · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_anu_janamejaya",
+      "label": "Janamejaya · Anu branch · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_mahasala",
+      "label": "Mahāśāla · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_mahamanas",
+      "label": "Mahāmanas · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_ushinara",
+      "label": "Uśīnara · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_titikshu",
+      "label": "Titikṣu · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_shibi",
+      "label": "Śibi · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_nrga",
+      "label": "Nṛga · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_nara",
+      "label": "Nara · Uśīnara branch · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_krmi",
+      "label": "Kṛmi · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_darva",
+      "label": "Darva · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_vrishadarbha",
+      "label": "Vṛṣadarbha · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_suvira",
+      "label": "Suvīra · Śibi branch · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_kaikeya",
+      "label": "Kaikeya · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_madraka",
+      "label": "Madraka · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_rushadratha",
+      "label": "Ruṣadratha · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_hema",
+      "label": "Hema · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_sutapas",
+      "label": "Sutapas · Bali branch · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_bali",
+      "label": "Bali · son of Sutapas · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_dirghatamas",
+      "label": "Dīrghatamas · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_anga",
+      "label": "Aṅga · son of Bali’s wife and Dīrghatamas · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_vanga",
+      "label": "Vaṅga · son of Bali’s wife and Dīrghatamas · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_kalinga",
+      "label": "Kaliṅga · son of Bali’s wife and Dīrghatamas · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_suhya",
+      "label": "Suhya · son of Bali’s wife and Dīrghatamas · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_paundra",
+      "label": "Pauṇḍra · son of Bali’s wife and Dīrghatamas · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_anapana",
+      "label": "Anapāna · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_diviratha",
+      "label": "Diviratha · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_dharmaratha",
+      "label": "Dharmaratha · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_citraratha_romapada",
+      "label": "Citraratha / Romapāda · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_romapada_dasaratha",
+      "label": "Daśaratha · son of Romapāda · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_aja",
+      "label": "Aja · father of a second Daśaratha · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_aja_dasaratha",
+      "label": "Daśaratha · son of Aja · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_shanta",
+      "label": "Śāntā · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_chaturanga",
+      "label": "Caturaṅga · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_prithulaksha",
+      "label": "Pṛthulākṣa · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_champa",
+      "label": "Campa · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_haryanga",
+      "label": "Haryaṅga · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_bhadraratha",
+      "label": "Bhadraratha · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_brihadratha",
+      "label": "Bṛhadratha · Aṅga branch · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_brihatkarman",
+      "label": "Bṛhatkarman · Aṅga branch · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_brihadbhanu",
+      "label": "Bṛhadbhānu · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_brihanmanas",
+      "label": "Bṛhanmanas · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_jayadratha",
+      "label": "Jayadratha · Aṅga branch · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_vijaya",
+      "label": "Vijaya · Aṅga branch · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_dhriti",
+      "label": "Dhṛti · Aṅga branch · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_dhritavrata",
+      "label": "Dhṛtivrata · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_satyakarman",
+      "label": "Satyakarman · Aṅga branch · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_adhiratha",
+      "label": "Adhiratha · Aṅga branch · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_karna",
+      "label": "Karṇa · Viṣṇu Purāṇa witness · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_pritha",
+      "label": "Pṛthā · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp18_vrishasena",
+      "label": "Vṛṣasena · Viṣṇu Purāṇa 4.18 witness",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "vp4_18_anu",
+      "title": "The Viṣṇu Purāṇa, Book 4, chapter 18: Yayāti’s son Anu and the Anga line",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 18; locators follow the chapter/verse numbering used by the ANU translation and its selective index.",
+      "locator": "4.18.1–5",
+      "accessed": "2026-10-27",
+      "cross_check": "Sanskrit and IAST checked selectively against https://eternalraga.com/en/scriptures/puranas/vishnu-purana/4/18 (Aṃśa 4, chapter 18; its web segmentation does not map one-to-one to ANU verse numbers). This transcription differs in readings from Taylor at several names (including Sabhānala/Sabhānara, the Uśīnara sons, Ruśadratha/Ruṣadratha, Suhma/Suhya, and Atiratha/Adhiratha); claims follow Taylor’s ANU translation and are not harmonized."
+    }
+  ],
+  "claims": [
+    {
+      "id": "ANU18_001",
+      "facet": "puranic",
+      "subject": "vp_yayati",
+      "predicate": "father_of",
+      "object": "vp_anu",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Anu is identified as Yayāti’s fourth son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The same relationship is already recorded from chapter 10; this claim preserves chapter 18 as an independent witness and reuses the existing Anu node.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_002",
+      "facet": "puranic",
+      "subject": "vp_anu",
+      "predicate": "father_of",
+      "object": "vp18_sabhanara",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Anu is named as the father of Sabhānara.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_003",
+      "facet": "puranic",
+      "subject": "vp_anu",
+      "predicate": "father_of",
+      "object": "vp18_cakshu",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Anu is named as the father of Cakṣu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_004",
+      "facet": "puranic",
+      "subject": "vp_anu",
+      "predicate": "father_of",
+      "object": "vp18_paramekshu",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Anu is named as the father of Paramekṣu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_005",
+      "facet": "puranic",
+      "subject": "vp18_sabhanara",
+      "predicate": "father_of",
+      "object": "vp18_kalanara",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Kālānara is named as a child of Sabhānara.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_006",
+      "facet": "puranic",
+      "subject": "vp18_kalanara",
+      "predicate": "father_of",
+      "object": "vp18_srinjaya",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Sṛñjaya is named as a child of Kālānara.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_007",
+      "facet": "puranic",
+      "subject": "vp18_srinjaya",
+      "predicate": "father_of",
+      "object": "vp18_puranjaya",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Puraṃjaya is named as a child of Sṛñjaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_008",
+      "facet": "puranic",
+      "subject": "vp18_puranjaya",
+      "predicate": "father_of",
+      "object": "vp18_anu_janamejaya",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Janamejaya is named as a child of Puraṃjaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_009",
+      "facet": "puranic",
+      "subject": "vp18_anu_janamejaya",
+      "predicate": "father_of",
+      "object": "vp18_mahasala",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Mahāśāla is named as a child of Janamejaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_010",
+      "facet": "puranic",
+      "subject": "vp18_mahasala",
+      "predicate": "father_of",
+      "object": "vp18_mahamanas",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Mahāmanas is named as a child of Mahāśāla.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_011",
+      "facet": "puranic",
+      "subject": "vp18_mahamanas",
+      "predicate": "father_of",
+      "object": "vp18_ushinara",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Uśīnara is named as a child of Mahāmanas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_012",
+      "facet": "puranic",
+      "subject": "vp18_mahamanas",
+      "predicate": "father_of",
+      "object": "vp18_titikshu",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Titikṣu is named as a child of Mahāmanas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_013",
+      "facet": "puranic",
+      "subject": "vp18_ushinara",
+      "predicate": "father_of",
+      "object": "vp18_shibi",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Uśīnara is named as the father of Śibi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_014",
+      "facet": "puranic",
+      "subject": "vp18_ushinara",
+      "predicate": "father_of",
+      "object": "vp18_nrga",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Uśīnara is named as the father of Nṛga.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_015",
+      "facet": "puranic",
+      "subject": "vp18_ushinara",
+      "predicate": "father_of",
+      "object": "vp18_nara",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Uśīnara is named as the father of Nara.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_016",
+      "facet": "puranic",
+      "subject": "vp18_ushinara",
+      "predicate": "father_of",
+      "object": "vp18_krmi",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Uśīnara is named as the father of Kṛmi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_017",
+      "facet": "puranic",
+      "subject": "vp18_ushinara",
+      "predicate": "father_of",
+      "object": "vp18_darva",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Uśīnara is named as the father of Darva.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_018",
+      "facet": "puranic",
+      "subject": "vp18_shibi",
+      "predicate": "father_of",
+      "object": "vp18_vrishadarbha",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Śibi is named as the father of Vṛṣadarbha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_019",
+      "facet": "puranic",
+      "subject": "vp18_shibi",
+      "predicate": "father_of",
+      "object": "vp18_suvira",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Śibi is named as the father of Suvīra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_020",
+      "facet": "puranic",
+      "subject": "vp18_shibi",
+      "predicate": "father_of",
+      "object": "vp18_kaikeya",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Śibi is named as the father of Kaikeya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_021",
+      "facet": "puranic",
+      "subject": "vp18_shibi",
+      "predicate": "father_of",
+      "object": "vp18_madraka",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Śibi is named as the father of Madraka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_022",
+      "facet": "puranic",
+      "subject": "vp18_titikshu",
+      "predicate": "father_of",
+      "object": "vp18_rushadratha",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Ruṣadratha is named as a child of Titikṣu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_023",
+      "facet": "puranic",
+      "subject": "vp18_rushadratha",
+      "predicate": "father_of",
+      "object": "vp18_hema",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Hema is named as a child of Ruṣadratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_024",
+      "facet": "puranic",
+      "subject": "vp18_hema",
+      "predicate": "father_of",
+      "object": "vp18_sutapas",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Sutapas is named as a child of Hema.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_025",
+      "facet": "puranic",
+      "subject": "vp18_sutapas",
+      "predicate": "father_of",
+      "object": "vp18_bali",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Bali is named as a child of Sutapas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_026",
+      "facet": "puranic",
+      "subject": "vp18_dirghatamas",
+      "predicate": "father_of",
+      "object": "vp18_anga",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Dīrghatamas is named as the father of Aṅga.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The passage says these sons were begotten by Dīrghatamas with Bali’s unnamed wife; it does not make Bali their father.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_027",
+      "facet": "puranic",
+      "subject": "vp18_dirghatamas",
+      "predicate": "father_of",
+      "object": "vp18_vanga",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Dīrghatamas is named as the father of Vaṅga.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The passage says these sons were begotten by Dīrghatamas with Bali’s unnamed wife; it does not make Bali their father.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_028",
+      "facet": "puranic",
+      "subject": "vp18_dirghatamas",
+      "predicate": "father_of",
+      "object": "vp18_kalinga",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Dīrghatamas is named as the father of Kaliṅga.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The passage says these sons were begotten by Dīrghatamas with Bali’s unnamed wife; it does not make Bali their father.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_029",
+      "facet": "puranic",
+      "subject": "vp18_dirghatamas",
+      "predicate": "father_of",
+      "object": "vp18_suhya",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Dīrghatamas is named as the father of Suhya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The passage says these sons were begotten by Dīrghatamas with Bali’s unnamed wife; it does not make Bali their father.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_030",
+      "facet": "puranic",
+      "subject": "vp18_dirghatamas",
+      "predicate": "father_of",
+      "object": "vp18_paundra",
+      "source": "vp4_18_anu",
+      "locator": "4.18.1",
+      "summary": "Dīrghatamas is named as the father of Pauṇḍra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The passage says these sons were begotten by Dīrghatamas with Bali’s unnamed wife; it does not make Bali their father.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_031",
+      "facet": "puranic",
+      "subject": "vp18_anga",
+      "predicate": "father_of",
+      "object": "vp18_anapana",
+      "source": "vp4_18_anu",
+      "locator": "4.18.2",
+      "summary": "Anapāna is named as a child in the Aṅga line descending from Aṅga.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_032",
+      "facet": "puranic",
+      "subject": "vp18_anapana",
+      "predicate": "father_of",
+      "object": "vp18_diviratha",
+      "source": "vp4_18_anu",
+      "locator": "4.18.2",
+      "summary": "Diviratha is named as a child in the Aṅga line descending from Anapāna.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_033",
+      "facet": "puranic",
+      "subject": "vp18_diviratha",
+      "predicate": "father_of",
+      "object": "vp18_dharmaratha",
+      "source": "vp4_18_anu",
+      "locator": "4.18.2",
+      "summary": "Dharmaratha is named as a child in the Aṅga line descending from Diviratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_034",
+      "facet": "puranic",
+      "subject": "vp18_dharmaratha",
+      "predicate": "father_of",
+      "object": "vp18_citraratha_romapada",
+      "source": "vp4_18_anu",
+      "locator": "4.18.2",
+      "summary": "Citraratha / Romapāda is named as a child in the Aṅga line descending from Dharmaratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_035",
+      "facet": "puranic",
+      "subject": "vp18_citraratha_romapada",
+      "predicate": "father_of",
+      "object": "vp18_romapada_dasaratha",
+      "source": "vp4_18_anu",
+      "locator": "4.18.2",
+      "summary": "Daśaratha is named as a child in the Aṅga line descending from Citraratha / Romapāda.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_036",
+      "facet": "puranic",
+      "subject": "vp18_aja",
+      "predicate": "father_of",
+      "object": "vp18_aja_dasaratha",
+      "source": "vp4_18_anu",
+      "locator": "4.18.2",
+      "summary": "The text identifies Daśaratha, the giver of Śāntā, as Aja’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_037",
+      "facet": "puranic",
+      "subject": "vp18_aja_dasaratha",
+      "predicate": "father_of",
+      "object": "vp18_shanta",
+      "source": "vp4_18_anu",
+      "locator": "4.18.2",
+      "summary": "Daśaratha, Aja’s son, is identified as Śāntā’s father.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is the second Daśaratha in this chapter; kept distinct from Romapāda’s son Daśaratha.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_038",
+      "facet": "puranic",
+      "subject": "vp18_romapada_dasaratha",
+      "predicate": "is_adoptive_father_of",
+      "object": "vp18_shanta",
+      "source": "vp4_18_anu",
+      "locator": "4.18.2",
+      "summary": "The childless Daśaratha, son of Romapāda, received Śāntā to be adopted as his daughter.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The text distinguishes this childless recipient from Aja’s son Daśaratha, Śāntā’s father.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_039",
+      "facet": "puranic",
+      "subject": "vp18_citraratha_romapada",
+      "predicate": "father_of",
+      "object": "vp18_chaturanga",
+      "source": "vp4_18_anu",
+      "locator": "4.18.3",
+      "summary": "Caturaṅga is named as a child in the line descending from Citraratha / Romapāda.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_040",
+      "facet": "puranic",
+      "subject": "vp18_chaturanga",
+      "predicate": "father_of",
+      "object": "vp18_prithulaksha",
+      "source": "vp4_18_anu",
+      "locator": "4.18.3",
+      "summary": "Pṛthulākṣa is named as a child in the line descending from Caturaṅga.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_041",
+      "facet": "puranic",
+      "subject": "vp18_prithulaksha",
+      "predicate": "father_of",
+      "object": "vp18_champa",
+      "source": "vp4_18_anu",
+      "locator": "4.18.3",
+      "summary": "Campa is named as a child in the line descending from Pṛthulākṣa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_042",
+      "facet": "puranic",
+      "subject": "vp18_champa",
+      "predicate": "father_of",
+      "object": "vp18_haryanga",
+      "source": "vp4_18_anu",
+      "locator": "4.18.4",
+      "summary": "Haryaṅga is named as a child in the line descending from Campa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_043",
+      "facet": "puranic",
+      "subject": "vp18_haryanga",
+      "predicate": "father_of",
+      "object": "vp18_bhadraratha",
+      "source": "vp4_18_anu",
+      "locator": "4.18.4",
+      "summary": "Bhadraratha is named as a child in the line descending from Haryaṅga.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_044",
+      "facet": "puranic",
+      "subject": "vp18_bhadraratha",
+      "predicate": "father_of",
+      "object": "vp18_brihadratha",
+      "source": "vp4_18_anu",
+      "locator": "4.18.4",
+      "summary": "Bṛhadratha is named as a child in the line descending from Bhadraratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_045",
+      "facet": "puranic",
+      "subject": "vp18_brihadratha",
+      "predicate": "father_of",
+      "object": "vp18_brihatkarman",
+      "source": "vp4_18_anu",
+      "locator": "4.18.4",
+      "summary": "Bṛhatkarman is named as a child in the line descending from Bṛhadratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_046",
+      "facet": "puranic",
+      "subject": "vp18_brihatkarman",
+      "predicate": "father_of",
+      "object": "vp18_brihadbhanu",
+      "source": "vp4_18_anu",
+      "locator": "4.18.4",
+      "summary": "Bṛhadbhānu is named as a child in the line descending from Bṛhatkarman.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_047",
+      "facet": "puranic",
+      "subject": "vp18_brihadbhanu",
+      "predicate": "father_of",
+      "object": "vp18_brihanmanas",
+      "source": "vp4_18_anu",
+      "locator": "4.18.4",
+      "summary": "Bṛhanmanas is named as a child in the line descending from Bṛhadbhānu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_048",
+      "facet": "puranic",
+      "subject": "vp18_brihanmanas",
+      "predicate": "father_of",
+      "object": "vp18_jayadratha",
+      "source": "vp4_18_anu",
+      "locator": "4.18.4",
+      "summary": "Jayadratha is named as a child in the line descending from Bṛhanmanas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_049",
+      "facet": "puranic",
+      "subject": "vp18_jayadratha",
+      "predicate": "father_of",
+      "object": "vp18_vijaya",
+      "source": "vp4_18_anu",
+      "locator": "4.18.4",
+      "summary": "Vijaya is named as a child in the line descending from Jayadratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_050",
+      "facet": "puranic",
+      "subject": "vp18_vijaya",
+      "predicate": "father_of",
+      "object": "vp18_dhriti",
+      "source": "vp4_18_anu",
+      "locator": "4.18.5",
+      "summary": "Dhṛti is named as a child in the line descending from Vijaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_051",
+      "facet": "puranic",
+      "subject": "vp18_dhriti",
+      "predicate": "father_of",
+      "object": "vp18_dhritavrata",
+      "source": "vp4_18_anu",
+      "locator": "4.18.5",
+      "summary": "Dhṛtivrata is named as a child in the line descending from Dhṛti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_052",
+      "facet": "puranic",
+      "subject": "vp18_dhritavrata",
+      "predicate": "father_of",
+      "object": "vp18_satyakarman",
+      "source": "vp4_18_anu",
+      "locator": "4.18.5",
+      "summary": "Satyakarman is named as a child in the line descending from Dhṛtivrata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_053",
+      "facet": "puranic",
+      "subject": "vp18_satyakarman",
+      "predicate": "father_of",
+      "object": "vp18_adhiratha",
+      "source": "vp4_18_anu",
+      "locator": "4.18.5",
+      "summary": "Adhiratha is named as a child in the line descending from Satyakarman.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_054",
+      "facet": "puranic",
+      "subject": "vp18_adhiratha",
+      "predicate": "is_adoptive_father_of",
+      "object": "vp18_karna",
+      "source": "vp4_18_anu",
+      "locator": "4.18.5",
+      "summary": "Adhiratha found Karṇa abandoned in a box by the Gaṅgā and adopted him as his own son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The text explicitly describes adoption; this is not encoded as biological paternity.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_055",
+      "facet": "puranic",
+      "subject": "vp18_pritha",
+      "predicate": "mother_of",
+      "object": "vp18_karna",
+      "source": "vp4_18_anu",
+      "locator": "4.18.5",
+      "summary": "Pṛthā is named as Karṇa’s mother, who had abandoned him.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "ANU18_056",
+      "facet": "puranic",
+      "subject": "vp18_karna",
+      "predicate": "father_of",
+      "object": "vp18_vrishasena",
+      "source": "vp4_18_anu",
+      "locator": "4.18.5",
+      "summary": "Karṇa is named as the father of Vṛṣasena.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the named relationships in the ANU translation; it is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    }
+  ],
+  "notes": [
+    "Chapter scope is 4.18 only. Existing vp_yayati and vp_anu nodes are referenced as anchors, not redefined here. A separate Yayāti→Anu claim preserves chapter 18 as an additional witness to the relationship already recorded from chapter 10.",
+    "The ANU rendering supplies named persons through Vṛṣasena. Its selective index gives specific locators including Mahāmanas and Titikṣu (4.18.1), Daśaratha son of Aja and son of Romapāda (4.18.2), and Adhiratha son of Satyakarman (4.18.5). The 4.18.1 Yayāti→Anu edge is retained as a distinct chapter-18 witness alongside the existing chapter-10 claim.",
+    "Potential namesakes are separate: Anu-branch Janamejaya is not the Puru-line Janamejaya; Romapāda’s childless son Daśaratha is not Aja’s son Daśaratha; Bali is scoped as Titikṣu’s descendant; the five eponymous sons are not merged with their territories/peoples.",
+    "Citraratha and Romapāda are one individual because the source explicitly says he is also known by that name.",
+    "The unnamed wife of Bali is not made a node. Claims say Dīrghatamas fathered the five named sons with Bali’s wife and explicitly avoid treating Bali as their father.",
+    "Count: 56 new person nodes plus the 2 existing anchor persons (Yayāti, Anu) = 58 distinct named individuals referenced in this batch. The five Bāleya sons are individuals in the genealogy; their eponymous territories are not included as persons."
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "nodes": [
+    {
+      "id": "puranic_malayadhvaja",
+      "label": "Malayadhvaja · Bhāgavata witness",
+      "type": "person"
+    },
+    {
+      "id": "puranic_drdhacyuta",
+      "label": "Dṛḍhacyuta · Bhāgavata witness",
+      "type": "person"
+    },
+    {
+      "id": "puranic_idhmavaha",
+      "label": "Idhmavāha · Bhāgavata witness",
+      "type": "person"
+    },
+    {
+      "id": "puranic_balarama",
+      "label": "Balarāma · Bhāgavata witness",
+      "type": "deity"
+    },
+    {
+      "id": "puranic_durga",
+      "label": "Durgā · Bhāgavata witness",
+      "type": "deity"
+    }
+  ],
+  "sources": [
+    {
+      "id": "puranic_bp42832",
+      "title": "Śrīmad-Bhāgavatam 4.28.32",
+      "url": "https://vedabase.io/en/library/sb/4/28/32/",
+      "kind": "primary_text_translation",
+      "edition": "Bhaktivedanta Book Trust Sanskrit text, transliteration, synonyms, and translation; purport excluded from claims",
+      "locator": "4.28.32",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "puranic_bp1079",
+      "title": "Śrīmad-Bhāgavatam 10.79.16–17",
+      "url": "https://vedabase.io/en/library/sb/10/79/16-17/",
+      "kind": "primary_text_translation",
+      "edition": "Bhaktivedanta Book Trust Sanskrit text, transliteration, synonyms, and translation; purport excluded from claims",
+      "locator": "10.79.16–17",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "puranic_bp1084",
+      "title": "Śrīmad-Bhāgavatam 10.84.2–5",
+      "url": "https://vedabase.io/en/library/sb/10/84/2-5/",
+      "kind": "primary_text_translation",
+      "edition": "Bhaktivedanta Book Trust Sanskrit text, transliteration, synonyms, and translation; purport excluded from claims",
+      "locator": "10.84.2–5",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "PSC001",
+      "facet": "puranic",
+      "subject": "puranic",
+      "predicate": "marries_firstborn_daughter_of",
+      "object": "puranic_malayadhvaja",
+      "source": "puranic_bp42832",
+      "locator": "4.28.32",
+      "summary": "The verse says Agastya married Malayadhvaja's first-born daughter.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "The daughter is unnamed in the verse and is not added as a person node. This records the narrated marriage link without assuming identity with a spouse from another witness.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "PSC002",
+      "facet": "puranic",
+      "subject": "puranic",
+      "predicate": "father_of",
+      "object": "puranic_drdhacyuta",
+      "source": "puranic_bp42832",
+      "locator": "4.28.32",
+      "summary": "The verse names Dṛḍhacyuta as the son born to Agastya and Malayadhvaja's daughter.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "The verse states the child is born from the daughter; the claim records Agastya as father in the narrated genealogy.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "PSC003",
+      "facet": "puranic",
+      "subject": "puranic_drdhacyuta",
+      "predicate": "father_of",
+      "object": "puranic_idhmavaha",
+      "source": "puranic_bp42832",
+      "locator": "4.28.32",
+      "summary": "The translation says Dṛḍhacyuta's son was named Idhmavāha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "Idhmavāha is represented as this passage's witness-specific person. Do not merge automatically with the Mahābhārata Dṛḍhasyu/Idhmavāha node.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "PSC004",
+      "facet": "puranic",
+      "subject": "puranic_balarama",
+      "predicate": "bows_to_and_praises",
+      "object": "puranic",
+      "source": "puranic_bp1079",
+      "locator": "10.79.17",
+      "summary": "Balarāma finds Agastya seated in meditation, bows to him, and offers him prayers.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "The verse gives Balarāma's epithet Halāyudha in 10.79.16 and the translation identifies him as Balarāma in 10.79.17; this is a narrated encounter.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "PSC005",
+      "facet": "puranic",
+      "subject": "puranic",
+      "predicate": "blesses_and_dismisses",
+      "object": "puranic_balarama",
+      "source": "puranic_bp1079",
+      "locator": "10.79.17",
+      "summary": "Agastya gives Balarāma blessings and permission to depart.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "Translation follows the verse's āśīrbhiḥ and anujñātaḥ; no further teaching or episode is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "PSC006",
+      "facet": "puranic",
+      "subject": "puranic_balarama",
+      "predicate": "sees_in_form_of_kanyakumari",
+      "object": "puranic_durga",
+      "source": "puranic_bp1079",
+      "locator": "10.79.17",
+      "summary": "After leaving Agastya, Balarāma sees Goddess Durgā in the form known as Kanyā-kumārī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "Kanyā-kumārī is described as the form/name of Durgā in this passage, not added as a separate person node.",
+      "original_language_reviewed": false
+    }
+  ],
+  "search_log": [
+    {
+      "query": "Bhāgavata Purāṇa Agastya site:vedabase.io/en/library/sb/",
+      "outcome": "Search found Bhāgavata 4.28.32 (Malayadhvaja's daughter and the Dṛḍhacyuta–Idhmavāha genealogy), 8.4.9–10 (already represented Indradyumna encounter), 10.79.16–17 (Balarāma's encounter with Agastya), and 10.84.2–5 (Agastya listed among sages who arrive to see Kṛṣṇa and Balarāma)."
+    },
+    {
+      "query": "Śrīmad-Bhāgavatam 4.28.32 Sanskrit translation",
+      "outcome": "Checked the Sanskrit, transliteration, synonym glosses, and translation. Added the unnamed daughter only as the marriage relation, not as a node; added Dṛḍhacyuta and Idhmavāha as named individuals. The Bhāgavata Idhmavāha is kept separate from the graph's Mahābhārata Dṛḍhasyu/Idhmavāha witness pending identity review."
+    },
+    {
+      "query": "Śrīmad-Bhāgavatam 10.79.16–17 Sanskrit translation",
+      "outcome": "Checked the Sanskrit and translation. Added Balarāma and Durgā because the passage narrates a direct meeting with Agastya followed by Balarāma's sighting of Durgā as Kanyā-kumārī."
+    },
+    {
+      "query": "Śrīmad-Bhāgavatam 10.84.2–5 Sanskrit translation",
+      "outcome": "Confirmed the Agastya name in a list of named sages arriving to see Kṛṣṇa and Balarāma. Not added a generic group or new individual claims: the passage establishes co-presence in an assembly, not an individual exchange with Agastya."
+    }
+  ],
+  "notes": [
+    "Useful machine-readable corpus: Vedabase's Śrīmad-Bhāgavatam volume presents numbered Sanskrit verses with transliteration, lexical glosses, and translation; its verse URLs and book/chapter/verse locators are stable enough for a passage-level research index. Searching the site discovers additional occurrences, but a reproducible exhaustive corpus requires downloading or querying the complete edition and retaining verse-level boundaries.",
+    "Licensing: Vedabase's pages state that the content is used with permission and © Bhaktivedanta Book Trust International, Inc. All rights reserved (also Bhaktivedanta Archives). The Sanskrit text may be an older traditional work, but the hosted transliteration, editorial presentation, translation, and purports should be treated as copyrighted. This JSON stores bibliographic metadata and short factual paraphrases only; do not redistribute a scraped text corpus without rights clearance.",
+    "Other scalable Purāṇic corpus lead (not yet edge-reviewed here): the Sanskrit Skanda-Purāṇa Kāśīkhaṇḍa is navigable by chapter at https://www.wisdomlib.org/hinduism/book/skanda-purana-sanskrit/d/doc730035.html, including chapters explicitly titled around Agastya (for example the chapter listing at https://eternalraga.com/en/scriptures/puranas/skanda-purana/4). GRETIL also exposes a machine-readable Sanskrit text of the Revākhaṇḍa at https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/3_purana/skprevku.htm. Treat these as distinct Purāṇic textual recensions/sections, not interchangeable with Bhāgavata or necessarily one unified Skanda corpus; verify chapter boundaries and edition before adding claims."
+  ]
+}

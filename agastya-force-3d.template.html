@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Agastya · 3D evidence graph</title>
+<style>
+  :root{color-scheme:dark;font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#070d18;color:#f2f6fc}
+  *{box-sizing:border-box}body{margin:0}button,input,select{font:inherit}
+  .shell{height:100dvh;min-height:620px;display:grid;grid-template-columns:minmax(0,1fr) 370px;grid-template-rows:auto minmax(0,1fr)}
+  header{grid-column:1/-1;display:flex;flex-wrap:wrap;align-items:center;gap:12px;padding:12px 18px;border-bottom:1px solid #2b3b51;background:#111b2b;box-shadow:0 8px 30px #0005;z-index:2}
+  h1{font-size:18px;line-height:1.2;margin:0 14px 0 0;font-weight:650;letter-spacing:.025em;color:#ffe1a0}header p{margin:0;color:#c2cfdf;font-size:13px}
+  .controls{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-left:auto}
+  .search-wrap{position:relative;min-width:190px}.search-wrap input{width:100%}.search-results{position:absolute;top:calc(100% + 6px);left:0;width:min(430px,calc(100vw - 24px));max-height:320px;overflow:auto;z-index:10;background:#111d30;border:1px solid #526680;border-radius:10px;box-shadow:0 18px 45px #000b;padding:4px}.search-results[hidden]{display:none}
+  .search-result{display:block;width:100%;height:auto;min-height:42px;text-align:left;border:0;border-radius:7px;background:transparent;box-shadow:none;padding:7px 9px}.search-result:hover,.search-result.active{background:#263b52}.search-result strong{display:block;color:#f2f6fc;font-size:13px}.search-result small{display:block;color:#bdcadb;font-size:11px;line-height:1.3;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.search-empty{padding:10px;color:#bdcadb;font-size:12px}
+  label{font-size:12px;color:#cbd6e4;display:flex;align-items:center;gap:6px}
+  select,input,button{background:#1c2b3e;color:#f2f6fc;border:1px solid #50647d;border-radius:9px;padding:7px 9px;min-height:34px}
+  input{width:160px}button{cursor:pointer}button:hover{background:#203754;border-color:#74a8c9}button:focus-visible,select:focus-visible,input:focus-visible{outline:2px solid #92dfff;outline-offset:2px}
+  .stage{position:relative;overflow:hidden;background:radial-gradient(ellipse at 68% 22%,#27233c33 0,transparent 35%),radial-gradient(ellipse at 18% 76%,#17344930 0,transparent 38%),radial-gradient(ellipse at 50% 46%,#101b2c 0,#0a1321 58%,#060c17 100%)}
+  .stage:after{content:"";position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse at center,transparent 34%,#01030b8c 100%);mix-blend-mode:multiply}
+  canvas{display:block;width:100%;height:100%;touch-action:none;cursor:grab}canvas:active{cursor:grabbing}
+  .overlay{position:absolute;left:16px;bottom:16px;pointer-events:none;color:#e1eaf4;font-size:12px;line-height:1.5;background:#0b1729e8;padding:10px 12px;border:1px solid #50627d;border-radius:12px;backdrop-filter:blur(12px);box-shadow:0 12px 30px #0006;z-index:1}
+  .legend{display:flex;gap:10px;flex-wrap:wrap}.legend b{font-size:13px}.c-person{color:#83c7ee}.c-facet{color:#ffe0a0}.c-text{color:#b9a9ef}.c-place{color:#87d8bc}
+  aside{min-width:0;overflow:auto;border-left:1px solid #34465e;background:#111b2b;padding:20px}
+  aside h2{font-size:20px;margin:0 0 4px;line-height:1.25}aside h3{font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:#c4d2e2;margin:24px 0 8px}
+  .muted{color:#bdcadb}.small{font-size:13px;line-height:1.55}.metric{display:flex;gap:12px;flex-wrap:wrap;margin:12px 0;color:#dce6f2;font-size:13px}
+  .claim{border-top:1px solid #34465e;padding:13px 0}.claim strong{font-size:14px;font-weight:600;line-height:1.45;display:block;color:#f2f6fc}.claim p{font-size:13px;line-height:1.55;color:#dce6f2;margin:7px 0}.claim a,.source a{color:#9ddcff;overflow-wrap:anywhere}.claim small{font-size:12px;color:#bac9dc}
+  .badge{display:inline-block;color:#bcd4ed;border:1px solid #405a7e;border-radius:20px;padding:2px 7px;font-size:11px;margin:3px 4px 0 0}
+  .source{line-height:1.5}.path{padding-left:18px;font-size:12px;line-height:1.5}.path li{margin:4px 0}
+  .view-link{color:#d9eaff;border:1px solid #426182;border-radius:9px;padding:7px 9px;text-decoration:none;font-size:12px;min-height:34px;display:inline-flex;align-items:center}.view-link:hover{background:#203754}
+  @media(max-width:900px){.shell{height:auto;min-height:100dvh;grid-template-columns:1fr;grid-template-rows:auto min(70vh,640px) auto}header{align-items:flex-start}header p{width:100%;order:3}.controls{margin-left:0;order:2}aside{border-left:0;border-top:1px solid #26334c;max-height:none}.search-wrap{min-width:160px}}
+  @media(max-width:500px){header{padding:12px}.controls{width:100%}.controls label{flex:1 1 120px}.controls select,.controls input{width:100%}.search-wrap{flex:1 1 160px}.stage{min-height:460px}.overlay{left:8px;bottom:8px;right:8px}}
+</style>
+</head>
+<body>
+<div class="shell">
+ <header><h1>✦ Agastya · 3D evidence graph</h1><p>Click a node or search to travel to it · drag space to orbit · Fit all to return</p>
+  <div class="controls">
+   <label>Tradition <select id="tradition"><option value="all">All</option></select></label>
+   <label>Claim radius <select id="radius"><option value="1">1 hop</option><option value="2">2 hops</option><option value="3">3 hops</option><option value="all" selected>All claims</option></select></label>
+   <div class="search-wrap"><input id="search" type="search" placeholder="Find Ram, Rama, Agastya…" aria-label="Find a person or text" role="combobox" aria-autocomplete="list" aria-controls="search-results" aria-expanded="false"><div id="search-results" class="search-results" role="listbox" hidden></div></div>
+   <button id="fit" type="button">Fit all</button>
+   <button id="pause" type="button">Pause motion</button>
+   <a class="view-link" href="force-graph-2d.html">2D view</a>
+   <a class="view-link" href="force-graph-webgl.html">WebGL experiment</a>
+   <a class="view-link" href="force-graph-three.html">Three.js circles</a>
+  </div>
+ </header>
+ <main class="stage"><canvas id="space" aria-label="Interactive three-dimensional force graph of sourced Agastya relationships"></canvas>
+  <div class="overlay"><div class="legend"><span class="c-facet"><b>●</b> Agastya</span><span class="c-person"><b>●</b> Person or deity</span><span class="c-text"><b>■</b> Text witness</span><span class="c-place"><b>◆</b> Place</span></div><div>Solid: passage claim · faint dotted: citation</div></div>
+ </main>
+ <aside id="detail" aria-live="polite"></aside>
+</div>
+<script type="application/json" id="graph-data">__GRAPH_DATA__</script>
+<script>
+(()=>{'use strict';
+ const data=JSON.parse(document.getElementById('graph-data').textContent),canvas=document.getElementById('space'),ctx=canvas.getContext('2d'),stage=canvas.parentElement,detail=document.getElementById('detail'),tradition=document.getElementById('tradition'),radius=document.getElementById('radius'),search=document.getElementById('search'),searchResults=document.getElementById('search-results'),fit=document.getElementById('fit'),pause=document.getElementById('pause');
+ const nodeMap=new Map(data.nodes.map(n=>[n.id,{...n,kind:n.type==='agastya_facet'?'facet':n.type==='place'?'place':n.type==='text'?'text':'person'}]));
+ nodeMap.set('agastya-hub',{id:'agastya-hub',label:'Agastya',kind:'hub',type:'navigation'});
+ const sourceMap=new Map(data.sources.map(s=>[s.id,s]));
+ for(const s of data.sources)nodeMap.set('source:'+s.id,{id:'source:'+s.id,label:s.title,kind:'source',type:'source',source:s});
+ const facets=data.nodes.filter(n=>n.type==='agastya_facet').map(n=>n.id);
+ const facetLabels={vedic:'Vedic',ramayana:'Rāmāyaṇa',mahabharata:'Mahābhārata',puranic:'Bhāgavata',tamil:'Tamil',buddhist:'Buddhacarita'};
+ for(const id of facets){const o=document.createElement('option');o.value=id;o.textContent=facetLabels[id]||id;tradition.append(o)}
+ const colors={hub:'#ffe1a0',facet:'#f7ca82',person:'#83c7ee',text:'#b9a9ef',source:'#8193ad',place:'#87d8bc'};
+ const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ const human=x=>String(x).replaceAll('_',' ');
+ const displayId=id=>facets.includes(id)?'agastya-hub':id;
+ const claimEdges=data.claims.map(c=>({a:displayId(c.subject),b:displayId(c.object),type:'claim',claim:c}));
+ const adjacency=new Map([...nodeMap.keys()].map(id=>[id,[]]));
+ for(const e of claimEdges){adjacency.get(e.a).push(e.b);adjacency.get(e.b).push(e.a)}
+ let activeNodes=[],activeEdges=[],degree=new Map(),particles=new Map(),projected=[],selected='agastya-hub',hovered=null,angleY=.55,angleX=-.18,targetAngleY=.55,targetAngleX=-.18,zoom=1000,targetZoom=1000,viewCenter={x:0,y:0,z:0},targetCenter={x:0,y:0,z:0},trackingId=null,autoFit=true,playing=true,last=0,drag=null,wasDragged=false,heat=1;
+ const stars=Array.from({length:150},(_,i)=>{let h=Math.imul(i+943,2654435761)>>>0;const rnd=()=>{h=Math.imul(h^h>>>15,2246822519)>>>0;return h/4294967296};return{x:rnd(),y:rnd(),depth:.15+rnd()*.85,size:.3+rnd()*.95,light:.1+rnd()*.34}});
+ function distances(start,edges){const adj=new Map;for(const e of edges){if(!adj.has(e.a))adj.set(e.a,[]);if(!adj.has(e.b))adj.set(e.b,[]);adj.get(e.a).push(e.b);adj.get(e.b).push(e.a)}const d=new Map([[start,0]]),q=[start];for(let i=0;i<q.length;i++){for(const v of adj.get(q[i])||[]){if(!d.has(v)){d.set(v,d.get(q[i])+1);q.push(v)}}}return d}
+ function seed(id){let h=2166136261;for(const ch of id)h=Math.imul(h^ch.charCodeAt(0),16777619);const a=((h>>>0)%6283)/1000,b=(((h>>>8)%3141)/1000)-1.57,r=130+((h>>>17)%170);return{x:r*Math.cos(a)*Math.cos(b),y:r*Math.sin(b),z:r*Math.sin(a)*Math.cos(b),vx:0,vy:0,vz:0}}
+ function rebuild(){const facet=tradition.value,base=facet==='all'?claimEdges:claimEdges.filter(e=>e.claim.facet===facet),limit=radius.value==='all'?1e9:Number(radius.value);const d=new Map([['agastya-hub',0]]),q=['agastya-hub'],adj=new Map;for(const e of base){if(!adj.has(e.a))adj.set(e.a,[]);if(!adj.has(e.b))adj.set(e.b,[]);adj.get(e.a).push(e.b);adj.get(e.b).push(e.a)}for(let i=0;i<q.length;i++){const u=q[i];if(d.get(u)>=limit)continue;for(const v of adj.get(u)||[]){if(!d.has(v)){d.set(v,d.get(u)+1);q.push(v)}}}
+  const claims=base.filter(e=>d.has(e.a)&&d.has(e.b));const ids=new Set(['agastya-hub']);for(const e of claims){ids.add(e.a);ids.add(e.b)}const sources=new Set(claims.map(e=>'source:'+e.claim.source));for(const id of sources)ids.add(id);if(radius.value==='all'&&facet==='all'){for(const n of data.nodes)if(n.type!=='agastya_facet')ids.add(n.id);for(const s of data.sources)ids.add('source:'+s.id)}
+  const citationEdges=[];const seen=new Set;for(const e of claims){for(const id of [e.a,e.b]){const key=e.claim.source+'|'+id;if(!seen.has(key)){seen.add(key);citationEdges.push({a:'source:'+e.claim.source,b:id,type:'citation'})}}}
+  activeEdges=[...claims,...citationEdges];activeNodes=[...ids].map(id=>nodeMap.get(id)).filter(Boolean);degree=new Map(activeNodes.map(n=>[n.id,0]));for(const e of claims){degree.set(e.a,(degree.get(e.a)||0)+1);degree.set(e.b,(degree.get(e.b)||0)+1)}
+  for(const n of activeNodes)if(!particles.has(n.id))particles.set(n.id,seed(n.id));if(!ids.has(selected))selected='agastya-hub';autoFit=true;trackingId=null;viewCenter={x:0,y:0,z:0};targetCenter={x:0,y:0,z:0};heat=1;zoom=targetZoom=fitDistance();renderDetail();
+ }
+ function geometry(){const rect=stage.getBoundingClientRect(),dpr=Math.min(2,window.devicePixelRatio||1),w=Math.max(300,rect.width),h=Math.max(300,rect.height);if(canvas.width!==Math.round(w*dpr)||canvas.height!==Math.round(h*dpr)){canvas.width=Math.round(w*dpr);canvas.height=Math.round(h*dpr);canvas.style.width=w+'px';canvas.style.height=h+'px'}ctx.setTransform(dpr,0,0,dpr,0,0);return{w,h}}
+ function rotate(p){const cy=Math.cos(angleY),sy=Math.sin(angleY),cx=Math.cos(angleX),sx=Math.sin(angleX),xx=p.x*cy-p.z*sy,zz=p.x*sy+p.z*cy;return{x:xx,y:p.y*cx-zz*sx,z:p.y*sx+zz*cx}}
+ function project(p,w,h){const q=rotate({x:p.x-viewCenter.x,y:p.y-viewCenter.y,z:p.z-viewCenter.z}),focal=Math.min(w,h)*.94,scale=focal/Math.max(220,zoom+q.z);return{x:w/2+q.x*scale,y:h/2+q.y*scale,z:q.z,scale}}
+ function fitDistance(){const w=Math.max(300,stage.clientWidth),h=Math.max(300,stage.clientHeight),focal=Math.min(w,h)*.94,halfW=Math.max(70,w/2-72),halfH=Math.max(70,h/2-72);let needed=420;for(const n of activeNodes){const q=rotate(particles.get(n.id));needed=Math.max(needed,Math.abs(q.x)*focal/halfW-q.z,Math.abs(q.y)*focal/halfH-q.z,180-q.z)}return needed*1.08}
+ __MANY_BODY_HELPER__
+ function forces(dt){const ns=activeNodes, count=ns.length,fx=new Float64Array(count),fy=new Float64Array(count),fz=new Float64Array(count),idx=new Map(ns.map((n,i)=>[n.id,i]));repulsion(ns,particles,3,fx,fy,fz,false);
+  for(const e of activeEdges){const i=idx.get(e.a),j=idx.get(e.b);if(i===undefined||j===undefined)continue;const a=particles.get(e.a),b=particles.get(e.b),dx=b.x-a.x,dy=b.y-a.y,dz=b.z-a.z,len=Math.hypot(dx,dy,dz)||1,da=degree.get(e.a)||0,db=degree.get(e.b)||0,rest=e.type==='claim'?145-Math.min(78,12*Math.log1p(da*db)):135,k=e.type==='claim'?.026:.007,mag=(len-rest)*k/len;fx[i]+=dx*mag;fy[i]+=dy*mag;fz[i]+=dz*mag;fx[j]-=dx*mag;fy[j]-=dy*mag;fz[j]-=dz*mag}
+  const step=Math.min(1.35,dt/16.67),cool=Math.max(.035,heat);for(let i=0;i<count;i++){const n=ns[i],p=particles.get(n.id);if(drag?.id===n.id)continue;const central=n.kind==='hub'?.07:.018;p.vx=Math.max(-8,Math.min(8,(p.vx+step*cool*(fx[i]-p.x*central))*.68));p.vy=Math.max(-8,Math.min(8,(p.vy+step*cool*(fy[i]-p.y*central))*.68));p.vz=Math.max(-8,Math.min(8,(p.vz+step*cool*(fz[i]-p.z*central))*.68));if(Math.abs(p.vx)<.004)p.vx=0;if(Math.abs(p.vy)<.004)p.vy=0;if(Math.abs(p.vz)<.004)p.vz=0;p.x+=p.vx*step;p.y+=p.vy*step;p.z+=p.vz*step}heat=Math.max(.035,heat*.994)}
+ function line(a,b,color,width,dash){ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.strokeStyle=color;ctx.lineWidth=width;ctx.setLineDash(dash);ctx.stroke();ctx.setLineDash([])}
+ function drawStarfield(w,h){const travel=Math.min(.16,Math.abs(targetZoom-zoom)/Math.max(zoom,1));for(const s of stars){const drift=Math.log(Math.max(180,zoom)/1200)*s.depth*19,px=((s.x*w+angleY*s.depth*33+drift)%w+w)%w,py=((s.y*h+angleX*s.depth*28+drift*.4)%h+h)%h,r=s.size*(.6+s.depth*.55);if(travel>.008){const dx=px-w/2,dy=py-h/2,len=Math.hypot(dx,dy)||1,streak=Math.min(18,travel*115*s.depth);ctx.beginPath();ctx.moveTo(px,py);ctx.lineTo(px-dx/len*streak,py-dy/len*streak);ctx.strokeStyle=`rgba(216,229,246,${s.light*.3})`;ctx.lineWidth=Math.max(.5,r*.7);ctx.stroke()}ctx.beginPath();ctx.arc(px,py,r,0,Math.PI*2);ctx.fillStyle=`rgba(225,235,251,${s.light})`;ctx.fill()}}
+ function draw(){const {w,h}=geometry();ctx.clearRect(0,0,w,h);drawStarfield(w,h);const ps=new Map(activeNodes.map(n=>[n.id,project(particles.get(n.id),w,h)]));const dist=distances(selected,activeEdges.filter(e=>e.type!=='citation'));const hi=new Set([selected,...(adjacency.get(selected)||[])]);
+  for(const e of activeEdges){const a=ps.get(e.a),b=ps.get(e.b);if(!a||!b)continue;let color=e.type==='citation'?'rgba(133,155,184,.07)':e.type==='identity'?'rgba(231,202,147,.18)':'rgba(141,171,204,.16)',width=e.type==='claim'?1:.7,dash=e.type==='citation'?[2,6]:e.type==='identity'?[5,5]:[];if(e.type==='claim'&&(selected===e.a||selected===e.b)){color='rgba(255,213,131,.84)';width=2}line(a,b,color,width,dash);
+   if(e.type==='claim'&&(selected===e.a||selected===e.b)){const t=.82,x=a.x+(b.x-a.x)*t,y=a.y+(b.y-a.y)*t,phi=Math.atan2(b.y-a.y,b.x-a.x);ctx.beginPath();ctx.moveTo(x,y);ctx.lineTo(x-7*Math.cos(phi-.5),y-7*Math.sin(phi-.5));ctx.lineTo(x-7*Math.cos(phi+.5),y-7*Math.sin(phi+.5));ctx.closePath();ctx.fillStyle=color;ctx.fill()}}
+  const top=new Set([...activeNodes].filter(n=>n.kind!=='source'&&n.kind!=='text').sort((a,b)=>(degree.get(b.id)||0)-(degree.get(a.id)||0)).slice(0,12).map(n=>n.id));projected=activeNodes.map(n=>({n,p:ps.get(n.id)})).sort((a,b)=>b.p.z-a.p.z);for(const item of projected){const {n,p}=item,focus=n.id===selected,hover=n.id===hovered,r=(n.kind==='hub'?18:n.kind==='source'?4:n.kind==='text'?5:Math.min(15,4+Math.sqrt(degree.get(n.id)||0)*2.1))*Math.max(.65,Math.min(1.5,p.scale)),faded=selected!=='agastya-hub'&&!hi.has(n.id)&&!dist.has(n.id),baseAlpha=faded?.36:1;ctx.globalAlpha=baseAlpha*(focus?.24:top.has(n.id)?.10:.035);ctx.fillStyle=focus?'#ffe1a0':colors[n.kind]||colors.person;ctx.beginPath();ctx.arc(p.x,p.y,r*(focus?2.3:1.7),0,Math.PI*2);ctx.fill();ctx.globalAlpha=baseAlpha;ctx.fillStyle=colors[n.kind]||colors.person;ctx.strokeStyle=focus?'#ffe8b5':'rgba(229,240,252,.45)';ctx.lineWidth=focus?2:1;ctx.shadowColor=focus?'#ffd384':colors[n.kind]||colors.person;ctx.shadowBlur=focus?18:top.has(n.id)?7:0;
+   if(n.kind==='text'||n.kind==='source'){ctx.fillRect(p.x-r,p.y-r,r*2,r*2);if(focus)ctx.strokeRect(p.x-r-2,p.y-r-2,r*2+4,r*2+4)}else if(n.kind==='place'){ctx.beginPath();ctx.moveTo(p.x,p.y-r);ctx.lineTo(p.x+r,p.y);ctx.lineTo(p.x,p.y+r);ctx.lineTo(p.x-r,p.y);ctx.closePath();ctx.fill();if(focus)ctx.stroke()}else{ctx.beginPath();ctx.arc(p.x,p.y,r,0,Math.PI*2);ctx.fill();if(focus)ctx.stroke()}
+   ctx.shadowBlur=0;if(focus){ctx.beginPath();ctx.arc(p.x,p.y,r+6,0,Math.PI*2);ctx.strokeStyle='rgba(255,218,137,.46)';ctx.lineWidth=1.3;ctx.stroke()}if(top.has(n.id)||focus||hover){ctx.font=focus?'600 14px system-ui':'13px system-ui';ctx.textAlign='center';ctx.textBaseline='middle';let label=n.kind==='hub'?'Agastya':n.label.split(' · ')[0];if(label.length>26)label=label.slice(0,25)+'…';const tw=ctx.measureText?ctx.measureText(label).width:label.length*7,lx=Math.max(4,Math.min(w-tw-12,p.x-tw/2-6)),ly=p.y+r+6+20>h?Math.max(2,p.y-r-25):p.y+r+6;ctx.globalAlpha=baseAlpha*.94;ctx.fillStyle='#081321';ctx.fillRect(lx,ly,tw+12,20);ctx.globalAlpha=baseAlpha;ctx.fillStyle='#f4f8ff';ctx.fillText(label,lx+6+tw/2,ly+10)}ctx.globalAlpha=1}
+ }
+ function claimsFor(id){return data.claims.filter(c=>displayId(c.subject)===id||displayId(c.object)===id||(id.startsWith('source:')&&c.source===id.slice(7))).filter(c=>tradition.value==='all'||c.facet===tradition.value)}
+ function renderDetail(){const n=nodeMap.get(selected),claims=claimsFor(selected),s=n?.source,d=distances('agastya-hub',activeEdges.filter(e=>e.type==='claim'));const kinds={hub:'Agastya across textual witnesses',person:n?.type?.replaceAll('_',' '),place:'Place',text:'Text',source:'Cited edition / translation'};
+  let body=`<h2>${esc(n?.label||'Agastya')}</h2><div class="muted small">${esc(kinds[n?.kind]||'Entity')}${s?` · <a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">Open source</a>`:''}</div><div class="metric"><span>${degree.get(selected)||0} passage connections</span><span>${claims.length} visible claims</span><span>${d.has(selected)?d.get(selected)+' claim-graph hops from hub':''}</span></div>`;
+  if(selected==='agastya-hub')body+=`<p class="small muted">The single Agastya node groups six source-local witnesses for navigation. Each claim retains its own textual tradition; grouping does not establish a single historical identity. Claim radius follows passage edges. Citation links do not count as hops.</p>`;
+  if(n?.kind==='source')body+=`<p class="small source">${esc(s.edition||'')}<br>${esc(s.locator||'')}</p>`;
+  if(n?.kind==='person'||n?.kind==='facet')body+=`<p class="small muted">A connection across different texts is a research path. It does not by itself establish contemporaneity or a meeting.</p>`;
+  body+=claims.slice(0,55).map(c=>{const src=sourceMap.get(c.source);return `<div class="claim"><strong>${esc(nodeMap.get(displayId(c.subject))?.label||c.subject)} → ${esc(human(c.predicate))} → ${esc(nodeMap.get(displayId(c.object))?.label||c.object)}</strong><p>${esc(c.summary)}</p><a class="small" href="${esc(src.url)}" target="_blank" rel="noopener noreferrer">${esc(src.title)} · ${esc(c.locator)}</a><br><small>${esc(facetLabels[c.facet]||c.facet)} · ${esc(human(c.status))}${c.note?' · '+esc(c.note):''}</small></div>`}).join('');if(claims.length>55)body+=`<p class="small muted">${claims.length-55} more claims in graph.json.</p>`;detail.innerHTML=body;
+ }
+ function focusOn(id){const p=particles.get(id);if(!p)return;selected=id;trackingId=id;autoFit=false;targetCenter={x:p.x,y:p.y,z:p.z};targetZoom=Math.max(520,Math.min(1050,520+Math.sqrt(degree.get(id)||0)*32));renderDetail()}
+ const fold=x=>String(x).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'');
+ const foldPopular=x=>fold(String(x).toLowerCase().replace(/[ṛṝ]/g,'ri').replace(/[śṣ]/g,'sh').replace(/ṅ/g,'ng').replace(/ñ/g,'ny'));
+ const forms=x=>[...new Set([fold(x),foldPopular(x)])];
+ let searchChoices=[],searchCursor=0;
+ function findMatches(raw){const queries=forms(raw).filter(Boolean);if(!queries.length)return[];return[...nodeMap.values()].filter(n=>n.kind!=='facet').map(n=>{const names=n.label.split(' · ')[0].split(/\s*\/\s*/).flatMap(forms),exact=queries.some(q=>names.includes(q)),prefix=[];for(const q of queries)for(const name of names)if(name.startsWith(q))prefix.push(name.length-q.length);const within=queries.some(q=>names.some(name=>name.includes(q))),inLabel=queries.some(q=>forms(n.label).some(x=>x.includes(q))),inId=queries.some(q=>forms(n.id).some(x=>x.includes(q)));let score=exact?0:prefix.length?10+Math.min(...prefix)*.1:within?27:inLabel?43:inId?50:Infinity;if(n.kind==='text')score+=4;if(n.kind==='source')score+=7;if(n.kind==='place')score+=3;score-=Math.min(4,Math.log1p(degree.get(n.id)||0));return{n,score}}).filter(x=>Number.isFinite(x.score)).sort((a,b)=>a.score-b.score||(degree.get(b.n.id)||0)-(degree.get(a.n.id)||0)).slice(0,8).map(x=>x.n)}
+ function showSearchResults(){if(!searchResults)return;const q=search.value.trim();searchResults.hidden=!q;search.setAttribute?.('aria-expanded',q?'true':'false');if(!q)return;searchResults.innerHTML=searchChoices.length?searchChoices.map((n,i)=>{const parts=n.label.split(' · '),name=parts[0],context=parts.slice(1).join(' · ')||n.kind;return`<button type="button" role="option" class="search-result${i===searchCursor?' active':''}" data-index="${i}" aria-selected="${i===searchCursor}"><strong>${esc(name)}</strong><small>${esc(context)}</small></button>`}).join(''):'<div class="search-empty">No matching person or text</div>'}
+ function chooseSearch(i,close=false){const n=searchChoices[i];if(!n)return;if(!activeNodes.some(x=>x.id===n.id)){tradition.value='all';radius.value='all';rebuild()}focusOn(n.id);if(close&&searchResults){searchResults.hidden=true;search.setAttribute?.('aria-expanded','false')}}
+ function pick(x,y){let best=null,score=20;for(const q of projected){const dis=Math.hypot(q.p.x-x,q.p.y-y);if(dis<score){score=dis;best=q}}return best}
+ function coords(e){const r=canvas.getBoundingClientRect();return{x:e.clientX-r.left,y:e.clientY-r.top}}
+ canvas.addEventListener('pointerdown',e=>{if(searchResults)searchResults.hidden=true;search.setAttribute?.('aria-expanded','false');canvas.setPointerCapture(e.pointerId);const p=coords(e),hit=pick(p.x,p.y);drag={id:hit?.n.id||null,x:p.x,y:p.y,moved:false};wasDragged=false});
+ canvas.addEventListener('pointermove',e=>{const p=coords(e);if(!drag){const hit=pick(p.x,p.y);hovered=hit?.n.id||null;canvas.style.cursor=hit?'pointer':'grab';return}const dx=p.x-drag.x,dy=p.y-drag.y;if(Math.hypot(dx,dy)>1.5)drag.moved=true;if(drag.id){const v=particles.get(drag.id),pr=project(v,stage.clientWidth,stage.clientHeight),u=dx/Math.max(.3,pr.scale),vv=dy/Math.max(.3,pr.scale),cy=Math.cos(angleY),sy=Math.sin(angleY),cx=Math.cos(angleX),sx=Math.sin(angleX);v.x+=u*cy-vv*sx*sy;v.y+=vv*cx;v.z-=u*sy+vv*sx*cy;v.vx=v.vy=v.vz=0;heat=Math.max(heat,.38)}else{targetAngleY+=dx*.007;targetAngleX=Math.max(-1.48,Math.min(1.48,targetAngleX+dy*.007))}drag.x=p.x;drag.y=p.y});
+ canvas.addEventListener('pointerup',e=>{if(!drag)return;wasDragged=drag.moved;const id=drag.id;drag=null;if(id&&!wasDragged)focusOn(id)});
+ canvas.addEventListener('pointercancel',()=>{drag=null});canvas.addEventListener('wheel',e=>{e.preventDefault();autoFit=false;const delta=Math.max(-400,Math.min(400,e.deltaY));targetZoom=Math.max(180,Math.min(30000,targetZoom*Math.exp(delta*.00115)))},{passive:false});
+ tradition.addEventListener('change',rebuild);radius.addEventListener('change',rebuild);search.addEventListener('input',()=>{searchChoices=findMatches(search.value);searchCursor=0;showSearchResults();if(fold(search.value).length>=2)chooseSearch(0)});
+ search.addEventListener('keydown',e=>{if(e.key==='Escape'){if(searchResults)searchResults.hidden=true;search.setAttribute?.('aria-expanded','false');return}if(!searchChoices.length)return;if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();searchCursor=(searchCursor+(e.key==='ArrowDown'?1:-1)+searchChoices.length)%searchChoices.length;showSearchResults();chooseSearch(searchCursor)}else if(e.key==='Enter'){e.preventDefault();chooseSearch(searchCursor,true)}});
+ searchResults?.addEventListener('click',e=>{const option=e.target.closest('[data-index]');if(!option)return;searchCursor=Number(option.dataset.index);chooseSearch(searchCursor,true)});
+ fit.addEventListener('click',()=>{trackingId=null;autoFit=true;targetCenter={x:0,y:0,z:0};targetZoom=fitDistance()});
+ pause.addEventListener('click',()=>{playing=!playing;pause.textContent=playing?'Pause motion':'Resume motion'});
+ function frame(now){const dt=Math.min(45,now-last||16),zoomEase=1-Math.exp(-dt/(trackingId?220:155)),panEase=1-Math.exp(-dt/115);if(playing)forces(dt);last=now;angleY+=(targetAngleY-angleY)*(1-Math.exp(-dt/85));angleX+=(targetAngleX-angleX)*(1-Math.exp(-dt/85));if(trackingId){const p=particles.get(trackingId);if(p)targetCenter={x:p.x,y:p.y,z:p.z}}for(const axis of ['x','y','z'])viewCenter[axis]+=(targetCenter[axis]-viewCenter[axis])*panEase;if(autoFit)targetZoom=fitDistance();zoom+=(targetZoom-zoom)*zoomEase;if(Math.abs(targetZoom-zoom)<.05)zoom=targetZoom;draw();requestAnimationFrame(frame)}rebuild();requestAnimationFrame(frame);
+})();
+</script>
+</body>
+</html>

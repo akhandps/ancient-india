@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+node_modules/
+.DS_Store
+.venv/
+research/agastya/expansion/inm.txt
+research/agastya/expansion/inm-candidates.csv
+research/agastya/expansion/inm-review-sample.csv

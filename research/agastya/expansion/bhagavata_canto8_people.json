@@ -1,0 +1,3823 @@
+{
+  "nodes": [
+    {
+      "id": "sb8_svayambhuva_manu",
+      "label": "Svāyambhuva Manu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_shatarupa",
+      "label": "Śatarūpā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_akuti",
+      "label": "Ākūti · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_devahuti",
+      "label": "Devahūti · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_yajna",
+      "label": "Yajñamūrti · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_kapila",
+      "label": "Kapila · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_agni",
+      "label": "Agni · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_svarocisa_manu",
+      "label": "Svārociṣa Manu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_svarocisa_son_dyumat",
+      "label": "Dyumat · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_svarocisa_son_susena",
+      "label": "Suṣeṇa · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_svarocisa_son_rocismat",
+      "label": "Rociṣmat · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_rocana_indra",
+      "label": "Rocana · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_svarocisa_sage_urja",
+      "label": "Ūrja · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_svarocisa_sage_stambha",
+      "label": "Stambha · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_vedasira",
+      "label": "Vedaśirā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_tusita_wife",
+      "label": "Tuṣitā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_vibhu",
+      "label": "Vibhu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_priyavrata",
+      "label": "Priyavrata · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_uttama_manu",
+      "label": "Uttama Manu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_uttama_son_pavana",
+      "label": "Pavana · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_uttama_son_srinjaya",
+      "label": "Sṛñjaya · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_uttama_son_yajnahotra",
+      "label": "Yajñahotra · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_uttama_sage_pramada",
+      "label": "Pramada · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_uttama_indra_satyajit",
+      "label": "Satyajit · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_dharma",
+      "label": "Dharma · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_sunrta",
+      "label": "Sūnṛtā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_satyasena",
+      "label": "Satyasena · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_tamasa_manu",
+      "label": "Tāmasa Manu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_tamasa_son_prthu",
+      "label": "Pṛthu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_tamasa_son_khyati",
+      "label": "Khyāti · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_tamasa_son_nara",
+      "label": "Nara · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_tamasa_son_ketu",
+      "label": "Ketu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_tamasa_sage_jyotirdhama",
+      "label": "Jyotirdhāma · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_trisikh_indra",
+      "label": "Triśikha · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_vidhrti",
+      "label": "Vidhṛti · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_harimedha",
+      "label": "Harimedhā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_harini",
+      "label": "Hariṇī · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_hari_incarnation",
+      "label": "Hari (Tāmasa manvantara incarnation) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_gajendra",
+      "label": "Gajendra · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_namuci",
+      "label": "Namuci · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_ambara",
+      "label": "Śambara · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_b_a",
+      "label": "Bāṇa · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_vipracitti",
+      "label": "Vipracitti · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_ayomukha",
+      "label": "Ayomukha · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_dvim_rdh",
+      "label": "Dvimūrdhā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_k_lan_bha",
+      "label": "Kālanābha · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_praheti",
+      "label": "Praheti · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_heti",
+      "label": "Heti · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_ilvala",
+      "label": "Ilvala · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_akuni",
+      "label": "Śakuni · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_bh_tasant_pa",
+      "label": "Bhūtasantāpa · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_vajrada_ra",
+      "label": "Vajradaṁṣṭra · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_hayagr_va",
+      "label": "Hayagrīva · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_a_ku_ir",
+      "label": "Śaṅkuśirā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_kapila",
+      "label": "Kapila · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_meghadundubhi",
+      "label": "Meghadundubhi · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_t_raka",
+      "label": "Tāraka · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_cakrad_k",
+      "label": "Cakradṛk · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_umbha",
+      "label": "Śumbha · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_ni_umbha",
+      "label": "Niśumbha · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_jambha",
+      "label": "Jambha · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_utkala",
+      "label": "Utkala · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_ari_a",
+      "label": "Ariṣṭa · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_ari_anemi",
+      "label": "Ariṣṭanemi · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_tripur_dhipa",
+      "label": "Tripurādhipa · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_maya",
+      "label": "Maya · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_demon_niv_takavaca",
+      "label": "Nivātakavaca · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_k_rttikeya",
+      "label": "Kārttikeya (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_varu_a",
+      "label": "Varuṇa (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_mitra",
+      "label": "Mitra (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_yamar_ja",
+      "label": "Yamarāja (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_vi_vakarm",
+      "label": "Viśvakarmā (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_tva",
+      "label": "Tvaṣṭā (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_s_rya",
+      "label": "Sūrya (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_apar_jita",
+      "label": "Aparājita (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_candra",
+      "label": "Candra (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_r_hu",
+      "label": "Rāhu (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_v_yu",
+      "label": "Vāyu (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_durg_dev",
+      "label": "Durgādevī (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_iva",
+      "label": "Śiva (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_vibh_vasu",
+      "label": "Vibhāvasu (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_mahi_sura",
+      "label": "Mahiṣāsura (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_v_t_pi",
+      "label": "Vātāpi (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_durmar_a",
+      "label": "Durmarṣa (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_k_madeva",
+      "label": "Kāmadeva (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_b_haspati",
+      "label": "Bṛhaspati (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_ukr_c_rya",
+      "label": "Śukrācārya (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_anai_cara",
+      "label": "Śanaiścara (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_narak_sura",
+      "label": "Narakāsura (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_k_lanemi",
+      "label": "Kālanemi (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_m_l",
+      "label": "Mālī (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_sum_l",
+      "label": "Sumālī (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_m_lyav_n",
+      "label": "Mālyavān (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_puloma",
+      "label": "Puloma (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_10_actor_supreme_lord_hari",
+      "label": "Hari (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_11_narada",
+      "label": "Nārada Muni · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_11_jambhasura",
+      "label": "Jambhāsura · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_11_matali",
+      "label": "Mātali · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_11_bala",
+      "label": "Bala (demon, Bhāgavata 8.11) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_11_paka",
+      "label": "Pāka (demon, Bhāgavata 8.11) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_11_vi_v_vasu",
+      "label": "Viśvāvasu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_11_par_vasu",
+      "label": "Parāvasu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_shraddhadeva_son_iks",
+      "label": "Ikṣvāku · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_shraddhadeva_son_nabhaga",
+      "label": "Nabhaga · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_shraddhadeva_son_dhrsta",
+      "label": "Dhṛṣṭa · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_shraddhadeva_son_saryati",
+      "label": "Śaryāti · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_shraddhadeva_son_narisyanta",
+      "label": "Nariṣyanta · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_shraddhadeva_son_nabhasa",
+      "label": "Nābhāga · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_shraddhadeva_son_dista",
+      "label": "Diṣṭa · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_shraddhadeva_son_tarusa",
+      "label": "Tarūṣa · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_shraddhadeva_son_prsad",
+      "label": "Pṛṣadhra · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_shraddhadeva_son_vasuman",
+      "label": "Vasumān · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage_atri",
+      "label": "Atri · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage_visvamitra",
+      "label": "Viśvāmitra · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage_gautama",
+      "label": "Gautama · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage_jamadagni",
+      "label": "Jamadagni · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage_bharadvaja",
+      "label": "Bharadvāja · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_vamana",
+      "label": "Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_aditi",
+      "label": "Aditi · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_savarni_son_nirmoka",
+      "label": "Nirmoka · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_savarni_son_virajaska",
+      "label": "Virajaska · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage8_galava",
+      "label": "Gālava · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage8_diptiman",
+      "label": "Dīptimān · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage8_parasurama",
+      "label": "Paraśurāma · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage8_asvatthama",
+      "label": "Aśvatthāmā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage8_krpa",
+      "label": "Kṛpācārya · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage8_rsyasrnga",
+      "label": "Ṛṣyaśṛṅga · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage8_vyasa",
+      "label": "Vyāsadeva · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_devaguhya",
+      "label": "Devaguhya · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sarasvati",
+      "label": "Sarasvatī · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sarvabhauma",
+      "label": "Sārvabhauma · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_daksa_savarni",
+      "label": "Dakṣa-sāvarṇi Manu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_brahma_savarni",
+      "label": "Brahma-sāvarṇi Manu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_dharma_savarni",
+      "label": "Dharma-sāvarṇi Manu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_rudra_savarni",
+      "label": "Rudra-sāvarṇi Manu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_deva_savarni",
+      "label": "Deva-sāvarṇi Manu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_indra_savarni",
+      "label": "Indra-sāvarṇi Manu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_varuna",
+      "label": "Varuṇa · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_daksa_son_bhutaketu",
+      "label": "Bhūtaketu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_daksa_son_diptaketu",
+      "label": "Dīptaketu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_adbhuta",
+      "label": "Adbhuta · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_dyutiman",
+      "label": "Dyutimān · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_ayusman",
+      "label": "Āyuṣmān · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_ambudhara",
+      "label": "Ambudhārā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_rsabha",
+      "label": "Ṛṣabha (ninth manvantara incarnation) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_upasloka",
+      "label": "Upaśloka · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_bhuri sena",
+      "label": "Bhūriṣeṇa · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage10_havisman",
+      "label": "Haviṣmān · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage10_sukrta",
+      "label": "Sukṛta · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage10_satya",
+      "label": "Satya · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage10_jaya",
+      "label": "Jaya · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage10_murti",
+      "label": "Mūrti · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sambhu_indra",
+      "label": "Śambhu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_visvasrsta",
+      "label": "Viśvasraṣṭā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_visuci",
+      "label": "Viṣūcī · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_visvaksena",
+      "label": "Viṣvaksena · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_dharma_son_satyadharma",
+      "label": "Satyadharma · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_vaidhrita",
+      "label": "Vaidhṛta · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_aruna_sage",
+      "label": "Aruṇa (sage, eleventh manvantara) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_aryaka",
+      "label": "Āryaka · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_vaidhrita_female",
+      "label": "Vaidhṛtā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_dharmasetu",
+      "label": "Dharmasetu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_rudra_son_devavan",
+      "label": "Devavān · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_rudra_son_upadeva",
+      "label": "Upadeva · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_rudra_son_devasrestha",
+      "label": "Devaśreṣṭha · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_rtadhama",
+      "label": "Ṛtadhāmā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage12_tapomurti",
+      "label": "Tapomūrti · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage12_tapasvi",
+      "label": "Tapasvī · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage12_agnidhraka",
+      "label": "Āgnīdhraka · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sunrta12",
+      "label": "Sunṛtā (twelfth manvantara) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_satyasaha",
+      "label": "Satyasahā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_svadhama",
+      "label": "Svadhāmā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_deva_son_citrasena",
+      "label": "Citrasena · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_deva_son_vicitra",
+      "label": "Vicitra · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_divaspati",
+      "label": "Divaspati · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage13_nirmoka",
+      "label": "Nirmoka · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage13_tattvadarsa",
+      "label": "Tattvadarśa · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_devahotra",
+      "label": "Devahotra · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_brahati",
+      "label": "Bṛhatī · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_yogesvara",
+      "label": "Yogeśvara · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_indra_son_uru",
+      "label": "Uru · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_indra_son_gambhira",
+      "label": "Gambhīra · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_indra_son_budha",
+      "label": "Budha · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_suci_indra",
+      "label": "Śuci · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage14_agni",
+      "label": "Agni · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage14_bahu",
+      "label": "Bāhu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage14_suci",
+      "label": "Śuci · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage14_suddha",
+      "label": "Śuddha · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_sage14_magadha",
+      "label": "Māgadha · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_satrayana",
+      "label": "Satrāyaṇa · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_vitana",
+      "label": "Vitānā · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb8_13_brhadbhanu",
+      "label": "Bṛhadbhānu · Śrīmad-Bhāgavatam Canto 8 witness",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "sb8_1",
+      "title": "Śrīmad-Bhāgavatam, Canto 8, Chapter 1, “The Manus, Administrators of the Universe”",
+      "url": "https://vedabase.io/en/library/sb/8/1/",
+      "kind": "primary Sanskrit text and verse translation",
+      "edition": "Bhaktivedanta VedaBase dual-language edition; numbered Sanskrit text and verse translation reviewed, purport excluded.",
+      "locator": "Texts 1–33; claims cite the individual verse(s).",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "sb8_10",
+      "title": "Śrīmad-Bhāgavatam, Canto 8, Chapter 10, “The Battle Between the Demigods and the Demons”",
+      "url": "https://vedabase.io/en/library/sb/8/10/",
+      "kind": "primary Sanskrit text and verse translation",
+      "edition": "Bhaktivedanta VedaBase dual-language edition; numbered Sanskrit text and verse translation reviewed, purport excluded.",
+      "locator": "Texts 1–57; claims cite the individual verse(s).",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "sb8_11",
+      "title": "Śrīmad-Bhāgavatam, Canto 8, Chapter 11, “King Indra Annihilates the Demons”",
+      "url": "https://vedabase.io/en/library/sb/8/11/",
+      "kind": "primary Sanskrit text and verse translation",
+      "edition": "Bhaktivedanta VedaBase dual-language edition; numbered Sanskrit text and verse translation reviewed, purport excluded.",
+      "locator": "Texts 1–48; claims cite the individual verse(s).",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "sb8_13",
+      "title": "Śrīmad-Bhāgavatam, Canto 8, Chapter 13, “Description of Future Manus”",
+      "url": "https://vedabase.io/en/library/sb/8/13/",
+      "kind": "primary Sanskrit text and verse translation",
+      "edition": "Bhaktivedanta VedaBase dual-language edition; numbered Sanskrit text and verse translation reviewed, purport excluded.",
+      "locator": "Texts 1–36; claims cite the individual verse(s).",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "SB8P001",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_svayambhuva_manu",
+      "predicate": "is_husband_of",
+      "object": "sb8_shatarupa",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.7",
+      "summary": "Śatarūpā is the wife accompanying Svāyambhuva Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P002",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_svayambhuva_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_akuti",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.5",
+      "summary": "Ākūti is named as a daughter of Svāyambhuva Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P003",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_svayambhuva_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_devahuti",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.5",
+      "summary": "Devahūti is named as a daughter of Svāyambhuva Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P004",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_akuti",
+      "predicate": "is_father_of",
+      "object": "sb8_yajna",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.5",
+      "summary": "The verse identifies Yajñamūrti as a child of Ākūti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P005",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_devahuti",
+      "predicate": "is_father_of",
+      "object": "sb8_kapila",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.5",
+      "summary": "The verse identifies Kapila as a child of Devahūti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P006",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_agni",
+      "predicate": "is_father_of",
+      "object": "sb8_svarocisa_manu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.19",
+      "summary": "The verse identifies Svārociṣa Manu as a child of Agni.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P007",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_svarocisa_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_svarocisa_son_dyumat",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.19",
+      "summary": "The verse identifies Dyumat as a child of Svārociṣa Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P008",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_svarocisa_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_svarocisa_son_susena",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.19",
+      "summary": "The verse identifies Suṣeṇa as a child of Svārociṣa Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P009",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_svarocisa_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_svarocisa_son_rocismat",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.19",
+      "summary": "The verse identifies Rociṣmat as a child of Svārociṣa Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P010",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_rocana_indra",
+      "predicate": "is_named_as_indra_in_manvantara_of",
+      "object": "sb8_svarocisa_manu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.20",
+      "summary": "Rocana is named as indra in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P011",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_yajna",
+      "predicate": "is_father_of",
+      "object": "sb8_rocana_indra",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.20",
+      "summary": "Rocana is identified as the son of Yajña.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P012",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_svarocisa_sage_urja",
+      "predicate": "is_named_as_sage_in_manvantara_of",
+      "object": "sb8_svarocisa_manu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.20",
+      "summary": "Ūrja is named as sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P013",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_svarocisa_sage_stambha",
+      "predicate": "is_named_as_sage_in_manvantara_of",
+      "object": "sb8_svarocisa_manu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.20",
+      "summary": "Stambha is named as sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P014",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_vedasira",
+      "predicate": "is_husband_of",
+      "object": "sb8_tusita_wife",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.21",
+      "summary": "Tuṣitā is Vedaśirā’s wife.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P015",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_vedasira",
+      "predicate": "is_father_of",
+      "object": "sb8_vibhu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.21",
+      "summary": "The verse identifies Vibhu as a child of Vedaśirā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P016",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_tusita_wife",
+      "predicate": "is_mother_of",
+      "object": "sb8_vibhu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.21",
+      "summary": "Vibhu is born from Tuṣitā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P017",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_priyavrata",
+      "predicate": "is_father_of",
+      "object": "sb8_uttama_manu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.23",
+      "summary": "The verse identifies Uttama Manu as a child of Priyavrata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P018",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_uttama_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_uttama_son_pavana",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.23",
+      "summary": "The verse identifies Pavana as a child of Uttama Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P019",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_uttama_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_uttama_son_srinjaya",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.23",
+      "summary": "The verse identifies Sṛñjaya as a child of Uttama Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P020",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_uttama_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_uttama_son_yajnahotra",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.23",
+      "summary": "The verse identifies Yajñahotra as a child of Uttama Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P021",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_uttama_sage_pramada",
+      "predicate": "is_named_as_sage_in_manvantara_of",
+      "object": "sb8_uttama_manu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.24",
+      "summary": "Pramada is named as sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P022",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_uttama_indra_satyajit",
+      "predicate": "is_named_as_indra_in_manvantara_of",
+      "object": "sb8_uttama_manu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.24",
+      "summary": "Satyajit is named as indra in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P023",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_dharma",
+      "predicate": "is_husband_of",
+      "object": "sb8_sunrta",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.25",
+      "summary": "Sūnṛtā is the wife of Dharma.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P024",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_sunrta",
+      "predicate": "is_father_of",
+      "object": "sb8_satyasena",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.25",
+      "summary": "The verse identifies Satyasena as a child of Sūnṛtā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P025",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_dharma",
+      "predicate": "is_father_of",
+      "object": "sb8_satyasena",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.25",
+      "summary": "Satyasena is born to Dharma and Sūnṛtā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P026",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_uttama_manu",
+      "predicate": "is_brother_of",
+      "object": "sb8_tamasa_manu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.27",
+      "summary": "Tāmasa is the brother of Uttama.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P027",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_tamasa_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_tamasa_son_prthu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.27",
+      "summary": "The verse identifies Pṛthu as a child of Tāmasa Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P028",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_tamasa_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_tamasa_son_khyati",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.27",
+      "summary": "The verse identifies Khyāti as a child of Tāmasa Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P029",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_tamasa_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_tamasa_son_nara",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.27",
+      "summary": "The verse identifies Nara as a child of Tāmasa Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P030",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_tamasa_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_tamasa_son_ketu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.27",
+      "summary": "The verse identifies Ketu as a child of Tāmasa Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P031",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_tamasa_sage_jyotirdhama",
+      "predicate": "is_named_as_sage_in_manvantara_of",
+      "object": "sb8_tamasa_manu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.28",
+      "summary": "Jyotirdhāma is named as sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P032",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_trisikh_indra",
+      "predicate": "is_named_as_indra_in_manvantara_of",
+      "object": "sb8_tamasa_manu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.28",
+      "summary": "Triśikha is named as indra in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P033",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_vidhrti",
+      "predicate": "is_named_as_father_of_demigod_class_in",
+      "object": "sb8_tamasa_manu",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.29",
+      "summary": "Vidhṛti is named as father of the Vaidhṛti class during Tāmasa’s manvantara; the collective is not represented as a person.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P034",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_harimedha",
+      "predicate": "is_husband_of",
+      "object": "sb8_harini",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.30",
+      "summary": "Hariṇī is the wife of Harimedhā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P035",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_harimedha",
+      "predicate": "is_father_of",
+      "object": "sb8_hari_incarnation",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.30",
+      "summary": "The verse identifies Hari (Tāmasa manvantara incarnation) as a child of Harimedhā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P036",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_harini",
+      "predicate": "is_mother_of",
+      "object": "sb8_hari_incarnation",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.30",
+      "summary": "Hari is born from Hariṇī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P037",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_hari_incarnation",
+      "predicate": "rescued",
+      "object": "sb8_gajendra",
+      "source": "sb8_1",
+      "locator": "Śrīmad-Bhāgavatam 8.1.30",
+      "summary": "Hari saved Gajendra from the crocodile.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P038",
+      "facet": "bhagavata_purana",
+      "subject": "mb_adi_inc_virocana",
+      "predicate": "is_father_of",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.16",
+      "summary": "Bali is identified as Virocana’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P039",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_namuci",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Namuci is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P040",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_ambara",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Śambara is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P041",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_b_a",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Bāṇa is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P042",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_vipracitti",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Vipracitti is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P043",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_ayomukha",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Ayomukha is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P044",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_dvim_rdh",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Dvimūrdhā is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P045",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_k_lan_bha",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Kālanābha is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P046",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_praheti",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Praheti is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P047",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_heti",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Heti is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P048",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_ilvala",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Ilvala is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P049",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_akuni",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Śakuni is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P050",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_bh_tasant_pa",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Bhūtasantāpa is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P051",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_vajrada_ra",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Vajradaṁṣṭra is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P052",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_hayagr_va",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Hayagrīva is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P053",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_a_ku_ir",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Śaṅkuśirā is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P054",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_kapila",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Kapila is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P055",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_meghadundubhi",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Meghadundubhi is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P056",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_t_raka",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Tāraka is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P057",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_cakrad_k",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Cakradṛk is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P058",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_umbha",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Śumbha is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P059",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_ni_umbha",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Niśumbha is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P060",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_jambha",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Jambha is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P061",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_utkala",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Utkala is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P062",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_ari_a",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Ariṣṭa is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P063",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_ari_anemi",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Ariṣṭanemi is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P064",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_tripur_dhipa",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Tripurādhipa is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P065",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_maya",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Maya is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P066",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_niv_takavaca",
+      "predicate": "is_named_as_demon_commander_under",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.19–24",
+      "summary": "Nivātakavaca is named among the demon captains surrounding Bali.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P067",
+      "facet": "bhagavata_purana",
+      "subject": "mb_adi_inc_bali_daitya",
+      "predicate": "fought",
+      "object": "indra",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.28",
+      "summary": "Bali fought Indra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P068",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_k_rttikeya",
+      "predicate": "fought",
+      "object": "sb8_10_demon_t_raka",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.28",
+      "summary": "Kārttikeya fought Tāraka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P069",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_varu_a",
+      "predicate": "fought",
+      "object": "sb8_10_demon_heti",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.28",
+      "summary": "Varuṇa fought Heti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P070",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_mitra",
+      "predicate": "fought",
+      "object": "sb8_10_demon_praheti",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.28",
+      "summary": "Mitra fought Praheti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P071",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_yamar_ja",
+      "predicate": "fought",
+      "object": "sb8_10_demon_k_lan_bha",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.29",
+      "summary": "Yamarāja fought Kālanābha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P072",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_vi_vakarm",
+      "predicate": "fought",
+      "object": "sb8_10_demon_maya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.29",
+      "summary": "Viśvakarmā fought Maya Dānava.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P073",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_tva",
+      "predicate": "fought",
+      "object": "sb8_10_demon_ambara",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.29",
+      "summary": "Tvaṣṭā fought Śambara.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P074",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_s_rya",
+      "predicate": "fought",
+      "object": "mb_adi_inc_virocana",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.29",
+      "summary": "Sūrya fought Virocana.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P075",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_apar_jita",
+      "predicate": "fought",
+      "object": "sb8_10_demon_namuci",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.30",
+      "summary": "Aparājita fought Namuci.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P076",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_s_rya",
+      "predicate": "fought",
+      "object": "sb8_10_demon_b_a",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.31",
+      "summary": "Sūrya fought Bāṇa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P077",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_candra",
+      "predicate": "fought",
+      "object": "sb8_10_actor_r_hu",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.31",
+      "summary": "Candra fought Rāhu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P078",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_v_yu",
+      "predicate": "fought",
+      "object": "sb8_10_actor_puloma",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.31",
+      "summary": "Vāyu fought Puloma.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P079",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_umbha",
+      "predicate": "fought",
+      "object": "sb8_10_actor_durg_dev",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.31",
+      "summary": "Śumbha fought Durgādevī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P080",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_ni_umbha",
+      "predicate": "fought",
+      "object": "sb8_10_actor_durg_dev",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.31",
+      "summary": "Niśumbha fought Durgādevī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P081",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_iva",
+      "predicate": "fought",
+      "object": "sb8_10_demon_jambha",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.32",
+      "summary": "Śiva fought Jambha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P082",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_vibh_vasu",
+      "predicate": "fought",
+      "object": "sb8_10_actor_mahi_sura",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.32",
+      "summary": "Vibhāvasu fought Mahiṣāsura.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P083",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_demon_ilvala",
+      "predicate": "fought",
+      "object": "sb8_10_actor_v_t_pi",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.33",
+      "summary": "Ilvala fought Vātāpi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P084",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_durmar_a",
+      "predicate": "fought",
+      "object": "sb8_10_actor_k_madeva",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.33",
+      "summary": "Durmarṣa fought Kāmadeva.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P085",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_b_haspati",
+      "predicate": "fought",
+      "object": "sb8_10_actor_ukr_c_rya",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.33",
+      "summary": "Bṛhaspati fought Śukrācārya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P086",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_anai_cara",
+      "predicate": "fought",
+      "object": "sb8_10_actor_narak_sura",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.34",
+      "summary": "Śanaiścara fought Narakāsura.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P087",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_supreme_lord_hari",
+      "predicate": "killed",
+      "object": "sb8_10_actor_k_lanemi",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.56–57",
+      "summary": "Hari killed Kālanemi in the battle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P088",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_supreme_lord_hari",
+      "predicate": "killed",
+      "object": "sb8_10_actor_m_l",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.56–57",
+      "summary": "Hari killed Mālī in the battle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P089",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_supreme_lord_hari",
+      "predicate": "killed",
+      "object": "sb8_10_actor_sum_l",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.56–57",
+      "summary": "Hari killed Sumālī in the battle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P090",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_supreme_lord_hari",
+      "predicate": "killed",
+      "object": "sb8_10_actor_m_lyav_n",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.56–57",
+      "summary": "Hari killed Mālyavān in the battle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P091",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_k_lanemi",
+      "predicate": "attacked",
+      "object": "mb_adi_inc_garuda_vinata_line",
+      "source": "sb8_10",
+      "locator": "Śrīmad-Bhāgavatam 8.10.56",
+      "summary": "Kālanemi hurled his trident at Garuḍa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P092",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_11_jambhasura",
+      "predicate": "is_friend_of",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_11",
+      "locator": "Śrīmad-Bhāgavatam 8.11.13",
+      "summary": "Jambhāsura is Bali’s friend.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P093",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_11_narada",
+      "predicate": "informed",
+      "object": "sb8_10_demon_namuci",
+      "source": "sb8_11",
+      "locator": "Śrīmad-Bhāgavatam 8.11.19",
+      "summary": "Nārada informed Namuci of Jambhāsura’s death.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P094",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_11_narada",
+      "predicate": "informed",
+      "object": "sb8_11_bala",
+      "source": "sb8_11",
+      "locator": "Śrīmad-Bhāgavatam 8.11.19",
+      "summary": "Nārada informed Jambhāsura’s named relatives/friends of his death.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P095",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_11_narada",
+      "predicate": "informed",
+      "object": "sb8_11_paka",
+      "source": "sb8_11",
+      "locator": "Śrīmad-Bhāgavatam 8.11.19",
+      "summary": "Nārada informed Jambhāsura’s named relatives/friends of his death.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P096",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_11_narada",
+      "predicate": "informed",
+      "object": "sb8_10_demon_namuci",
+      "source": "sb8_11",
+      "locator": "Śrīmad-Bhāgavatam 8.11.19",
+      "summary": "Nārada informed Jambhāsura’s named relatives/friends of his death.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P097",
+      "facet": "bhagavata_purana",
+      "subject": "indra",
+      "predicate": "killed",
+      "object": "sb8_11_jambhasura",
+      "source": "sb8_11",
+      "locator": "Śrīmad-Bhāgavatam 8.11.18",
+      "summary": "Indra killed Jambhāsura with his thunderbolt.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P098",
+      "facet": "bhagavata_purana",
+      "subject": "indra",
+      "predicate": "killed",
+      "object": "sb8_11_bala",
+      "source": "sb8_11",
+      "locator": "Śrīmad-Bhāgavatam 8.11.28",
+      "summary": "Indra killed Bala.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P099",
+      "facet": "bhagavata_purana",
+      "subject": "indra",
+      "predicate": "killed",
+      "object": "sb8_11_paka",
+      "source": "sb8_11",
+      "locator": "Śrīmad-Bhāgavatam 8.11.28",
+      "summary": "Indra killed Pāka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P100",
+      "facet": "bhagavata_purana",
+      "subject": "indra",
+      "predicate": "killed",
+      "object": "sb8_10_demon_namuci",
+      "source": "sb8_11",
+      "locator": "Śrīmad-Bhāgavatam 8.11.40",
+      "summary": "Indra killed Namuci with a weapon of foam.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P101",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_11_jambhasura",
+      "predicate": "attacked",
+      "object": "sb8_11_matali",
+      "source": "sb8_11",
+      "locator": "Śrīmad-Bhāgavatam 8.11.17",
+      "summary": "Jambhāsura struck Mātali with a trident.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P102",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_10_actor_ukr_c_rya",
+      "predicate": "restored_to_life",
+      "object": "mb_adi_inc_bali_daitya",
+      "source": "sb8_11",
+      "locator": "Śrīmad-Bhāgavatam 8.11.47–48",
+      "summary": "Śukrācārya restored Bali’s senses and consciousness.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P103",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_11_vi_v_vasu",
+      "predicate": "sang_after",
+      "object": "indra",
+      "source": "sb8_11",
+      "locator": "Śrīmad-Bhāgavatam 8.11.41",
+      "summary": "Viśvāvasu sang after Indra killed Namuci.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P104",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_11_par_vasu",
+      "predicate": "sang_after",
+      "object": "indra",
+      "source": "sb8_11",
+      "locator": "Śrīmad-Bhāgavatam 8.11.41",
+      "summary": "Parāvasu sang after Indra killed Namuci.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P105",
+      "facet": "bhagavata_purana",
+      "subject": "mb_adi_inc_vivasvat_aditya",
+      "predicate": "is_father_of",
+      "object": "sb6_sraddhadeva_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.1",
+      "summary": "Śrāddhadeva is the son of Vivasvān.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P106",
+      "facet": "bhagavata_purana",
+      "subject": "sb6_sraddhadeva_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_13_shraddhadeva_son_iks",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.2–3",
+      "summary": "The verse identifies Ikṣvāku as a child of Śrāddhadeva Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P107",
+      "facet": "bhagavata_purana",
+      "subject": "sb6_sraddhadeva_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_13_shraddhadeva_son_nabhaga",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.2–3",
+      "summary": "The verse identifies Nabhaga as a child of Śrāddhadeva Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P108",
+      "facet": "bhagavata_purana",
+      "subject": "sb6_sraddhadeva_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_13_shraddhadeva_son_dhrsta",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.2–3",
+      "summary": "The verse identifies Dhṛṣṭa as a child of Śrāddhadeva Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P109",
+      "facet": "bhagavata_purana",
+      "subject": "sb6_sraddhadeva_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_13_shraddhadeva_son_saryati",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.2–3",
+      "summary": "The verse identifies Śaryāti as a child of Śrāddhadeva Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P110",
+      "facet": "bhagavata_purana",
+      "subject": "sb6_sraddhadeva_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_13_shraddhadeva_son_narisyanta",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.2–3",
+      "summary": "The verse identifies Nariṣyanta as a child of Śrāddhadeva Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P111",
+      "facet": "bhagavata_purana",
+      "subject": "sb6_sraddhadeva_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_13_shraddhadeva_son_nabhasa",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.2–3",
+      "summary": "The verse identifies Nābhāga as a child of Śrāddhadeva Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P112",
+      "facet": "bhagavata_purana",
+      "subject": "sb6_sraddhadeva_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_13_shraddhadeva_son_dista",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.2–3",
+      "summary": "The verse identifies Diṣṭa as a child of Śrāddhadeva Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P113",
+      "facet": "bhagavata_purana",
+      "subject": "sb6_sraddhadeva_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_13_shraddhadeva_son_tarusa",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.2–3",
+      "summary": "The verse identifies Tarūṣa as a child of Śrāddhadeva Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P114",
+      "facet": "bhagavata_purana",
+      "subject": "sb6_sraddhadeva_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_13_shraddhadeva_son_prsad",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.2–3",
+      "summary": "The verse identifies Pṛṣadhra as a child of Śrāddhadeva Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P115",
+      "facet": "bhagavata_purana",
+      "subject": "sb6_sraddhadeva_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_13_shraddhadeva_son_vasuman",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.2–3",
+      "summary": "The verse identifies Vasumān as a child of Śrāddhadeva Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P116",
+      "facet": "bhagavata_purana",
+      "subject": "mb_adi_inc_kashyapa",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb6_sraddhadeva_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.5",
+      "summary": "Kaśyapa is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P117",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage_atri",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb6_sraddhadeva_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.5",
+      "summary": "Atri is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P118",
+      "facet": "bhagavata_purana",
+      "subject": "vasistha",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb6_sraddhadeva_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.5",
+      "summary": "Vasiṣṭha is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P119",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage_visvamitra",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb6_sraddhadeva_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.5",
+      "summary": "Viśvāmitra is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P120",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage_gautama",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb6_sraddhadeva_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.5",
+      "summary": "Gautama is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P121",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage_jamadagni",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb6_sraddhadeva_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.5",
+      "summary": "Jamadagni is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P122",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage_bharadvaja",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb6_sraddhadeva_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.5",
+      "summary": "Bharadvāja is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P123",
+      "facet": "bhagavata_purana",
+      "subject": "mb_adi_inc_kashyapa",
+      "predicate": "is_father_of",
+      "object": "sb8_13_vamana",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.6",
+      "summary": "Vāmana is named as son of Kaśyapa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P124",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_aditi",
+      "predicate": "is_mother_of",
+      "object": "sb8_13_vamana",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.6",
+      "summary": "Vāmana is named as son of Aditi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P125",
+      "facet": "bhagavata_purana",
+      "subject": "sb6_savarni_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_13_savarni_son_nirmoka",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.11",
+      "summary": "The verse identifies Nirmoka as a child of Sāvarṇi Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P126",
+      "facet": "bhagavata_purana",
+      "subject": "sb6_savarni_manu",
+      "predicate": "is_father_of",
+      "object": "sb8_13_savarni_son_virajaska",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.11",
+      "summary": "The verse identifies Virajaska as a child of Sāvarṇi Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P127",
+      "facet": "bhagavata_purana",
+      "subject": "mb_adi_inc_bali_daitya",
+      "predicate": "is_named_as_indra_in_manvantara_of",
+      "object": "sb6_savarni_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.12",
+      "summary": "Bali is named as indra in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P128",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage8_galava",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb6_savarni_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.15–16",
+      "summary": "Gālava is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P129",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage8_diptiman",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb6_savarni_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.15–16",
+      "summary": "Dīptimān is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P130",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage8_parasurama",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb6_savarni_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.15–16",
+      "summary": "Paraśurāma is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P131",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage8_asvatthama",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb6_savarni_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.15–16",
+      "summary": "Aśvatthāmā is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P132",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage8_krpa",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb6_savarni_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.15–16",
+      "summary": "Kṛpācārya is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P133",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage8_rsyasrnga",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb6_savarni_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.15–16",
+      "summary": "Ṛṣyaśṛṅga is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P134",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage8_vyasa",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb6_savarni_manu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.15–16",
+      "summary": "Vyāsadeva is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P135",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_devaguhya",
+      "predicate": "is_father_of",
+      "object": "sb8_13_sarvabhauma",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.17",
+      "summary": "The verse identifies Sārvabhauma as a child of Devaguhya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P136",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sarasvati",
+      "predicate": "is_mother_of",
+      "object": "sb8_13_sarvabhauma",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.17",
+      "summary": "Sārvabhauma is born to Sarasvatī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P137",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_varuna",
+      "predicate": "is_father_of",
+      "object": "sb8_13_daksa_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.18",
+      "summary": "Dakṣa-sāvarṇi is born of Varuṇa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P138",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_daksa_savarni",
+      "predicate": "is_father_of",
+      "object": "sb8_13_daksa_son_bhutaketu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.18",
+      "summary": "The verse identifies Bhūtaketu as a child of Dakṣa-sāvarṇi Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P139",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_daksa_savarni",
+      "predicate": "is_father_of",
+      "object": "sb8_13_daksa_son_diptaketu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.18",
+      "summary": "The verse identifies Dīptaketu as a child of Dakṣa-sāvarṇi Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P140",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_adbhuta",
+      "predicate": "is_named_as_indra_in_manvantara_of",
+      "object": "sb8_13_daksa_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.19",
+      "summary": "Adbhuta is named as indra in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P141",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_dyutiman",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_daksa_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.19",
+      "summary": "Dyutimān is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P142",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_ayusman",
+      "predicate": "is_father_of",
+      "object": "sb8_13_rsabha",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.20",
+      "summary": "The verse identifies Ṛṣabha (ninth manvantara incarnation) as a child of Āyuṣmān.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P143",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_ambudhara",
+      "predicate": "is_mother_of",
+      "object": "sb8_13_rsabha",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.20",
+      "summary": "Ṛṣabha is born to Ambudhārā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P144",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_upasloka",
+      "predicate": "is_father_of",
+      "object": "sb8_13_brahma_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.21",
+      "summary": "Brahma-sāvarṇi is the son of Upaśloka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P145",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_brahma_savarni",
+      "predicate": "is_father_of",
+      "object": "sb8_13_bhuri sena",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.21",
+      "summary": "The verse identifies Bhūriṣeṇa as a child of Brahma-sāvarṇi Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P146",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage10_havisman",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_brahma_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.21–22",
+      "summary": "Haviṣmān is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P147",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage10_sukrta",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_brahma_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.21–22",
+      "summary": "Sukṛta is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P148",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage10_satya",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_brahma_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.21–22",
+      "summary": "Satya is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P149",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage10_jaya",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_brahma_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.21–22",
+      "summary": "Jaya is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P150",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage10_murti",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_brahma_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.21–22",
+      "summary": "Mūrti is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P151",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sambhu_indra",
+      "predicate": "is_named_as_indra_in_manvantara_of",
+      "object": "sb8_13_brahma_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.22",
+      "summary": "Śambhu is named as indra in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P152",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_visvasrsta",
+      "predicate": "is_father_of",
+      "object": "sb8_13_visvaksena",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.23",
+      "summary": "The verse identifies Viṣvaksena as a child of Viśvasraṣṭā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P153",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_visuci",
+      "predicate": "is_mother_of",
+      "object": "sb8_13_visvaksena",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.23",
+      "summary": "Viṣvaksena is born from Viṣūcī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P154",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_visvaksena",
+      "predicate": "is_friend_of",
+      "object": "sb8_13_sambhu_indra",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.23",
+      "summary": "Viṣvaksena is said to become a friend of Śambhu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P155",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_dharma_savarni",
+      "predicate": "is_father_of",
+      "object": "sb8_13_dharma_son_satyadharma",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.24",
+      "summary": "The verse identifies Satyadharma as a child of Dharma-sāvarṇi Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P156",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_vaidhrita",
+      "predicate": "is_named_as_indra_in_manvantara_of",
+      "object": "sb8_13_dharma_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.25",
+      "summary": "Vaidhṛta is named as indra in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P157",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_aruna_sage",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_dharma_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.25",
+      "summary": "Aruṇa (sage, eleventh manvantara) is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P158",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_aryaka",
+      "predicate": "is_father_of",
+      "object": "sb8_13_dharmasetu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.26",
+      "summary": "The verse identifies Dharmasetu as a child of Āryaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P159",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_vaidhrita_female",
+      "predicate": "is_mother_of",
+      "object": "sb8_13_dharmasetu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.26",
+      "summary": "Dharmasetu is born to Vaidhṛtā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P160",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_rudra_savarni",
+      "predicate": "is_father_of",
+      "object": "sb8_13_rudra_son_devavan",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.27",
+      "summary": "The verse identifies Devavān as a child of Rudra-sāvarṇi Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P161",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_rudra_savarni",
+      "predicate": "is_father_of",
+      "object": "sb8_13_rudra_son_upadeva",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.27",
+      "summary": "The verse identifies Upadeva as a child of Rudra-sāvarṇi Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P162",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_rudra_savarni",
+      "predicate": "is_father_of",
+      "object": "sb8_13_rudra_son_devasrestha",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.27",
+      "summary": "The verse identifies Devaśreṣṭha as a child of Rudra-sāvarṇi Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P163",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_rtadhama",
+      "predicate": "is_named_as_indra_in_manvantara_of",
+      "object": "sb8_13_rudra_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.28",
+      "summary": "Ṛtadhāmā is named as indra in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P164",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage12_tapomurti",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_rudra_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.28",
+      "summary": "Tapomūrti is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P165",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage12_tapasvi",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_rudra_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.28",
+      "summary": "Tapasvī is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P166",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage12_agnidhraka",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_rudra_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.28",
+      "summary": "Āgnīdhraka is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P167",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_satyasaha",
+      "predicate": "is_father_of",
+      "object": "sb8_13_svadhama",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.29",
+      "summary": "The verse identifies Svadhāmā as a child of Satyasahā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P168",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sunrta12",
+      "predicate": "is_mother_of",
+      "object": "sb8_13_svadhama",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.29",
+      "summary": "Svadhāmā is born from Sunṛtā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P169",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_deva_savarni",
+      "predicate": "is_father_of",
+      "object": "sb8_13_deva_son_citrasena",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.30",
+      "summary": "The verse identifies Citrasena as a child of Deva-sāvarṇi Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P170",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_deva_savarni",
+      "predicate": "is_father_of",
+      "object": "sb8_13_deva_son_vicitra",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.30",
+      "summary": "The verse identifies Vicitra as a child of Deva-sāvarṇi Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P171",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_divaspati",
+      "predicate": "is_named_as_indra_in_manvantara_of",
+      "object": "sb8_13_deva_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.31",
+      "summary": "Divaspati is named as indra in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P172",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage13_nirmoka",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_deva_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.31",
+      "summary": "Nirmoka is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P173",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage13_tattvadarsa",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_deva_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.31",
+      "summary": "Tattvadarśa is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P174",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_devahotra",
+      "predicate": "is_father_of",
+      "object": "sb8_13_yogesvara",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.32",
+      "summary": "The verse identifies Yogeśvara as a child of Devahotra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P175",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_brahati",
+      "predicate": "is_mother_of",
+      "object": "sb8_13_yogesvara",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.32",
+      "summary": "Yogeśvara is born of Bṛhatī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P176",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_indra_savarni",
+      "predicate": "is_father_of",
+      "object": "sb8_13_indra_son_uru",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.33",
+      "summary": "The verse identifies Uru as a child of Indra-sāvarṇi Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P177",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_indra_savarni",
+      "predicate": "is_father_of",
+      "object": "sb8_13_indra_son_gambhira",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.33",
+      "summary": "The verse identifies Gambhīra as a child of Indra-sāvarṇi Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P178",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_indra_savarni",
+      "predicate": "is_father_of",
+      "object": "sb8_13_indra_son_budha",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.33",
+      "summary": "The verse identifies Budha as a child of Indra-sāvarṇi Manu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P179",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_suci_indra",
+      "predicate": "is_named_as_indra_in_manvantara_of",
+      "object": "sb8_13_indra_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.34",
+      "summary": "Śuci is named as indra in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P180",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage14_agni",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_indra_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.34",
+      "summary": "Agni is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P181",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage14_bahu",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_indra_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.34",
+      "summary": "Bāhu is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P182",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage14_suci",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_indra_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.34",
+      "summary": "Śuci is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P183",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage14_suddha",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_indra_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.34",
+      "summary": "Śuddha is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P184",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_sage14_magadha",
+      "predicate": "is_named_as_seven_sage_in_manvantara_of",
+      "object": "sb8_13_indra_savarni",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.34",
+      "summary": "Māgadha is named as seven sage in manvantara of for this Manu cycle.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P185",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_satrayana",
+      "predicate": "is_father_of",
+      "object": "sb8_13_brhadbhanu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.35",
+      "summary": "The verse identifies Bṛhadbhānu as a child of Satrāyaṇa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    },
+    {
+      "id": "SB8P186",
+      "facet": "bhagavata_purana",
+      "subject": "sb8_13_vitana",
+      "predicate": "is_mother_of",
+      "object": "sb8_13_brhadbhanu",
+      "source": "sb8_13",
+      "locator": "Śrīmad-Bhāgavatam 8.13.35",
+      "summary": "Bṛhadbhānu is born from Vitānā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva Gosvāmī",
+      "original_language_reviewed": true,
+      "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded."
+    }
+  ],
+  "search_log": [
+    {
+      "source": "https://vedabase.io/en/library/sb/8/1/",
+      "scope": "Śrīmad-Bhāgavatam 8.1.1–33",
+      "method": "Reviewed numbered verse text and translations for named people, explicit parentage, spouse, sibling, and manvantara roles; excluded group labels and synopsis."
+    },
+    {
+      "source": "https://vedabase.io/en/library/sb/8/10/",
+      "scope": "Śrīmad-Bhāgavatam 8.10.16–57",
+      "method": "Reviewed numbered verse text and translations for named captains, individual fight pairings, and named combat outcomes; excluded collective troop classes and unnamed sons."
+    },
+    {
+      "source": "https://vedabase.io/en/library/sb/8/11/",
+      "scope": "Śrīmad-Bhāgavatam 8.11.13–48",
+      "method": "Reviewed numbered verse text and translations for named persons, kin/friend connections, combat actions, and post-battle events; excluded unnamed collectives."
+    },
+    {
+      "source": "https://vedabase.io/en/library/sb/8/13/",
+      "scope": "Śrīmad-Bhāgavatam 8.13.1–36",
+      "method": "Reviewed numbered verse text and translations for Manu cycles, named sons, parents, and named sage/Indra roles. Predicted relationships remain future-tense. Purports and chapter synopsis excluded."
+    }
+  ],
+  "notes": [
+    "Evidence is limited to numbered Sanskrit verses and their translations on the cited Vedabase chapter pages. Chapter synopses and purports are not claim sources.",
+    "In 8.10, individually named demons in 8.10.19–24 are represented as named captains around Bali. Plural collectives such as the sons of Puloma, Kāleyas, and other demon/god classes are omitted; the unnamed hundred sons of Bali are not split into individuals.",
+    "For Canto 8.1 and 8.13, plural classes such as Yāmas, Satyas, Satyavratas, Vaidhṛtis, Sutapās, Maruts, and other unnamed sages/demigods are not modeled as people. A named individual listed in a roster is retained only when the verse gives a personal name.",
+    "Homonyms are branch-scoped: the Canto 8 battle names remain local where identity with a similarly named figure elsewhere is not established by these verses. Clear anchors (Brahmā, Kaśyapa, Vivasvat, Indra, Vasiṣṭha, Garuḍa, Bali, Virocana) are reused where passage context is explicit. Maya Dānava is the rostered Maya of 8.10.19–24; Durgādevī is one figure also called Bhadra Kālī. The Aśvinī twins are not individuated because this passage does not name them.",
+    "Manvantara predictions in 8.13 remain future claims in the source narrative; claims report the text’s stated future roles/relationships and do not imply historicity."
+  ]
+}

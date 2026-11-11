@@ -1,0 +1,3165 @@
+{
+  "nodes": [
+    {
+      "id": "mb_adi_latermore_draupadi_swayamvara",
+      "label": "Draupadī svayaṃvara at Pāñcāla",
+      "type": "event"
+    },
+    {
+      "id": "mb_adi_inc_duryodhana_human_incarnation",
+      "label": "Duryodhana",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_durvisaha",
+      "label": "Durviṣaha",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v3_07",
+      "label": "Durmukha",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v3_05",
+      "label": "Duṣpradharṣaṇa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v4_01",
+      "label": "Viviṃśati",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v4_02",
+      "label": "Vikarṇa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_saha",
+      "label": "Saha",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v2_03",
+      "label": "Duḥśāsana",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v2_02",
+      "label": "Yuyutsu",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v10_07",
+      "label": "Vātavega",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_bhimavegadhara",
+      "label": "Bhīmavegadhara",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v8_01",
+      "label": "Ugrāyudha",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_balakin",
+      "label": "Balākī",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v8_03",
+      "label": "Kanakāyu",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_virocana",
+      "label": "Virocana",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_sukundala",
+      "label": "Sukuṇḍala",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_citrasena",
+      "label": "Citrāsena",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_suvarca",
+      "label": "Suvarcā",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v13_08",
+      "label": "Kanakadhvaja",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_nandaka",
+      "label": "Nandaka",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_bahusalin",
+      "label": "Bāhuśālin",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_kundaja",
+      "label": "Kuṇḍaja",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v5_04",
+      "label": "Vikaṭa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_shakuni_human_incarnation",
+      "label": "Śakuni",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_bala_anayus_son",
+      "label": "Bala",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_vrsaka",
+      "label": "Vṛṣaka",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_brhadbala_gandhara",
+      "label": "Bṛhadbala",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_ashvatthaman_human_incarnation",
+      "label": "Aśvatthāman",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_bhoja",
+      "label": "Bhoja",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_human_incarnation_brhanta",
+      "label": "Bṛhanta",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_manimant",
+      "label": "Maṇimant",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_dandadhara",
+      "label": "Daṇḍadhara",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_sahadeva_human_incarnation",
+      "label": "Sahadeva",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_jayatsena",
+      "label": "Jayatsena",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_meghasandhi",
+      "label": "Meghasaṃdhi",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_virata_human_incarnation",
+      "label": "Virāṭa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_sankha_son_of_virata",
+      "label": "Śaṅkha, son of Virāṭa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_uttara_son_of_virata",
+      "label": "Uttara, son of Virāṭa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_vardhaksemi",
+      "label": "Vārdhakṣemi",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_human_incarnation_senabindu",
+      "label": "Senābindu",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_abhibhu",
+      "label": "Abhibhū",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_sudama",
+      "label": "Sudāmā",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v10_08",
+      "label": "Suvarcas",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_sumitra",
+      "label": "Sumitra",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_sukumara",
+      "label": "Sukumāra",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_vrka",
+      "label": "Vṛka",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_satyadhriti",
+      "label": "Satyadhṛti",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_suryadhvaja",
+      "label": "Sūryadhvaja",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_human_incarnation_rocamana",
+      "label": "Rocamāna",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_nila",
+      "label": "Nīla",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_citrayudha",
+      "label": "Citrāyudha",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_amshumant",
+      "label": "Aṃśumant",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_cekitana_human_incarnation",
+      "label": "Cekitāna",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_shreniman",
+      "label": "Śreṇimat",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_samudrasena",
+      "label": "Samudrasena",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_candrasena_samudrasena_son",
+      "label": "Candrasena",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v2_06",
+      "label": "Jalasaṃdha",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_sudanda",
+      "label": "Sudaṇḍa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_human_incarnation_danda_human_king",
+      "label": "Daṇḍa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_paundraka_vasudeva",
+      "label": "Pauṇḍraka Vāsudeva",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_human_incarnation_bhagadatta",
+      "label": "Bhagadatta",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_human_incarnation_shalya_bahlika_king",
+      "label": "Śalya",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_rukmangada",
+      "label": "Rukmāṅgada",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_rukmaratha",
+      "label": "Rukmaratha",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_somadatta",
+      "label": "Somadatta",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_bhuri",
+      "label": "Bhūri",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_bhurisravas",
+      "label": "Bhūriśravas",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_shala",
+      "label": "Śala",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_sudakshina",
+      "label": "Sudakṣiṇa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_dridhadhanvan",
+      "label": "Dṛḍhadhanvan",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_brhadbala_of_the_sibi_line",
+      "label": "Bṛhadbala (Ādiparvan 1.177.15)",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_son_v6_02",
+      "label": "Suṣeṇa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_sibi_ausinara",
+      "label": "Śibi Auśīnara",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_balarama_human_incarnation",
+      "label": "Saṃkarṣaṇa / Balarāma",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_krishna_human_incarnation",
+      "label": "Kṛṣṇa Vāsudeva",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_raukmineya_pradyumna",
+      "label": "Raukmiṇeya",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_samba",
+      "label": "Sāmba",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_charudeshna",
+      "label": "Cārudeṣṇa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_sarana",
+      "label": "Sāraṇa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_gada",
+      "label": "Gada",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_akrura",
+      "label": "Akrūra",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_satyaki_human_incarnation",
+      "label": "Sātyaki",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_uddhava_krodhavasha_incarnation",
+      "label": "Uddhava",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_krtavarman_hardikya",
+      "label": "Kṛtavarman Hārdikya",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_prthu_yadava",
+      "label": "Pṛthu",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_viprthu",
+      "label": "Vipṛthu",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_viduratha",
+      "label": "Vidūratha",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_kanka",
+      "label": "Kaṅka",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_samika",
+      "label": "Samīka",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_saramejaya",
+      "label": "Sāramejaya",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_vatapati",
+      "label": "Vātapati",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_jhilli",
+      "label": "Jhillī",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_pindaraka",
+      "label": "Piṇḍāraka",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_nxt_uśīnara",
+      "label": "Uśīnara",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_bhagiratha",
+      "label": "Bhagīratha",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_brhatksatra",
+      "label": "Bṛhatkṣatra",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_jayadratha_human_incarnation",
+      "label": "Saindhava Jayadratha",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_brhadratha",
+      "label": "Bṛhadratha",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_human_incarnation_bahlika_human_king",
+      "label": "Bāhlika",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_nxt_śrutāyu",
+      "label": "Śrutāyu",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_uluka_kaitava",
+      "label": "Ulūka Kaitava",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_chitrangada",
+      "label": "Citrāṅgada",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_subhangada",
+      "label": "Subhāṅgada",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_vatsaraja",
+      "label": "Vatsarāja",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_dhrtimant",
+      "label": "Dhṛtimant",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_bakasura",
+      "label": "Bakāsura",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_later_drupada",
+      "label": "Drupada",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_yaja",
+      "label": "Yāja",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_upayaja",
+      "label": "Upayāja",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_prishati",
+      "label": "Pṛṣatī",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_later_dhrishtadyumna",
+      "label": "Dhṛṣṭadyumna",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_draupadi",
+      "label": "Draupadī / Kṛṣṇā",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_drona",
+      "label": "Droṇa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_vyasa",
+      "label": "Vyāsa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_tapati",
+      "label": "Tapatī",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_savitr_aditya",
+      "label": "Savitṛ",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_samvarana",
+      "label": "Saṃvaraṇa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_vasishtha",
+      "label": "Vasiṣṭha",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_gadhi",
+      "label": "Gādhi",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_nxt_viśvāmitra",
+      "label": "Viśvāmitra",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_nandini",
+      "label": "Nandinī",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_kalmasapada",
+      "label": "Kalmāṣapāda / Saudāsa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_early_shakti_vasishtha_son",
+      "label": "Śakti",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_kimkara",
+      "label": "Kiṃkara",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_later_madayanti",
+      "label": "Madayantī",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_adrsyanti",
+      "label": "Adr̥śyantī",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_parashara",
+      "label": "Parāśara",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_aurva",
+      "label": "Aurva",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_krtavirya",
+      "label": "Kṛtavīrya",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_atri",
+      "label": "Atri",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_pulastya",
+      "label": "Pulastya",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_pulaha",
+      "label": "Pulaha",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_kratu",
+      "label": "Kratu",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_dhaumya",
+      "label": "Dhaumya",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_devala",
+      "label": "Devala",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_karna_human_incarnation",
+      "label": "Karṇa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_later_parashurama",
+      "label": "Rāma Jāmadagnya",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_later_kripa",
+      "label": "Kṛpa",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_sacipati_indra",
+      "label": "Śacīpati Indra",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_royal_kunti",
+      "label": "Kuntī",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_yudhishthira_human_incarnation",
+      "label": "Yudhiṣṭhira",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_bhimasena_human_incarnation",
+      "label": "Bhīma",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_arjuna_human_incarnation",
+      "label": "Arjuna",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_inc_nakula_human_incarnation",
+      "label": "Nakula",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_dhristaketu",
+      "label": "Dṛṣṭaketu",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_jarasandha",
+      "label": "Jarāsandha",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_shishupala",
+      "label": "Śiśupāla",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_samudrasena",
+      "label": "Samudrasena",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_candrasena",
+      "label": "Candrasena",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_latermore_aurva_anger",
+      "label": "Aurva’s anger and ancestral appeal",
+      "type": "event"
+    },
+    {
+      "id": "mb_adi_latermore_bhrgu_royal_patronage",
+      "label": "Kṛtavīrya’s patronage of the Bhṛgus",
+      "type": "event"
+    },
+    {
+      "id": "mb_adi_latermore_parashara_sacrifice",
+      "label": "Parāśara’s rākṣasa sacrifice",
+      "type": "event"
+    }
+  ],
+  "sources": [
+    {
+      "id": "mb_bori_adi_ce",
+      "title": "Mahābhārata, Ādiparvan, BORI Critical Edition electronic text",
+      "url": "https://bombay.indology.info/mahabharata/text/UR/MBh01.txt",
+      "kind": "primary Sanskrit critical text",
+      "edition": "Bhandarkar Oriental Research Institute Critical Edition, Unicode Roman electronic text",
+      "locator": "Ādiparvan 1.145–1.185, especially 1.155–1.180",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "MBALM001",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_duryodhana_human_incarnation",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.1",
+      "summary": "Duryodhana is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM002",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_durvisaha",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.1",
+      "summary": "Durviṣaha is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM003",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v3_07",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.1",
+      "summary": "Durmukha is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM004",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v3_05",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.1",
+      "summary": "Duṣpradharṣaṇa is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM005",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v4_01",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.1",
+      "summary": "Viviṃśati is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM006",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v4_02",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.1",
+      "summary": "Vikarṇa is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM007",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_saha",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.1",
+      "summary": "Saha is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM008",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v2_03",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.1",
+      "summary": "Duḥśāsana is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM009",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v2_02",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.2",
+      "summary": "Yuyutsu is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM010",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v10_07",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.2",
+      "summary": "Vātavega is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM011",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_bhimavegadhara",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.2",
+      "summary": "Bhīmavegadhara is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM012",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v8_01",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.2",
+      "summary": "Ugrāyudha is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM013",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_balakin",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.2",
+      "summary": "Balākin is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM014",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v8_03",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.2",
+      "summary": "Kanakāyu is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM015",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_virocana",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.2",
+      "summary": "Virocana is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM016",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_sukundala",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.3",
+      "summary": "Sukuṇḍala is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM017",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_citrasena",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.3",
+      "summary": "Citrāsena is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM018",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_suvarca",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.3",
+      "summary": "Suvarcā is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM019",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v13_08",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.3",
+      "summary": "Kanakadhvaja is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM020",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_nandaka",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.3",
+      "summary": "Nandaka is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM021",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_bahusalin",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.3",
+      "summary": "Bāhuśālin is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM022",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_kundaja",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.3",
+      "summary": "Kuṇḍaja is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM023",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v5_04",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.3",
+      "summary": "Vikaṭa is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM024",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_shakuni_human_incarnation",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.5",
+      "summary": "Śakuni is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM025",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_bala_anayus_son",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.5",
+      "summary": "Bala is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM026",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_vrsaka",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.5",
+      "summary": "Vṛṣaka is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM027",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_brhadbala_gandhara",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.5",
+      "summary": "Bṛhadbala is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM028",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_ashvatthaman_human_incarnation",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.6",
+      "summary": "Aśvatthāman is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM029",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_bhoja",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.6",
+      "summary": "Bhoja is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM030",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_human_incarnation_brhanta",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.7",
+      "summary": "Bṛhanta is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM031",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_manimant",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.7",
+      "summary": "Maṇimant is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM032",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_dandadhara",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.7",
+      "summary": "Daṇḍadhara is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM033",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_sahadeva_human_incarnation",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.7",
+      "summary": "Sahadeva is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM034",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_jayatsena",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.7",
+      "summary": "Jayatsena is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM035",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_meghasandhi",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.7",
+      "summary": "Meghasaṃdhi is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM036",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_virata_human_incarnation",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.8",
+      "summary": "Virāṭa is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM037",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_sankha_son_of_virata",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.8",
+      "summary": "Śaṅkha, son of Virāṭa is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM038",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_uttara_son_of_virata",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.8",
+      "summary": "Uttara, son of Virāṭa is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM039",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_vardhaksemi",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.8",
+      "summary": "Vārdhakṣemi is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM040",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_human_incarnation_senabindu",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.8",
+      "summary": "Senābindu is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM041",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_abhibhu",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.9",
+      "summary": "Abhibhū is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM042",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_sudama",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.9",
+      "summary": "Sudāmā is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM043",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v10_08",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.9",
+      "summary": "Suvarcas is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM044",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_sumitra",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.9",
+      "summary": "Sumitra is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM045",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_sukumara",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.9",
+      "summary": "Sukumāra is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM046",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_vrka",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.9",
+      "summary": "Vṛka is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM047",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_satyadhriti",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.9",
+      "summary": "Satyadhṛti is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM048",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_suryadhvaja",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.10",
+      "summary": "Sūryadhvaja is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM049",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_human_incarnation_rocamana",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.10",
+      "summary": "Rocamāna is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM050",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_nila",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.10",
+      "summary": "Nīla is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM051",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_citrayudha",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.10",
+      "summary": "Citrāyudha is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM052",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_amshumant",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.10",
+      "summary": "Aṃśumant is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM053",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_cekitana_human_incarnation",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.10",
+      "summary": "Cekitāna is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM054",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_shreniman",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.10",
+      "summary": "Śreṇimat is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM055",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_samudrasena",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.11",
+      "summary": "Samudrasena is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM056",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_candrasena_samudrasena_son",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.11",
+      "summary": "Candrasena is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM057",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v2_06",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.11",
+      "summary": "Jalasaṃdha is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM058",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_sudanda",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.11",
+      "summary": "Sudaṇḍa is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM059",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_human_incarnation_danda_human_king",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.11",
+      "summary": "Daṇḍa is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM060",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_paundraka_vasudeva",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.12",
+      "summary": "Pauṇḍraka Vāsudeva is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM061",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_human_incarnation_bhagadatta",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.12",
+      "summary": "Bhagadatta is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM062",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_human_incarnation_shalya_bahlika_king",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.13",
+      "summary": "Śalya is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM063",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_rukmangada",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.13",
+      "summary": "Rukmāṅgada is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM064",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_rukmaratha",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.13",
+      "summary": "Rukmaratha is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM065",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_somadatta",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.14",
+      "summary": "Somadatta is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM066",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_bhuri",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.14",
+      "summary": "Bhūri is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM067",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_bhurisravas",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.14",
+      "summary": "Bhūriśravas is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM068",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_shala",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.14",
+      "summary": "Śala is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM069",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_sudakshina",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.15",
+      "summary": "Sudakṣiṇa is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM070",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_dridhadhanvan",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.15",
+      "summary": "Dṛḍhadhanvan is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM071",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_brhadbala_of_the_sibi_line",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.15",
+      "summary": "Bṛhadbala of the Śibi line is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM072",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_son_v6_02",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.15",
+      "summary": "Suṣeṇa is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM073",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_sibi_ausinara",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.15",
+      "summary": "Śibi Auśīnara is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM074",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_balarama_human_incarnation",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.16",
+      "summary": "Saṃkarṣaṇa / Balarāma is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM075",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_krishna_human_incarnation",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.16",
+      "summary": "Kṛṣṇa Vāsudeva is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM076",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_raukmineya_pradyumna",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.16",
+      "summary": "Raukmiṇeya / Pradyumna is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM077",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_samba",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.16",
+      "summary": "Sāmba is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM078",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_charudeshna",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.16",
+      "summary": "Cārudeṣṇa is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM079",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_sarana",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.16",
+      "summary": "Sāraṇa is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM080",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_gada",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.16",
+      "summary": "Gada is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM081",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_akrura",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.17",
+      "summary": "Akrūra is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM082",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_satyaki_human_incarnation",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.17",
+      "summary": "Sātyaki is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM083",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_uddhava_krodhavasha_incarnation",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.17",
+      "summary": "Uddhava is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM084",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_krtavarman_hardikya",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.17",
+      "summary": "Kṛtavarman Hārdikya is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM085",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_prthu_yadava",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.17",
+      "summary": "Pṛthu is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM086",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_viprthu",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.17",
+      "summary": "Vipṛthu is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM087",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_viduratha",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.18",
+      "summary": "Vidūratha is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM088",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_kanka",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.18",
+      "summary": "Kaṅka is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM089",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_samika",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.18",
+      "summary": "Samīka is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM090",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_saramejaya",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.18",
+      "summary": "Sāramejaya is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM091",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_vatapati",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.18",
+      "summary": "Vātapati is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM092",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_jhilli",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.18",
+      "summary": "Jhillī is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM093",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_pindaraka",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.18",
+      "summary": "Piṇḍāraka is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM094",
+      "facet": "mahabharata",
+      "subject": "mb_adi_nxt_uśīnara",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.18",
+      "summary": "Uśīnara is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM095",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_bhagiratha",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.19",
+      "summary": "Bhagīratha is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM096",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_brhatksatra",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.19",
+      "summary": "Bṛhatkṣatra is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM097",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_jayadratha_human_incarnation",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.19",
+      "summary": "Saindhava Jayadratha is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM098",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_brhadratha",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.19",
+      "summary": "Bṛhadratha is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM099",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_human_incarnation_bahlika_human_king",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.19",
+      "summary": "Bāhlika is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM100",
+      "facet": "mahabharata",
+      "subject": "mb_adi_nxt_śrutāyu",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.19",
+      "summary": "Śrutāyu is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM101",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_uluka_kaitava",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.20",
+      "summary": "Ulūka Kaitava is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM102",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_chitrangada",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.20",
+      "summary": "Citrāṅgada is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM103",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_subhangada",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.20",
+      "summary": "Subhāṅgada is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM104",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_vatsaraja",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.20",
+      "summary": "Vatsarāja is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM105",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_dhrtimant",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.20",
+      "summary": "Dhṛtimant is explicitly named in Dhṛṣṭadyumna’s list of assembled suitors/royal attendees at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Dhṛṣṭadyumna",
+      "note": "The roster is in the speaker’s direct announcement; the claim is limited to presence, not an inferred contest attempt.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM106",
+      "facet": "mahabharata",
+      "subject": "mb_adi_later_dhrishtadyumna",
+      "predicate": "born_from",
+      "object": "mb_adi_later_drupada",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.155.37–40; 1.155.48–50",
+      "summary": "Dhṛṣṭadyumna emerges from the fire rite commissioned by Drupada; the priests name him as Drupada’s son.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM107",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_draupadi",
+      "predicate": "born_from",
+      "object": "mb_adi_later_drupada",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.155.41–50",
+      "summary": "Kṛṣṇā/Draupadī rises from the sacrificial altar in Drupada’s rite.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM108",
+      "facet": "mahabharata",
+      "subject": "mb_adi_later_dhrishtadyumna",
+      "predicate": "trained_by",
+      "object": "mb_adi_latermore_drona",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.155.49–52",
+      "summary": "Droṇa takes Dhṛṣṭadyumna to his residence and trains him in weapons.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM109",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_tapati",
+      "predicate": "daughter_of",
+      "object": "mb_adi_inc_savitr_aditya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.161.20",
+      "summary": "Tapatī identifies herself as Savitṛ’s daughter.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM110",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_samvarana",
+      "predicate": "seeks_marriage_with",
+      "object": "mb_adi_early_tapati",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.160.31–40; 1.161.7–20",
+      "summary": "Saṃvaraṇa asks Tapatī to accept him; she directs him to seek her father’s consent.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM111",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_shakti_vasishtha_son",
+      "predicate": "son_of",
+      "object": "mb_adi_early_vasishtha",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.166.4–9",
+      "summary": "Śakti is identified as Vasiṣṭha’s eldest son.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM112",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_parashara",
+      "predicate": "son_of",
+      "object": "mb_adi_early_shakti_vasishtha_son",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.167.14",
+      "summary": "Adr̥śyantī identifies the child in her womb as Śakti’s son.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM113",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_parashara",
+      "predicate": "son_of",
+      "object": "mb_adi_latermore_adrsyanti",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.167.12–14",
+      "summary": "Adr̥śyantī identifies the child in her womb as her unborn son.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM114",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_shakti_vasishtha_son",
+      "predicate": "husband_of",
+      "object": "mb_adi_latermore_adrsyanti",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.167.12",
+      "summary": "Adr̥śyantī identifies herself as Śakti’s wife.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM115",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_kalmasapada",
+      "predicate": "cursed_by",
+      "object": "mb_adi_early_shakti_vasishtha_son",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.166.8–10",
+      "summary": "Śakti curses Kalmāṣapāda after the king strikes him with a whip.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM116",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_kalmasapada",
+      "predicate": "possessed_by",
+      "object": "mb_adi_latermore_kimkara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.166.16–19",
+      "summary": "Viśvāmitra dispatches the rākṣasa Kiṃkara to possess the king.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM117",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_vasishtha",
+      "predicate": "releases",
+      "object": "mb_adi_early_kalmasapada",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.168.3–8",
+      "summary": "Vasiṣṭha drives off the rākṣasa and releases Saudāsa/Kalmāṣapāda.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM118",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_kalmasapada",
+      "predicate": "wife_of",
+      "object": "mb_adi_later_madayanti",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.167.22–24; 1.168.11–13",
+      "summary": "Madayantī is identified as the king’s queen; she asks Vasiṣṭha to beget a child for the dynasty.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM119",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_dhaumya",
+      "predicate": "brother_of",
+      "object": "mb_adi_inc_devala",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.174.2",
+      "summary": "Dhaumya is called Devala’s younger brother.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM120",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_draupadi",
+      "predicate": "won_by",
+      "object": "mb_adi_inc_arjuna_human_incarnation",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.179.15–22",
+      "summary": "Arjuna strings the bow and hits the target; Draupadī approaches him with the garland.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM121",
+      "facet": "mahabharata",
+      "subject": "mb_adi_later_drupada",
+      "predicate": "father_of",
+      "object": "mb_adi_early_draupadi",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.155.48–50; 1.176.7–10",
+      "summary": "Draupadī is called Drupada’s daughter.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM122",
+      "facet": "mahabharata",
+      "subject": "mb_adi_later_drupada",
+      "predicate": "father_of",
+      "object": "mb_adi_later_dhrishtadyumna",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.155.48–50",
+      "summary": "Dhṛṣṭadyumna is named Drupada’s son.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM123",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_arjuna_human_incarnation",
+      "predicate": "fought",
+      "object": "mb_adi_inc_karna_human_incarnation",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.180.7–21",
+      "summary": "At the svayaṃvara, Karṇa fights Arjuna and then withdraws.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM124",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_bhimasena_human_incarnation",
+      "predicate": "fought",
+      "object": "mb_adi_inc_human_incarnation_shalya_bahlika_king",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.180.22–26",
+      "summary": "Bhīma and Śalya fight with wrestling and blows at the svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM125",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_kunti",
+      "predicate": "mother_of",
+      "object": "mb_adi_inc_arjuna_human_incarnation",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.156.10; 1.182.1–3",
+      "summary": "Kuntī travels with the Pāṇḍavas and gives the unintended instruction to share the alms, later seeing Draupadī.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM126",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_balarama_human_incarnation",
+      "predicate": "brother_of",
+      "object": "mb_adi_inc_krishna_human_incarnation",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.180.17–21",
+      "summary": "Balarāma and Kṛṣṇa recognize the disguised Pāṇḍavas as brothers of their paternal aunt Pṛthā.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM127",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_krishna_human_incarnation",
+      "predicate": "recognizes",
+      "object": "mb_adi_inc_arjuna_human_incarnation",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.178.8–10",
+      "summary": "Kṛṣṇa recognizes the Pāṇḍavas among the assembled guests and points them out to Balarāma.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM128",
+      "facet": "mahabharata",
+      "subject": "mb_adi_later_dhrishtadyumna",
+      "predicate": "reports_on",
+      "object": "mb_adi_later_drupada",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.184.13–17; 1.185.1–3",
+      "summary": "Dhṛṣṭadyumna reports to Drupada that the bowman who won Draupadī is Arjuna and the attendees are the Pāṇḍavas.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct narrator or character speech in the Sanskrit CE; relationship is scoped to this passage.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM129",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_samudrasena",
+      "predicate": "father_of",
+      "object": "mb_adi_latermore_candrasena",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.177.11",
+      "summary": "Candrasena is identified as the son of Samudrasena.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "This verse does not assert that Samudrasena attended.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM130",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_bakasura",
+      "predicate": "killed_by",
+      "object": "mb_adi_inc_bhimasena_human_incarnation",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.151.14–27",
+      "summary": "Bhīma kills Bakāsura in the combat outside Ekacakrā.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "The Sanskrit narrative reports Bhīma’s victory over the named demon.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM131",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_yaja",
+      "predicate": "officiates_for",
+      "object": "mb_adi_later_drupada",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.155.20–36",
+      "summary": "Yāja performs Drupada’s fire rite for the desired son.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Directly checked in the Sanskrit CE; this claim is limited to the stated relation.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM132",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_upayaja",
+      "predicate": "advises",
+      "object": "mb_adi_later_drupada",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.155.7–20",
+      "summary": "Upayāja directs Drupada to his elder brother Yāja, who will perform the rite.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Directly checked in the Sanskrit CE; this claim is limited to the stated relation.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM133",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_prishati",
+      "predicate": "mother_of",
+      "object": "mb_adi_later_dhrishtadyumna",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.155.34–50",
+      "summary": "Pṛṣatī asks to be treated as mother of the sacrificial twins, and the priests agree.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Directly checked in the Sanskrit CE; this claim is limited to the stated relation.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM134",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_prishati",
+      "predicate": "mother_of",
+      "object": "mb_adi_early_draupadi",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.155.34–50",
+      "summary": "Pṛṣatī asks to be treated as mother of the sacrificial twins, and the priests agree.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Directly checked in the Sanskrit CE; this claim is limited to the stated relation.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM135",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_vasishtha",
+      "predicate": "requests_marriage_of",
+      "object": "mb_adi_early_samvarana",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.163.1–6",
+      "summary": "Vasiṣṭha asks Savitṛ to give Tapatī to Saṃvaraṇa; Savitṛ consents.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Directly checked in the Sanskrit CE; this claim is limited to the stated relation.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM136",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_savitr_aditya",
+      "predicate": "father_of",
+      "object": "mb_adi_early_tapati",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.163.1",
+      "summary": "Vasiṣṭha identifies Tapatī as Savitṛ’s daughter while requesting her hand.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Directly checked in the Sanskrit CE; this claim is limited to the stated relation.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM137",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_samvarana",
+      "predicate": "husband_of",
+      "object": "mb_adi_early_tapati",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.163.5–11",
+      "summary": "Saṃvaraṇa receives Tapatī and takes her hand with Vasiṣṭha’s permission.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Directly checked in the Sanskrit CE; this claim is limited to the stated relation.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM138",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_parashara",
+      "predicate": "stops_sacrifice_at_request_of",
+      "object": "mb_adi_inc_pulastya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.172.10–15",
+      "summary": "Parāśara ends the sacrifice after Pulastya and Vasiṣṭha intervene.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Directly checked in the Sanskrit CE; this claim is limited to the stated relation.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM139",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_dhaumya",
+      "predicate": "chosen_as_priest_by",
+      "object": "mb_adi_inc_yudhishthira_human_incarnation",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.174.6–10",
+      "summary": "The Pāṇḍavas choose Dhaumya as their priest; Yudhiṣṭhira is their speaker and leader.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Directly checked in the Sanskrit CE; this claim is limited to the stated relation.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM140",
+      "facet": "mahabharata",
+      "subject": "mb_adi_later_dhrishtadyumna",
+      "predicate": "reports_identity_of",
+      "object": "mb_adi_inc_arjuna_human_incarnation",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.185.1–3",
+      "summary": "Dhṛṣṭadyumna reports that the bowman who won Draupadī was Arjuna.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Directly checked in the Sanskrit CE; this claim is limited to the stated relation.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM141",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_vyasa",
+      "predicate": "explains_identity_and_destiny_of",
+      "object": "mb_adi_early_draupadi",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.157.5–15",
+      "summary": "Vyāsa explains that the Pāṇḍavas are to take Drupada’s daughter Kṛṣṇā as their wife.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM142",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_gadhi",
+      "predicate": "father_of",
+      "object": "mb_adi_nxt_viśvāmitra",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.165.3–4",
+      "summary": "Viśvāmitra is identified as the son of King Gādhi.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM143",
+      "facet": "mahabharata",
+      "subject": "mb_adi_early_vasishtha",
+      "predicate": "owns",
+      "object": "mb_adi_early_nandini",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.165.9–17",
+      "summary": "Nandinī is Vasiṣṭha’s wish-granting cow, kept for his ritual and guest needs.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM144",
+      "facet": "mahabharata",
+      "subject": "mb_adi_nxt_viśvāmitra",
+      "predicate": "tries_to_take",
+      "object": "mb_adi_early_nandini",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.165.15–22",
+      "summary": "Viśvāmitra demands Nandinī and attempts to take her by force.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM145",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_aurva",
+      "predicate": "associated_with",
+      "object": "mb_adi_latermore_aurva_anger",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.171.1–20",
+      "summary": "Aurva narrates that he vowed to destroy the worlds in anger at the killing of his ancestors.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM147",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_krtavirya",
+      "predicate": "patron_of",
+      "object": "mb_adi_latermore_bhrgu_royal_patronage",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.169.11–14",
+      "summary": "Kṛtavīrya gives generous gifts to the Bhṛgus after sacrifices.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM148",
+      "facet": "mahabharata",
+      "subject": "mb_adi_royal_parashara",
+      "predicate": "performs",
+      "object": "mb_adi_latermore_parashara_sacrifice",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.172.2–4",
+      "summary": "Parāśara performs a sacrifice directed against rākṣasas.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM149",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_atri",
+      "predicate": "approaches",
+      "object": "mb_adi_latermore_parashara_sacrifice",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.172.8",
+      "summary": "Atri comes to Parāśara’s sacrifice.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM150",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_pulaha",
+      "predicate": "approaches",
+      "object": "mb_adi_latermore_parashara_sacrifice",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.172.9",
+      "summary": "Pulaha comes to Parāśara’s sacrifice.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM151",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_kratu",
+      "predicate": "approaches",
+      "object": "mb_adi_latermore_parashara_sacrifice",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.172.9",
+      "summary": "Kratu comes to Parāśara’s sacrifice.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM152",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_dhristaketu",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.179.12",
+      "summary": "Dṛṣṭaketu is named among the assembled suitors at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM153",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_jarasandha",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.179.12",
+      "summary": "Jarāsandha is named among the assembled suitors at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM154",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_shishupala",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.179.12",
+      "summary": "Śiśupāla is named among the assembled suitors at Draupadī’s svayaṃvara.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM155",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_nakula_human_incarnation",
+      "predicate": "attended",
+      "object": "mb_adi_latermore_draupadi_swayamvara",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.179.21–22",
+      "summary": "Nakula is among the Pāṇḍava brothers present when Arjuna wins Draupadī.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM156",
+      "facet": "mahabharata",
+      "subject": "mb_adi_later_kripa",
+      "predicate": "named_as_capable_combatant_against",
+      "object": "mb_adi_inc_karna_human_incarnation",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.180.28–29",
+      "summary": "The assembled kings name Kṛpa among the few warriors capable of fighting Karṇa.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM157",
+      "facet": "mahabharata",
+      "subject": "mb_adi_later_parashurama",
+      "predicate": "named_as_capable_combatant_against",
+      "object": "mb_adi_inc_karna_human_incarnation",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.180.28–29",
+      "summary": "The kings name Rāma, son of Jamadagni, among the few warriors capable of fighting Karṇa.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM158",
+      "facet": "mahabharata",
+      "subject": "mb_adi_latermore_sacipati_indra",
+      "predicate": "comparison_for",
+      "object": "mb_adi_inc_karna_human_incarnation",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.180.18",
+      "summary": "Karṇa says only Indra, a Pāṇḍava, or Arjuna could fight him.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBALM159",
+      "facet": "mahabharata",
+      "subject": "mb_adi_inc_devala",
+      "predicate": "brother_of",
+      "object": "mb_adi_latermore_dhaumya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.174.2",
+      "summary": "Dhaumya is identified as the younger brother of Devala.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Vaiśaṃpāyana / narrator",
+      "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
+      "original_language_reviewed": true
+    }
+  ],
+  "search_log": [
+    {
+      "source": "BORI CE Ādiparvan electronic text",
+      "scope": "Ādiparvan 1.145–1.185; named roster and narrative connections checked in Sanskrit CE",
+      "method": "Read verse text and speaker cues; extracted individually named persons only; excluded generic collectives and uncertain plurals."
+    }
+  ],
+  "notes": [
+    "Sanskrit CE witness only; claims use status source_text_checked, not a translation review.",
+    "The svayaṃvara roster names many candidates; attendance is asserted only where Dhṛṣṭadyumna names the person in the assembled roster, not that every named attendee actually attempted the target.",
+    "Roster spelling duplicates/cognate forms are not merged unless identity is clear. Suvarcā (1.177.3 and 1.177.8) is one record because same named person likely; Suvarcas (1.177.9) remains separate. Bṛhadbala at 1.177.5 and Śibi-line Bṛhadbala at 1.177.15 remain separate records as possible homonym.",
+    "The request target of 120+ distinct individuals is not treated as a quota: names are included only when the CE supplies an individually distinguishable surface person."
+  ]
+}

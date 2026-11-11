@@ -1,0 +1,797 @@
+{
+  "nodes": [
+    {
+      "id": "sb924_sarameya",
+      "label": "Sārameya · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_mrduvit",
+      "label": "Mṛduvit · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_giri",
+      "label": "Giri · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_dharmavrddha",
+      "label": "Dharmavṛddha · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_sukarma",
+      "label": "Sukarmā · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_ksetropeksa",
+      "label": "Kṣetropekṣa · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_gandhamada",
+      "label": "Gandhamāda · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_sucara",
+      "label": "Sucārā · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_sunama",
+      "label": "Sunāmā · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_suhu",
+      "label": "Suhū · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_tustiman",
+      "label": "Tuṣṭimān · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_surabhu",
+      "label": "Śūrabhū · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_rastrapalika",
+      "label": "Rāṣṭrapālikā · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_citraketu",
+      "label": "Citraketu · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_isuman",
+      "label": "Iṣumān · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_durmarsana_srn",
+      "label": "Durmarṣaṇa · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_durvaksi",
+      "label": "Durvākṣī · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_sudamani",
+      "label": "Sudāmanī · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_arjunapala",
+      "label": "Arjunapāla · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_karnika",
+      "label": "Karṇikā · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_rtadhama",
+      "label": "Ṛtadhāmā · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_rocana",
+      "label": "Rocanā · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_vipula",
+      "label": "Vipula · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_hasta",
+      "label": "Hasta · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_hemangada",
+      "label": "Hemāṅgada · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_uruvalka",
+      "label": "Uruvalka · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_viprstha",
+      "label": "Vipṛṣṭha · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_prasama",
+      "label": "Praśama · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_prasita",
+      "label": "Prasita · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_rajanya",
+      "label": "Rājanya · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_kalpa",
+      "label": "Kalpa · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_varsa",
+      "label": "Varṣa · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_suvamsa",
+      "label": "Suvaṁśa · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_pravara",
+      "label": "Pravara · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_kirtiman",
+      "label": "Kīrtimān · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_rju",
+      "label": "Ṛju · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_sammardana",
+      "label": "Sammardana · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_vrka_vatsaka",
+      "label": "Vṛka · son of Vatsaka · Bhāgavata 9.24 witness",
+      "type": "person"
+    },
+    {
+      "id": "sb924_anaka_sura",
+      "label": "Ānaka · son of Śūra · Bhāgavata 9.24 witness",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "sb9_24",
+      "title": "Śrīmad-Bhāgavatam 9.24, Kṛṣṇa, the Supreme Personality of Godhead",
+      "url": "https://vedabase.io/en/library/sb/9/24/",
+      "kind": "primary Sanskrit text with verse translation",
+      "edition": "VedaBase numbered verse translations; purports excluded",
+      "locator": "9.24.16–55",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "SB924_001",
+      "facet": "puranic",
+      "subject": "sb924_sarameya",
+      "predicate": "is_child_of",
+      "object": "vp4_14_svaphalka",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.16–18",
+      "summary": "Sārameya is child of Śvaphalka in Śrīmad-Bhāgavatam 9.24.16–18.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_002",
+      "facet": "puranic",
+      "subject": "sb924_mrduvit",
+      "predicate": "is_child_of",
+      "object": "vp4_14_svaphalka",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.16–18",
+      "summary": "Mṛduvit is child of Śvaphalka in Śrīmad-Bhāgavatam 9.24.16–18.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_003",
+      "facet": "puranic",
+      "subject": "sb924_giri",
+      "predicate": "is_child_of",
+      "object": "vp4_14_svaphalka",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.16–18",
+      "summary": "Giri is child of Śvaphalka in Śrīmad-Bhāgavatam 9.24.16–18.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_004",
+      "facet": "puranic",
+      "subject": "sb924_dharmavrddha",
+      "predicate": "is_child_of",
+      "object": "vp4_14_svaphalka",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.16–18",
+      "summary": "Dharmavṛddha is child of Śvaphalka in Śrīmad-Bhāgavatam 9.24.16–18.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_005",
+      "facet": "puranic",
+      "subject": "sb924_sukarma",
+      "predicate": "is_child_of",
+      "object": "vp4_14_svaphalka",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.16–18",
+      "summary": "Sukarmā is child of Śvaphalka in Śrīmad-Bhāgavatam 9.24.16–18.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_006",
+      "facet": "puranic",
+      "subject": "sb924_ksetropeksa",
+      "predicate": "is_child_of",
+      "object": "vp4_14_svaphalka",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.16–18",
+      "summary": "Kṣetropekṣa is child of Śvaphalka in Śrīmad-Bhāgavatam 9.24.16–18.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_007",
+      "facet": "puranic",
+      "subject": "sb924_gandhamada",
+      "predicate": "is_child_of",
+      "object": "vp4_14_svaphalka",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.16–18",
+      "summary": "Gandhamāda is child of Śvaphalka in Śrīmad-Bhāgavatam 9.24.16–18.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_008",
+      "facet": "puranic",
+      "subject": "sb924_sucara",
+      "predicate": "is_child_of",
+      "object": "vp4_14_svaphalka",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.16–18",
+      "summary": "Sucārā is child of Śvaphalka in Śrīmad-Bhāgavatam 9.24.16–18.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_009",
+      "facet": "puranic",
+      "subject": "sb924_sunama",
+      "predicate": "is_son_of",
+      "object": "vp4_14_ugrasena",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.24",
+      "summary": "Sunāmā is son of Ugrasena in Śrīmad-Bhāgavatam 9.24.24.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_010",
+      "facet": "puranic",
+      "subject": "sb924_suhu",
+      "predicate": "is_son_of",
+      "object": "vp4_14_ugrasena",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.24",
+      "summary": "Suhū is son of Ugrasena in Śrīmad-Bhāgavatam 9.24.24.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_011",
+      "facet": "puranic",
+      "subject": "sb924_tustiman",
+      "predicate": "is_son_of",
+      "object": "vp4_14_ugrasena",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.24",
+      "summary": "Tuṣṭimān is son of Ugrasena in Śrīmad-Bhāgavatam 9.24.24.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_012",
+      "facet": "puranic",
+      "subject": "sb924_surabhu",
+      "predicate": "is_daughter_of",
+      "object": "vp4_14_ugrasena",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.25",
+      "summary": "Śūrabhū is daughter of Ugrasena in Śrīmad-Bhāgavatam 9.24.25.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_013",
+      "facet": "puranic",
+      "subject": "sb924_rastrapalika",
+      "predicate": "is_daughter_of",
+      "object": "vp4_14_ugrasena",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.25",
+      "summary": "Rāṣṭrapālikā is daughter of Ugrasena in Śrīmad-Bhāgavatam 9.24.25.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_014",
+      "facet": "puranic",
+      "subject": "sb924_citraketu",
+      "predicate": "is_son_of",
+      "object": "vp4_14_devabhaga",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.40",
+      "summary": "Citraketu is son of Devabhāga in Śrīmad-Bhāgavatam 9.24.40.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_015",
+      "facet": "puranic",
+      "subject": "sb924_isuman",
+      "predicate": "is_son_of",
+      "object": "vp4_14_devashravas",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.41",
+      "summary": "Iṣumān is son of Devaśravas in Śrīmad-Bhāgavatam 9.24.41.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_016",
+      "facet": "puranic",
+      "subject": "sb924_durmarsana_srn",
+      "predicate": "is_son_of",
+      "object": "vp4_14_sṛnjaya",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.42",
+      "summary": "Durmarṣaṇa is son of Sṛñjaya in Śrīmad-Bhāgavatam 9.24.42.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_017",
+      "facet": "puranic",
+      "subject": "sb924_durvaksi",
+      "predicate": "is_wife_of",
+      "object": "sb924_vrka_vatsaka",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.43",
+      "summary": "Durvākṣī is wife of Vṛka in Śrīmad-Bhāgavatam 9.24.43.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_018",
+      "facet": "puranic",
+      "subject": "sb924_sudamani",
+      "predicate": "is_wife_of",
+      "object": "vp4_14_shamika",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.44",
+      "summary": "Sudāmanī is wife of Śamīka in Śrīmad-Bhāgavatam 9.24.44.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_019",
+      "facet": "puranic",
+      "subject": "sb924_arjunapala",
+      "predicate": "is_son_of",
+      "object": "vp4_14_shamika",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.44",
+      "summary": "Arjunapāla is son of Śamīka in Śrīmad-Bhāgavatam 9.24.44.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_020",
+      "facet": "puranic",
+      "subject": "sb924_karnika",
+      "predicate": "is_wife_of",
+      "object": "sb924_anaka_sura",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.44",
+      "summary": "Karṇikā is wife of Ānaka in Śrīmad-Bhāgavatam 9.24.44.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_021",
+      "facet": "puranic",
+      "subject": "sb924_rtadhama",
+      "predicate": "is_son_of",
+      "object": "sb924_anaka_sura",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.44",
+      "summary": "Ṛtadhāmā is son of Ānaka in Śrīmad-Bhāgavatam 9.24.44.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_022",
+      "facet": "puranic",
+      "subject": "sb924_rocana",
+      "predicate": "is_wife_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.45",
+      "summary": "Rocanā is wife of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.45.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_023",
+      "facet": "puranic",
+      "subject": "sb924_vipula",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.46",
+      "summary": "Vipula is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.46.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_024",
+      "facet": "puranic",
+      "subject": "sb924_hasta",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.49",
+      "summary": "Hasta is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.49.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_025",
+      "facet": "puranic",
+      "subject": "sb924_hemangada",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.49",
+      "summary": "Hemāṅgada is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.49.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_026",
+      "facet": "puranic",
+      "subject": "sb924_uruvalka",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.49",
+      "summary": "Uruvalka is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.49.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_027",
+      "facet": "puranic",
+      "subject": "sb924_viprstha",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.50",
+      "summary": "Vipṛṣṭha is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.50.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_028",
+      "facet": "puranic",
+      "subject": "sb924_prasama",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.50",
+      "summary": "Praśama is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.50.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_029",
+      "facet": "puranic",
+      "subject": "sb924_prasita",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.50",
+      "summary": "Prasita is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.50.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_030",
+      "facet": "puranic",
+      "subject": "sb924_rajanya",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.51",
+      "summary": "Rājanya is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.51.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_031",
+      "facet": "puranic",
+      "subject": "sb924_kalpa",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.51",
+      "summary": "Kalpa is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.51.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_032",
+      "facet": "puranic",
+      "subject": "sb924_varsa",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.51",
+      "summary": "Varṣa is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.51.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_033",
+      "facet": "puranic",
+      "subject": "sb924_suvamsa",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.51",
+      "summary": "Suvaṁśa is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.51.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_034",
+      "facet": "puranic",
+      "subject": "sb924_pravara",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.52",
+      "summary": "Pravara is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.52.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_035",
+      "facet": "puranic",
+      "subject": "sb924_kirtiman",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.53–55",
+      "summary": "Kīrtimān is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.53–55.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_036",
+      "facet": "puranic",
+      "subject": "sb924_rju",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.53–55",
+      "summary": "Ṛju is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.53–55.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_037",
+      "facet": "puranic",
+      "subject": "sb924_sammardana",
+      "predicate": "is_son_of",
+      "object": "vp4_14_vasudeva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.53–55",
+      "summary": "Sammardana is son of Vasudeva / Ānakadundubhi in Śrīmad-Bhāgavatam 9.24.53–55.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "Named individual in the numbered verse translation; identity with similarly named figures elsewhere remains open unless merged by reviewed lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_038",
+      "facet": "puranic",
+      "subject": "sb924_vrka_vatsaka",
+      "predicate": "is_named_in",
+      "object": "bp",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.43",
+      "summary": "Vṛka is named in Bhāgavata Purāṇa in 9.24.43.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "The named individual is distinguished by this immediate lineage context.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "SB924_039",
+      "facet": "puranic",
+      "subject": "sb924_anaka_sura",
+      "predicate": "is_son_of",
+      "object": "vp4_14_shura_deva",
+      "source": "sb9_24",
+      "locator": "Śrīmad-Bhāgavatam 9.24.28–31",
+      "summary": "Ānaka is son of Śūra in 9.24.28–31.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Śukadeva",
+      "note": "The named individual is distinguished by this immediate lineage context.",
+      "original_language_reviewed": false
+    }
+  ]
+}

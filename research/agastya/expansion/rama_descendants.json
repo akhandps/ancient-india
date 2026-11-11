@@ -1,0 +1,826 @@
+{
+  "nodes": [
+    {
+      "id": "vp4_bharata_rama",
+      "label": "Bharata · Rāma’s brother · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp4_satrughna",
+      "label": "Śatrughna · Rāma’s brother · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp4_kusha",
+      "label": "Kuśa · Rāma’s son · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp4_lava",
+      "label": "Lava · Rāma’s son · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp4_angada_lakshmana",
+      "label": "Aṅgada · Lakṣmaṇa’s son · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp4_candraketu",
+      "label": "Candraketu · Lakṣmaṇa’s son · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp4_taksha",
+      "label": "Takṣa · Bharata’s son · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp4_pushkara",
+      "label": "Puṣkara · Bharata’s son · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp4_subahu_satrughna",
+      "label": "Subāhu · Śatrughna’s son · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp4_surasena_satrughna",
+      "label": "Śūrasena · Śatrughna’s son · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp4_atithi",
+      "label": "Atithi · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_nishadha",
+      "label": "Niṣadha · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_nala",
+      "label": "Nala · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_nabhas",
+      "label": "Nabhas · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_pundarika",
+      "label": "Puṇḍarīka · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_kshemadhanvan",
+      "label": "Kṣemadhanvan · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_devanika",
+      "label": "Devānīka · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_ahinagu",
+      "label": "Ahīnagu · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_ruru",
+      "label": "Ruru · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_pariyatra",
+      "label": "Pāriyātra · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_dala",
+      "label": "Dala · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_chala",
+      "label": "Chala · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_uktha",
+      "label": "Uktha · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_vajranabha",
+      "label": "Vajranābha · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_sankhanabha",
+      "label": "Śaṅkhanābha · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_vyutthitasva",
+      "label": "Vyutthitāśva · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_visvasaha",
+      "label": "Viśvasaha · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_hiranyanabha",
+      "label": "Hiraṇyanābha · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_pushya",
+      "label": "Puṣya · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_dhruvasamdhi",
+      "label": "Dhruvasaṃdhi · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_sudarsana",
+      "label": "Sudarśana · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_agnivarna",
+      "label": "Agnivarṇa · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_sighraga",
+      "label": "Śīghraga · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_maru",
+      "label": "Maru · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_prasusruta",
+      "label": "Prasuśruta · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_susandhi",
+      "label": "Susandhi · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_amarsa",
+      "label": "Amarṣa · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_mahasvant",
+      "label": "Mahasvant · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_visrutavant",
+      "label": "Viśrutavant · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    },
+    {
+      "id": "vp4_brihadbala",
+      "label": "Bṛhadbala · Rāma-line witness in Viṣṇu Purāṇa 4.4",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "vp4_4_anu",
+      "title": "Viṣṇu Purāṇa, Book 4, chapter 4: Rāma and his descendants",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa (ANU Press, 2021), Book 4, chapter 4",
+      "locator": "4.4.49, 4.4.58–60",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "VRD001",
+      "facet": "ramayana",
+      "subject": "dasaratha",
+      "predicate": "father_of",
+      "object": "vp4_bharata_rama",
+      "source": "vp4_4_anu",
+      "locator": "4.4.49",
+      "summary": "Taylor’s translation lists Bharata as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD002",
+      "facet": "ramayana",
+      "subject": "dasaratha",
+      "predicate": "father_of",
+      "object": "vp4_satrughna",
+      "source": "vp4_4_anu",
+      "locator": "4.4.49",
+      "summary": "Taylor’s translation lists Śatrughna as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD003",
+      "facet": "ramayana",
+      "subject": "rama",
+      "predicate": "father_of",
+      "object": "vp4_kusha",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Kuśa as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD004",
+      "facet": "ramayana",
+      "subject": "rama",
+      "predicate": "father_of",
+      "object": "vp4_lava",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Lava as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD005",
+      "facet": "ramayana",
+      "subject": "lakshmana",
+      "predicate": "father_of",
+      "object": "vp4_angada_lakshmana",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Aṅgada as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD006",
+      "facet": "ramayana",
+      "subject": "lakshmana",
+      "predicate": "father_of",
+      "object": "vp4_candraketu",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Candraketu as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD007",
+      "facet": "ramayana",
+      "subject": "vp4_bharata_rama",
+      "predicate": "father_of",
+      "object": "vp4_taksha",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Takṣa as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD008",
+      "facet": "ramayana",
+      "subject": "vp4_bharata_rama",
+      "predicate": "father_of",
+      "object": "vp4_pushkara",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Puṣkara as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD009",
+      "facet": "ramayana",
+      "subject": "vp4_satrughna",
+      "predicate": "father_of",
+      "object": "vp4_subahu_satrughna",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Subāhu as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD010",
+      "facet": "ramayana",
+      "subject": "vp4_satrughna",
+      "predicate": "father_of",
+      "object": "vp4_surasena_satrughna",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Śūrasena as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD011",
+      "facet": "ramayana",
+      "subject": "vp4_kusha",
+      "predicate": "father_of",
+      "object": "vp4_atithi",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Atithi as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD012",
+      "facet": "ramayana",
+      "subject": "vp4_atithi",
+      "predicate": "father_of",
+      "object": "vp4_nishadha",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Niṣadha as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD013",
+      "facet": "ramayana",
+      "subject": "vp4_nishadha",
+      "predicate": "father_of",
+      "object": "vp4_nala",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Nala as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD014",
+      "facet": "ramayana",
+      "subject": "vp4_nala",
+      "predicate": "father_of",
+      "object": "vp4_nabhas",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Nabhas as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD015",
+      "facet": "ramayana",
+      "subject": "vp4_nabhas",
+      "predicate": "father_of",
+      "object": "vp4_pundarika",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Puṇḍarīka as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD016",
+      "facet": "ramayana",
+      "subject": "vp4_pundarika",
+      "predicate": "father_of",
+      "object": "vp4_kshemadhanvan",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Kṣemadhanvan as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD017",
+      "facet": "ramayana",
+      "subject": "vp4_kshemadhanvan",
+      "predicate": "father_of",
+      "object": "vp4_devanika",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Devānīka as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD018",
+      "facet": "ramayana",
+      "subject": "vp4_devanika",
+      "predicate": "father_of",
+      "object": "vp4_ahinagu",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Ahīnagu as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD019",
+      "facet": "ramayana",
+      "subject": "vp4_ahinagu",
+      "predicate": "father_of",
+      "object": "vp4_ruru",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Ruru as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD020",
+      "facet": "ramayana",
+      "subject": "vp4_ruru",
+      "predicate": "father_of",
+      "object": "vp4_pariyatra",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Pāriyātra as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD021",
+      "facet": "ramayana",
+      "subject": "vp4_pariyatra",
+      "predicate": "father_of",
+      "object": "vp4_dala",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Dala as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD022",
+      "facet": "ramayana",
+      "subject": "vp4_dala",
+      "predicate": "father_of",
+      "object": "vp4_chala",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Chala as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD023",
+      "facet": "ramayana",
+      "subject": "vp4_chala",
+      "predicate": "father_of",
+      "object": "vp4_uktha",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Uktha as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD024",
+      "facet": "ramayana",
+      "subject": "vp4_uktha",
+      "predicate": "father_of",
+      "object": "vp4_vajranabha",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Vajranābha as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD025",
+      "facet": "ramayana",
+      "subject": "vp4_vajranabha",
+      "predicate": "father_of",
+      "object": "vp4_sankhanabha",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Śaṅkhanābha as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD026",
+      "facet": "ramayana",
+      "subject": "vp4_sankhanabha",
+      "predicate": "father_of",
+      "object": "vp4_vyutthitasva",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Vyutthitāśva as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD027",
+      "facet": "ramayana",
+      "subject": "vp4_vyutthitasva",
+      "predicate": "father_of",
+      "object": "vp4_visvasaha",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58",
+      "summary": "Taylor’s translation lists Viśvasaha as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD028",
+      "facet": "ramayana",
+      "subject": "vp4_visvasaha",
+      "predicate": "father_of",
+      "object": "vp4_hiranyanabha",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58–60",
+      "summary": "Taylor’s translation lists Hiraṇyanābha as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD029",
+      "facet": "ramayana",
+      "subject": "vp4_hiranyanabha",
+      "predicate": "father_of",
+      "object": "vp4_pushya",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58–60",
+      "summary": "Taylor’s translation lists Puṣya as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD030",
+      "facet": "ramayana",
+      "subject": "vp4_pushya",
+      "predicate": "father_of",
+      "object": "vp4_dhruvasamdhi",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58–60",
+      "summary": "Taylor’s translation lists Dhruvasaṃdhi as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD031",
+      "facet": "ramayana",
+      "subject": "vp4_dhruvasamdhi",
+      "predicate": "father_of",
+      "object": "vp4_sudarsana",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58–60",
+      "summary": "Taylor’s translation lists Sudarśana as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD032",
+      "facet": "ramayana",
+      "subject": "vp4_sudarsana",
+      "predicate": "father_of",
+      "object": "vp4_agnivarna",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58–60",
+      "summary": "Taylor’s translation lists Agnivarṇa as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD033",
+      "facet": "ramayana",
+      "subject": "vp4_agnivarna",
+      "predicate": "father_of",
+      "object": "vp4_sighraga",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58–60",
+      "summary": "Taylor’s translation lists Śīghraga as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD034",
+      "facet": "ramayana",
+      "subject": "vp4_sighraga",
+      "predicate": "father_of",
+      "object": "vp4_maru",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58–60",
+      "summary": "Taylor’s translation lists Maru as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD035",
+      "facet": "ramayana",
+      "subject": "vp4_maru",
+      "predicate": "father_of",
+      "object": "vp4_prasusruta",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58–60",
+      "summary": "Taylor’s translation lists Prasuśruta as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD036",
+      "facet": "ramayana",
+      "subject": "vp4_prasusruta",
+      "predicate": "father_of",
+      "object": "vp4_susandhi",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58–60",
+      "summary": "Taylor’s translation lists Susandhi as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD037",
+      "facet": "ramayana",
+      "subject": "vp4_susandhi",
+      "predicate": "father_of",
+      "object": "vp4_amarsa",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58–60",
+      "summary": "Taylor’s translation lists Amarṣa as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD038",
+      "facet": "ramayana",
+      "subject": "vp4_amarsa",
+      "predicate": "father_of",
+      "object": "vp4_mahasvant",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58–60",
+      "summary": "Taylor’s translation lists Mahasvant as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD039",
+      "facet": "ramayana",
+      "subject": "vp4_mahasvant",
+      "predicate": "father_of",
+      "object": "vp4_visrutavant",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58–60",
+      "summary": "Taylor’s translation lists Viśrutavant as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VRD040",
+      "facet": "ramayana",
+      "subject": "vp4_visrutavant",
+      "predicate": "father_of",
+      "object": "vp4_brihadbala",
+      "source": "vp4_4_anu",
+      "locator": "4.4.58–60",
+      "summary": "Taylor’s translation lists Bṛhadbala as a son or successor in this named Rāma-line genealogy.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.",
+      "original_language_reviewed": false
+    }
+  ],
+  "search_log": [
+    {
+      "query": "ANU Viṣṇu Purāṇa 4.4.49 and 4.4.58–60",
+      "outcome": "Checked Taylor’s Rāma and descendant list; retained named sons and successive links."
+    }
+  ],
+  "notes": [
+    "Bharata here is Rāma’s brother, separate from the Puru-line Bharata. Similar descendant names are source-local."
+  ]
+}

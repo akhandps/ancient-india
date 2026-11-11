@@ -1,0 +1,1874 @@
+{
+  "nodes": [
+    {
+      "id": "mb2_kubera_sabha_x",
+      "label": "Kubera / Vaiśravaṇa · host of the assembly described in MB 2 Section X",
+      "type": "person"
+    },
+    {
+      "id": "mb2_brahma_sabha_xi",
+      "label": "Brahmā · host of the assembly described in MB 2 Section XI",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_misrakesi",
+      "label": "Miśrakeśī · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_rambha_apsara",
+      "label": "Rambhā · apsarā · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_chitrasena_mixed",
+      "label": "Citraseṇa · performer in the mixed Apsarā/Gandharva roster · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_suchismita",
+      "label": "Suciśmitā · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_charunetra",
+      "label": "Cārunetra · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_gritachi",
+      "label": "Ghṛtācī · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_menaka",
+      "label": "Menakā · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_punjikasthala",
+      "label": "Puñjikasthalā · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_viswachi",
+      "label": "Viśvācī · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_sahajanya",
+      "label": "Sahajanyā · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_pramlocha",
+      "label": "Pramlocā · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_urvasi",
+      "label": "Urvāśī · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_ira",
+      "label": "Irā · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_varga",
+      "label": "Vargā · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_sauraveyi",
+      "label": "Sauraveyī · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_samichi",
+      "label": "Samīcī · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_vududa",
+      "label": "Vududa (Ganguli spelling) · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_lata",
+      "label": "Latā · Kuvera’s assembly (Apsarā/Gandharva) roster, Mahābhārata Sabha Parva §X, p. 22",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_manibhadra",
+      "label": "Maṇibhadra · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_swetabhadra",
+      "label": "Śvetabhadra · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_kaseraka",
+      "label": "Kaseraka · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_gandakandu",
+      "label": "Gandakaṇḍu · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_pradyota",
+      "label": "Pradyota · Yakṣa in Kuvera roster · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_kustumvuru",
+      "label": "Kustumvuru (Ganguli spelling) · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_gajakarna",
+      "label": "Gajakarṇa · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_visalaka",
+      "label": "Viśālaka · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_varahakarna",
+      "label": "Varāhakarṇa · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_tamraushtica",
+      "label": "Tāmrauṣṭhika · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_falkaksha",
+      "label": "Phālākṣa · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_falodaka",
+      "label": "Phalodaka · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_hansachuda",
+      "label": "Haṃsaśūḍa · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_sikhavarta",
+      "label": "Śikhāvarta · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_vibhishana_kubera",
+      "label": "Vibhīṣaṇa · Kuvera’s younger brother in this passage · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_pushpanana",
+      "label": "Puṣpānana · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_pingalaka",
+      "label": "Piṅgalaka · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_sonitoda",
+      "label": "Śoṇitoda · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_pravalaka",
+      "label": "Pravālaka · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_vrikshavaspaniketa",
+      "label": "Vṛkṣavāṣpaniketa · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_chiravasas",
+      "label": "Cīravāsas · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_viswavasu",
+      "label": "Viśvāvasu · Gandharva · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_haha",
+      "label": "Hāhā · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_huhu",
+      "label": "Hūhū · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_tumburu",
+      "label": "Tumburu · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_parvatta",
+      "label": "Parvatta · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_sailusha",
+      "label": "Śailūṣa · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_chitrasena_chief",
+      "label": "Citraseṇa · explicitly listed among Gandharva chiefs · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_chitraratha",
+      "label": "Citraratha · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_chakradhaman",
+      "label": "Cakradhāman · chief of the Vidyādharas · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_bhagadatta",
+      "label": "Bhagadatta · chief among the assembled kings · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_druma",
+      "label": "Druma · chief of the Kimpuruṣas · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_mahendra_rakshasa",
+      "label": "Mahendra · chief of the Rākṣasas · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_gandhamadana",
+      "label": "Gandhamādana · Yakṣa/Gandharva leader · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_mahadeva",
+      "label": "Mahādeva / Śiva · Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_parvati",
+      "label": "Pārvatī / Umā · Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_lakshmi",
+      "label": "Lakṣmī · Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_nalakuvera",
+      "label": "Nalakuvera · Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_narada",
+      "label": "Nārada · Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_bhaganetra",
+      "label": "Bhaganetra · Asura named in Mahādeva’s epithet · Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_sankha",
+      "label": "Śaṅkha · personified jewel · Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_x_padma",
+      "label": "Padma · personified jewel · Mahābhārata Sabha Parva §X, p. 23",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_daksha",
+      "label": "Dakṣa · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_prachetas",
+      "label": "Pracetās · separately listed from Dakṣa · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_pulaha",
+      "label": "Pulaha · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_marichi",
+      "label": "Marīci · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_kashyapa",
+      "label": "Kaśyapa · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_bhrigu",
+      "label": "Bhṛgu · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_atri",
+      "label": "Atri · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_vasistha",
+      "label": "Vasiṣṭha · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_gautama",
+      "label": "Gautama · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_angiras",
+      "label": "Aṅgiras · Prajāpati in first list · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_pulastya",
+      "label": "Pulastya · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_kratu",
+      "label": "Kraṭu · source transliteration “Kraut” · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_prahlada",
+      "label": "Prahlāda · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_kardama",
+      "label": "Kardama · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_angirasa_atharva",
+      "label": "Angirasa · named as of the Atharvan Veda; identity with first-list Angiras unresolved · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_agastya",
+      "label": "Agastya · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_markandeya",
+      "label": "Mārkaṇḍeya · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_jamadagni",
+      "label": "Jamadagni · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_bharadvaja",
+      "label": "Bharadvāja · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_samvarta",
+      "label": "Saṃvarta · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_chyavana",
+      "label": "Cyavana · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_durvasa",
+      "label": "Durvāsas · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_rishyasringa",
+      "label": "Ṛśyaśṛṅga · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_sanatkumara",
+      "label": "Sanatkumāra · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_asita",
+      "label": "Asita · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_devala",
+      "label": "Devala · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_jaigishavya",
+      "label": "Jaigīṣavya · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_rishava",
+      "label": "Ṛṣava · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_ajitasatru",
+      "label": "Ajitaśatru · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    },
+    {
+      "id": "mb2_xi_mani",
+      "label": "Maṇi · ascetic named in Brahmā’s roster · Mahābhārata Sabha Parva §XI Brahmā-assembly roster",
+      "type": "person"
+    }
+  ],
+  "claims": [
+    {
+      "id": "MB2SAB_001",
+      "facet": "epic",
+      "subject": "mb2_x_misrakesi",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Miśrakeśī is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_002",
+      "facet": "epic",
+      "subject": "mb2_x_rambha_apsara",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Rambhā · apsarā is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_003",
+      "facet": "epic",
+      "subject": "mb2_x_chitrasena_mixed",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Citraseṇa · performer in the mixed Apsarā/Gandharva roster is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_004",
+      "facet": "epic",
+      "subject": "mb2_x_suchismita",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Suciśmitā is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_005",
+      "facet": "epic",
+      "subject": "mb2_x_charunetra",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Cārunetra is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_006",
+      "facet": "epic",
+      "subject": "mb2_x_gritachi",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Ghṛtācī is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_007",
+      "facet": "epic",
+      "subject": "mb2_x_menaka",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Menakā is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_008",
+      "facet": "epic",
+      "subject": "mb2_x_punjikasthala",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Puñjikasthalā is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_009",
+      "facet": "epic",
+      "subject": "mb2_x_viswachi",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Viśvācī is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_010",
+      "facet": "epic",
+      "subject": "mb2_x_sahajanya",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Sahajanyā is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_011",
+      "facet": "epic",
+      "subject": "mb2_x_pramlocha",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Pramlocā is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_012",
+      "facet": "epic",
+      "subject": "mb2_x_urvasi",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Urvāśī is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_013",
+      "facet": "epic",
+      "subject": "mb2_x_ira",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Irā is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_014",
+      "facet": "epic",
+      "subject": "mb2_x_varga",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Vargā is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_015",
+      "facet": "epic",
+      "subject": "mb2_x_sauraveyi",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Sauraveyī is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_016",
+      "facet": "epic",
+      "subject": "mb2_x_samichi",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Samīcī is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_017",
+      "facet": "epic",
+      "subject": "mb2_x_vududa",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Vududa (Ganguli spelling) is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_018",
+      "facet": "epic",
+      "subject": "mb2_x_lata",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 22",
+      "summary": "Latā is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_019",
+      "facet": "epic",
+      "subject": "mb2_x_manibhadra",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Maṇibhadra is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_020",
+      "facet": "epic",
+      "subject": "mb2_x_swetabhadra",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Śvetabhadra is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_021",
+      "facet": "epic",
+      "subject": "mb2_x_kaseraka",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Kaseraka is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_022",
+      "facet": "epic",
+      "subject": "mb2_x_gandakandu",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Gandakaṇḍu is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_023",
+      "facet": "epic",
+      "subject": "mb2_x_pradyota",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Pradyota · Yakṣa in Kuvera roster is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_024",
+      "facet": "epic",
+      "subject": "mb2_x_kustumvuru",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Kustumvuru (Ganguli spelling) is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_025",
+      "facet": "epic",
+      "subject": "mb2_x_gajakarna",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Gajakarṇa is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_026",
+      "facet": "epic",
+      "subject": "mb2_x_visalaka",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Viśālaka is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_027",
+      "facet": "epic",
+      "subject": "mb2_x_varahakarna",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Varāhakarṇa is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_028",
+      "facet": "epic",
+      "subject": "mb2_x_tamraushtica",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Tāmrauṣṭhika is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_029",
+      "facet": "epic",
+      "subject": "mb2_x_falkaksha",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Phālākṣa is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_030",
+      "facet": "epic",
+      "subject": "mb2_x_falodaka",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Phalodaka is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_031",
+      "facet": "epic",
+      "subject": "mb2_x_hansachuda",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Haṃsaśūḍa is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_032",
+      "facet": "epic",
+      "subject": "mb2_x_sikhavarta",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Śikhāvarta is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_033",
+      "facet": "epic",
+      "subject": "mb2_x_vibhishana_kubera",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Vibhīṣaṇa · Kuvera’s younger brother in this passage is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_034",
+      "facet": "epic",
+      "subject": "mb2_x_pushpanana",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Puṣpānana is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_035",
+      "facet": "epic",
+      "subject": "mb2_x_pingalaka",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Piṅgalaka is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_036",
+      "facet": "epic",
+      "subject": "mb2_x_sonitoda",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Śoṇitoda is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_037",
+      "facet": "epic",
+      "subject": "mb2_x_pravalaka",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Pravālaka is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_038",
+      "facet": "epic",
+      "subject": "mb2_x_vrikshavaspaniketa",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Vṛkṣavāṣpaniketa is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_039",
+      "facet": "epic",
+      "subject": "mb2_x_chiravasas",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, pp. 22–23",
+      "summary": "Cīravāsas is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_040",
+      "facet": "epic",
+      "subject": "mb2_x_viswavasu",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Viśvāvasu · Gandharva is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_041",
+      "facet": "epic",
+      "subject": "mb2_x_haha",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Hāhā is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_042",
+      "facet": "epic",
+      "subject": "mb2_x_huhu",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Hūhū is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_043",
+      "facet": "epic",
+      "subject": "mb2_x_tumburu",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Tumburu is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_044",
+      "facet": "epic",
+      "subject": "mb2_x_parvatta",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Parvatta is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_045",
+      "facet": "epic",
+      "subject": "mb2_x_sailusha",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Śailūṣa is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_046",
+      "facet": "epic",
+      "subject": "mb2_x_chitrasena_chief",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Citraseṇa · explicitly listed among Gandharva chiefs is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_047",
+      "facet": "epic",
+      "subject": "mb2_x_chitraratha",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Citraratha is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_048",
+      "facet": "epic",
+      "subject": "mb2_x_chakradhaman",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Cakradhāman · chief of the Vidyādharas is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_049",
+      "facet": "epic",
+      "subject": "mb2_x_bhagadatta",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Bhagadatta · chief among the assembled kings is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_050",
+      "facet": "epic",
+      "subject": "mb2_x_druma",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Druma · chief of the Kimpuruṣas is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_051",
+      "facet": "epic",
+      "subject": "mb2_x_mahendra_rakshasa",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Mahendra · chief of the Rākṣasas is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_052",
+      "facet": "epic",
+      "subject": "mb2_x_gandhamadana",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Gandhamādana · Yakṣa/Gandharva leader is named among those who wait upon the Kubera assembly in this passage.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_053",
+      "facet": "epic",
+      "subject": "mb2_x_mahadeva",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Mahādeva is said to wait in Kuvera’s assembly as his friend.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_054",
+      "facet": "epic",
+      "subject": "mb2_x_parvati",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Pārvatī is said to accompany Mahādeva in Kuvera’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_055",
+      "facet": "epic",
+      "subject": "mb2_x_lakshmi",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Lakṣmī is said to dwell in Kuvera’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_056",
+      "facet": "epic",
+      "subject": "mb2_x_nalakuvera",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Nalakuvera is named as Kuvera’s son and is said to dwell in the assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_057",
+      "facet": "epic",
+      "subject": "mb2_x_narada",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Nārada says that he and others often visit Kuvera’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_058",
+      "facet": "epic",
+      "subject": "mb2_x_mahadeva",
+      "predicate": "slayer_of",
+      "object": "mb2_x_bhaganetra",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Mahādeva is described as the slayer of the Asura Bhaganetra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_059",
+      "facet": "epic",
+      "subject": "mb2_x_nalakuvera",
+      "predicate": "son_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Nalakuvera is explicitly called Kuvera’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_060",
+      "facet": "epic",
+      "subject": "mb2_x_vibhishana_kubera",
+      "predicate": "younger_brother_of",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "The passage calls Kuvera Vibhīṣaṇa’s elder brother.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_061",
+      "facet": "epic",
+      "subject": "mb2_x_sankha",
+      "predicate": "worships",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Śaṅkha is named among the personified jewels that worship Kuvera.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_062",
+      "facet": "epic",
+      "subject": "mb2_x_padma",
+      "predicate": "worships",
+      "object": "mb2_kubera_sabha_x",
+      "source": "mb2_sabha_ganguli_x",
+      "locator": "§X, p. 23",
+      "summary": "Padma is named among the personified jewels that worship Kuvera.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_063",
+      "facet": "epic",
+      "subject": "mb2_xi_daksha",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Dakṣa is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_064",
+      "facet": "epic",
+      "subject": "mb2_xi_prachetas",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Pracetās · separately listed from Dakṣa is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_065",
+      "facet": "epic",
+      "subject": "mb2_xi_pulaha",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Pulaha is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_066",
+      "facet": "epic",
+      "subject": "mb2_xi_marichi",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Marīci is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_067",
+      "facet": "epic",
+      "subject": "mb2_xi_kashyapa",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Kaśyapa is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_068",
+      "facet": "epic",
+      "subject": "mb2_xi_bhrigu",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Bhṛgu is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_069",
+      "facet": "epic",
+      "subject": "mb2_xi_atri",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Atri is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_070",
+      "facet": "epic",
+      "subject": "mb2_xi_vasistha",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Vasiṣṭha is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_071",
+      "facet": "epic",
+      "subject": "mb2_xi_gautama",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Gautama is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_072",
+      "facet": "epic",
+      "subject": "mb2_xi_angiras",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Aṅgiras · Prajāpati in first list is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_073",
+      "facet": "epic",
+      "subject": "mb2_xi_pulastya",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Pulastya is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_074",
+      "facet": "epic",
+      "subject": "mb2_xi_kratu",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Kraṭu · source transliteration “Kraut” is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_075",
+      "facet": "epic",
+      "subject": "mb2_xi_prahlada",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Prahlāda is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_076",
+      "facet": "epic",
+      "subject": "mb2_xi_kardama",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Kardama is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_077",
+      "facet": "epic",
+      "subject": "mb2_xi_angirasa_atharva",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Angirasa · named as of the Atharvan Veda; identity with first-list Angiras unresolved is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_078",
+      "facet": "epic",
+      "subject": "mb2_xi_agastya",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Agastya is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_079",
+      "facet": "epic",
+      "subject": "mb2_xi_markandeya",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Mārkaṇḍeya is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_080",
+      "facet": "epic",
+      "subject": "mb2_xi_jamadagni",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Jamadagni is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_081",
+      "facet": "epic",
+      "subject": "mb2_xi_bharadvaja",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Bharadvāja is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_082",
+      "facet": "epic",
+      "subject": "mb2_xi_samvarta",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Saṃvarta is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_083",
+      "facet": "epic",
+      "subject": "mb2_xi_chyavana",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Cyavana is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_084",
+      "facet": "epic",
+      "subject": "mb2_xi_durvasa",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Durvāsas is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_085",
+      "facet": "epic",
+      "subject": "mb2_xi_rishyasringa",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Ṛśyaśṛṅga is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_086",
+      "facet": "epic",
+      "subject": "mb2_xi_sanatkumara",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Sanatkumāra is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_087",
+      "facet": "epic",
+      "subject": "mb2_xi_asita",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Asita is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_088",
+      "facet": "epic",
+      "subject": "mb2_xi_devala",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Devala is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_089",
+      "facet": "epic",
+      "subject": "mb2_xi_jaigishavya",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Jaigīṣavya is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_090",
+      "facet": "epic",
+      "subject": "mb2_xi_rishava",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Ṛṣava is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_091",
+      "facet": "epic",
+      "subject": "mb2_xi_ajitasatru",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Ajitaśatru is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "MB2SAB_092",
+      "facet": "epic",
+      "subject": "mb2_xi_mani",
+      "predicate": "attends_assembly_of",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb2_sabha_ganguli_xi",
+      "locator": "§XI, p. 25",
+      "summary": "Maṇi · ascetic named in Brahmā’s roster is explicitly included among those who stay/attend in Brahmā’s assembly.",
+      "category": "cooccurrence",
+      "status": "translation_checked",
+      "speaker": "Nārada (narrative); Vaiśaṃpāyana (frame)",
+      "note": "Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.",
+      "original_language_reviewed": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "mb2_sabha_ganguli_x",
+      "title": "Mahābhārata, Book 2 (Sabhāparvan), Section X: Kubera’s assembly",
+      "url": "https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-x",
+      "kind": "primary_translation",
+      "edition": "Kisari Mohan Ganguli, trans., The Mahabharata of Krishna-Dwaipayana Vyasa, Book 2: Sabha Parva (1883–1896), digitized text in the Internet Sacred Text Archive; sectional label and printed page numbers follow this edition.",
+      "locator": "Section X, printed pp. 22–24",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb2_sabha_ganguli_xi",
+      "title": "Mahābhārata, Book 2 (Sabhāparvan), Section XI: Brahmā’s assembly",
+      "url": "https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-xi",
+      "kind": "primary_translation",
+      "edition": "Kisari Mohan Ganguli, trans., The Mahabharata of Krishna-Dwaipayana Vyasa, Book 2: Sabha Parva (1883–1896), digitized text in the Internet Sacred Text Archive; sectional label and printed page numbers follow this edition.",
+      "locator": "Section XI, printed pp. 25–26",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "notes": [
+    "Scope is limited to the named roster in Sabha Parva §§X–XI, Narada’s descriptions of Kubera’s and Brahma’s assemblies. This is separate from Book 1 genealogy material and from the prior Vana Parva Agastya episodes.",
+    "Counts include only proper names attached by the passage to individual persons or explicit personifications. Generic classes (Yakṣas, Gandharvas, Kinnaras, Pisācas, unnamed Apsaras), unnamed wives/followers, and personified abstractions are excluded.",
+    "Namesakes and potentially related figures remain source-scoped: the two Rambhās in this overall graph are not merged; the two Citraseṇas in Section X are separate roster mentions; Vibhīṣaṇa here is not merged with any Rāmāyaṇa figure; named roster entries Pracetās/Dakṣa and the two Aṅgiras forms are not harmonized.",
+    "Dhanada is excluded as a separate node because it functions as an epithet of Kuvera within this same passage. The text’s “Dhanada” roster token is not treated as a separate Yakṣa.",
+    "The source gives sectional and printed-page locators, not Sanskrit verse numbering; claims therefore use Ganguli section and printed pages.",
+    "Count: 92 named person/personification nodes and 92 explicit assembly or relationship claims."
+  ]
+}

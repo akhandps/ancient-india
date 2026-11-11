@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "build:three": "esbuild agastya-three-app.js --bundle --format=iife --target=es2020 --outfile=research/agastya/vendor/agastya-three-app.bundle.js",
+    "build:webgl-sprites": "esbuild agastya-webgl-sprite.js --bundle --format=iife --target=es2020 --outfile=research/agastya/vendor/agastya-webgl-sprite.bundle.js"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "three": "0.186.1"
+  }
+}

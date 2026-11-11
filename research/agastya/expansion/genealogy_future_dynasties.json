@@ -1,0 +1,1698 @@
+{
+  "nodes": [
+    {
+      "id": "vp24_munika",
+      "label": "Munika · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_pradyota",
+      "label": "Pradyota · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_palaka",
+      "label": "Pālaka · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_vishakhayupa",
+      "label": "Viśākhayūpa · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_janaka",
+      "label": "Janaka · Pradyota branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_nandivardhana_pradyota",
+      "label": "Nandivardhana · Pradyota branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_shishunaga",
+      "label": "Śiśunāga · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_kakavarna",
+      "label": "Kākavarṇa · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_kshemadharman",
+      "label": "Kṣemadharman · Śiśunāga branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_kshatrojas",
+      "label": "Kṣatrojas · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_vidhisara",
+      "label": "Vidhisāra · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_ajatasatru",
+      "label": "Ajātaśatru · Śiśunāga branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_darbhaka",
+      "label": "Darbhaka · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_udayana_mag",
+      "label": "Udayana · Śiśunāga branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_nandivardhana_shishunaga",
+      "label": "Nandivardhana · later Śiśunāga branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_mahanandin",
+      "label": "Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_mahapadma_nanda",
+      "label": "Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_sumalya",
+      "label": "Sumālya · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_kautilya",
+      "label": "Kauṭilya · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_candragupta",
+      "label": "Candragupta · Maurya branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_bindusara",
+      "label": "Bindusāra · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_ashokavardhana",
+      "label": "Aśokavardhana · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_suyashas",
+      "label": "Suyaśas · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_dasharatha",
+      "label": "Daśaratha · Maurya branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_samgata",
+      "label": "Saṃgata · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_shalishuka",
+      "label": "Śāliśūka · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_somasharman",
+      "label": "Somaśarman · Maurya branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_shatadhanvan",
+      "label": "Śatadhanvan · Maurya branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_anubrihadratha",
+      "label": "Anubṛhadratha · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_pushpamitra",
+      "label": "Puṣpamitra · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_agnimitra",
+      "label": "Agnimitra · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_sujyeshtha",
+      "label": "Sujyeṣṭha · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_vasumitra_shunga",
+      "label": "Vasumitra · Śuṅga branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_ardraka",
+      "label": "Ārdraka · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_pulindaka_shunga",
+      "label": "Pulindaka · Śuṅga branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_ghosavasu",
+      "label": "Ghoṣavasu · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_vajramitra",
+      "label": "Vajramitra · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_bhagavata",
+      "label": "Bhāgavata · Śuṅga branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_devabhuti",
+      "label": "Devabhūti · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_vasudeva_kanva",
+      "label": "Vasudeva · Kāṇva minister and king · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_bhumitra",
+      "label": "Bhūmitra · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_narayana_kanva",
+      "label": "Nārāyaṇa · Kāṇva branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_susharman_kanva",
+      "label": "Suśarman · Kāṇva branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_shipraka",
+      "label": "Śipraka · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_krishna_andhra",
+      "label": "Kṛṣṇa · Andhra branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_srisatakarni",
+      "label": "Śrīśātakarṇi · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_purnotsanga",
+      "label": "Pūrṇotsaṅga · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_satakarni_2",
+      "label": "Śātakarṇi · Andhra branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_lambodara",
+      "label": "Lambodara · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_divilaka",
+      "label": "Divīlaka · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_meghasvati",
+      "label": "Meghasvāti · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_patumant",
+      "label": "Paṭumant · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_arishtakarman",
+      "label": "Ariṣṭakarman · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_hala",
+      "label": "Hāla · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_pattalaka",
+      "label": "Pattalaka · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_pravillasena",
+      "label": "Pravillasena · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_sundara_satakarni",
+      "label": "Sundara Śātakarṇin · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_cakora_satakarni",
+      "label": "Cakora Śātakarṇin · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_sivasvati",
+      "label": "Śivasvāti · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_gotamiputra",
+      "label": "Gomatīputra · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_pulimant",
+      "label": "Pulimant · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_satakarnin_3",
+      "label": "Śātakarṇin · Andhra branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_sivasri",
+      "label": "Śivaśrī · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_sivaskandha",
+      "label": "Śivaskandha · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_yajnasri",
+      "label": "Yajñaśrī · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_vijaya",
+      "label": "Vijaya · Andhra branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_candasri",
+      "label": "Candraśrī · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_pulomavi",
+      "label": "Pulomāvi · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_vindhyashakti",
+      "label": "Vindhyaśakti · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_puranjaya",
+      "label": "Puraṃjaya · Vindhyaśakti branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_ramachandra",
+      "label": "Rāmacandra · Vindhyaśakti branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_dharma",
+      "label": "Dharma · Vindhyaśakti branch · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_vangara",
+      "label": "Vaṅgara · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_krtanandana",
+      "label": "Kṛtanandana · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_sushinandi",
+      "label": "Suṣinandi · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_nandiyashas",
+      "label": "Nandiyaśas · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_shishuka",
+      "label": "Śiśuka · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_pravira",
+      "label": "Pravīra · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_pushyamitra_mekala",
+      "label": "Puṣyamitra · named among later kings · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_patumitra",
+      "label": "Paṭumitra · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_vishvasphatika",
+      "label": "Viśvasphaṭika · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_devarakshita",
+      "label": "Devarakṣita · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_vishnuyashas",
+      "label": "Viṣṇuyaśas · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_kalki",
+      "label": "Kalki · Viṣṇu manifestation · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_devapi_puru",
+      "label": "Devāpi · Puru scion · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    },
+    {
+      "id": "vp24_maru_ikshvaku",
+      "label": "Maru · Ikṣvāku family · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "vp4_24_anu",
+      "title": "The Viṣṇu Purāṇa, Book Four, chapter 24: Future kings; The age of Kali",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary text in translation",
+      "edition": "McComas Taylor, The Viṣṇu Purāṇa (ANU Press, 2021), Book 4, ch. 24",
+      "locator": "ANU HTML, lines 639–704; verse locators in claims",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "GFD001",
+      "facet": "puranic",
+      "subject": "vp24_munika",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_pradyota",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.1",
+      "summary": "Pradyota is identified in ANU’s future account as father of Munika.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD002",
+      "facet": "puranic",
+      "subject": "vp24_pradyota",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_palaka",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.1",
+      "summary": "Pālaka is identified in ANU’s future account as father of Pradyota.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD003",
+      "facet": "puranic",
+      "subject": "vp24_palaka",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_vishakhayupa",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.1",
+      "summary": "Viśākhayūpa is identified in ANU’s future account as father of Pālaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD004",
+      "facet": "puranic",
+      "subject": "vp24_vishakhayupa",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_janaka",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.1",
+      "summary": "Janaka · Pradyota branch is identified in ANU’s future account as father of Viśākhayūpa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD005",
+      "facet": "puranic",
+      "subject": "vp24_janaka",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_nandivardhana_pradyota",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.1",
+      "summary": "Nandivardhana · Pradyota branch is identified in ANU’s future account as father of Janaka · Pradyota branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD006",
+      "facet": "puranic",
+      "subject": "vp24_nandivardhana_pradyota",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_shishunaga",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.2",
+      "summary": "Śiśunāga is identified in ANU’s future account as father of Nandivardhana · Pradyota branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD007",
+      "facet": "puranic",
+      "subject": "vp24_shishunaga",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_kakavarna",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.2",
+      "summary": "Kākavarṇa is identified in ANU’s future account as father of Śiśunāga.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD008",
+      "facet": "puranic",
+      "subject": "vp24_kakavarna",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_kshemadharman",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.2",
+      "summary": "Kṣemadharman · Śiśunāga branch is identified in ANU’s future account as father of Kākavarṇa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD009",
+      "facet": "puranic",
+      "subject": "vp24_kshemadharman",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_kshatrojas",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.2",
+      "summary": "Kṣatrojas is identified in ANU’s future account as father of Kṣemadharman · Śiśunāga branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD010",
+      "facet": "puranic",
+      "subject": "vp24_kshatrojas",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_vidhisara",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.2",
+      "summary": "Vidhisāra is identified in ANU’s future account as father of Kṣatrojas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD011",
+      "facet": "puranic",
+      "subject": "vp24_vidhisara",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_ajatasatru",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.2",
+      "summary": "Ajātaśatru · Śiśunāga branch is identified in ANU’s future account as father of Vidhisāra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD012",
+      "facet": "puranic",
+      "subject": "vp24_ajatasatru",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_darbhaka",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.2",
+      "summary": "Darbhaka is identified in ANU’s future account as father of Ajātaśatru · Śiśunāga branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD013",
+      "facet": "puranic",
+      "subject": "vp24_darbhaka",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_udayana_mag",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.2",
+      "summary": "Udayana · Śiśunāga branch is identified in ANU’s future account as father of Darbhaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD014",
+      "facet": "puranic",
+      "subject": "vp24_udayana_mag",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_nandivardhana_shishunaga",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.2",
+      "summary": "Nandivardhana · later Śiśunāga branch is identified in ANU’s future account as father of Udayana · Śiśunāga branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD015",
+      "facet": "puranic",
+      "subject": "vp24_nandivardhana_shishunaga",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_mahanandin",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.2",
+      "summary": "Mahānandin is identified in ANU’s future account as father of Nandivardhana · later Śiśunāga branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD016",
+      "facet": "puranic",
+      "subject": "vp24_mahanandin",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_mahapadma_nanda",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.3",
+      "summary": "Mahāpadma (also called Nanda) · son of Mahānandin is identified in ANU’s future account as father of Mahānandin.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD017",
+      "facet": "puranic",
+      "subject": "vp24_mahapadma_nanda",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_sumalya",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.5",
+      "summary": "Sumālya is identified in ANU’s future account as father of Mahāpadma (also called Nanda) · son of Mahānandin.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD018",
+      "facet": "puranic",
+      "subject": "vp24_kautilya",
+      "predicate": "is_predicted_to_anoint_as_king",
+      "object": "vp24_candragupta",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.6",
+      "summary": "ANU’s future account says Kauṭilya anoints as king Candragupta · Maurya branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD019",
+      "facet": "puranic",
+      "subject": "vp24_candragupta",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_bindusara",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.6",
+      "summary": "Bindusāra is identified in ANU’s future account as father of Candragupta · Maurya branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD020",
+      "facet": "puranic",
+      "subject": "vp24_bindusara",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_ashokavardhana",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.6",
+      "summary": "Aśokavardhana is identified in ANU’s future account as father of Bindusāra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD021",
+      "facet": "puranic",
+      "subject": "vp24_ashokavardhana",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_suyashas",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.6",
+      "summary": "Suyaśas is identified in ANU’s future account as father of Aśokavardhana.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD022",
+      "facet": "puranic",
+      "subject": "vp24_suyashas",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_dasharatha",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.6",
+      "summary": "Daśaratha · Maurya branch is identified in ANU’s future account as father of Suyaśas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD023",
+      "facet": "puranic",
+      "subject": "vp24_dasharatha",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_samgata",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.6",
+      "summary": "Saṃgata is identified in ANU’s future account as father of Daśaratha · Maurya branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD024",
+      "facet": "puranic",
+      "subject": "vp24_samgata",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_shalishuka",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.6",
+      "summary": "Śāliśūka is identified in ANU’s future account as father of Saṃgata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD025",
+      "facet": "puranic",
+      "subject": "vp24_shalishuka",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_somasharman",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.6",
+      "summary": "Somaśarman · Maurya branch is identified in ANU’s future account as father of Śāliśūka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD026",
+      "facet": "puranic",
+      "subject": "vp24_somasharman",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_shatadhanvan",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.6",
+      "summary": "Śatadhanvan · Maurya branch is identified in ANU’s future account as father of Somaśarman · Maurya branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD027",
+      "facet": "puranic",
+      "subject": "vp24_shatadhanvan",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_anubrihadratha",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.6",
+      "summary": "Anubṛhadratha is identified in ANU’s future account as father of Śatadhanvan · Maurya branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD028",
+      "facet": "puranic",
+      "subject": "vp24_pushpamitra",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_agnimitra",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.7–10",
+      "summary": "Agnimitra is identified in ANU’s future account as father of Puṣpamitra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD029",
+      "facet": "puranic",
+      "subject": "vp24_agnimitra",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_sujyeshtha",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.7–10",
+      "summary": "Sujyeṣṭha is identified in ANU’s future account as father of Agnimitra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD030",
+      "facet": "puranic",
+      "subject": "vp24_sujyeshtha",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_vasumitra_shunga",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.7–10",
+      "summary": "Vasumitra · Śuṅga branch is identified in ANU’s future account as father of Sujyeṣṭha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD031",
+      "facet": "puranic",
+      "subject": "vp24_vasumitra_shunga",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_ardraka",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.7–10",
+      "summary": "Ārdraka is identified in ANU’s future account as father of Vasumitra · Śuṅga branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD032",
+      "facet": "puranic",
+      "subject": "vp24_ardraka",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_pulindaka_shunga",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.7–10",
+      "summary": "Pulindaka · Śuṅga branch is identified in ANU’s future account as father of Ārdraka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD033",
+      "facet": "puranic",
+      "subject": "vp24_pulindaka_shunga",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_ghosavasu",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.7–10",
+      "summary": "Ghoṣavasu is identified in ANU’s future account as father of Pulindaka · Śuṅga branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD034",
+      "facet": "puranic",
+      "subject": "vp24_ghosavasu",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_vajramitra",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.7–10",
+      "summary": "Vajramitra is identified in ANU’s future account as father of Ghoṣavasu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD035",
+      "facet": "puranic",
+      "subject": "vp24_vajramitra",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_bhagavata",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.7–10",
+      "summary": "Bhāgavata · Śuṅga branch is identified in ANU’s future account as father of Vajramitra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD036",
+      "facet": "puranic",
+      "subject": "vp24_bhagavata",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_devabhuti",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.7–10",
+      "summary": "Devabhūti is identified in ANU’s future account as father of Bhāgavata · Śuṅga branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD037",
+      "facet": "puranic",
+      "subject": "vp24_devabhuti",
+      "predicate": "is_predicted_to_be_killed_and_succeeded_by",
+      "object": "vp24_vasudeva_kanva",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.10–11",
+      "summary": "ANU’s future account says Devabhūti is killed and succeeded by minister Vasudeva · Kāṇva minister and king.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD038",
+      "facet": "puranic",
+      "subject": "vp24_vasudeva_kanva",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_bhumitra",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.11",
+      "summary": "Bhūmitra is identified in ANU’s future account as father of Vasudeva · Kāṇva minister and king.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD039",
+      "facet": "puranic",
+      "subject": "vp24_bhumitra",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_narayana_kanva",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.11",
+      "summary": "Nārāyaṇa · Kāṇva branch is identified in ANU’s future account as father of Bhūmitra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD040",
+      "facet": "puranic",
+      "subject": "vp24_narayana_kanva",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_susharman_kanva",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.11",
+      "summary": "Suśarman · Kāṇva branch is identified in ANU’s future account as father of Nārāyaṇa · Kāṇva branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD041",
+      "facet": "puranic",
+      "subject": "vp24_susharman_kanva",
+      "predicate": "is_predicted_to_be_overthrown_by",
+      "object": "vp24_shipraka",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.11–12",
+      "summary": "ANU’s future account says Suśarman · Kāṇva branch is overthrown by minion Śipraka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD042",
+      "facet": "puranic",
+      "subject": "vp24_shipraka",
+      "predicate": "is_predicted_to_be_brother_of",
+      "object": "vp24_krishna_andhra",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Kṛṣṇa · Andhra branch is identified in ANU’s future account as brother of Śipraka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD043",
+      "facet": "puranic",
+      "subject": "vp24_krishna_andhra",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_srisatakarni",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Śrīśātakarṇi is identified in ANU’s future account as father of Kṛṣṇa · Andhra branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD044",
+      "facet": "puranic",
+      "subject": "vp24_srisatakarni",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_purnotsanga",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Pūrṇotsaṅga is identified in ANU’s future account as father of Śrīśātakarṇi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD045",
+      "facet": "puranic",
+      "subject": "vp24_purnotsanga",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_satakarni_2",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Śātakarṇi · Andhra branch is identified in ANU’s future account as father of Pūrṇotsaṅga.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD046",
+      "facet": "puranic",
+      "subject": "vp24_satakarni_2",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_lambodara",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Lambodara is identified in ANU’s future account as father of Śātakarṇi · Andhra branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD047",
+      "facet": "puranic",
+      "subject": "vp24_lambodara",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_divilaka",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Divīlaka is identified in ANU’s future account as father of Lambodara.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD048",
+      "facet": "puranic",
+      "subject": "vp24_divilaka",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_meghasvati",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Meghasvāti is identified in ANU’s future account as father of Divīlaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD049",
+      "facet": "puranic",
+      "subject": "vp24_meghasvati",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_patumant",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Paṭumant is identified in ANU’s future account as father of Meghasvāti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD050",
+      "facet": "puranic",
+      "subject": "vp24_patumant",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_arishtakarman",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Ariṣṭakarman is identified in ANU’s future account as father of Paṭumant.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD051",
+      "facet": "puranic",
+      "subject": "vp24_arishtakarman",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_hala",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Hāla is identified in ANU’s future account as father of Ariṣṭakarman.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD052",
+      "facet": "puranic",
+      "subject": "vp24_hala",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_pattalaka",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Pattalaka is identified in ANU’s future account as father of Hāla.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD053",
+      "facet": "puranic",
+      "subject": "vp24_pattalaka",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_pravillasena",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Pravillasena is identified in ANU’s future account as father of Pattalaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD054",
+      "facet": "puranic",
+      "subject": "vp24_pravillasena",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_sundara_satakarni",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Sundara Śātakarṇin is identified in ANU’s future account as father of Pravillasena.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD055",
+      "facet": "puranic",
+      "subject": "vp24_sundara_satakarni",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_cakora_satakarni",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Cakora Śātakarṇin is identified in ANU’s future account as father of Sundara Śātakarṇin.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD056",
+      "facet": "puranic",
+      "subject": "vp24_cakora_satakarni",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_sivasvati",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Śivasvāti is identified in ANU’s future account as father of Cakora Śātakarṇin.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD057",
+      "facet": "puranic",
+      "subject": "vp24_sivasvati",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_gotamiputra",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Gomatīputra is identified in ANU’s future account as father of Śivasvāti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD058",
+      "facet": "puranic",
+      "subject": "vp24_gotamiputra",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_pulimant",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Pulimant is identified in ANU’s future account as father of Gomatīputra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD059",
+      "facet": "puranic",
+      "subject": "vp24_pulimant",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_satakarnin_3",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Śātakarṇin · Andhra branch is identified in ANU’s future account as father of Pulimant.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD060",
+      "facet": "puranic",
+      "subject": "vp24_satakarnin_3",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_sivasri",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Śivaśrī is identified in ANU’s future account as father of Śātakarṇin · Andhra branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD061",
+      "facet": "puranic",
+      "subject": "vp24_sivasri",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_sivaskandha",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Śivaskandha is identified in ANU’s future account as father of Śivaśrī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD062",
+      "facet": "puranic",
+      "subject": "vp24_sivaskandha",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_yajnasri",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Yajñaśrī is identified in ANU’s future account as father of Śivaskandha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD063",
+      "facet": "puranic",
+      "subject": "vp24_yajnasri",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_vijaya",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Vijaya · Andhra branch is identified in ANU’s future account as father of Yajñaśrī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD064",
+      "facet": "puranic",
+      "subject": "vp24_vijaya",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_candasri",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Candraśrī is identified in ANU’s future account as father of Vijaya · Andhra branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD065",
+      "facet": "puranic",
+      "subject": "vp24_candasri",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_pulomavi",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.12",
+      "summary": "Pulomāvi is identified in ANU’s future account as father of Candraśrī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD066",
+      "facet": "puranic",
+      "subject": "vp24_vindhyashakti",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_puranjaya",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.13",
+      "summary": "Puraṃjaya · Vindhyaśakti branch is identified in ANU’s future account as father of Vindhyaśakti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD067",
+      "facet": "puranic",
+      "subject": "vp24_puranjaya",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_ramachandra",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.13",
+      "summary": "Rāmacandra · Vindhyaśakti branch is identified in ANU’s future account as father of Puraṃjaya · Vindhyaśakti branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD068",
+      "facet": "puranic",
+      "subject": "vp24_ramachandra",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_dharma",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.13",
+      "summary": "Dharma · Vindhyaśakti branch is identified in ANU’s future account as father of Rāmacandra · Vindhyaśakti branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD069",
+      "facet": "puranic",
+      "subject": "vp24_dharma",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_vangara",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.14",
+      "summary": "Vaṅgara is identified in ANU’s future account as father of Dharma · Vindhyaśakti branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD070",
+      "facet": "puranic",
+      "subject": "vp24_dharma",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_krtanandana",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.14",
+      "summary": "Kṛtanandana is identified in ANU’s future account as father of Dharma · Vindhyaśakti branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD071",
+      "facet": "puranic",
+      "subject": "vp24_dharma",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_sushinandi",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.14",
+      "summary": "Suṣinandi is identified in ANU’s future account as father of Dharma · Vindhyaśakti branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD072",
+      "facet": "puranic",
+      "subject": "vp24_dharma",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_nandiyashas",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.14",
+      "summary": "Nandiyaśas is identified in ANU’s future account as father of Dharma · Vindhyaśakti branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD073",
+      "facet": "puranic",
+      "subject": "vp24_dharma",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_shishuka",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.14",
+      "summary": "Śiśuka is identified in ANU’s future account as father of Dharma · Vindhyaśakti branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD074",
+      "facet": "puranic",
+      "subject": "vp24_dharma",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_pravira",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.14",
+      "summary": "Pravīra is identified in ANU’s future account as father of Dharma · Vindhyaśakti branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD075",
+      "facet": "puranic",
+      "subject": "vp24_sushinandi",
+      "predicate": "is_predicted_to_be_brother_of",
+      "object": "vp24_nandiyashas",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.14",
+      "summary": "Nandiyaśas is identified in ANU’s future account as brother of Suṣinandi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD076",
+      "facet": "puranic",
+      "subject": "vp24_vishnuyashas",
+      "predicate": "is_predicted_to_be_father_of",
+      "object": "vp24_kalki",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.20",
+      "summary": "Kalki · Viṣṇu manifestation is identified in ANU’s future account as father of Viṣṇuyaśas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD077",
+      "facet": "puranic",
+      "subject": "vp24_munika",
+      "predicate": "is_predicted_to_serve_as_minister_to",
+      "object": "vp23_ripunjaya_mag",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.1",
+      "summary": "Munika is named as minister to Ripuṃjaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Preserved as a textual future prediction or description. The unnamed sovereign, mother, and clan categories are not represented as person nodes.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD078",
+      "facet": "puranic",
+      "subject": "vp24_munika",
+      "predicate": "is_predicted_to_kill",
+      "object": "vp23_ripunjaya_mag",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.1",
+      "summary": "Munika is predicted to kill his sovereign Ripuṃjaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Preserved as a textual future prediction or description. The unnamed sovereign, mother, and clan categories are not represented as person nodes.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD079",
+      "facet": "puranic",
+      "subject": "vp24_munika",
+      "predicate": "is_predicted_to_anoint_as_king",
+      "object": "vp24_pradyota",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.1",
+      "summary": "After killing Ripuṃjaya, Munika anoints his own son Pradyota as king.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Preserved as a textual future prediction or description. The unnamed sovereign, mother, and clan categories are not represented as person nodes.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD080",
+      "facet": "puranic",
+      "subject": "vp24_vishnuyashas",
+      "predicate": "is_named_as_householder_in_whose_home_kalki_manifests",
+      "object": "vp24_kalki",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.20",
+      "summary": "Kalki is said to manifest in the home of Viṣṇuyaśas; the batch does not infer more specific paternity than ANU explicitly states.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Preserved as a textual future prediction or description. The unnamed sovereign, mother, and clan categories are not represented as person nodes.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD081",
+      "facet": "puranic",
+      "subject": "vp24_devapi_puru",
+      "predicate": "is_identified_as_scion_of",
+      "object": "vp_puru",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.37",
+      "summary": "Devāpi is explicitly called a scion of Puru.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The source states lineage affiliation but does not provide an immediate parent, so no parent-child edge is inferred. These IDs remain distinct from similarly named people in earlier batches pending an explicit identity link.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GFD082",
+      "facet": "puranic",
+      "subject": "vp24_maru_ikshvaku",
+      "predicate": "is_identified_as_born_in_family_of",
+      "object": "vp35_ikshvaku",
+      "source": "vp4_24_anu",
+      "locator": "Viṣṇu Purāṇa 4.24.37",
+      "summary": "Maru is explicitly said to be born in Ikṣvāku’s family.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The source states lineage affiliation but does not provide an immediate parent, so no parent-child edge is inferred. These IDs remain distinct from similarly named people in earlier batches pending an explicit identity link.",
+      "original_language_reviewed": false
+    }
+  ],
+  "search_log": [
+    {
+      "query": "Viṣṇu Purāṇa Book 4 chapter 24 ANU Press Taylor future kings age of Kali",
+      "outcome": "Read the ANU chapter 24 translation through its end, lines 639–704. Extracted only individually named people and explicit succession, sibling, ministry, killing, or appointment relations; left unnamed successors and collective dynasties unexpanded."
+    },
+    {
+      "query": "ANU Viṣṇu Purāṇa 4.24 exact verse locators",
+      "outcome": "Used the numbered ANU verse divisions (4.24.1–20) visible in the primary translation. Names and claim direction follow the ANU translation; Sanskrit forms are represented with its diacritics."
+    }
+  ],
+  "notes": [
+    "This batch adds 86 person nodes and 82 person-to-person claims, reusing existing vp23_ripunjaya_mag at the chapter opening.",
+    "Parāśara presents chapter 24’s dynastic sequences as predictions. Claims preserve that framing and do not assert historical fact.",
+    "The chapter’s collective counts and unnamed members (including the seven unnamed sons of Mahāpadma and later dynastic groups) are not made into person nodes. Named persons appearing only in regional/group lists without a direct personal relationship are omitted rather than assigned unsupported links.",
+    "Repeated personal names receive chapter- and branch-specific IDs: Udayana · Śiśunāga branch is distinct from the Udayana in the earlier Parīkṣit branch; the two Nandivardhanas here are also separate; Śātakarṇi forms are separated when the passage introduces them as successive people.",
+    "ANU renders Mahāpadma or Nanda as a single ruler with alternative names; this batch uses one node rather than silently treating the names as two people. Kṛṣṇa in the Andhra succession is branch-tagged and is not merged with the deity or other namesakes.",
+    "Śipraka is called a minion of Suśarman and his brother Kṛṣṇa succeeds him; the source gives the brother relation directly. Parentage resumes with Kṛṣṇa’s son Śrīśātakarṇi. The displayed chain after that follows explicit “his son” wording.",
+    "Ripuṃjaya at 4.24.1 reuses the existing chapter 23 Magadha node. Devāpi’s chapter 24 Puru-line identification and Maru’s Ikṣvāku-family identification are named in 4.24.37; because Maru’s identity with any similarly named person in other batches is not explicit here, no identity merge is made.",
+    "The two unnamed rulers killed by Munika/Puṣpamitra and the unnamed mother of Mahāpadma are not assigned person nodes. Non-genealogical named regional/group catalogues are not converted into lineage assertions.",
+    "The passage also says Mahāpadma’s mother is śūdra, Pushpamitra kills an unnamed sovereign, Vasudeva is a Kaṇva, and Śipraka is of the Andhra clan. These are retained as textual observations here rather than person-to-person graph edges because the source does not name the other endpoint or it is a status/affiliation, not a person."
+  ]
+}

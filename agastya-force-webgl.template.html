@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Agastya · WebGL circles</title>
+<style>
+  :root{color-scheme:dark;font:14px/1.45 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#070d18;color:#f2f6fc}
+  *{box-sizing:border-box}body{margin:0}button,input,select{font:inherit}
+  .shell{height:100dvh;min-height:620px;display:grid;grid-template-columns:minmax(0,1fr) 370px;grid-template-rows:auto minmax(0,1fr)}
+  header{grid-column:1/-1;display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:12px 18px;background:#111b2b;border-bottom:1px solid #30445f;z-index:3}
+  h1{font-size:18px;margin:0;color:#ffe1a0;white-space:nowrap}header p{margin:0;color:#c2cfdf;font-size:12px}
+  .controls{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-left:auto}
+  label{font-size:12px;color:#cbd6e4;display:flex;align-items:center;gap:6px}
+  button,input,select,.view-link{background:#1c2b3e;color:#f2f6fc;border:1px solid #50647d;border-radius:8px;padding:7px 9px;min-height:34px}
+  button{cursor:pointer}button:hover,.view-link:hover{background:#263b52}button:focus-visible,input:focus-visible,select:focus-visible,.view-link:focus-visible{outline:2px solid #9bdcff;outline-offset:2px}
+  .view-link{text-decoration:none;display:inline-flex;align-items:center;font-size:12px}
+  .search-wrap{position:relative;width:190px}.search-wrap input{width:100%}.search-results{position:absolute;top:calc(100% + 5px);left:0;width:min(420px,calc(100vw - 24px));max-height:300px;overflow:auto;padding:4px;background:#111d30;border:1px solid #526680;border-radius:9px;box-shadow:0 18px 40px #000b;z-index:10}.search-results[hidden]{display:none}
+  .result{display:block;width:100%;height:auto;text-align:left;border:0;background:transparent;min-height:42px}.result:hover,.result.active{background:#263b52}.result strong{display:block}.result small{display:block;color:#bdcadb;font-size:11px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.empty{padding:10px;color:#bdcadb}
+  .stage{position:relative;overflow:hidden;background:#080f1d}.stage .scene{width:100%;height:100%}.stage .hint{position:absolute;left:14px;bottom:14px;pointer-events:none;color:#d9e5f4;background:#0b1729dd;padding:9px 11px;border:1px solid #49617c;border-radius:9px;font-size:12px}
+  .error{position:absolute;inset:0;display:grid;place-items:center;padding:30px;text-align:center;color:#f2f6fc;background:#0b1729}.error[hidden]{display:none}
+  aside{overflow:auto;min-width:0;background:#111b2b;border-left:1px solid #34465e;padding:20px}aside h2{font-size:20px;line-height:1.25;margin:0 0 4px}aside h3{font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:#c4d2e2;margin:22px 0 8px}.muted{color:#bdcadb}.small{font-size:13px;line-height:1.55}.metric{display:flex;gap:12px;flex-wrap:wrap;color:#dce6f2;font-size:13px;margin:12px 0}.claim{border-top:1px solid #34465e;padding:13px 0}.claim strong{display:block;font-size:14px;line-height:1.45}.claim p{font-size:13px;line-height:1.55;color:#dce6f2;margin:7px 0}.claim a{font-size:12px;color:#9ddcff;overflow-wrap:anywhere}.claim small{color:#bac9dc;font-size:12px}
+  @media(max-width:900px){.shell{height:auto;min-height:100dvh;grid-template-columns:1fr;grid-template-rows:auto min(70vh,640px) auto}header p{width:100%;order:3}.controls{margin-left:0}aside{border-left:0;border-top:1px solid #34465e}}
+  @media(max-width:500px){header{padding:12px}.controls{width:100%}.controls label,.search-wrap{flex:1 1 140px}.controls select,.search-wrap input{width:100%}.stage{min-height:460px}}
+</style>
+</head>
+<body>
+<div class="shell">
+  <header><h1>✦ Agastya · WebGL circles</h1><p>Real 3D orbit and force layout · click or search to fly to a node</p>
+    <div class="controls">
+      <label>Tradition <select id="tradition"><option value="all">All</option></select></label>
+      <label>Radius <select id="radius"><option value="1">1 hop</option><option value="2">2 hops</option><option value="3">3 hops</option><option value="all" selected>All claims</option></select></label>
+      <label><input id="sources" type="checkbox"> Source nodes</label>
+      <div class="search-wrap"><input id="search" type="search" placeholder="Find Ram, Rama, Krishna…" aria-label="Find a person or text" role="combobox" aria-controls="results" aria-expanded="false"><div id="results" class="search-results" role="listbox" hidden></div></div>
+      <button id="fit" type="button">Fit all</button><button id="pause" type="button">Pause</button>
+      <a class="view-link" href="force-graph-3d.html">Canvas view</a>
+    </div>
+  </header>
+  <main class="stage"><div id="scene" class="scene" aria-label="Interactive WebGL force graph of Agastya textual relationships"></div><div class="hint">Drag to orbit · scroll to travel · click for passage evidence</div><div id="error" class="error" hidden></div></main>
+  <aside id="detail" aria-live="polite"></aside>
+</div>
+<script type="application/json" id="graph-data">__GRAPH_DATA__</script>
+<script src="vendor/3d-force-graph-1.80.1.min.js"></script>
+<script src="vendor/agastya-webgl-sprite.bundle.js"></script>
+<script>
+(()=>{'use strict';
+ const data=JSON.parse(document.getElementById('graph-data').textContent);
+ const scene=document.getElementById('scene'),detail=document.getElementById('detail'),error=document.getElementById('error'),tradition=document.getElementById('tradition'),radius=document.getElementById('radius'),sources=document.getElementById('sources'),search=document.getElementById('search'),results=document.getElementById('results'),fit=document.getElementById('fit'),pause=document.getElementById('pause');
+ const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+ const facets=data.nodes.filter(n=>n.type==='agastya_facet').map(n=>n.id),displayId=id=>facets.includes(id)?'agastya-hub':id;
+ const facetLabels={vedic:'Vedic',ramayana:'Rāmāyaṇa',mahabharata:'Mahābhārata',puranic:'Bhāgavata',tamil:'Tamil',buddhist:'Buddhacarita'};
+ for(const id of facets){const o=document.createElement('option');o.value=id;o.textContent=facetLabels[id]||id;tradition.append(o)}
+ const nodeMap=new Map(data.nodes.filter(n=>n.type!=='agastya_facet').map(n=>[n.id,{...n,kind:n.type==='text'?'text':n.type==='place'?'place':'person'}]));
+ nodeMap.set('agastya-hub',{id:'agastya-hub',label:'Agastya',kind:'hub',type:'navigation'});
+ const sourceMap=new Map(data.sources.map(s=>[s.id,s]));for(const s of data.sources)nodeMap.set('source:'+s.id,{id:'source:'+s.id,label:s.title,kind:'source',source:s});
+ const claimEdges=data.claims.map(c=>({source:displayId(c.subject),target:displayId(c.object),kind:'claim',claim:c}));
+ const palette={hub:'#ffe1a0',person:'#83c7ee',text:'#b9a9ef',place:'#87d8bc',source:'#8193ad'};
+ let graph,activeNodes=[],activeLinks=[],degree=new Map(),selected='agastya-hub',paused=false,firstBuild=true,userFocused=false,searchChoices=[],searchCursor=0;
+ const linkId=x=>typeof x==='object'?x.id:x;
+ const colorOf=n=>n.id===selected?'#ffd27e':palette[n.kind]||palette.person;
+ const linkColor=l=>linkId(l.source)===selected||linkId(l.target)===selected?'#d5a766':l.kind==='citation'?'#384f6a':'#52677e';
+ function neighbors(edges,start,limit){const adj=new Map;for(const e of edges){if(!adj.has(e.source))adj.set(e.source,[]);if(!adj.has(e.target))adj.set(e.target,[]);adj.get(e.source).push(e.target);adj.get(e.target).push(e.source)}const seen=new Map([[start,0]]),queue=[start];for(let i=0;i<queue.length;i++){const u=queue[i];if(seen.get(u)>=limit)continue;for(const v of adj.get(u)||[])if(!seen.has(v)){seen.set(v,seen.get(u)+1);queue.push(v)}}return seen}
+ function rebuild(){const facet=tradition.value,base=facet==='all'?claimEdges:claimEdges.filter(e=>e.claim.facet===facet),limit=radius.value==='all'?Infinity:Number(radius.value),seen=neighbors(base,'agastya-hub',limit),claims=limit===Infinity?base:base.filter(e=>seen.has(e.source)&&seen.has(e.target)),ids=new Set(['agastya-hub']);for(const e of claims){ids.add(e.source);ids.add(e.target)}if(facet==='all'&&radius.value==='all')for(const n of data.nodes)if(n.type!=='agastya_facet')ids.add(n.id);
+  const links=claims.map(e=>({source:e.source,target:e.target,kind:'claim',claim:e.claim}));if(sources.checked){const cited=new Set;for(const e of claims){const sid='source:'+e.claim.source;ids.add(sid);for(const id of [e.source,e.target]){const key=sid+'|'+id;if(!cited.has(key)){cited.add(key);links.push({source:sid,target:id,kind:'citation'})}}}if(facet==='all'&&radius.value==='all')for(const s of data.sources)ids.add('source:'+s.id)}
+  activeNodes=[...ids].map(id=>nodeMap.get(id)).filter(Boolean);activeLinks=links;degree=new Map(activeNodes.map(n=>[n.id,0]));for(const e of claims){degree.set(e.source,(degree.get(e.source)||0)+1);degree.set(e.target,(degree.get(e.target)||0)+1)}if(!ids.has(selected))selected='agastya-hub';userFocused=false;graph.graphData({nodes:activeNodes,links});renderDetail();if(firstBuild){firstBuild=false;setTimeout(()=>{if(!userFocused)graph.zoomToFit(700,80)},500);setTimeout(()=>{if(!userFocused)graph.zoomToFit(900,80)},4500)}else setTimeout(()=>{if(!userFocused)graph.zoomToFit(700,80)},80)}
+ function claimsFor(id){return data.claims.filter(c=>displayId(c.subject)===id||displayId(c.object)===id||(id.startsWith('source:')&&c.source===id.slice(7))).filter(c=>tradition.value==='all'||c.facet===tradition.value)}
+ function renderDetail(){const n=nodeMap.get(selected),claims=claimsFor(selected),src=n?.source;let html=`<h2>${esc(n?.label||'Agastya')}</h2><div class="muted small">${esc(n?.kind||'entity')}${src?` · <a href="${esc(src.url)}" target="_blank" rel="noopener noreferrer">Open source</a>`:''}</div><div class="metric"><span>${degree.get(selected)||0} passage connections</span><span>${claims.length} claims</span></div>`;if(selected==='agastya-hub')html+='<p class="small muted">Agastya groups the source-local witnesses for navigation. Claim links record textual attestations, not established historical meetings.</p>';html+='<h3>Passage evidence</h3>';html+=claims.slice(0,50).map(c=>{const s=sourceMap.get(c.source);return`<div class="claim"><strong>${esc(nodeMap.get(displayId(c.subject))?.label||c.subject)} → ${esc(c.predicate.replaceAll('_',' '))} → ${esc(nodeMap.get(displayId(c.object))?.label||c.object)}</strong><p>${esc(c.summary)}</p><a href="${esc(s?.url||'#')}" target="_blank" rel="noopener noreferrer">${esc(s?.title||c.source)} · ${esc(c.locator)}</a><br><small>${esc(facetLabels[c.facet]||c.facet)} · ${esc(c.status.replaceAll('_',' '))}</small></div>`}).join('');if(claims.length>50)html+=`<p class="small muted">${claims.length-50} more claims in graph.json.</p>`;detail.innerHTML=html}
+ function focusOn(id){const n=activeNodes.find(x=>x.id===id);if(!n)return;selected=id;userFocused=true;renderDetail();for(const item of activeNodes){const material=item.__threeObj?.material;if(material?.color)material.color.set(colorOf(item))}const fly=()=>{if(!Number.isFinite(n.x)||!Number.isFinite(n.y)||!Number.isFinite(n.z)){setTimeout(fly,80);return}const camera=graph.cameraPosition(),dx=camera.x-n.x,dy=camera.y-n.y,dz=camera.z-n.z,len=Math.hypot(dx,dy,dz)||1,distance=180+Math.min(180,Math.sqrt(degree.get(id)||0)*15);graph.cameraPosition({x:n.x+dx/len*distance,y:n.y+dy/len*distance,z:n.z+dz/len*distance},{x:n.x,y:n.y,z:n.z},1100)};fly()}
+ const fold=x=>String(x).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'');
+ const forms=x=>[...new Set([fold(x),fold(String(x).toLowerCase().replace(/[ṛṝ]/g,'ri').replace(/[śṣ]/g,'sh').replace(/ṅ/g,'ng').replace(/ñ/g,'ny'))])];
+ function findMatches(raw){const qs=forms(raw).filter(Boolean);if(!qs.length)return[];return[...nodeMap.values()].map(n=>{const names=n.label.split(' · ')[0].split(/\s*\/\s*/).flatMap(forms),exact=qs.some(q=>names.includes(q)),prefix=qs.some(q=>names.some(x=>x.startsWith(q))),within=qs.some(q=>names.some(x=>x.includes(q))),body=qs.some(q=>forms(n.label).some(x=>x.includes(q)));let score=exact?0:prefix?10:within?27:body?43:qs.some(q=>fold(n.id).includes(q))?50:Infinity;if(n.kind==='text')score+=4;if(n.kind==='source')score+=7;score-=Math.min(4,Math.log1p(degree.get(n.id)||0));return{n,score}}).filter(x=>Number.isFinite(x.score)).sort((a,b)=>a.score-b.score||(degree.get(b.n.id)||0)-(degree.get(a.n.id)||0)).slice(0,8).map(x=>x.n)}
+ function showResults(){const q=search.value.trim();results.hidden=!q;search.setAttribute('aria-expanded',q?'true':'false');if(!q)return;results.innerHTML=searchChoices.length?searchChoices.map((n,i)=>{const parts=n.label.split(' · ');return`<button type="button" role="option" aria-selected="${i===searchCursor}" class="result${i===searchCursor?' active':''}" data-index="${i}"><strong>${esc(parts[0])}</strong><small>${esc(parts.slice(1).join(' · ')||n.kind)}</small></button>`}).join(''):'<div class="empty">No matching person or text</div>'}
+ function choose(i,close=false){const n=searchChoices[i];if(!n)return;if(!activeNodes.some(x=>x.id===n.id)){tradition.value='all';radius.value='all';if(n.kind==='source')sources.checked=true;rebuild()}focusOn(n.id);if(close){results.hidden=true;search.setAttribute('aria-expanded','false')}}
+ if(typeof ForceGraph3D!=='function'){error.textContent='The local 3D graph library did not load. Open this generated file with its vendor folder intact.';error.hidden=false;return}
+ try{graph=new ForceGraph3D(scene,{controlType:'orbit',rendererConfig:{antialias:true,alpha:true}}).backgroundColor('#080f1d').showNavInfo(false).nodeId('id').nodeLabel(n=>esc(n.label)).nodeColor(colorOf).nodeThreeObject(n=>agastyaCircleSprite(n,colorOf(n),degree.get(n.id)||0)).linkColor(linkColor).linkOpacity(.27).linkWidth(l=>linkId(l.source)===selected||linkId(l.target)===selected?1:0).d3VelocityDecay(.56).d3AlphaDecay(.035).warmupTicks(40).cooldownTicks(260).cooldownTime(12000).onNodeClick(n=>focusOn(n.id)).onEngineStop(()=>{if(!userFocused)graph.zoomToFit(900,35)});graph.d3Force('charge').strength(n=>n.kind==='hub'?-220:-65);graph.d3Force('link').distance(l=>l.kind==='citation'?70:110-Math.min(45,Math.sqrt((degree.get(linkId(l.source))||1)*(degree.get(linkId(l.target))||1))*3)).strength(l=>l.kind==='citation'?.25:.72);const controls=graph.controls();if(controls){controls.enableDamping=true;controls.dampingFactor=.09}new ResizeObserver(()=>{graph.width(scene.clientWidth).height(scene.clientHeight)}).observe(scene);rebuild()}catch(e){error.textContent='WebGL could not start: '+e.message;error.hidden=false;return}
+ scene.addEventListener('pointerdown',()=>{userFocused=true});scene.addEventListener('wheel',()=>{userFocused=true},{passive:true});tradition.addEventListener('change',rebuild);radius.addEventListener('change',rebuild);sources.addEventListener('change',rebuild);
+ search.addEventListener('input',()=>{searchChoices=findMatches(search.value);searchCursor=0;showResults();if(fold(search.value).length>=2)choose(0)});
+ search.addEventListener('keydown',e=>{if(e.key==='Escape'){results.hidden=true;search.setAttribute('aria-expanded','false');return}if(!searchChoices.length)return;if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();searchCursor=(searchCursor+(e.key==='ArrowDown'?1:-1)+searchChoices.length)%searchChoices.length;showResults();choose(searchCursor)}else if(e.key==='Enter'){e.preventDefault();choose(searchCursor,true)}});
+ results.addEventListener('click',e=>{const option=e.target.closest('[data-index]');if(option){searchCursor=Number(option.dataset.index);choose(searchCursor,true)}});
+ fit.addEventListener('click',()=>{userFocused=false;graph.zoomToFit(950,80)});pause.addEventListener('click',()=>{paused=!paused;if(paused)graph.pauseAnimation();else graph.resumeAnimation();pause.textContent=paused?'Resume':'Pause'});
+})();
+</script>
+</body>
+</html>

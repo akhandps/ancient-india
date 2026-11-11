@@ -1,0 +1,883 @@
+{
+  "nodes": [
+    {
+      "id": "vp89_pururavas",
+      "label": "Purūravas · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_ayus",
+      "label": "Āyus · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_kshatravriddha",
+      "label": "Kṣatravṛddha · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_rambha",
+      "label": "Rambha · son of Āyus · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_raji",
+      "label": "Raji · son of Āyus · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_anenas",
+      "label": "Anenas · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_suhotra",
+      "label": "Suhotra · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_kashya",
+      "label": "Kāśya · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_lesha",
+      "label": "Leśa · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_grtsamada",
+      "label": "Gṛtsamadās · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_shaunaka",
+      "label": "Śaunaka · son of Gṛtsamadās · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_unnamed_kasi_king",
+      "label": "Unnamed king of Kāśī · son of Kāśya · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_dirghatamas",
+      "label": "Dīrghatamas · Kāśī line · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_dhanvantari",
+      "label": "Dhanvantari · son of Dīrghatamas · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_ketumant",
+      "label": "Ketumant · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_bhimaratha",
+      "label": "Bhīmaratha · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_divodasa",
+      "label": "Divodāsa · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_pratardana",
+      "label": "Pratardana · also Śatrujit, Vatsa, Ṛtadhvaja and Kuvalayāśva · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_alarka",
+      "label": "Alarka · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_sannati",
+      "label": "Sannati · son of Alarka · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_sunitha",
+      "label": "Sunītha · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_suketu",
+      "label": "Suketu · Kāśī line · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_dharmaketu",
+      "label": "Dharmaketu · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_satyaketu",
+      "label": "Satyaketu · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_vibhu",
+      "label": "Vibhu · Kāśī line · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_suvibhu",
+      "label": "Suvibhu · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_sukumara",
+      "label": "Sukumāra · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_dhrishtaketu",
+      "label": "Dhṛṣṭaketu · Kāśī line · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_vainahotra",
+      "label": "Vainahotra · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_bharga",
+      "label": "Bhārga · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_bhargabhumi",
+      "label": "Bhārgabhūmi · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_pratikshatra",
+      "label": "Pratikṣatra · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_sanjaya",
+      "label": "Saṃjaya · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_jaya",
+      "label": "Jaya · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_vijaya",
+      "label": "Vijaya · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_krita",
+      "label": "Kṛta · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_harshavardhana",
+      "label": "Harṣavardhana · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_sahadeva",
+      "label": "Sahadeva · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_adina",
+      "label": "Adīna · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_jayatsena",
+      "label": "Jayatsena · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_sankriti",
+      "label": "Saṃkṛti · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp89_kshatradharman",
+      "label": "Kṣatradharman · Viṣṇu Purāṇa 4.8–9 witness",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "vp4_8_9_anu",
+      "title": "The Viṣṇu Purāṇa, Book 4, chapters 8–9: Āyus, Raji and the descendants of Kṣatravṛddha",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapters 8–9. Claim locators follow chapter/verse markers in the ANU translation and its selective index.",
+      "locator": "4.8.1–9; 4.9.1–14",
+      "accessed": "2026-10-27",
+      "cross_check": "Sanskrit text consulted at https://sanskritsahitya.org/vishnupuranam/4.8 and https://sanskritsahitya.org/vishnupuranam/4.9. The chapter-8 transmission differs on several names and contains intermediate generations not explicit in Taylor; this batch follows ANU and records only its stated links."
+    },
+    {
+      "id": "vp4_8_sanskrit_sahitya",
+      "title": "Viṣṇupurāṇa, caturthāṃśa 8 (Sanskrit transcription)",
+      "url": "https://sanskritsahitya.org/vishnupuranam/4.8",
+      "kind": "primary_text_transcription",
+      "edition": "Verse-indexed Sanskrit transcription at SanskritSahitya.org; the underlying printed edition is not identified on the page. Used as a cross-check, not as the basis for claim locators.",
+      "locator": "4.8.1–18, site verse numbering",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_9_sanskrit_sahitya",
+      "title": "Viṣṇupurāṇa, caturthāṃśa 9 (Sanskrit transcription)",
+      "url": "https://sanskritsahitya.org/vishnupuranam/4.9",
+      "kind": "primary_text_transcription",
+      "edition": "Verse-indexed Sanskrit transcription at SanskritSahitya.org; the underlying printed edition is not identified on the page. Used as a cross-check, not as the basis for claim locators.",
+      "locator": "4.9.1–28, site verse numbering",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "AYUS89_001",
+      "facet": "puranic",
+      "subject": "vp89_pururavas",
+      "predicate": "father_of",
+      "object": "vp89_ayus",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.1",
+      "summary": "Āyus is identified as Purūravas’s eldest son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_002",
+      "facet": "puranic",
+      "subject": "vp89_ayus",
+      "predicate": "father_of",
+      "object": "vp_nahusha",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.2",
+      "summary": "Āyus is named as the father of Nahuṣa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_003",
+      "facet": "puranic",
+      "subject": "vp89_ayus",
+      "predicate": "father_of",
+      "object": "vp89_kshatravriddha",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.2",
+      "summary": "Āyus is named as the father of Kṣatravṛddha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_004",
+      "facet": "puranic",
+      "subject": "vp89_ayus",
+      "predicate": "father_of",
+      "object": "vp89_rambha",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.2",
+      "summary": "Āyus is named as the father of Rambha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_005",
+      "facet": "puranic",
+      "subject": "vp89_ayus",
+      "predicate": "father_of",
+      "object": "vp89_raji",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.2",
+      "summary": "Āyus is named as the father of Raji.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_006",
+      "facet": "puranic",
+      "subject": "vp89_ayus",
+      "predicate": "father_of",
+      "object": "vp89_anenas",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.2",
+      "summary": "Āyus is named as the father of Anenas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_007",
+      "facet": "puranic",
+      "subject": "vp89_kshatravriddha",
+      "predicate": "father_of",
+      "object": "vp89_suhotra",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.2",
+      "summary": "Suhotra is named as a son of Kṣatravṛddha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_008",
+      "facet": "puranic",
+      "subject": "vp89_suhotra",
+      "predicate": "father_of",
+      "object": "vp89_kashya",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.3",
+      "summary": "Suhotra is named as the father of Kāśya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_009",
+      "facet": "puranic",
+      "subject": "vp89_suhotra",
+      "predicate": "father_of",
+      "object": "vp89_lesha",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.3",
+      "summary": "Suhotra is named as the father of Leśa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_010",
+      "facet": "puranic",
+      "subject": "vp89_suhotra",
+      "predicate": "father_of",
+      "object": "vp89_grtsamada",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.3",
+      "summary": "Suhotra is named as the father of Gṛtsamadās.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_011",
+      "facet": "puranic",
+      "subject": "vp89_grtsamada",
+      "predicate": "father_of",
+      "object": "vp89_shaunaka",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.3",
+      "summary": "Śaunaka is named as the son of Gṛtsamadās.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_012",
+      "facet": "puranic",
+      "subject": "vp89_kashya",
+      "predicate": "father_of",
+      "object": "vp89_unnamed_kasi_king",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.3",
+      "summary": "Kāśya’s son is identified by title as the king of Kāśī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The translation does not supply this king’s personal name; the node preserves the stated intermediate generation without inventing a name.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_013",
+      "facet": "puranic",
+      "subject": "vp89_unnamed_kasi_king",
+      "predicate": "father_of",
+      "object": "vp89_dirghatamas",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.3",
+      "summary": "Dīrghatamas is named as the son of the unnamed king of Kāśī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_014",
+      "facet": "puranic",
+      "subject": "vp89_dirghatamas",
+      "predicate": "father_of",
+      "object": "vp89_dhanvantari",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.3",
+      "summary": "Dhanvantari is named as the son of Dīrghatamas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_015",
+      "facet": "puranic",
+      "subject": "vp89_dhanvantari",
+      "predicate": "father_of",
+      "object": "vp89_ketumant",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.6",
+      "summary": "Ketumant is named in the father-to-son line descending from Dhanvantari.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_016",
+      "facet": "puranic",
+      "subject": "vp89_ketumant",
+      "predicate": "father_of",
+      "object": "vp89_bhimaratha",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.6",
+      "summary": "Bhīmaratha is named in the father-to-son line descending from Ketumant.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_017",
+      "facet": "puranic",
+      "subject": "vp89_bhimaratha",
+      "predicate": "father_of",
+      "object": "vp89_divodasa",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.6",
+      "summary": "Divodāsa is named in the father-to-son line descending from Bhīmaratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_018",
+      "facet": "puranic",
+      "subject": "vp89_divodasa",
+      "predicate": "father_of",
+      "object": "vp89_pratardana",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.6",
+      "summary": "Pratardana is named in the father-to-son line descending from Divodāsa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_019",
+      "facet": "puranic",
+      "subject": "vp89_pratardana",
+      "predicate": "father_of",
+      "object": "vp89_alarka",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.8",
+      "summary": "Alarka is named as the son of Vatsa, an explicitly stated name of Pratardana.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Pratardana is called Vatsa in the same passage; these are one person, not separate nodes.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_020",
+      "facet": "puranic",
+      "subject": "vp89_alarka",
+      "predicate": "father_of",
+      "object": "vp89_sannati",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.9",
+      "summary": "Sannati is named in the father-to-son line descending from Alarka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_021",
+      "facet": "puranic",
+      "subject": "vp89_sannati",
+      "predicate": "father_of",
+      "object": "vp89_sunitha",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.9",
+      "summary": "Sunītha is named in the father-to-son line descending from Sannati.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_022",
+      "facet": "puranic",
+      "subject": "vp89_sunitha",
+      "predicate": "father_of",
+      "object": "vp89_suketu",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.9",
+      "summary": "Suketu is named in the father-to-son line descending from Sunītha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_023",
+      "facet": "puranic",
+      "subject": "vp89_suketu",
+      "predicate": "father_of",
+      "object": "vp89_dharmaketu",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.9",
+      "summary": "Dharmaketu is named in the father-to-son line descending from Suketu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_024",
+      "facet": "puranic",
+      "subject": "vp89_dharmaketu",
+      "predicate": "father_of",
+      "object": "vp89_satyaketu",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.9",
+      "summary": "Satyaketu is named in the father-to-son line descending from Dharmaketu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_025",
+      "facet": "puranic",
+      "subject": "vp89_satyaketu",
+      "predicate": "father_of",
+      "object": "vp89_vibhu",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.9",
+      "summary": "Vibhu is named in the father-to-son line descending from Satyaketu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_026",
+      "facet": "puranic",
+      "subject": "vp89_vibhu",
+      "predicate": "father_of",
+      "object": "vp89_suvibhu",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.9",
+      "summary": "Suvibhu is named in the father-to-son line descending from Vibhu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_027",
+      "facet": "puranic",
+      "subject": "vp89_suvibhu",
+      "predicate": "father_of",
+      "object": "vp89_sukumara",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.9",
+      "summary": "Sukumāra is named in the father-to-son line descending from Suvibhu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_028",
+      "facet": "puranic",
+      "subject": "vp89_sukumara",
+      "predicate": "father_of",
+      "object": "vp89_dhrishtaketu",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.9",
+      "summary": "Dhṛṣṭaketu is named in the father-to-son line descending from Sukumāra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_029",
+      "facet": "puranic",
+      "subject": "vp89_dhrishtaketu",
+      "predicate": "father_of",
+      "object": "vp89_vainahotra",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.9",
+      "summary": "Vainahotra is named in the father-to-son line descending from Dhṛṣṭaketu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_030",
+      "facet": "puranic",
+      "subject": "vp89_vainahotra",
+      "predicate": "father_of",
+      "object": "vp89_bharga",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.9",
+      "summary": "Bhārga is named in the father-to-son line descending from Vainahotra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_031",
+      "facet": "puranic",
+      "subject": "vp89_bharga",
+      "predicate": "father_of",
+      "object": "vp89_bhargabhumi",
+      "source": "vp4_8_9_anu",
+      "locator": "4.8.9",
+      "summary": "Bhārgabhūmi is named in the father-to-son line descending from Bhārga.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_032",
+      "facet": "puranic",
+      "subject": "vp89_kshatravriddha",
+      "predicate": "father_of",
+      "object": "vp89_pratikshatra",
+      "source": "vp4_8_9_anu",
+      "locator": "4.9.14",
+      "summary": "Pratikṣatra is named in the father-to-son line descending from Kṣatravṛddha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_033",
+      "facet": "puranic",
+      "subject": "vp89_pratikshatra",
+      "predicate": "father_of",
+      "object": "vp89_sanjaya",
+      "source": "vp4_8_9_anu",
+      "locator": "4.9.14",
+      "summary": "Saṃjaya is named in the father-to-son line descending from Pratikṣatra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_034",
+      "facet": "puranic",
+      "subject": "vp89_sanjaya",
+      "predicate": "father_of",
+      "object": "vp89_jaya",
+      "source": "vp4_8_9_anu",
+      "locator": "4.9.14",
+      "summary": "Jaya is named in the father-to-son line descending from Saṃjaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_035",
+      "facet": "puranic",
+      "subject": "vp89_jaya",
+      "predicate": "father_of",
+      "object": "vp89_vijaya",
+      "source": "vp4_8_9_anu",
+      "locator": "4.9.14",
+      "summary": "Vijaya is named in the father-to-son line descending from Jaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_036",
+      "facet": "puranic",
+      "subject": "vp89_vijaya",
+      "predicate": "father_of",
+      "object": "vp89_krita",
+      "source": "vp4_8_9_anu",
+      "locator": "4.9.14",
+      "summary": "Kṛta is named in the father-to-son line descending from Vijaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_037",
+      "facet": "puranic",
+      "subject": "vp89_krita",
+      "predicate": "father_of",
+      "object": "vp89_harshavardhana",
+      "source": "vp4_8_9_anu",
+      "locator": "4.9.14",
+      "summary": "Harṣavardhana is named in the father-to-son line descending from Kṛta.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_038",
+      "facet": "puranic",
+      "subject": "vp89_harshavardhana",
+      "predicate": "father_of",
+      "object": "vp89_sahadeva",
+      "source": "vp4_8_9_anu",
+      "locator": "4.9.14",
+      "summary": "Sahadeva is named in the father-to-son line descending from Harṣavardhana.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_039",
+      "facet": "puranic",
+      "subject": "vp89_sahadeva",
+      "predicate": "father_of",
+      "object": "vp89_adina",
+      "source": "vp4_8_9_anu",
+      "locator": "4.9.14",
+      "summary": "Adīna is named in the father-to-son line descending from Sahadeva.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_040",
+      "facet": "puranic",
+      "subject": "vp89_adina",
+      "predicate": "father_of",
+      "object": "vp89_jayatsena",
+      "source": "vp4_8_9_anu",
+      "locator": "4.9.14",
+      "summary": "Jayatsena is named in the father-to-son line descending from Adīna.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_041",
+      "facet": "puranic",
+      "subject": "vp89_jayatsena",
+      "predicate": "father_of",
+      "object": "vp89_sankriti",
+      "source": "vp4_8_9_anu",
+      "locator": "4.9.14",
+      "summary": "Saṃkṛti is named in the father-to-son line descending from Jayatsena.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "AYUS89_042",
+      "facet": "puranic",
+      "subject": "vp89_sankriti",
+      "predicate": "father_of",
+      "object": "vp89_kshatradharman",
+      "source": "vp4_8_9_anu",
+      "locator": "4.9.14",
+      "summary": "Kṣatradharman is named in the father-to-son line descending from Saṃkṛti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This batch follows the ANU translation and does not harmonize variant genealogies.",
+      "original_language_reviewed": false
+    }
+  ],
+  "notes": [
+    "Existing vp_nahusha is reused as Āyus’s son; this batch does not create a duplicate Nahuṣa node. Every other node is source- and branch-scoped to avoid merging common names with similarly named figures elsewhere in the graph.",
+    "Count: 41 new named-person nodes plus the existing Nahuṣa anchor = 42 named individuals. One additional unnamed king of Kāśī is represented as an unnamed individual so the explicit Kāśya → king of Kāśī → Dīrghatamas sequence remains intact; that intermediary is not included in the named-person count.",
+    "Pratardana, Śatrujit, Vatsa, Ṛtadhvaja and Kuvalayāśva are represented as one person because the passage explicitly equates those names. The chapter-8 digital Sanskrit text has different readings (including Suhotra’s sons and the Kāśī genealogy); relationships here follow ANU’s translation.",
+    "Raji’s 500 sons are unnamed as individuals and are omitted rather than represented as an anonymous collective. The exchange in which Indra calls Raji a father and himself a son is presented as political flattery; it is not encoded as biological ancestry. Rambha is noted in the source as childless, with no descendant node inferred.",
+    "Kṣatravṛddha has two separately attested descendants in this passage: Suhotra in 4.8.2, and Pratikṣatra in 4.9.14. Since neither is described as his only son, both lines are retained without forcing them into a single exclusive succession."
+  ]
+}

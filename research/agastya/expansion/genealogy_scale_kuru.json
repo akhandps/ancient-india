@@ -1,0 +1,1292 @@
+{
+  "nodes": [
+    {
+      "id": "vp19end_nalini",
+      "label": "Nalinī · Ajamīḍha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_nila",
+      "label": "Nīla · Ajamīḍha–Nalinī branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_shanti",
+      "label": "Śānti · Nīla branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_sushanti",
+      "label": "Suśānti · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_purujanu",
+      "label": "Purujānu · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_cakshus",
+      "label": "Cakṣus · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_haryashva",
+      "label": "Haryaśva · Nīla branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_mudgala",
+      "label": "Mudgala · Haryaśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_srinjaya",
+      "label": "Sṛñjaya · Haryaśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_brihadishu_haryashva",
+      "label": "Bṛhadiṣu · Haryaśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_pravira_haryashva",
+      "label": "Pravīra · Haryaśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_kampilya",
+      "label": "Kāmpilya · Haryaśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_vadhyashva",
+      "label": "Vadhyaśva · Mudgala branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_divodasa",
+      "label": "Divodāsa · Vadhyaśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_ahalya",
+      "label": "Ahalyā · Vadhyaśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_sharadvat",
+      "label": "Śaradvat · Ahalyā branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_shatananda",
+      "label": "Śatānanda · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_satyadhriti_panchala",
+      "label": "Satyadhṛti · Śatānanda branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_urvashi",
+      "label": "Urvāśī · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_shantanu",
+      "label": "Śāṃtanu · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_kripa",
+      "label": "Kṛpa · Satyadhṛti episode · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_kripi",
+      "label": "Kṛpī · Satyadhṛti episode · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_drona",
+      "label": "Droṇa · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_ashvatthaman",
+      "label": "Aśvatthāman · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_mitrayu",
+      "label": "Mitrāyu · Divodāsa branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_cyavana_mitrayu",
+      "label": "Cyavana · Mitrāyu branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_sudasa",
+      "label": "Sudāsa · Cyavana branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_saudasa",
+      "label": "Saudāsa · Sudāsa branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_sahadeva_saudasa",
+      "label": "Sahadeva · Saudāsa branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_somaka",
+      "label": "Somaka · Sahadeva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_jantu_somaka",
+      "label": "Jantu · Somaka branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_prishata",
+      "label": "Pṛṣata · Somaka branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_drupada",
+      "label": "Drupada · Pṛṣata branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_dhrishtadyumna",
+      "label": "Dhṛṣṭadyumna · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_dhrishtaketu",
+      "label": "Dhṛṣṭaketu · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_riksha_ajamidha",
+      "label": "Ṛkṣa · Ajamīḍha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_samvarana",
+      "label": "Saṃvaraṇa · Ṛkṣa branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_kuru",
+      "label": "Kuru · Saṃvaraṇa branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_sudhanus",
+      "label": "Sudhanus · Kuru branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_jahnu",
+      "label": "Jahnu · Kuru branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_parikshit_kuru",
+      "label": "Parīkṣit · Kuru branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_suhotra_sudhanus",
+      "label": "Suhotra · Sudhanus branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_cyavana_suhotra",
+      "label": "Cyavana · Suhotra branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_krtaka",
+      "label": "Kṛtaka · Cyavana branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_uparicara_vasu",
+      "label": "Uparicara Vasu · Kṛtaka branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_brihadratha",
+      "label": "Bṛhadratha · Vasu branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_pratyagra",
+      "label": "Pratyagra · Vasu branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_kushamba",
+      "label": "Kuśāmba · Vasu branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_mavella",
+      "label": "Māvella · Vasu branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_matsya",
+      "label": "Matsya · Vasu branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_kushagra",
+      "label": "Kuśāgra · Bṛhadratha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_rishabha",
+      "label": "Ṛṣabha · Kuśāgra branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_pushpavant",
+      "label": "Puṣpavant · Ṛṣabha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_satyahita",
+      "label": "Satyahita · Puṣpavant branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_sudhanvan",
+      "label": "Sudhanvan · Satyahita branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_jantu_brihadratha",
+      "label": "Jantu · Sudhanvan branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_jara",
+      "label": "Jarā · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_jarasandha",
+      "label": "Jarāsandha · Bṛhadratha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_sahadeva_jarasandha",
+      "label": "Sahadeva · Jarāsandha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_somapi",
+      "label": "Somapi · Sahadeva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19end_shrutaśravas",
+      "label": "Śrutaśravas · Somapi branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "vp4_19_anu",
+      "title": "The Viṣṇu Purāṇa, Book 4, chapter 19: The line of Puru down to Kuru and the kings of Magadha",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 19",
+      "locator": "Book 4, ch. 19, vv. 15–22; chapter verse numbers cross-checked against the verse-indexed Sanskrit text",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_19_sanskrit",
+      "title": "Viṣṇupurāṇa, Aṃśa 4, adhyāya 19 (verse-indexed Sanskrit text)",
+      "url": "https://eternalraga.com/en/scriptures/puranas/vishnu-purana/4/19",
+      "kind": "primary_text_original_language",
+      "edition": "Verse-numbered online Sanskrit text; used to locate the ANU translation passages, not to merge divergent name forms",
+      "locator": "4.19.15–22",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "GSK001",
+      "facet": "puranic",
+      "subject": "vp19_ajamidha",
+      "predicate": "married",
+      "object": "vp19end_nalini",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.15",
+      "summary": "Ajamīḍha’s wife is named Nalinī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK002",
+      "facet": "puranic",
+      "subject": "vp19_ajamidha",
+      "predicate": "father_of",
+      "object": "vp19end_nila",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.15",
+      "summary": "Ajamīḍha and Nalinī are named as parents of Nīla.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK003",
+      "facet": "puranic",
+      "subject": "vp19end_nalini",
+      "predicate": "mother_of",
+      "object": "vp19end_nila",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.15",
+      "summary": "Nalinī is named as Nīla’s mother.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK004",
+      "facet": "puranic",
+      "subject": "vp19end_nila",
+      "predicate": "father_of",
+      "object": "vp19end_shanti",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.16",
+      "summary": "The genealogy names Śānti as the son of Nīla.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK005",
+      "facet": "puranic",
+      "subject": "vp19end_shanti",
+      "predicate": "father_of",
+      "object": "vp19end_sushanti",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.16",
+      "summary": "The genealogy names Suśānti as the son of Śānti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK006",
+      "facet": "puranic",
+      "subject": "vp19end_sushanti",
+      "predicate": "father_of",
+      "object": "vp19end_purujanu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.16",
+      "summary": "The genealogy names Purujānu as the son of Suśānti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK007",
+      "facet": "puranic",
+      "subject": "vp19end_purujanu",
+      "predicate": "father_of",
+      "object": "vp19end_cakshus",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.16",
+      "summary": "The genealogy names Cakṣus as the son of Purujānu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK008",
+      "facet": "puranic",
+      "subject": "vp19end_cakshus",
+      "predicate": "father_of",
+      "object": "vp19end_haryashva",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.16",
+      "summary": "The genealogy names Haryaśva as the son of Cakṣus.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK009",
+      "facet": "puranic",
+      "subject": "vp19end_haryashva",
+      "predicate": "father_of",
+      "object": "vp19end_mudgala",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.16",
+      "summary": "Mudgala is named among Haryaśva’s five sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK010",
+      "facet": "puranic",
+      "subject": "vp19end_haryashva",
+      "predicate": "father_of",
+      "object": "vp19end_srinjaya",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.16",
+      "summary": "Sṛñjaya is named among Haryaśva’s five sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK011",
+      "facet": "puranic",
+      "subject": "vp19end_haryashva",
+      "predicate": "father_of",
+      "object": "vp19end_brihadishu_haryashva",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.16",
+      "summary": "Bṛhadiṣu is named among Haryaśva’s five sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK012",
+      "facet": "puranic",
+      "subject": "vp19end_haryashva",
+      "predicate": "father_of",
+      "object": "vp19end_pravira_haryashva",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.16",
+      "summary": "Pravīra is named among Haryaśva’s five sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK013",
+      "facet": "puranic",
+      "subject": "vp19end_haryashva",
+      "predicate": "father_of",
+      "object": "vp19end_kampilya",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.16",
+      "summary": "Kāmpilya is named among Haryaśva’s five sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK014",
+      "facet": "puranic",
+      "subject": "vp19end_mudgala",
+      "predicate": "father_of",
+      "object": "vp19end_vadhyashva",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.17",
+      "summary": "Mudgala’s son is named Vadhyaśva.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK015",
+      "facet": "puranic",
+      "subject": "vp19end_vadhyashva",
+      "predicate": "father_of",
+      "object": "vp19end_divodasa",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.17",
+      "summary": "Vadhyaśva’s twins include Divodāsa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK016",
+      "facet": "puranic",
+      "subject": "vp19end_vadhyashva",
+      "predicate": "father_of",
+      "object": "vp19end_ahalya",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.17",
+      "summary": "Vadhyaśva’s twins include Ahalyā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK017",
+      "facet": "puranic",
+      "subject": "vp19end_sharadvat",
+      "predicate": "father_of",
+      "object": "vp19end_shatananda",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.17",
+      "summary": "Śaradvat and Ahalyā are named as Śatānanda’s parents.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK018",
+      "facet": "puranic",
+      "subject": "vp19end_ahalya",
+      "predicate": "mother_of",
+      "object": "vp19end_shatananda",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.17",
+      "summary": "Ahalyā is named as Śatānanda’s mother.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK019",
+      "facet": "puranic",
+      "subject": "vp19end_shatananda",
+      "predicate": "father_of",
+      "object": "vp19end_satyadhriti_panchala",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.17",
+      "summary": "Śatānanda’s son is named Satyadhṛti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK020",
+      "facet": "puranic",
+      "subject": "vp19end_satyadhriti_panchala",
+      "predicate": "sees",
+      "object": "vp19end_urvashi",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.18",
+      "summary": "Satyadhṛti sees the apsaras Urvaśī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK021",
+      "facet": "puranic",
+      "subject": "vp19end_satyadhriti_panchala",
+      "predicate": "seed_gives_rise_to",
+      "object": "vp19end_kripa",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.18",
+      "summary": "Satyadhṛti’s seed gives rise to the boy who is named Kṛpa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The verse narrates a seed falling into reeds and the reeds producing a boy and girl; this records that origin motif, not an ordinary parentage statement.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK022",
+      "facet": "puranic",
+      "subject": "vp19end_shantanu",
+      "predicate": "finds_and_takes_in",
+      "object": "vp19end_kripa",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.18",
+      "summary": "King Śāṃtanu finds and takes in Kṛpa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The text says Śāṃtanu took the infant(s) in compassion; it does not state a legal adoption.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK023",
+      "facet": "puranic",
+      "subject": "vp19end_satyadhriti_panchala",
+      "predicate": "seed_gives_rise_to",
+      "object": "vp19end_kripi",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.18",
+      "summary": "Satyadhṛti’s seed gives rise to the girl who is named Kṛpī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The verse narrates a seed falling into reeds and the reeds producing a boy and girl; this records that origin motif, not an ordinary parentage statement.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK024",
+      "facet": "puranic",
+      "subject": "vp19end_shantanu",
+      "predicate": "finds_and_takes_in",
+      "object": "vp19end_kripi",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.18",
+      "summary": "King Śāṃtanu finds and takes in Kṛpī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The text says Śāṃtanu took the infant(s) in compassion; it does not state a legal adoption.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK025",
+      "facet": "puranic",
+      "subject": "vp19end_kripi",
+      "predicate": "married",
+      "object": "vp19end_drona",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.18",
+      "summary": "Kṛpī became the wife of Droṇa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK026",
+      "facet": "puranic",
+      "subject": "vp19end_kripi",
+      "predicate": "mother_of",
+      "object": "vp19end_ashvatthaman",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.18",
+      "summary": "Kṛpī is named as Aśvatthāman’s mother.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK027",
+      "facet": "puranic",
+      "subject": "vp19end_divodasa",
+      "predicate": "father_of",
+      "object": "vp19end_mitrayu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.19",
+      "summary": "The genealogy names Mitrāyu as the son of Divodāsa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK028",
+      "facet": "puranic",
+      "subject": "vp19end_mitrayu",
+      "predicate": "father_of",
+      "object": "vp19end_cyavana_mitrayu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.19",
+      "summary": "The genealogy names Cyavana as the son of Mitrāyu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK029",
+      "facet": "puranic",
+      "subject": "vp19end_cyavana_mitrayu",
+      "predicate": "father_of",
+      "object": "vp19end_sudasa",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.19",
+      "summary": "The genealogy names Sudāsa as the son of Cyavana.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK030",
+      "facet": "puranic",
+      "subject": "vp19end_sudasa",
+      "predicate": "father_of",
+      "object": "vp19end_saudasa",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.19",
+      "summary": "The genealogy names Saudāsa as the son of Sudāsa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK031",
+      "facet": "puranic",
+      "subject": "vp19end_saudasa",
+      "predicate": "father_of",
+      "object": "vp19end_sahadeva_saudasa",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.19",
+      "summary": "The genealogy names Sahadeva as the son of Saudāsa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK032",
+      "facet": "puranic",
+      "subject": "vp19end_sahadeva_saudasa",
+      "predicate": "father_of",
+      "object": "vp19end_somaka",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.19",
+      "summary": "The genealogy names Somaka as the son of Sahadeva.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK033",
+      "facet": "puranic",
+      "subject": "vp19end_somaka",
+      "predicate": "has_son_named",
+      "object": "vp19end_jantu_somaka",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.19",
+      "summary": "Jantu is identified as the eldest among Somaka’s hundred sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Only the explicitly named son is represented; the other members of the hundred-son group remain unnamed.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK034",
+      "facet": "puranic",
+      "subject": "vp19end_somaka",
+      "predicate": "has_son_named",
+      "object": "vp19end_prishata",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.19",
+      "summary": "Pṛṣata is identified as the youngest among Somaka’s hundred sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Only the explicitly named son is represented; the other members of the hundred-son group remain unnamed.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK035",
+      "facet": "puranic",
+      "subject": "vp19end_prishata",
+      "predicate": "father_of",
+      "object": "vp19end_drupada",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.20",
+      "summary": "The genealogy names Drupada as the son of Pṛṣata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK036",
+      "facet": "puranic",
+      "subject": "vp19end_drupada",
+      "predicate": "father_of",
+      "object": "vp19end_dhrishtadyumna",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.20",
+      "summary": "The genealogy names Dhṛṣṭadyumna as the son of Drupada.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK037",
+      "facet": "puranic",
+      "subject": "vp19end_dhrishtadyumna",
+      "predicate": "father_of",
+      "object": "vp19end_dhrishtaketu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.20",
+      "summary": "The genealogy names Dhṛṣṭaketu as the son of Dhṛṣṭadyumna.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK038",
+      "facet": "puranic",
+      "subject": "vp19_ajamidha",
+      "predicate": "father_of",
+      "object": "vp19end_riksha_ajamidha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.20",
+      "summary": "The genealogy names Ṛkṣa as the son of Ajamīḍha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK039",
+      "facet": "puranic",
+      "subject": "vp19end_riksha_ajamidha",
+      "predicate": "father_of",
+      "object": "vp19end_samvarana",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.20",
+      "summary": "The genealogy names Saṃvaraṇa as the son of Ṛkṣa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK040",
+      "facet": "puranic",
+      "subject": "vp19end_samvarana",
+      "predicate": "father_of",
+      "object": "vp19end_kuru",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.20",
+      "summary": "The genealogy names Kuru as the son of Saṃvaraṇa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK041",
+      "facet": "puranic",
+      "subject": "vp19end_kuru",
+      "predicate": "father_of",
+      "object": "vp19end_sudhanus",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.21",
+      "summary": "Sudhanus is named among Kuru’s preeminent sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The passage says these are Kuru’s prominent sons “among others”; no unnamed sons are added.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK042",
+      "facet": "puranic",
+      "subject": "vp19end_kuru",
+      "predicate": "father_of",
+      "object": "vp19end_jahnu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.21",
+      "summary": "Jahnu is named among Kuru’s preeminent sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The passage says these are Kuru’s prominent sons “among others”; no unnamed sons are added.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK043",
+      "facet": "puranic",
+      "subject": "vp19end_kuru",
+      "predicate": "father_of",
+      "object": "vp19end_parikshit_kuru",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.21",
+      "summary": "Parīkṣit is named among Kuru’s preeminent sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The passage says these are Kuru’s prominent sons “among others”; no unnamed sons are added.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK044",
+      "facet": "puranic",
+      "subject": "vp19end_sudhanus",
+      "predicate": "father_of",
+      "object": "vp19end_suhotra_sudhanus",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.21",
+      "summary": "The genealogy names Suhotra as the son of Sudhanus.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK045",
+      "facet": "puranic",
+      "subject": "vp19end_suhotra_sudhanus",
+      "predicate": "father_of",
+      "object": "vp19end_cyavana_suhotra",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.21",
+      "summary": "The genealogy names Cyavana as the son of Suhotra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK046",
+      "facet": "puranic",
+      "subject": "vp19end_cyavana_suhotra",
+      "predicate": "father_of",
+      "object": "vp19end_krtaka",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.21",
+      "summary": "The genealogy names Kṛtaka as the son of Cyavana.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK047",
+      "facet": "puranic",
+      "subject": "vp19end_krtaka",
+      "predicate": "father_of",
+      "object": "vp19end_uparicara_vasu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.21",
+      "summary": "The genealogy names Uparicara Vasu as the son of Kṛtaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK048",
+      "facet": "puranic",
+      "subject": "vp19end_uparicara_vasu",
+      "predicate": "father_of",
+      "object": "vp19end_brihadratha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.21",
+      "summary": "Bṛhadratha is named among Uparicara Vasu’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The translation says Vasu had seven sons and names these five prominently; the two unnamed sons are not represented.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK049",
+      "facet": "puranic",
+      "subject": "vp19end_uparicara_vasu",
+      "predicate": "father_of",
+      "object": "vp19end_pratyagra",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.21",
+      "summary": "Pratyagra is named among Uparicara Vasu’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The translation says Vasu had seven sons and names these five prominently; the two unnamed sons are not represented.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK050",
+      "facet": "puranic",
+      "subject": "vp19end_uparicara_vasu",
+      "predicate": "father_of",
+      "object": "vp19end_kushamba",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.21",
+      "summary": "Kuśāmba is named among Uparicara Vasu’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The translation says Vasu had seven sons and names these five prominently; the two unnamed sons are not represented.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK051",
+      "facet": "puranic",
+      "subject": "vp19end_uparicara_vasu",
+      "predicate": "father_of",
+      "object": "vp19end_mavella",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.21",
+      "summary": "Māvella is named among Uparicara Vasu’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The translation says Vasu had seven sons and names these five prominently; the two unnamed sons are not represented.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK052",
+      "facet": "puranic",
+      "subject": "vp19end_uparicara_vasu",
+      "predicate": "father_of",
+      "object": "vp19end_matsya",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.21",
+      "summary": "Matsya is named among Uparicara Vasu’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The translation says Vasu had seven sons and names these five prominently; the two unnamed sons are not represented.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK053",
+      "facet": "puranic",
+      "subject": "vp19end_brihadratha",
+      "predicate": "father_of",
+      "object": "vp19end_kushagra",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.22",
+      "summary": "The genealogy names Kuśāgra as the son of Bṛhadratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK054",
+      "facet": "puranic",
+      "subject": "vp19end_kushagra",
+      "predicate": "father_of",
+      "object": "vp19end_rishabha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.22",
+      "summary": "The genealogy names Ṛṣabha as the son of Kuśāgra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK055",
+      "facet": "puranic",
+      "subject": "vp19end_rishabha",
+      "predicate": "father_of",
+      "object": "vp19end_pushpavant",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.22",
+      "summary": "The genealogy names Puṣpavant as the son of Ṛṣabha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK056",
+      "facet": "puranic",
+      "subject": "vp19end_pushpavant",
+      "predicate": "father_of",
+      "object": "vp19end_satyahita",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.22",
+      "summary": "The genealogy names Satyahita as the son of Puṣpavant.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK057",
+      "facet": "puranic",
+      "subject": "vp19end_satyahita",
+      "predicate": "father_of",
+      "object": "vp19end_sudhanvan",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.22",
+      "summary": "The genealogy names Sudhanvan as the son of Satyahita.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK058",
+      "facet": "puranic",
+      "subject": "vp19end_sudhanvan",
+      "predicate": "father_of",
+      "object": "vp19end_jantu_brihadratha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.22",
+      "summary": "The genealogy names Jantu as the son of Sudhanvan.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK059",
+      "facet": "puranic",
+      "subject": "vp19end_brihadratha",
+      "predicate": "father_of",
+      "object": "vp19end_jarasandha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.22",
+      "summary": "Bṛhadratha is named as Jarāsandha’s father.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK060",
+      "facet": "puranic",
+      "subject": "vp19end_jara",
+      "predicate": "joins_halves_of",
+      "object": "vp19end_jarasandha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.22",
+      "summary": "The rākṣasī Jarā joins the two halves of the child who becomes Jarāsandha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The passage says Jarā joined the child’s halves; it does not describe her as the child’s mother.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK061",
+      "facet": "puranic",
+      "subject": "vp19end_jarasandha",
+      "predicate": "father_of",
+      "object": "vp19end_sahadeva_jarasandha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.22",
+      "summary": "The genealogy names Sahadeva as the son of Jarāsandha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK062",
+      "facet": "puranic",
+      "subject": "vp19end_sahadeva_jarasandha",
+      "predicate": "father_of",
+      "object": "vp19end_somapi",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.22",
+      "summary": "The genealogy names Somapi as the son of Sahadeva.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSK063",
+      "facet": "puranic",
+      "subject": "vp19end_somapi",
+      "predicate": "father_of",
+      "object": "vp19end_shrutaśravas",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.22",
+      "summary": "The genealogy names Śrutaśravas as the son of Somapi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Parāśara’s Viṣṇu Purāṇa genealogy as rendered in the ANU Press translation; no cross-branch identity is inferred.",
+      "original_language_reviewed": false
+    }
+  ],
+  "search_log": [
+    {
+      "query": "ANU Press Viṣṇu Purāṇa Book 4 chapter 19 lines 584–590 Ajamīḍha Pāñcāla Kuru Magadha genealogy",
+      "outcome": "Read the chapter from the Nalinī/Nīla lineage through the end of chapter 19. Recorded explicit kinship and event relations; the Kuru and Vasu lists are limited to named persons."
+    },
+    {
+      "query": "Viṣṇu Purāṇa 4.19.15–22 Sanskrit verse numbering and translation cross-check",
+      "outcome": "Checked the verse sequence against the verse-indexed Sanskrit page. Kept the ANU spellings and genealogy as the claim authority where presentations differ; homonyms are branch-qualified."
+    }
+  ],
+  "notes": [
+    "This file covers the ANU Press translation from the Nalinī/Nīla passage at 4.19.15 through the chapter ending at 4.19.22. It references the already-declared Ajamīḍha node `vp19_ajamidha` from genealogy_scale_more.json and does not redeclare it.",
+    "All node IDs in this file are new relative to genealogy_scale.json and genealogy_scale_more.json. Branch-specific IDs retain homonyms as separate witness entries, including Haryaśva’s Bṛhadiṣu and Pravīra, the two Cyavanas, the two Jantus, and the two Sahadevas.",
+    "The five named Vasu sons are connected individually; the two unnamed sons are omitted. Kuru’s “preeminent” sons are listed as named, without creating a group node. Somaka’s other ninety-eight sons are unnamed and omitted.",
+    "The Aśvatthāman relationship is recorded through Kṛpī as mother; the supernatural birth of Kṛpa and Kṛpī is encoded as a seed-origin motif, not ordinary parentage. Jarā joins Jarāsandha’s two halves; she is not represented as his mother."
+  ]
+}

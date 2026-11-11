@@ -1,0 +1,118 @@
+{
+  "nodes": [
+    {
+      "id": "tamil_madhavi",
+      "label": "Mādhavi · Maṇimēkalai witness",
+      "type": "person"
+    },
+    {
+      "id": "tamil_chitrapathi",
+      "label": "Chitrāpathi · Maṇimēkalai witness",
+      "type": "person"
+    },
+    {
+      "id": "tamil_vasanthamālai",
+      "label": "Vasanthamālai · Maṇimēkalai witness",
+      "type": "person"
+    },
+    {
+      "id": "tamil_udayakumaran",
+      "label": "Udayakumaran · Maṇimēkalai witness",
+      "type": "person_or_prince"
+    },
+    {
+      "id": "tamil_ettikumaran",
+      "label": "Ettikumaran · Maṇimēkalai witness",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "tamil_manimekalai_hart",
+      "title": "Maṇimēkalai · English translation by Kausalya Hart",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0710.html",
+      "kind": "primary_translation",
+      "edition": "Project Madurai Unicode text; English translation by Kausalya Hart",
+      "locator": "Canto 2, lines 2-010–2-030; canto 4, lines 4-070–4-080; canto 22, lines 22-175–22-180",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "VTE001",
+      "facet": "tamil",
+      "subject": "tamil_chitrapathi",
+      "predicate": "is_mother_of",
+      "object": "tamil_madhavi",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 2, lines 2-010–2-020; Hart translation",
+      "summary": "Chitrāpathi is identified as Mādhavi’s mother.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "narrator",
+      "note": "Source-local relationship in this epic; no identity is inferred with similarly named figures elsewhere.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VTE002",
+      "facet": "tamil",
+      "subject": "tamil_madhavi",
+      "predicate": "is_mother_of",
+      "object": "tamil_manimekalai",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 22, lines 22-175–22-180; Hart translation",
+      "summary": "Mādhavi refers to Manimekalai as her daughter.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Mādhavi, in the narrative reported by Aravanar",
+      "note": "The canto passage identifies Mādhavi as Chitrāpathi’s daughter and says that Manimekalai is her daughter. This is a textual kinship claim.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VTE003",
+      "facet": "tamil",
+      "subject": "tamil_ettikumaran",
+      "predicate": "is_friend_of",
+      "object": "tamil_udayakumaran",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 4, lines 4-070–4-080; Hart translation",
+      "summary": "Ettikumaran is identified as the prince Udayakumaran’s friend.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "narrator",
+      "note": "This is the Chola prince in Maṇimēkalai. Do not merge automatically with other similarly named Udaya figures.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "VTE004",
+      "facet": "tamil",
+      "subject": "tamil_udayakumaran",
+      "predicate": "desires",
+      "object": "tamil_manimekalai",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 2, lines 2-020–2-030; Hart translation",
+      "summary": "Udayakumaran tells Ettikumaran that he intends to bring Manimekalai to him, and the narrative describes his attraction to her.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Udayakumaran and narrator",
+      "note": "This records the epic’s courtship plot, not a historical relationship.",
+      "original_language_reviewed": false
+    }
+  ],
+  "search_log": [
+    {
+      "query": "Project Madurai Maṇimēkalai Hart canto 2 Chitrāpathi Mādhavi Udayakumaran Ettikumaran",
+      "outcome": "Inspected the English translation text and prologue summary. Canto 2 passages identify the kinship and friendship claims; retained source-local names and did not merge them with similarly named epic or puranic figures."
+    },
+    {
+      "query": "machine readable Sanskrit Tamil Buddhist corpora TEI XML licensing GRETIL SARIT Project Madurai",
+      "outcome": "Identified potential scaling sources (SARIT TEI corpus, GRETIL plain-text editions, Project Madurai Unicode texts). Only Project Madurai’s inspected page explicitly grants redistribution subject to retaining its header; terms must be checked per collection and edition before bulk reuse."
+    }
+  ],
+  "notes": [
+    "Accuracy-over-volume addition: five Maṇimēkalai individuals and passage-level relationships, all within the work’s own narrative frame. Do not treat these names as independently historical or merge them across texts without separate identity evidence.",
+    "Scale-up corpus/index candidates: SARIT (Sanskrit and Buddhist text corpus with TEI/XML-oriented editions and metadata); GRETIL (machine-readable electronic Sanskrit texts, generally plain-text editions); Muktabodha Digital Library (Sanskrit source texts, with work-specific access/reuse terms); Tamil Virtual Academy and the Central Institute of Classical Tamil digital library/catalogues for Tamil texts. Their text and license coverage varies by individual text/edition; catalog presence is not a blanket reuse license.",
+    "Project Madurai is a particularly practical Tamil source: the inspected Maṇimēkalai page states that the file may be freely distributed provided its header is retained, and acknowledges permission for inclusion. Preserve that header and attribution in any derived corpus; verify each file independently.",
+    "Scaling toward 3,000 should begin with an inventory keyed by work/edition/language, stable passage identifiers, machine-readable format, access method, and explicit reuse status. Use transliteration/normalization only as an index aid, retain original passage and edition locators, and route all candidate entities through source-local identity review before linking across works."
+  ]
+}

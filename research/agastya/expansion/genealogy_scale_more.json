@@ -1,0 +1,1442 @@
+{
+  "nodes": [
+    {
+      "id": "vp19_raudrashva_kaksheyu",
+      "label": "Kakṣeyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_raudrashva_sthandileyu",
+      "label": "Sthaṇḍileyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_raudrashva_dhrteyu",
+      "label": "Dhṛteyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_raudrashva_jaleyu",
+      "label": "Jalēyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_raudrashva_sthaleyu",
+      "label": "Sthaleyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_raudrashva_dharmeyu",
+      "label": "Dharmeyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_raudrashva_sannateyu",
+      "label": "Sannateyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_raudrashva_dhaneyu",
+      "label": "Dhaneyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_raudrashva_vaneyu",
+      "label": "Vaneyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_bharadvaja",
+      "label": "Bharadvāja / Vitatha · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_bhavanmanyu",
+      "label": "Bhavanmanyu · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_bharata_brihatkshatra",
+      "label": "Bṛhatkṣatra · Bhavanmanyu branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_mahavirya",
+      "label": "Mahāvīrya · Bhavanmanyu branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_nara",
+      "label": "Nara · Bhavanmanyu branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_garga",
+      "label": "Garga · Bhavanmanyu branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_sankriti_nara",
+      "label": "Saṃkṛti · Nara branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_ruchiradhi",
+      "label": "Ruciradhī · Saṃkṛti branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_rantideva",
+      "label": "Rantideva · Saṃkṛti branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_shini",
+      "label": "Śini · Garga branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_durukshaya",
+      "label": "Durukṣaya · Mahāvīrya branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_trayaruni",
+      "label": "Trayyāruṇa · Durukṣaya branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_pushkarin",
+      "label": "Puṣkarin · Durukṣaya branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_kapi",
+      "label": "Kapi · Durukṣaya branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_suhotra_brihatkshatra",
+      "label": "Suhotra · Bṛhatkṣatra branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_hastin",
+      "label": "Hastin · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_ajamidha",
+      "label": "Ajamīḍha · Hastin branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_dvimidha",
+      "label": "Dvimīḍha · Hastin branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_purumidha",
+      "label": "Purumīḍha · Hastin branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_kanva_ajamidha",
+      "label": "Kaṇva · Ajamīḍha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_medhatithi_ajamidha",
+      "label": "Medhātithi · Ajamīḍha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_brihadishu_ajamidha",
+      "label": "Bṛhadiṣu · Ajamīḍha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_brihaddhanu",
+      "label": "Bṛhaddhanu · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_brihatkarman",
+      "label": "Bṛhatkarman · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_jayadratha_brihaddhanu",
+      "label": "Jayadratha · Bṛhadiṣu branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_visvajit",
+      "label": "Viśvajit · Jayadratha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_senajit",
+      "label": "Senajit · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_ruchirashva",
+      "label": "Rucirāśva · Senajit branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_kashya_senajit",
+      "label": "Kāśya · Senajit branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_drdhahanu",
+      "label": "Dṛḍhahanu · Senajit branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_vatsahanu",
+      "label": "Vatsahanu · Senajit branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_prthusena",
+      "label": "Pṛthusena · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_para_prthusena",
+      "label": "Pāra · Pṛthusena branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_nipa",
+      "label": "Nīpa · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_samara",
+      "label": "Samara · Nīpa branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_para_samara",
+      "label": "Pāra · Samara branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_supara",
+      "label": "Supāra · Samara branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_sadasva",
+      "label": "Sadaśva · Samara branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_prthu_supara",
+      "label": "Pṛthu · Supāra branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_sukriti",
+      "label": "Sukṛti · Pṛthu branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_vibhraja",
+      "label": "Vibhrāja · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_anuha",
+      "label": "Aṇuha · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_shuka",
+      "label": "Śuka · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_krtvi",
+      "label": "Kṛtvī · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_brahmadatta",
+      "label": "Brahmadatta · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_visvaksena",
+      "label": "Viṣvaksena · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_udaksena",
+      "label": "Udaksena · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_bhallata",
+      "label": "Bhallāṭa · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_yavinara",
+      "label": "Yavīnara · Dvimīḍha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_dhrtimant",
+      "label": "Dhṛtimant · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_satyadhriti_dvimidha",
+      "label": "Satyadhṛti · Dvimīḍha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_drdhanemi",
+      "label": "Dṛḍhanemi · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_suparsva",
+      "label": "Supārśva · Dvimīḍha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_sumati_dvimidha",
+      "label": "Sumati · Dvimīḍha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_sannatimant",
+      "label": "Sannatimant · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_krita_dvimidha",
+      "label": "Kṛta · Dvimīḍha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_ugrayudha",
+      "label": "Ugrāyudha · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_kshemya",
+      "label": "Kṣemya · Ugrāyudha branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_su_vira",
+      "label": "Suvīra · Kṣemya branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_ripunjaya",
+      "label": "Ripuṃjaya · Suvīra branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    },
+    {
+      "id": "vp19_bahuratha",
+      "label": "Bahuratha · Ripuṃjaya branch · Viṣṇu Purāṇa 4.19 witness",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "vp4_19_anu",
+      "title": "The Viṣṇu Purāṇa, Book 4, chapter 19: The line of Puru down to Kuru and the kings of Magadha",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 19",
+      "locator": "Book 4, ch. 19, verses 1, 5–15; verse locators cross-checked against the verse-indexed Sanskrit text",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_19_sanskrit",
+      "title": "Viṣṇupurāṇa, Aṃśa 4, adhyāya 19 (Sanskrit text and verse translation)",
+      "url": "https://eternalraga.com/en/scriptures/puranas/vishnu-purana/4/19",
+      "kind": "primary_text_original_language_with_translation",
+      "edition": "Verse-numbered Sanskrit chapter; used to locate corresponding passages, not to harmonize variant names with the ANU translation",
+      "locator": "4.19.1, 5–15",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "GSM001",
+      "facet": "puranic",
+      "subject": "vp19_raudrashva",
+      "predicate": "father_of",
+      "object": "vp19_raudrashva_kaksheyu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.1",
+      "summary": "Kakṣeyu is named among Raudrāśva’s ten sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM002",
+      "facet": "puranic",
+      "subject": "vp19_raudrashva",
+      "predicate": "father_of",
+      "object": "vp19_raudrashva_sthandileyu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.1",
+      "summary": "Sthaṇḍileyu is named among Raudrāśva’s ten sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM003",
+      "facet": "puranic",
+      "subject": "vp19_raudrashva",
+      "predicate": "father_of",
+      "object": "vp19_raudrashva_dhrteyu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.1",
+      "summary": "Dhṛteyu is named among Raudrāśva’s ten sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM004",
+      "facet": "puranic",
+      "subject": "vp19_raudrashva",
+      "predicate": "father_of",
+      "object": "vp19_raudrashva_jaleyu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.1",
+      "summary": "Jalēyu is named among Raudrāśva’s ten sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM005",
+      "facet": "puranic",
+      "subject": "vp19_raudrashva",
+      "predicate": "father_of",
+      "object": "vp19_raudrashva_sthaleyu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.1",
+      "summary": "Sthaleyu is named among Raudrāśva’s ten sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM006",
+      "facet": "puranic",
+      "subject": "vp19_raudrashva",
+      "predicate": "father_of",
+      "object": "vp19_raudrashva_dharmeyu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.1",
+      "summary": "Dharmeyu is named among Raudrāśva’s ten sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM007",
+      "facet": "puranic",
+      "subject": "vp19_raudrashva",
+      "predicate": "father_of",
+      "object": "vp19_raudrashva_sannateyu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.1",
+      "summary": "Sannateyu is named among Raudrāśva’s ten sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM008",
+      "facet": "puranic",
+      "subject": "vp19_raudrashva",
+      "predicate": "father_of",
+      "object": "vp19_raudrashva_dhaneyu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.1",
+      "summary": "Dhaneyu is named among Raudrāśva’s ten sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM009",
+      "facet": "puranic",
+      "subject": "vp19_raudrashva",
+      "predicate": "father_of",
+      "object": "vp19_raudrashva_vaneyu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.1",
+      "summary": "Vaneyu is named among Raudrāśva’s ten sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM010",
+      "facet": "puranic",
+      "subject": "vp19_bharadvaja",
+      "predicate": "is_given_as_son_to",
+      "object": "vp19_bharata",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.5",
+      "summary": "The Maruts give Bharadvāja to Bharata as a son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The passage explicitly describes a gift/son relation to Bharata; this is kept distinct from biological parentage.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM011",
+      "facet": "puranic",
+      "subject": "vp19_bharadvaja",
+      "predicate": "is_son_of",
+      "object": "vp19_bhavanmanyu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.6",
+      "summary": "The passage identifies Bhavanmanyu as the son of Bharadvāja, also called Vitatha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The relation is Bhavanmanyu as son of Vitatha/Bharadvāja; the named Bharadvāja node retains the passage’s alias without creating a duplicate person.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM012",
+      "facet": "puranic",
+      "subject": "vp19_bhavanmanyu",
+      "predicate": "father_of",
+      "object": "vp19_bharata_brihatkshatra",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.7",
+      "summary": "Bṛhatkṣatra is named among Bhavanmanyu’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM013",
+      "facet": "puranic",
+      "subject": "vp19_bhavanmanyu",
+      "predicate": "father_of",
+      "object": "vp19_mahavirya",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.7",
+      "summary": "Mahāvīrya is named among Bhavanmanyu’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM014",
+      "facet": "puranic",
+      "subject": "vp19_bhavanmanyu",
+      "predicate": "father_of",
+      "object": "vp19_nara",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.7",
+      "summary": "Nara is named among Bhavanmanyu’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM015",
+      "facet": "puranic",
+      "subject": "vp19_bhavanmanyu",
+      "predicate": "father_of",
+      "object": "vp19_garga",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.7",
+      "summary": "Garga is named among Bhavanmanyu’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM016",
+      "facet": "puranic",
+      "subject": "vp19_nara",
+      "predicate": "father_of",
+      "object": "vp19_sankriti_nara",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.7",
+      "summary": "Nara’s son is named Saṃkṛti.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM017",
+      "facet": "puranic",
+      "subject": "vp19_sankriti_nara",
+      "predicate": "father_of",
+      "object": "vp19_ruchiradhi",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.7",
+      "summary": "Ruciradhī is named among Saṃkṛti’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM018",
+      "facet": "puranic",
+      "subject": "vp19_sankriti_nara",
+      "predicate": "father_of",
+      "object": "vp19_rantideva",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.7",
+      "summary": "Rantideva is named among Saṃkṛti’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM019",
+      "facet": "puranic",
+      "subject": "vp19_garga",
+      "predicate": "father_of",
+      "object": "vp19_shini",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.7",
+      "summary": "Garga’s son is named Śini.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM020",
+      "facet": "puranic",
+      "subject": "vp19_mahavirya",
+      "predicate": "father_of",
+      "object": "vp19_durukshaya",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.7",
+      "summary": "Mahāvīrya’s son is named Durukṣaya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM021",
+      "facet": "puranic",
+      "subject": "vp19_durukshaya",
+      "predicate": "father_of",
+      "object": "vp19_trayaruni",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.8",
+      "summary": "Trayyāruṇa is named among Durukṣaya’s three sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM022",
+      "facet": "puranic",
+      "subject": "vp19_durukshaya",
+      "predicate": "father_of",
+      "object": "vp19_pushkarin",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.8",
+      "summary": "Puṣkarin is named among Durukṣaya’s three sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM023",
+      "facet": "puranic",
+      "subject": "vp19_durukshaya",
+      "predicate": "father_of",
+      "object": "vp19_kapi",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.8",
+      "summary": "Kapi is named among Durukṣaya’s three sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM024",
+      "facet": "puranic",
+      "subject": "vp19_bharata_brihatkshatra",
+      "predicate": "father_of",
+      "object": "vp19_suhotra_brihatkshatra",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.8",
+      "summary": "Bṛhatkṣatra’s son is named Suhotra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM025",
+      "facet": "puranic",
+      "subject": "vp19_suhotra_brihatkshatra",
+      "predicate": "father_of",
+      "object": "vp19_hastin",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.8",
+      "summary": "Hastin is named as Suhotra’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM026",
+      "facet": "puranic",
+      "subject": "vp19_hastin",
+      "predicate": "father_of",
+      "object": "vp19_ajamidha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.9",
+      "summary": "Ajamīḍha is named among Hastin’s three sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM027",
+      "facet": "puranic",
+      "subject": "vp19_hastin",
+      "predicate": "father_of",
+      "object": "vp19_dvimidha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.9",
+      "summary": "Dvimīḍha is named among Hastin’s three sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM028",
+      "facet": "puranic",
+      "subject": "vp19_hastin",
+      "predicate": "father_of",
+      "object": "vp19_purumidha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.9",
+      "summary": "Purumīḍha is named among Hastin’s three sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM029",
+      "facet": "puranic",
+      "subject": "vp19_ajamidha",
+      "predicate": "father_of",
+      "object": "vp19_kanva_ajamidha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.9",
+      "summary": "Ajamīḍha’s son in this branch is named Kaṇva.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Kept distinct from Apratiratha’s Kaṇva in Viṣṇu Purāṇa 4.19.2–3.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM030",
+      "facet": "puranic",
+      "subject": "vp19_kanva_ajamidha",
+      "predicate": "father_of",
+      "object": "vp19_medhatithi_ajamidha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.9",
+      "summary": "Kaṇva’s son in the Ajamīḍha branch is named Medhātithi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Kept distinct from Medhātithi in Apratiratha’s branch; names are not merged across separate genealogical branches.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM031",
+      "facet": "puranic",
+      "subject": "vp19_ajamidha",
+      "predicate": "father_of",
+      "object": "vp19_brihadishu_ajamidha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.10",
+      "summary": "The genealogy names brihadishu ajamidha as the son of ajamidha in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM032",
+      "facet": "puranic",
+      "subject": "vp19_brihadishu_ajamidha",
+      "predicate": "father_of",
+      "object": "vp19_brihaddhanu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.10",
+      "summary": "The genealogy names brihaddhanu as the son of brihadishu ajamidha in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM033",
+      "facet": "puranic",
+      "subject": "vp19_brihaddhanu",
+      "predicate": "father_of",
+      "object": "vp19_brihatkarman",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.10",
+      "summary": "The genealogy names brihatkarman as the son of brihaddhanu in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM034",
+      "facet": "puranic",
+      "subject": "vp19_brihatkarman",
+      "predicate": "father_of",
+      "object": "vp19_jayadratha_brihaddhanu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.10",
+      "summary": "The genealogy names jayadratha brihaddhanu as the son of brihatkarman in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM035",
+      "facet": "puranic",
+      "subject": "vp19_jayadratha_brihaddhanu",
+      "predicate": "father_of",
+      "object": "vp19_visvajit",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.10",
+      "summary": "The genealogy names visvajit as the son of jayadratha brihaddhanu in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM036",
+      "facet": "puranic",
+      "subject": "vp19_visvajit",
+      "predicate": "father_of",
+      "object": "vp19_senajit",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.10",
+      "summary": "The genealogy names senajit as the son of visvajit in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM037",
+      "facet": "puranic",
+      "subject": "vp19_ruchirashva",
+      "predicate": "father_of",
+      "object": "vp19_prthusena",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.11",
+      "summary": "The genealogy names prthusena as the son of ruchirashva in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM038",
+      "facet": "puranic",
+      "subject": "vp19_prthusena",
+      "predicate": "father_of",
+      "object": "vp19_para_prthusena",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.11",
+      "summary": "The genealogy names para prthusena as the son of prthusena in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM039",
+      "facet": "puranic",
+      "subject": "vp19_para_prthusena",
+      "predicate": "father_of",
+      "object": "vp19_nipa",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.11",
+      "summary": "The genealogy names nipa as the son of para prthusena in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM040",
+      "facet": "puranic",
+      "subject": "vp19_supara",
+      "predicate": "father_of",
+      "object": "vp19_prthu_supara",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.12",
+      "summary": "The genealogy names prthu supara as the son of supara in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM041",
+      "facet": "puranic",
+      "subject": "vp19_prthu_supara",
+      "predicate": "father_of",
+      "object": "vp19_sukriti",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.12",
+      "summary": "The genealogy names sukriti as the son of prthu supara in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM042",
+      "facet": "puranic",
+      "subject": "vp19_sukriti",
+      "predicate": "father_of",
+      "object": "vp19_vibhraja",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.12",
+      "summary": "The genealogy names vibhraja as the son of sukriti in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM043",
+      "facet": "puranic",
+      "subject": "vp19_vibhraja",
+      "predicate": "father_of",
+      "object": "vp19_anuha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.12",
+      "summary": "The genealogy names anuha as the son of vibhraja in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM044",
+      "facet": "puranic",
+      "subject": "vp19_anuha",
+      "predicate": "father_of",
+      "object": "vp19_brahmadatta",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.13",
+      "summary": "The genealogy names brahmadatta as the son of anuha in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM045",
+      "facet": "puranic",
+      "subject": "vp19_brahmadatta",
+      "predicate": "father_of",
+      "object": "vp19_visvaksena",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.13",
+      "summary": "The genealogy names visvaksena as the son of brahmadatta in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM046",
+      "facet": "puranic",
+      "subject": "vp19_visvaksena",
+      "predicate": "father_of",
+      "object": "vp19_udaksena",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.13",
+      "summary": "The genealogy names udaksena as the son of visvaksena in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM047",
+      "facet": "puranic",
+      "subject": "vp19_udaksena",
+      "predicate": "father_of",
+      "object": "vp19_bhallata",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.13",
+      "summary": "The genealogy names bhallata as the son of udaksena in this branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM048",
+      "facet": "puranic",
+      "subject": "vp19_senajit",
+      "predicate": "father_of",
+      "object": "vp19_ruchirashva",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.10",
+      "summary": "Rucirāśva is named among Senajit’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM049",
+      "facet": "puranic",
+      "subject": "vp19_senajit",
+      "predicate": "father_of",
+      "object": "vp19_kashya_senajit",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.10",
+      "summary": "Kāśya is named among Senajit’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM050",
+      "facet": "puranic",
+      "subject": "vp19_senajit",
+      "predicate": "father_of",
+      "object": "vp19_drdhahanu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.10",
+      "summary": "Dṛḍhahanu is named among Senajit’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM051",
+      "facet": "puranic",
+      "subject": "vp19_senajit",
+      "predicate": "father_of",
+      "object": "vp19_vatsahanu",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.10",
+      "summary": "Vatsahanu is named among Senajit’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM052",
+      "facet": "puranic",
+      "subject": "vp19_nipa",
+      "predicate": "has_son_named",
+      "object": "vp19_samara",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.11",
+      "summary": "Nīpa’s hundred sons include Samara, named as foremost.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "Only the explicitly singled-out son is represented; the other ninety-nine are unnamed.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM053",
+      "facet": "puranic",
+      "subject": "vp19_samara",
+      "predicate": "father_of",
+      "object": "vp19_para_samara",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.12",
+      "summary": "Pāra is named among Samara’s three sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM054",
+      "facet": "puranic",
+      "subject": "vp19_samara",
+      "predicate": "father_of",
+      "object": "vp19_supara",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.12",
+      "summary": "Supāra is named among Samara’s three sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM055",
+      "facet": "puranic",
+      "subject": "vp19_samara",
+      "predicate": "father_of",
+      "object": "vp19_sadasva",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.12",
+      "summary": "Sadaśva is named among Samara’s three sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM056",
+      "facet": "puranic",
+      "subject": "vp19_anuha",
+      "predicate": "married",
+      "object": "vp19_krtvi",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.12",
+      "summary": "Aṇuha married Kṛtvī, identified as Śuka’s daughter.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM057",
+      "facet": "puranic",
+      "subject": "vp19_shuka",
+      "predicate": "father_of",
+      "object": "vp19_krtvi",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.12",
+      "summary": "Kṛtvī is identified as Śuka’s daughter.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM058",
+      "facet": "puranic",
+      "subject": "vp19_dvimidha",
+      "predicate": "father_of",
+      "object": "vp19_yavinara",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.13",
+      "summary": "The genealogy names yavinara as the son of dvimidha in the Dvimīḍha branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM059",
+      "facet": "puranic",
+      "subject": "vp19_yavinara",
+      "predicate": "father_of",
+      "object": "vp19_dhrtimant",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.14",
+      "summary": "The genealogy names dhrtimant as the son of yavinara in the Dvimīḍha branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM060",
+      "facet": "puranic",
+      "subject": "vp19_dhrtimant",
+      "predicate": "father_of",
+      "object": "vp19_satyadhriti_dvimidha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.14",
+      "summary": "The genealogy names satyadhriti dvimidha as the son of dhrtimant in the Dvimīḍha branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM061",
+      "facet": "puranic",
+      "subject": "vp19_satyadhriti_dvimidha",
+      "predicate": "father_of",
+      "object": "vp19_drdhanemi",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.14",
+      "summary": "The genealogy names drdhanemi as the son of satyadhriti dvimidha in the Dvimīḍha branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM062",
+      "facet": "puranic",
+      "subject": "vp19_drdhanemi",
+      "predicate": "father_of",
+      "object": "vp19_suparsva",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.14",
+      "summary": "The genealogy names suparsva as the son of drdhanemi in the Dvimīḍha branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM063",
+      "facet": "puranic",
+      "subject": "vp19_suparsva",
+      "predicate": "father_of",
+      "object": "vp19_sumati_dvimidha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.14",
+      "summary": "The genealogy names sumati dvimidha as the son of suparsva in the Dvimīḍha branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM064",
+      "facet": "puranic",
+      "subject": "vp19_sumati_dvimidha",
+      "predicate": "father_of",
+      "object": "vp19_sannatimant",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.14",
+      "summary": "The genealogy names sannatimant as the son of sumati dvimidha in the Dvimīḍha branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM065",
+      "facet": "puranic",
+      "subject": "vp19_sannatimant",
+      "predicate": "father_of",
+      "object": "vp19_krita_dvimidha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.14",
+      "summary": "The genealogy names krita dvimidha as the son of sannatimant in the Dvimīḍha branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM066",
+      "facet": "puranic",
+      "subject": "vp19_krita_dvimidha",
+      "predicate": "father_of",
+      "object": "vp19_ugrayudha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.15",
+      "summary": "The genealogy names ugrayudha as the son of krita dvimidha in the Dvimīḍha branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM067",
+      "facet": "puranic",
+      "subject": "vp19_ugrayudha",
+      "predicate": "father_of",
+      "object": "vp19_kshemya",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.15",
+      "summary": "The genealogy names kshemya as the son of ugrayudha in the Dvimīḍha branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM068",
+      "facet": "puranic",
+      "subject": "vp19_kshemya",
+      "predicate": "father_of",
+      "object": "vp19_su_vira",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.15",
+      "summary": "The genealogy names su vira as the son of kshemya in the Dvimīḍha branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM069",
+      "facet": "puranic",
+      "subject": "vp19_su_vira",
+      "predicate": "father_of",
+      "object": "vp19_ripunjaya",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.15",
+      "summary": "The genealogy names ripunjaya as the son of su vira in the Dvimīḍha branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSM070",
+      "facet": "puranic",
+      "subject": "vp19_ripunjaya",
+      "predicate": "father_of",
+      "object": "vp19_bahuratha",
+      "source": "vp4_19_anu",
+      "locator": "Viṣṇu Purāṇa 4.19.15",
+      "summary": "The genealogy names bahuratha as the son of ripunjaya in the Dvimīḍha branch.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "This records the named relation in the ANU Press translation; variant genealogies are not harmonized.",
+      "original_language_reviewed": false
+    }
+  ],
+  "search_log": [
+    {
+      "query": "Viṣṇu Purāṇa Book 4 chapter 19 ANU Taylor Raudrāśva Bharata Dvimīḍha genealogy",
+      "outcome": "Read the ANU Press chapter text for the remaining named descendants. Used verse-level locators checked against the verse-indexed Sanskrit chapter. Added only explicit parentage or other stated relationships; unnamed members of collective lists were excluded."
+    },
+    {
+      "query": "Viṣṇu Purāṇa 4.19 Sanskrit verse sequence 1 and 5–15",
+      "outcome": "Cross-checked the verse sequence and passage boundaries against the Sanskrit text with verse-level presentation. Where the two presentations vary in name forms or detail, retained the ANU wording and did not merge homonyms."
+    }
+  ],
+  "notes": [
+    "This batch is separate from genealogy_scale.json. The prior batch already covers Puru through Bharata’s main descent and some names in Raudrāśva’s line; this file adds the remaining Raudrāśva sons and the other named branches in chapter 19.",
+    "ANU translation and the verse-indexed Sanskrit presentation show some variant spellings and genealogical differences. Claims follow the ANU translation’s wording; the secondary verse-indexed page is used for passage locators only, not as a reason to normalize variant identities.",
+    "Homonyms across branches are given different IDs. In particular, the Ajamīḍha-branch Kaṇva and Medhātithi are separate from Apratiratha’s Kaṇva and Medhātithi; Dvimīḍha-branch Sumati and Kṛta are separate from other namesakes. Bharadvāja and Vitatha are one node because this chapter expressly calls Bharadvāja Vitatha.",
+    "The Bharadvāja birth episode involves Bṛhaspati, Dīrghatamas, Mamatā and the Maruts, but this batch adds no biological parentage edge for Bharadvāja because the passage intertwines semen, birth and the Maruts’ presentation of the child to Bharata. The recorded relation to Bharata is explicitly a gift/son relation."
+  ]
+}

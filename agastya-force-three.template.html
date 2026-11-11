@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Agastya · direct Three.js circles</title>
+<style>
+  :root{color-scheme:dark;font:14px/1.45 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#070d18;color:#f2f6fc}
+  *{box-sizing:border-box}body{margin:0}button,input,select{font:inherit}
+  .shell{height:100dvh;min-height:620px;display:grid;grid-template-columns:minmax(0,1fr) 370px;grid-template-rows:auto minmax(0,1fr)}
+  header{grid-column:1/-1;display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:12px 18px;background:#111b2b;border-bottom:1px solid #30445f;z-index:3}
+  h1{font-size:18px;margin:0;color:#ffe1a0;white-space:nowrap}header p{margin:0;color:#c2cfdf;font-size:12px}
+  .controls{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-left:auto}
+  label{font-size:12px;color:#cbd6e4;display:flex;align-items:center;gap:6px}
+  button,input,select,.view-link{background:#1c2b3e;color:#f2f6fc;border:1px solid #50647d;border-radius:8px;padding:7px 9px;min-height:34px}
+  button{cursor:pointer}button:hover,.view-link:hover{background:#263b52}button:focus-visible,input:focus-visible,select:focus-visible,.view-link:focus-visible{outline:2px solid #9bdcff;outline-offset:2px}
+  .view-link{text-decoration:none;display:inline-flex;align-items:center;font-size:12px}
+  .search-wrap{position:relative;width:190px}.search-wrap input{width:100%}.search-results{position:absolute;top:calc(100% + 5px);left:0;width:min(420px,calc(100vw - 24px));max-height:300px;overflow:auto;padding:4px;background:#111d30;border:1px solid #526680;border-radius:9px;box-shadow:0 18px 40px #000b;z-index:10}.search-results[hidden]{display:none}
+  .result{display:block;width:100%;height:auto;text-align:left;border:0;background:transparent;min-height:42px}.result:hover,.result.active{background:#263b52}.result strong{display:block}.result small{display:block;color:#bdcadb;font-size:11px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.empty{padding:10px;color:#bdcadb}
+  .stage{position:relative;overflow:hidden;background:#080f1d}.stage .scene{width:100%;height:100%}.stage .hint{position:absolute;left:14px;bottom:14px;pointer-events:none;color:#d9e5f4;background:#0b1729dd;padding:9px 11px;border:1px solid #49617c;border-radius:9px;font-size:12px}
+  .error{position:absolute;inset:0;display:grid;place-items:center;padding:30px;text-align:center;color:#f2f6fc;background:#0b1729}.error[hidden]{display:none}
+  aside{overflow:auto;min-width:0;background:#111b2b;border-left:1px solid #34465e;padding:20px}aside h2{font-size:20px;line-height:1.25;margin:0 0 4px}aside h3{font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:#c4d2e2;margin:22px 0 8px}.muted{color:#bdcadb}.small{font-size:13px;line-height:1.55}.metric{display:flex;gap:12px;flex-wrap:wrap;color:#dce6f2;font-size:13px;margin:12px 0}.claim{border-top:1px solid #34465e;padding:13px 0}.claim strong{display:block;font-size:14px;line-height:1.45}.claim p{font-size:13px;line-height:1.55;color:#dce6f2;margin:7px 0}.claim a{font-size:12px;color:#9ddcff;overflow-wrap:anywhere}.claim small{color:#bac9dc;font-size:12px}
+  @media(max-width:900px){.shell{height:auto;min-height:100dvh;grid-template-columns:1fr;grid-template-rows:auto min(70vh,640px) auto}header p{width:100%;order:3}.controls{margin-left:0}aside{border-left:0;border-top:1px solid #34465e}}
+  @media(max-width:500px){header{padding:12px}.controls{width:100%}.controls label,.search-wrap{flex:1 1 140px}.controls select,.search-wrap input{width:100%}.stage{min-height:460px}}
+.stage canvas{display:block;touch-action:none}
+</style>
+</head>
+<body>
+<div class="shell">
+  <header><h1>✦ Agastya · Three.js circles</h1><p>Direct point-cloud renderer · click or search to fly to a node</p>
+    <div class="controls">
+      <label>Tradition <select id="tradition"><option value="all">All</option></select></label>
+      <label>Radius <select id="radius"><option value="1">1 hop</option><option value="2">2 hops</option><option value="3">3 hops</option><option value="all" selected>All claims</option></select></label>
+      <label><input id="sources" type="checkbox"> Source nodes</label>
+      <div class="search-wrap"><input id="search" type="search" placeholder="Find Ram, Rama, Krishna…" aria-label="Find a person or text" role="combobox" aria-controls="results" aria-expanded="false"><div id="results" class="search-results" role="listbox" hidden></div></div>
+      <button id="fit" type="button">Fit all</button><button id="pause" type="button">Pause</button>
+      <a class="view-link" href="force-graph-3d.html">Canvas view</a><a class="view-link" href="force-graph-webgl.html">Library version</a>
+    </div>
+  </header>
+  <main id="stage" class="stage" aria-label="Interactive Three.js point-cloud graph of Agastya textual relationships"><div class="hint"><span id="status">Loading graph</span> · drag to orbit · scroll to travel</div><div id="error" class="error" hidden></div></main>
+  <aside id="detail" aria-live="polite"></aside>
+</div>
+<script type="application/json" id="graph-data">__GRAPH_DATA__</script>
+<script>
+__MANY_BODY_HELPER__
+</script>
+<script src="vendor/agastya-three-app.bundle.js"></script>
+</body>
+</html>

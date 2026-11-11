@@ -1,0 +1,18 @@
+{
+  "source_title": "Sörensen, Index to the Names in the Mahābhārata (CDSL digitization)",
+  "source_url": "https://sanskrit-lexicon.github.io/INM/",
+  "source_file_url": "https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/inm/inm.txt",
+  "license": "CC BY-SA 4.0 per CDSL INM project page; preserve attribution and check repository exceptions before redistribution",
+  "method": "Index-headword candidates only. Pattern classification on the leading definition; no primary passage or entity identity verification. Same headword can represent multiple people or an alias.",
+  "entries_parsed": 12647,
+  "unique_headword_spellings": 9454,
+  "classification_counts": {
+    "unclassified_name": 3071,
+    "alias_or_equivalence": 5486,
+    "collective_or_class": 700,
+    "likely_individual_candidate": 2572,
+    "nonperson_or_mixed": 818
+  },
+  "goal": 3000,
+  "counted_as_verified_individuals": 0
+}

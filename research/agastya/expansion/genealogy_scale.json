@@ -1,0 +1,819 @@
+{
+  "nodes": [
+    {
+      "id": "vp_nahusha",
+      "label": "Nahuṣa · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_yati",
+      "label": "Yati · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_yayati",
+      "label": "Yayāti · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_samyati",
+      "label": "Saṃyāti · Nahuṣa’s son · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_ayati",
+      "label": "Āyāti · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_viyati",
+      "label": "Viyāti · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_kriti",
+      "label": "Kṛti · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_devayani",
+      "label": "Devayānī · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_sharmishtha",
+      "label": "Śarmiṣṭhā · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_vrishaparvan",
+      "label": "Vṛṣaparvan · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_yadu",
+      "label": "Yadu · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_turvasu",
+      "label": "Turvasu · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_druhyu",
+      "label": "Druhyu · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_anu",
+      "label": "Anu · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_puru",
+      "label": "Puru · Viṣṇu Purāṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_janamejaya",
+      "label": "Janamejaya · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_pracinvant",
+      "label": "Pracinvant · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_pravira",
+      "label": "Pravīra · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_manasyu",
+      "label": "Manasyu · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_abhayada",
+      "label": "Abhayada · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_sudyu",
+      "label": "Sudyu · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_bahugava",
+      "label": "Bahugava · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_puru_samyati",
+      "label": "Saṃyāti · Puru descendant · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_ahamyati",
+      "label": "Ahaṃyāti · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_raudrashva",
+      "label": "Raudrāśva · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_rteyu",
+      "label": "Ṛteyu · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_rantinara",
+      "label": "Rantināra · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_sumati",
+      "label": "Sumati · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_apratiratha",
+      "label": "Apratiratha · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_dhruva",
+      "label": "Dhruva · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_kanva",
+      "label": "Kaṇva · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_medhatithi",
+      "label": "Medhātithi · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_ailina",
+      "label": "Ailīna · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_dushyanta",
+      "label": "Duṣyanta · Puru-line witness",
+      "type": "person"
+    },
+    {
+      "id": "vp_bharata",
+      "label": "Bharata · Puru-line witness",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "vp4_10_anu",
+      "title": "The Viṣṇu Purāṇa, Book 4, chapter 10: Āyus’s grandson Yayāti exchanges old age for youth",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 10; translation checked against the Sanskrit text at SanskritSahitya.org",
+      "locator": "Book 4, ch. 10, vv. 1–4, 20–22 (ANU translation; verse numbers as printed)",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_19_anu",
+      "title": "The Viṣṇu Purāṇa, Book 4, chapter 19: The line of Puru down to Kuru and the kings of Magadha",
+      "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+      "kind": "primary_text_translation",
+      "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapter 19; translation cross-checked against Sanskrit verse text at Eternal Raga",
+      "locator": "Book 4, ch. 19, vv. 1–2 (ANU translation; verse numbers as printed)",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_10_sanskrit",
+      "title": "Viṣṇupurāṇa, caturthāṃśa, adhyāya 10 (Sanskrit text)",
+      "url": "https://sanskritsahitya.org/vishnupuranam/4.10",
+      "kind": "primary_text_original_language",
+      "edition": "Online Sanskrit text, verse-numbered chapter",
+      "locator": "4.10.1–4",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "vp4_19_sanskrit",
+      "title": "Viṣṇupurāṇa, Aṃśa 4, adhyāya 19 (Sanskrit text and verse translation)",
+      "url": "https://eternalraga.com/en/scriptures/puranas/vishnu-purana/4/19",
+      "kind": "primary_text_with_translation",
+      "edition": "Verse-numbered Sanskrit text with English rendering",
+      "locator": "4.19.1–2",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "GSC001",
+      "facet": "puranic",
+      "subject": "vp_nahusha",
+      "predicate": "father_of",
+      "object": "vp_yati",
+      "source": "vp4_10_anu",
+      "locator": "4.10.1",
+      "summary": "The text names Yati among Nahuṣa’s six sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC002",
+      "facet": "puranic",
+      "subject": "vp_nahusha",
+      "predicate": "father_of",
+      "object": "vp_yayati",
+      "source": "vp4_10_anu",
+      "locator": "4.10.1",
+      "summary": "The text names Yayāti among Nahuṣa’s six sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC003",
+      "facet": "puranic",
+      "subject": "vp_nahusha",
+      "predicate": "father_of",
+      "object": "vp_samyati",
+      "source": "vp4_10_anu",
+      "locator": "4.10.1",
+      "summary": "The text names Saṃyāti among Nahuṣa’s six sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC004",
+      "facet": "puranic",
+      "subject": "vp_nahusha",
+      "predicate": "father_of",
+      "object": "vp_ayati",
+      "source": "vp4_10_anu",
+      "locator": "4.10.1",
+      "summary": "The text names Āyāti among Nahuṣa’s six sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC005",
+      "facet": "puranic",
+      "subject": "vp_nahusha",
+      "predicate": "father_of",
+      "object": "vp_viyati",
+      "source": "vp4_10_anu",
+      "locator": "4.10.1",
+      "summary": "The text names Viyāti among Nahuṣa’s six sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC006",
+      "facet": "puranic",
+      "subject": "vp_nahusha",
+      "predicate": "father_of",
+      "object": "vp_kriti",
+      "source": "vp4_10_anu",
+      "locator": "4.10.1",
+      "summary": "The text names Kṛti among Nahuṣa’s six sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC007",
+      "facet": "puranic",
+      "subject": "vp_yayati",
+      "predicate": "married",
+      "object": "vp_devayani",
+      "source": "vp4_10_anu",
+      "locator": "4.10.3",
+      "summary": "Yayāti married Devayānī, daughter of Uśanas.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The text identifies Devayānī as Uśanas’s daughter; Uśanas is not added because this file focuses on the descendant chain.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC008",
+      "facet": "puranic",
+      "subject": "vp_yayati",
+      "predicate": "married",
+      "object": "vp_sharmishtha",
+      "source": "vp4_10_anu",
+      "locator": "4.10.3",
+      "summary": "Yayāti married Śarmiṣṭhā, daughter of Vṛṣaparvan.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC009",
+      "facet": "puranic",
+      "subject": "vp_sharmishtha",
+      "predicate": "daughter_of",
+      "object": "vp_vrishaparvan",
+      "source": "vp4_10_anu",
+      "locator": "4.10.3",
+      "summary": "Śarmiṣṭhā is identified as Vṛṣaparvan’s daughter.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC010",
+      "facet": "puranic",
+      "subject": "vp_devayani",
+      "predicate": "mother_of",
+      "object": "vp_yadu",
+      "source": "vp4_10_anu",
+      "locator": "4.10.4",
+      "summary": "The text names Yadu among Devayānī’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC011",
+      "facet": "puranic",
+      "subject": "vp_yayati",
+      "predicate": "father_of",
+      "object": "vp_yadu",
+      "source": "vp4_10_anu",
+      "locator": "4.10.4",
+      "summary": "The named son Yadu is one of Yayāti’s children by Devayānī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC012",
+      "facet": "puranic",
+      "subject": "vp_devayani",
+      "predicate": "mother_of",
+      "object": "vp_turvasu",
+      "source": "vp4_10_anu",
+      "locator": "4.10.4",
+      "summary": "The text names Turvasu among Devayānī’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC013",
+      "facet": "puranic",
+      "subject": "vp_yayati",
+      "predicate": "father_of",
+      "object": "vp_turvasu",
+      "source": "vp4_10_anu",
+      "locator": "4.10.4",
+      "summary": "The named son Turvasu is one of Yayāti’s children by Devayānī.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC014",
+      "facet": "puranic",
+      "subject": "vp_sharmishtha",
+      "predicate": "mother_of",
+      "object": "vp_druhyu",
+      "source": "vp4_10_anu",
+      "locator": "4.10.4",
+      "summary": "The text names Druhyu among Śarmiṣṭhā’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC015",
+      "facet": "puranic",
+      "subject": "vp_yayati",
+      "predicate": "father_of",
+      "object": "vp_druhyu",
+      "source": "vp4_10_anu",
+      "locator": "4.10.4",
+      "summary": "The named son Druhyu is one of Yayāti’s children by Śarmiṣṭhā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC016",
+      "facet": "puranic",
+      "subject": "vp_sharmishtha",
+      "predicate": "mother_of",
+      "object": "vp_anu",
+      "source": "vp4_10_anu",
+      "locator": "4.10.4",
+      "summary": "The text names Anu among Śarmiṣṭhā’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC017",
+      "facet": "puranic",
+      "subject": "vp_yayati",
+      "predicate": "father_of",
+      "object": "vp_anu",
+      "source": "vp4_10_anu",
+      "locator": "4.10.4",
+      "summary": "The named son Anu is one of Yayāti’s children by Śarmiṣṭhā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC018",
+      "facet": "puranic",
+      "subject": "vp_sharmishtha",
+      "predicate": "mother_of",
+      "object": "vp_puru",
+      "source": "vp4_10_anu",
+      "locator": "4.10.4",
+      "summary": "The text names Puru among Śarmiṣṭhā’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC019",
+      "facet": "puranic",
+      "subject": "vp_yayati",
+      "predicate": "father_of",
+      "object": "vp_puru",
+      "source": "vp4_10_anu",
+      "locator": "4.10.4",
+      "summary": "The named son Puru is one of Yayāti’s children by Śarmiṣṭhā.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC020",
+      "facet": "puranic",
+      "subject": "vp_puru",
+      "predicate": "father_of",
+      "object": "vp_janamejaya",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Janamejaya as Puru’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC021",
+      "facet": "puranic",
+      "subject": "vp_janamejaya",
+      "predicate": "father_of",
+      "object": "vp_pracinvant",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Pracinvant as Janamejaya’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC022",
+      "facet": "puranic",
+      "subject": "vp_pracinvant",
+      "predicate": "father_of",
+      "object": "vp_pravira",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Pravira as Pracinvant’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC023",
+      "facet": "puranic",
+      "subject": "vp_pravira",
+      "predicate": "father_of",
+      "object": "vp_manasyu",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Manasyu as Pravira’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC024",
+      "facet": "puranic",
+      "subject": "vp_manasyu",
+      "predicate": "father_of",
+      "object": "vp_abhayada",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Abhayada as Manasyu’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC025",
+      "facet": "puranic",
+      "subject": "vp_abhayada",
+      "predicate": "father_of",
+      "object": "vp_sudyu",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Sudyu as Abhayada’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC026",
+      "facet": "puranic",
+      "subject": "vp_sudyu",
+      "predicate": "father_of",
+      "object": "vp_bahugava",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Bahugava as Sudyu’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC027",
+      "facet": "puranic",
+      "subject": "vp_bahugava",
+      "predicate": "father_of",
+      "object": "vp_puru_samyati",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Puru Samyati as Bahugava’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC028",
+      "facet": "puranic",
+      "subject": "vp_puru_samyati",
+      "predicate": "father_of",
+      "object": "vp_ahamyati",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Ahamyati as Puru Samyati’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC029",
+      "facet": "puranic",
+      "subject": "vp_ahamyati",
+      "predicate": "father_of",
+      "object": "vp_raudrashva",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Raudrashva as Ahamyati’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC030",
+      "facet": "puranic",
+      "subject": "vp_rteyu",
+      "predicate": "father_of",
+      "object": "vp_rantinara",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Rantinara as Rteyu’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC031",
+      "facet": "puranic",
+      "subject": "vp_apratiratha",
+      "predicate": "father_of",
+      "object": "vp_kanva",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Kanva as Apratiratha’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC032",
+      "facet": "puranic",
+      "subject": "vp_kanva",
+      "predicate": "father_of",
+      "object": "vp_medhatithi",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Medhatithi as Kanva’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC033",
+      "facet": "puranic",
+      "subject": "vp_ailina",
+      "predicate": "father_of",
+      "object": "vp_dushyanta",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Dushyanta as Ailina’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC034",
+      "facet": "puranic",
+      "subject": "vp_dushyanta",
+      "predicate": "father_of",
+      "object": "vp_bharata",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1–2",
+      "summary": "The genealogy names Bharata as Dushyanta’s son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC035",
+      "facet": "puranic",
+      "subject": "vp_raudrashva",
+      "predicate": "father_of",
+      "object": "vp_rteyu",
+      "source": "vp4_19_anu",
+      "locator": "4.19.1",
+      "summary": "Raudrāśva is named as father of Ṛteyu, one of his ten sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC036",
+      "facet": "puranic",
+      "subject": "vp_rantinara",
+      "predicate": "father_of",
+      "object": "vp_sumati",
+      "source": "vp4_19_anu",
+      "locator": "4.19.2",
+      "summary": "Rantināra is named as father of Sumati.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC037",
+      "facet": "puranic",
+      "subject": "vp_rantinara",
+      "predicate": "father_of",
+      "object": "vp_apratiratha",
+      "source": "vp4_19_anu",
+      "locator": "4.19.2",
+      "summary": "Rantināra is named as father of Apratiratha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC038",
+      "facet": "puranic",
+      "subject": "vp_rantinara",
+      "predicate": "father_of",
+      "object": "vp_dhruva",
+      "source": "vp4_19_anu",
+      "locator": "4.19.2",
+      "summary": "Rantināra is named as father of Dhruva.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "GSC039",
+      "facet": "puranic",
+      "subject": "vp_apratiratha",
+      "predicate": "father_of",
+      "object": "vp_ailina",
+      "source": "vp4_19_anu",
+      "locator": "4.19.2",
+      "summary": "Apratiratha is named as father of Ailīna.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Parāśara",
+      "note": "The claim follows this Viṣṇu Purāṇa witness and is not harmonized with variant genealogies.",
+      "original_language_reviewed": false
+    }
+  ],
+  "search_log": [
+    {
+      "query": "Viṣṇu Purāṇa Book 4 chapter 10 Nahuṣa Yayāti sons Sanskrit translation",
+      "outcome": "Read ANU Press translation of 4.10.1–4 and 20–22; checked the Sanskrit chapter text at SanskritSahitya.org. Recorded only explicit named kinship and marriage links."
+    },
+    {
+      "query": "Viṣṇu Purāṇa Book 4 chapter 19 Puru genealogy Sanskrit translation",
+      "outcome": "Read ANU Press 4.19.1–2 and cross-checked the names and parent-child sequence against the verse-numbered Sanskrit and English rendering at Eternal Raga. Kept the Puru-line Saṃyāti separate from the similarly named son of Nahuṣa."
+    }
+  ],
+  "notes": [
+    "This is a source-specific downstream extension from the named Nahuṣa in Viṣṇu Purāṇa 4.10, a figure already represented in the Agastya graph through a Mahābhārata witness. It does not add a cross-witness identity edge or claim that Agastya met Yayāti’s descendants.",
+    "The passage establishes a narrative genealogy, not historical descent. Names and branch placement are preserved as this edition presents them. Repeated names are not merged across lineages or witnesses; in particular, the Puru-line Saṃyāti has a separate node from Nahuṣa’s son Saṃyāti.",
+    "The English translation and its chapter/verse numbering are McComas Taylor’s ANU Press edition. The original-language check used the linked verse-numbered Sanskrit chapter texts; no additional variant recensions were harmonized."
+  ]
+}

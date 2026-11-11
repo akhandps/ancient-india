@@ -1,0 +1,1833 @@
+{
+  "schema_version": "0.1",
+  "title": "Agastya evidence graph",
+  "as_of": "2026-10-27",
+  "scope": "Curated first-pass seed, not an exhaustive concordance. Translation checks and scholarly reports only; original-language philological review is pending.",
+  "identity_policy": "The five Agastya facets are source-local dossiers. Their labels organize traditions; neither one historical individual nor five separate people is asserted.",
+  "status_definitions": {
+    "translation_checked": "Claim inspected in an accessible primary-text translation; does not certify historical truth.",
+    "editorial_attribution": "Speaker or hymn-author identification depends on editorial/traditional interpretation.",
+    "scholarly_report": "Scholarship reports the tradition; underlying primary passage has not been checked in this pass.",
+    "identity_hypothesis": "Proposed identification; exclude from explicit named-attestation counts."
+  },
+  "nodes": [
+    {
+      "id": "vedic",
+      "label": "Agastya · Vedic witnesses",
+      "type": "agastya_facet"
+    },
+    {
+      "id": "ramayana",
+      "label": "Agastya · Rāmāyaṇa",
+      "type": "agastya_facet"
+    },
+    {
+      "id": "mahabharata",
+      "label": "Agastya · Mahābhārata",
+      "type": "agastya_facet"
+    },
+    {
+      "id": "puranic",
+      "label": "Agastya · Bhāgavata",
+      "type": "agastya_facet"
+    },
+    {
+      "id": "tamil",
+      "label": "Akattiyar · Tamil traditions",
+      "type": "agastya_facet"
+    },
+    {
+      "id": "rv",
+      "label": "Ṛgveda",
+      "type": "text"
+    },
+    {
+      "id": "ts_text",
+      "label": "Taittirīya Saṃhitā",
+      "type": "text"
+    },
+    {
+      "id": "ram",
+      "label": "Vālmīki Rāmāyaṇa",
+      "type": "text"
+    },
+    {
+      "id": "mb",
+      "label": "Mahābhārata",
+      "type": "text"
+    },
+    {
+      "id": "bp",
+      "label": "Bhāgavata Purāṇa",
+      "type": "text"
+    },
+    {
+      "id": "tol_commentary",
+      "label": "Tolkāppiyam commentaries",
+      "type": "text"
+    },
+    {
+      "id": "viracoliyam",
+      "label": "Vīracōḻiyam",
+      "type": "text"
+    },
+    {
+      "id": "puram201",
+      "label": "Puṟanāṉūṟu 201",
+      "type": "text"
+    },
+    {
+      "id": "akattiyam",
+      "label": "Akattiyam · attributed lost grammar",
+      "type": "text"
+    },
+    {
+      "id": "indra",
+      "label": "Indra",
+      "type": "deity"
+    },
+    {
+      "id": "maruts",
+      "label": "Maruts",
+      "type": "deity_collective"
+    },
+    {
+      "id": "lopamudra",
+      "label": "Lopāmudrā",
+      "type": "person"
+    },
+    {
+      "id": "vasistha",
+      "label": "Vasiṣṭha",
+      "type": "person"
+    },
+    {
+      "id": "mitra",
+      "label": "Mitra",
+      "type": "deity"
+    },
+    {
+      "id": "varuna",
+      "label": "Varuṇa",
+      "type": "deity"
+    },
+    {
+      "id": "urvasi",
+      "label": "Urvaśī",
+      "type": "celestial"
+    },
+    {
+      "id": "asvins",
+      "label": "Aśvins",
+      "type": "deity_collective"
+    },
+    {
+      "id": "atri",
+      "label": "Atri",
+      "type": "person"
+    },
+    {
+      "id": "tugras_son",
+      "label": "Tugra’s son",
+      "type": "person"
+    },
+    {
+      "id": "rama",
+      "label": "Rāma",
+      "type": "person"
+    },
+    {
+      "id": "lakshmana",
+      "label": "Lakṣmaṇa",
+      "type": "person"
+    },
+    {
+      "id": "sita",
+      "label": "Sītā",
+      "type": "person"
+    },
+    {
+      "id": "dasaratha",
+      "label": "Daśaratha",
+      "type": "person"
+    },
+    {
+      "id": "arundhati",
+      "label": "Arundhatī",
+      "type": "person"
+    },
+    {
+      "id": "sutikshna",
+      "label": "Sutīkṣṇa",
+      "type": "person"
+    },
+    {
+      "id": "sugriva",
+      "label": "Sugrīva",
+      "type": "person"
+    },
+    {
+      "id": "surya",
+      "label": "Sūrya / Āditya",
+      "type": "deity"
+    },
+    {
+      "id": "lomasa",
+      "label": "Lomaśa",
+      "type": "person"
+    },
+    {
+      "id": "yudhisthira",
+      "label": "Yudhiṣṭhira",
+      "type": "person"
+    },
+    {
+      "id": "salya",
+      "label": "Śalya",
+      "type": "person"
+    },
+    {
+      "id": "nahusha",
+      "label": "Nahuṣa",
+      "type": "person"
+    },
+    {
+      "id": "srutarvan",
+      "label": "Śrutarvan",
+      "type": "person"
+    },
+    {
+      "id": "vradhnasva",
+      "label": "Vṛdhnaśva",
+      "type": "person"
+    },
+    {
+      "id": "trasadasyu",
+      "label": "Trasadasyu · epic witness",
+      "type": "person"
+    },
+    {
+      "id": "ilvala",
+      "label": "Ilvala",
+      "type": "asura"
+    },
+    {
+      "id": "vatapi",
+      "label": "Vātāpi",
+      "type": "asura"
+    },
+    {
+      "id": "vidarbha_king",
+      "label": "Unnamed Vidarbha king",
+      "type": "person"
+    },
+    {
+      "id": "dridhasyu",
+      "label": "Dṛḍhasyu / Idhmavāha · epic witness",
+      "type": "person"
+    },
+    {
+      "id": "indradyumna",
+      "label": "Indradyumna · Bhāgavata witness",
+      "type": "person"
+    },
+    {
+      "id": "suka",
+      "label": "Śuka",
+      "type": "person"
+    },
+    {
+      "id": "tolkappiyar",
+      "label": "Tolkāppiyar",
+      "type": "person"
+    },
+    {
+      "id": "naccinarkkiniyar",
+      "label": "Nacciṉārkkiṉiyar",
+      "type": "commentator"
+    },
+    {
+      "id": "peraciriyar",
+      "label": "Pērāciriyar",
+      "type": "commentator"
+    },
+    {
+      "id": "kapilar",
+      "label": "Kapilar",
+      "type": "poet"
+    },
+    {
+      "id": "avalokitesvara",
+      "label": "Avalokiteśvara",
+      "type": "bodhisattva"
+    },
+    {
+      "id": "siva",
+      "label": "Śiva",
+      "type": "deity"
+    },
+    {
+      "id": "skanda",
+      "label": "Skanda",
+      "type": "deity"
+    },
+    {
+      "id": "velir",
+      "label": "Vēḷir",
+      "type": "people_collective"
+    },
+    {
+      "id": "pancavati",
+      "label": "Pañcavaṭī",
+      "type": "place"
+    },
+    {
+      "id": "godavari",
+      "label": "Godāvarī",
+      "type": "place"
+    },
+    {
+      "id": "dandaka",
+      "label": "Daṇḍaka forest",
+      "type": "place"
+    },
+    {
+      "id": "malaya",
+      "label": "Malaya mountain",
+      "type": "place"
+    },
+    {
+      "id": "gangadvara",
+      "label": "Gaṅgādvāra",
+      "type": "place"
+    },
+    {
+      "id": "vidarbha",
+      "label": "Vidarbha",
+      "type": "place"
+    },
+    {
+      "id": "manimati",
+      "label": "Maṇimati",
+      "type": "place"
+    },
+    {
+      "id": "vindhya",
+      "label": "Vindhya · personified mountain",
+      "type": "place"
+    },
+    {
+      "id": "south",
+      "label": "Southern region",
+      "type": "place"
+    },
+    {
+      "id": "ocean",
+      "label": "Ocean · unspecified",
+      "type": "place"
+    },
+    {
+      "id": "potiyil",
+      "label": "Potiyil / Pothigai",
+      "type": "place"
+    },
+    {
+      "id": "dvaraka",
+      "label": "Dvārakā · commentary identification",
+      "type": "place"
+    },
+    {
+      "id": "pandya",
+      "label": "Pāṇḍya / Draviḍa",
+      "type": "place"
+    },
+    {
+      "id": "kulacala",
+      "label": "Kulācala · translated as Malaya Hills",
+      "type": "place"
+    }
+  ],
+  "sources": [
+    {
+      "id": "rv170",
+      "title": "Ṛgveda 1.170",
+      "url": "https://sacred-texts.com/hin/rigveda/rv01170.htm",
+      "kind": "primary_translation",
+      "edition": "R. T. H. Griffith translation",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "rv179",
+      "title": "Ṛgveda 1.179",
+      "url": "https://sacred-texts.com/hin/rigveda/rv01179.htm",
+      "kind": "primary_translation",
+      "edition": "Griffith; some verses rendered in Latin; speaker assignments are editorial",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "rv180",
+      "title": "Ṛgveda 1.180",
+      "url": "https://sacred-texts.com/hin/rigveda/rv01180.htm",
+      "kind": "primary_translation",
+      "edition": "Griffith translation",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "rv733",
+      "title": "Ṛgveda 7.33",
+      "url": "https://sacred-texts.com/hin/rigveda/rv07033.htm",
+      "kind": "primary_translation",
+      "edition": "Griffith translation",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "ts",
+      "title": "Taittirīya Saṃhitā 7.5.5",
+      "url": "https://sacred-texts.com/hin/yv/yv07.htm",
+      "kind": "primary_translation",
+      "edition": "A. B. Keith translation",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "ram311",
+      "title": "Rāmāyaṇa 3.11",
+      "url": "https://www.valmikiramayan.net/utf8/aranya/sarga11/aranya_11_prose.htm",
+      "kind": "primary_translation",
+      "edition": "Desiraju Hanumanta Rao prose translation; site chapter numbering; commentary interspersed",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "ram312",
+      "title": "Rāmāyaṇa 3.12",
+      "url": "https://www.valmikiramayan.net/utf8/aranya/sarga12/aranya_12_prose.htm",
+      "kind": "primary_translation",
+      "edition": "Desiraju Hanumanta Rao prose translation; site chapter numbering; commentary interspersed",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "ram313",
+      "title": "Rāmāyaṇa 3.13",
+      "url": "https://www.valmikiramayan.net/utf8/aranya/sarga13/aranya_13_prose.htm",
+      "kind": "primary_translation",
+      "edition": "Desiraju Hanumanta Rao prose translation; site chapter numbering; commentary interspersed",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "ram441",
+      "title": "Rāmāyaṇa 4.41",
+      "url": "https://www.valmikiramayan.net/utf8/kish/sarga41/kishkindha_41_prose.htm",
+      "kind": "primary_translation",
+      "edition": "D. H. Rao prose translation; commentary interspersed",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "ram6105",
+      "title": "Rāmāyaṇa 6.105: Ādityahṛdaya",
+      "url": "https://www.valmikiramayan.net/utf8/yuddha/sarga105/yuddha_105_prose.htm",
+      "kind": "primary_translation",
+      "edition": "Site numbering; often 6.107 in other editions; no automatic equivalence to critical-edition numbering",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb396",
+      "title": "Mahābhārata, Vana Parva, Ganguli §96",
+      "url": "https://sacred-texts.com/hin/m03/m03096.htm",
+      "kind": "primary_translation",
+      "edition": "K. M. Ganguli translation; section numbers are NOT BORI critical-edition chapter numbers",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb397",
+      "title": "Mahābhārata, Vana Parva, Ganguli §97",
+      "url": "https://sacred-texts.com/hin/m03/m03097.htm",
+      "kind": "primary_translation",
+      "edition": "K. M. Ganguli translation; section numbers are NOT BORI critical-edition chapter numbers",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb398",
+      "title": "Mahābhārata, Vana Parva, Ganguli §98",
+      "url": "https://sacred-texts.com/hin/m03/m03098.htm",
+      "kind": "primary_translation",
+      "edition": "K. M. Ganguli translation; section numbers are NOT BORI critical-edition chapter numbers",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb399",
+      "title": "Mahābhārata, Vana Parva, Ganguli §99",
+      "url": "https://sacred-texts.com/hin/m03/m03099.htm",
+      "kind": "primary_translation",
+      "edition": "K. M. Ganguli translation; section numbers are NOT BORI critical-edition chapter numbers",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb3103",
+      "title": "Mahābhārata, Vana Parva, Ganguli §103",
+      "url": "https://sacred-texts.com/hin/m03/m03103.htm",
+      "kind": "primary_translation",
+      "edition": "K. M. Ganguli translation; section numbers are NOT BORI critical-edition chapter numbers",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb3104",
+      "title": "Mahābhārata, Vana Parva, Ganguli §104",
+      "url": "https://sacred-texts.com/hin/m03/m03104.htm",
+      "kind": "primary_translation",
+      "edition": "K. M. Ganguli translation; section numbers are NOT BORI critical-edition chapter numbers",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb517",
+      "title": "Mahābhārata, Udyoga Parva, Ganguli §17",
+      "url": "https://sacred-texts.com/hin/m05/m05017.htm",
+      "kind": "primary_translation",
+      "edition": "K. M. Ganguli translation; non-critical-edition section numbering",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "bp6185",
+      "title": "Bhāgavata Purāṇa 6.18.5",
+      "url": "https://vedabase.io/en/library/sb/6/18/5/",
+      "kind": "primary_translation",
+      "edition": "Bhaktivedanta Book Trust Sanskrit and translation; distinguish translation/purport from verse",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "bp6186",
+      "title": "Bhāgavata Purāṇa 6.18.6",
+      "url": "https://vedabase.io/en/library/sb/6/18/6/",
+      "kind": "primary_translation",
+      "edition": "Bhaktivedanta Book Trust Sanskrit and translation; distinguish translation/purport from verse",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "bp847",
+      "title": "Bhāgavata Purāṇa 8.4.7",
+      "url": "https://vedabase.io/en/library/sb/8/4/7/",
+      "kind": "primary_translation",
+      "edition": "Bhaktivedanta Book Trust Sanskrit and translation; distinguish translation/purport from verse",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "bp848",
+      "title": "Bhāgavata Purāṇa 8.4.8",
+      "url": "https://vedabase.io/en/library/sb/8/4/8/",
+      "kind": "primary_translation",
+      "edition": "Bhaktivedanta Book Trust Sanskrit and translation; distinguish translation/purport from verse",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "bp8410",
+      "title": "Bhāgavata Purāṇa 8.4.10",
+      "url": "https://vedabase.io/en/library/sb/8/4/10/",
+      "kind": "primary_translation",
+      "edition": "Bhaktivedanta Book Trust Sanskrit and translation; distinguish translation/purport from verse",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "bp91051",
+      "title": "Bhāgavata Purāṇa 9.10.51",
+      "url": "https://vedabase.io/en/library/sb/9/10/51/",
+      "kind": "primary_translation",
+      "edition": "Bhaktivedanta Book Trust Sanskrit and translation; distinguish translation/purport from verse",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "zvelebil",
+      "title": "Kamil Zvelebil, Pre-history of Tamil Literature",
+      "url": "https://www.tamiluniversity.ac.in/english/wp-content/uploads/2018/08/paper_01-PDF.pdf",
+      "kind": "scholarship",
+      "edition": "2010 excerpts from Tamil Literature (1975)",
+      "locator": "printed pp. 9–11, 15",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mahadevan",
+      "title": "Iravatham Mahadevan, Meluhha and Agastya (2009)",
+      "url": "https://www.harappa.com/sites/default/files/pdf/meluhha_and_agastya_2009.pdf",
+      "kind": "scholarship",
+      "edition": "",
+      "locator": "§§4.9–4.11, pp. 13–16",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "rvdate",
+      "title": "Jamison and Brereton, The Rigveda (2020)",
+      "url": "https://academic.oup.com/book/33632",
+      "kind": "scholarship",
+      "edition": "",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "rvdating",
+      "title": "Jamison and Brereton, Dating and Authorship",
+      "url": "https://academic.oup.com/book/33632/chapter-abstract/288152909",
+      "kind": "scholarship",
+      "edition": "",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "epicdate",
+      "title": "Gregory Nagy, Homeric Questions: comparison with Sanskrit epics",
+      "url": "https://www-current.chs.harvard.edu/homeric-questions-2/",
+      "kind": "scholarship",
+      "edition": "",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "bpdate",
+      "title": "Barbara Holdrege, Mystical Cognition and Canonical Authority (2000)",
+      "url": "https://academic.oup.com/book/2098/chapter-abstract/142029717",
+      "kind": "scholarship",
+      "edition": "",
+      "locator": "",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "bpearly",
+      "title": "Amarnath Ray, Bhāgavata Purāna and the Kārikās of Gaudapāda (1935)",
+      "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/bhagavata-purana-and-the-karikas-of-gaudapada/530F523DFEF6E24819E6D38249DCB079",
+      "kind": "scholarship",
+      "edition": "",
+      "locator": "",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C001",
+      "facet": "vedic",
+      "subject": "rv",
+      "predicate": "explicitly_names",
+      "object": "vedic",
+      "source": "rv170",
+      "locator": "1.170.3",
+      "summary": "Agastya is named in direct address.",
+      "category": "text",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C002",
+      "facet": "vedic",
+      "subject": "indra",
+      "predicate": "addresses",
+      "object": "vedic",
+      "source": "rv170",
+      "locator": "1.170.3",
+      "summary": "Indra questions Agastya’s withholding of an offering.",
+      "category": "incoming",
+      "status": "translation_checked",
+      "speaker": "Indra",
+      "note": "Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C003",
+      "facet": "vedic",
+      "subject": "vedic",
+      "predicate": "addresses",
+      "object": "indra",
+      "source": "rv170",
+      "locator": "1.170.2, 5",
+      "summary": "The dialogue voice appeals to Indra for accommodation with the Maruts.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya, by dialogue attribution",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C004",
+      "facet": "vedic",
+      "subject": "vedic",
+      "predicate": "mentions",
+      "object": "maruts",
+      "source": "rv170",
+      "locator": "1.170.2, 5",
+      "summary": "The appeal concerns the Maruts.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya, by dialogue attribution",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C005",
+      "facet": "vedic",
+      "subject": "rv",
+      "predicate": "explicitly_names",
+      "object": "vedic",
+      "source": "rv179",
+      "locator": "1.179.6",
+      "summary": "The closing stanza names Agastya and his desire for offspring.",
+      "category": "text",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C006",
+      "facet": "vedic",
+      "subject": "lopamudra",
+      "predicate": "dialogue_with",
+      "object": "vedic",
+      "source": "rv179",
+      "locator": "1.179.1–4",
+      "summary": "Lopāmudrā and Agastya form the marital dialogue.",
+      "category": "incoming",
+      "status": "editorial_attribution",
+      "speaker": null,
+      "note": "Names occur in verses 4 and 6; assignment of the individual speeches is editorial/traditional.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C007",
+      "facet": "vedic",
+      "subject": "vedic",
+      "predicate": "dialogue_with",
+      "object": "lopamudra",
+      "source": "rv179",
+      "locator": "1.179.3–4",
+      "summary": "Agastya’s response belongs to the received dialogue interpretation.",
+      "category": "outgoing",
+      "status": "editorial_attribution",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C008",
+      "facet": "vedic",
+      "subject": "rv",
+      "predicate": "explicitly_names",
+      "object": "vedic",
+      "source": "rv733",
+      "locator": "7.33.10",
+      "summary": "Agastya appears within the Vasiṣṭha birth hymn.",
+      "category": "text",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "Do not silently replace the distinct name Māna in verse 13 with Agastya.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C009",
+      "facet": "vedic",
+      "subject": "vedic",
+      "predicate": "associated_with_birth_of",
+      "object": "vasistha",
+      "source": "rv733",
+      "locator": "7.33.10–13",
+      "summary": "The hymn connects Agastya with Vasiṣṭha’s birth imagery.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "This does not make Vasiṣṭha the identified speaker, nor establish a historical sibling relationship.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C010",
+      "facet": "vedic",
+      "subject": "vedic",
+      "predicate": "invokes",
+      "object": "asvins",
+      "source": "rv180",
+      "locator": "1.180.8",
+      "summary": "The verse explicitly says Agastya roused the Aśvins with praises.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C011",
+      "facet": "vedic",
+      "subject": "vedic",
+      "predicate": "mentions_in_attributed_hymn",
+      "object": "atri",
+      "source": "rv180",
+      "locator": "1.180.4",
+      "summary": "The hymn recalls aid given to Atri.",
+      "category": "outgoing",
+      "status": "editorial_attribution",
+      "speaker": null,
+      "note": "Hymn attribution is not a statement that Agastya personally met Atri.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C012",
+      "facet": "vedic",
+      "subject": "vedic",
+      "predicate": "mentions_in_attributed_hymn",
+      "object": "tugras_son",
+      "source": "rv180",
+      "locator": "1.180.5",
+      "summary": "Tugra’s son is invoked as a precedent.",
+      "category": "outgoing",
+      "status": "editorial_attribution",
+      "speaker": null,
+      "note": "Retain the wording Tugra’s son; do not automatically resolve to a unique Bhujyu.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C013",
+      "facet": "vedic",
+      "subject": "ts_text",
+      "predicate": "attributes_hymn_to",
+      "object": "vedic",
+      "source": "ts",
+      "locator": "7.5.5",
+      "summary": "Ritual instructions identify a hymn as Agastya’s.",
+      "category": "text",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "This is a later Vedic attribution, not a contemporary eyewitness report.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C014",
+      "facet": "ramayana",
+      "subject": "ram",
+      "predicate": "portrays",
+      "object": "ramayana",
+      "source": "ram312",
+      "locator": "3.12",
+      "summary": "Agastya receives the exiled party.",
+      "category": "text",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C015",
+      "facet": "ramayana",
+      "subject": "rama",
+      "predicate": "speaks_about",
+      "object": "ramayana",
+      "source": "ram311",
+      "locator": "3.11",
+      "summary": "Rāma recounts Agastya’s deeds en route to his hermitage.",
+      "category": "incoming",
+      "status": "translation_checked",
+      "speaker": "Rāma",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C016",
+      "facet": "ramayana",
+      "subject": "sutikshna",
+      "predicate": "gives_directions_to",
+      "object": "ramayana",
+      "source": "ram311",
+      "locator": "3.11",
+      "summary": "Sutīkṣṇa directs the party toward Agastya.",
+      "category": "incoming",
+      "status": "translation_checked",
+      "speaker": "Sutīkṣṇa",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C017",
+      "facet": "ramayana",
+      "subject": "lakshmana",
+      "predicate": "requests_audience_with",
+      "object": "ramayana",
+      "source": "ram312",
+      "locator": "3.12",
+      "summary": "Lakṣmaṇa asks Agastya’s disciple to announce their arrival.",
+      "category": "incoming",
+      "status": "translation_checked",
+      "speaker": "Lakṣmaṇa",
+      "note": "The request is made to a disciple; it is not direct speech to Agastya.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C018",
+      "facet": "ramayana",
+      "subject": "rama",
+      "predicate": "asks_for_residence_advice",
+      "object": "ramayana",
+      "source": "ram313",
+      "locator": "3.13",
+      "summary": "Rāma asks the sage where to reside.",
+      "category": "incoming",
+      "status": "translation_checked",
+      "speaker": "Rāma",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C019",
+      "facet": "ramayana",
+      "subject": "ramayana",
+      "predicate": "addresses",
+      "object": "rama",
+      "source": "ram313",
+      "locator": "3.13",
+      "summary": "Agastya advises Rāma about residence and Sītā.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C020",
+      "facet": "ramayana",
+      "subject": "ramayana",
+      "predicate": "addresses",
+      "object": "lakshmana",
+      "source": "ram313",
+      "locator": "3.13, opening greeting",
+      "summary": "Agastya greets Lakṣmaṇa.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C021",
+      "facet": "ramayana",
+      "subject": "ramayana",
+      "predicate": "mentions",
+      "object": "sita",
+      "source": "ram313",
+      "locator": "3.13",
+      "summary": "Agastya praises Sītā’s endurance and fidelity.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C022",
+      "facet": "ramayana",
+      "subject": "ramayana",
+      "predicate": "claims_friendship_with",
+      "object": "dasaratha",
+      "source": "ram313",
+      "locator": "3.13",
+      "summary": "Agastya states his friendship with Daśaratha.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C023",
+      "facet": "ramayana",
+      "subject": "ramayana",
+      "predicate": "compares_sita_to",
+      "object": "arundhati",
+      "source": "ram313",
+      "locator": "3.13",
+      "summary": "Arundhatī is the comparison for Sītā.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C024",
+      "facet": "ramayana",
+      "subject": "ramayana",
+      "predicate": "recommends_residence_at",
+      "object": "pancavati",
+      "source": "ram313",
+      "locator": "3.13",
+      "summary": "Pañcavaṭī is specified as two yojanas away.",
+      "category": "place_direct",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "No conversion to modern kilometres or coordinates is assumed.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C025",
+      "facet": "ramayana",
+      "subject": "ramayana",
+      "predicate": "names_river",
+      "object": "godavari",
+      "source": "ram313",
+      "locator": "3.13",
+      "summary": "Godāvarī is named in the recommended surroundings.",
+      "category": "place_direct",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C026",
+      "facet": "ramayana",
+      "subject": "sugriva",
+      "predicate": "speaks_about",
+      "object": "ramayana",
+      "source": "ram441",
+      "locator": "4.41",
+      "summary": "Sugrīva directs the southern search party toward Agastya.",
+      "category": "incoming",
+      "status": "translation_checked",
+      "speaker": "Sugrīva",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C027",
+      "facet": "ramayana",
+      "subject": "ramayana",
+      "predicate": "located_on",
+      "object": "malaya",
+      "source": "ram441",
+      "locator": "4.41",
+      "summary": "Sugrīva locates Agastya on Malaya.",
+      "category": "place_association",
+      "status": "translation_checked",
+      "speaker": "Sugrīva",
+      "note": "This is Sugrīva’s geographical statement, not a place named by Agastya himself. Modern identification requires separate evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C028",
+      "facet": "ramayana",
+      "subject": "ramayana",
+      "predicate": "teaches_praise_of",
+      "object": "surya",
+      "source": "ram6105",
+      "locator": "6.105, Ādityahṛdaya",
+      "summary": "Agastya instructs Rāma to worship the sun.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C029",
+      "facet": "mahabharata",
+      "subject": "mb",
+      "predicate": "recounts_deeds_of",
+      "object": "mahabharata",
+      "source": "mb396",
+      "locator": "Vana §96",
+      "summary": "Agastya’s past deeds frame a pilgrimage account.",
+      "category": "text",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C030",
+      "facet": "mahabharata",
+      "subject": "yudhisthira",
+      "predicate": "asks_about",
+      "object": "mahabharata",
+      "source": "mb396",
+      "locator": "Vana §96",
+      "summary": "Yudhiṣṭhira asks why Agastya killed Vātāpi.",
+      "category": "incoming",
+      "status": "translation_checked",
+      "speaker": "Yudhiṣṭhira",
+      "note": "He asks Lomaśa, not Agastya; no meeting is asserted.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C031",
+      "facet": "mahabharata",
+      "subject": "lomasa",
+      "predicate": "narrates_deeds_of",
+      "object": "mahabharata",
+      "source": "mb396",
+      "locator": "Vana §§96–99",
+      "summary": "Lomaśa recounts Agastya’s earlier life.",
+      "category": "incoming",
+      "status": "translation_checked",
+      "speaker": "Lomaśa",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C032",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "requests_marriage_from",
+      "object": "vidarbha_king",
+      "source": "mb397",
+      "locator": "Vana §97",
+      "summary": "Agastya asks the Vidarbha ruler for Lopāmudrā.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C033",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "speaks_to_spouse",
+      "object": "lopamudra",
+      "source": "mb397",
+      "locator": "Vana §97",
+      "summary": "The spouses discuss household life and wealth.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C034",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "practises_austerities_at",
+      "object": "gangadvara",
+      "source": "mb397",
+      "locator": "Vana §97",
+      "summary": "The couple goes to Gaṅgādvāra.",
+      "category": "place_association",
+      "status": "translation_checked",
+      "speaker": "Lomaśa",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C035",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "marriage_associated_with",
+      "object": "vidarbha",
+      "source": "mb397",
+      "locator": "Vana §97",
+      "summary": "Lopāmudrā is given by the Vidarbha king.",
+      "category": "place_association",
+      "status": "translation_checked",
+      "speaker": "Lomaśa",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C036",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "requests_wealth_from",
+      "object": "srutarvan",
+      "source": "mb398",
+      "locator": "Vana §98",
+      "summary": "Agastya requests wealth without harm to others.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C037",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "requests_wealth_from",
+      "object": "vradhnasva",
+      "source": "mb398",
+      "locator": "Vana §98",
+      "summary": "Agastya requests wealth without harm to others.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C038",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "requests_wealth_from",
+      "object": "trasadasyu",
+      "source": "mb398",
+      "locator": "Vana §98",
+      "summary": "Agastya requests wealth without harm to others.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "Trasadasyu is called Purukutsa’s son here; cross-text identity with a Vedic king remains untested.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C039",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "speaks_to",
+      "object": "ilvala",
+      "source": "mb399",
+      "locator": "Vana §99",
+      "summary": "Agastya addresses Ilvala about Vātāpi and wealth.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C040",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "destroys",
+      "object": "vatapi",
+      "source": "mb399",
+      "locator": "Vana §99",
+      "summary": "The episode recounts Vātāpi’s destruction.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Lomaśa",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C041",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "father_of",
+      "object": "dridhasyu",
+      "source": "mb399",
+      "locator": "Vana §99",
+      "summary": "The son is called Dṛḍhasyu and also Idhmavāha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "Keep this epic identity local to its witness; later Vedic attribution indexes may differ.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C042",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "speaks_to_and_crosses",
+      "object": "vindhya",
+      "source": "mb3104",
+      "locator": "Vana §104",
+      "summary": "Agastya asks Vindhya to remain low until his return.",
+      "category": "place_direct",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "The mountain is a speaking narrative agent as well as a place.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C043",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "announces_journey_to",
+      "object": "south",
+      "source": "mb3104",
+      "locator": "Vana §104",
+      "summary": "Agastya says he will travel south.",
+      "category": "place_direct",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C044",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "approaches",
+      "object": "ocean",
+      "source": "mb3104",
+      "locator": "Vana §104",
+      "summary": "Agastya accompanies the gods to the sea.",
+      "category": "place_association",
+      "status": "translation_checked",
+      "speaker": "Lomaśa",
+      "note": "No specific sea or shoreline is identified here.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C045",
+      "facet": "mahabharata",
+      "subject": "salya",
+      "predicate": "narrates_deeds_of",
+      "object": "mahabharata",
+      "source": "mb517",
+      "locator": "Udyoga §17",
+      "summary": "Śalya narrates Agastya’s report to Indra.",
+      "category": "incoming",
+      "status": "translation_checked",
+      "speaker": "Śalya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C046",
+      "facet": "mahabharata",
+      "subject": "indra",
+      "predicate": "addresses",
+      "object": "mahabharata",
+      "source": "mb517",
+      "locator": "Udyoga §17",
+      "summary": "Indra asks Agastya how Nahuṣa fell.",
+      "category": "incoming",
+      "status": "translation_checked",
+      "speaker": "Indra",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C047",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "reports_to",
+      "object": "indra",
+      "source": "mb517",
+      "locator": "Udyoga §17",
+      "summary": "Agastya tells Indra about Nahuṣa’s fall.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C048",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "curses",
+      "object": "nahusha",
+      "source": "mb517",
+      "locator": "Udyoga §17",
+      "summary": "Agastya recounts cursing Nahuṣa to serpent existence.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "Ganguli gives ten thousand years for the curse; this is not Agastya’s age.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C049",
+      "facet": "puranic",
+      "subject": "bp",
+      "predicate": "names",
+      "object": "puranic",
+      "source": "bp6185",
+      "locator": "6.18.5",
+      "summary": "Agastya and Vasiṣṭha occur together.",
+      "category": "text",
+      "status": "translation_checked",
+      "speaker": "Śuka",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C050",
+      "facet": "puranic",
+      "subject": "suka",
+      "predicate": "narrates_genealogy_of",
+      "object": "puranic",
+      "source": "bp6185",
+      "locator": "6.18.5",
+      "summary": "Śuka’s genealogical account names Agastya.",
+      "category": "incoming",
+      "status": "translation_checked",
+      "speaker": "Śuka",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C051",
+      "facet": "puranic",
+      "subject": "puranic",
+      "predicate": "mythic_son_of",
+      "object": "mitra",
+      "source": "bp6185",
+      "locator": "6.18.5",
+      "summary": "The verse assigns shared Mitra–Varuṇa parentage.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "Mythic genealogy, not independently dated biological evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C052",
+      "facet": "puranic",
+      "subject": "puranic",
+      "predicate": "mythic_son_of",
+      "object": "varuna",
+      "source": "bp6185",
+      "locator": "6.18.5",
+      "summary": "The verse assigns shared Mitra–Varuṇa parentage.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "Mythic genealogy, not independently dated biological evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C053",
+      "facet": "puranic",
+      "subject": "puranic",
+      "predicate": "shares_parentage_with",
+      "object": "vasistha",
+      "source": "bp6185",
+      "locator": "6.18.5",
+      "summary": "The two sages share the stated parentage.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C054",
+      "facet": "puranic",
+      "subject": "puranic",
+      "predicate": "birth_story_involves",
+      "object": "urvasi",
+      "source": "bp6186",
+      "locator": "6.18.5–6",
+      "summary": "Urvaśī appears in the jar-birth context.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "Do not flatten this into an ordinary mother–son relationship.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C055",
+      "facet": "puranic",
+      "subject": "puranic",
+      "predicate": "curses",
+      "object": "indradyumna",
+      "source": "bp8410",
+      "locator": "8.4.10",
+      "summary": "Agastya curses the silent king to elephant existence.",
+      "category": "outgoing",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C056",
+      "facet": "puranic",
+      "subject": "indradyumna",
+      "predicate": "ruler_of",
+      "object": "pandya",
+      "source": "bp847",
+      "locator": "8.4.7",
+      "summary": "The king is associated with Pāṇḍya and Draviḍa.",
+      "category": "place_association",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "Indirect geography through an associated king, not Agastya’s own place statement.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C057",
+      "facet": "puranic",
+      "subject": "indradyumna",
+      "predicate": "has_hermitage_at",
+      "object": "kulacala",
+      "source": "bp848",
+      "locator": "8.4.8",
+      "summary": "The king’s hermitage is on Kulācala.",
+      "category": "place_association",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "The translation identifies this as Malaya Hills; the verse has kulācala.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C058",
+      "facet": "tamil",
+      "subject": "tol_commentary",
+      "predicate": "portrays",
+      "object": "tamil",
+      "source": "zvelebil",
+      "locator": "pp. 9–11, 15",
+      "summary": "Medieval commentaries elaborate Akattiyar traditions.",
+      "category": "text",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C059",
+      "facet": "tamil",
+      "subject": "naccinarkkiniyar",
+      "predicate": "writes_about",
+      "object": "tamil",
+      "source": "zvelebil",
+      "locator": "p. 15",
+      "summary": "The commentator links Tolkāppiyar to Agastya.",
+      "category": "incoming",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C060",
+      "facet": "tamil",
+      "subject": "peraciriyar",
+      "predicate": "writes_about",
+      "object": "tamil",
+      "source": "zvelebil",
+      "locator": "pp. 10, 15",
+      "summary": "Pērāciriyar defends the pupil tradition.",
+      "category": "incoming",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C061",
+      "facet": "tamil",
+      "subject": "tamil",
+      "predicate": "traditionally_teaches",
+      "object": "tolkappiyar",
+      "source": "zvelebil",
+      "locator": "pp. 9, 15",
+      "summary": "Tolkāppiyar is presented as Agastya’s pupil.",
+      "category": "relationship",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "A commentary tradition; not an explicit statement in the Tolkāppiyam base text.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C062",
+      "facet": "tamil",
+      "subject": "tamil",
+      "predicate": "traditionally_authors",
+      "object": "akattiyam",
+      "source": "mahadevan",
+      "locator": "§4.10, p. 15",
+      "summary": "A lost Tamil grammar is attributed to Agastya.",
+      "category": "text",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "No surviving complete authorial text has been verified here.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C063",
+      "facet": "tamil",
+      "subject": "tamil",
+      "predicate": "traditionally_settles_at",
+      "object": "potiyil",
+      "source": "mahadevan",
+      "locator": "§4.11, p. 16",
+      "summary": "The migration account ends at Potiyil.",
+      "category": "place_association",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C064",
+      "facet": "tamil",
+      "subject": "tamil",
+      "predicate": "traditionally_leads_migration_from",
+      "object": "dvaraka",
+      "source": "mahadevan",
+      "locator": "§4.11, p. 16",
+      "summary": "The commentary account starts the migration at Tuvarāpati.",
+      "category": "place_association",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "Dvārakā is the reported identification; not a verified migration date.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C065",
+      "facet": "tamil",
+      "subject": "tamil",
+      "predicate": "traditionally_leads",
+      "object": "velir",
+      "source": "mahadevan",
+      "locator": "§4.11, p. 16",
+      "summary": "The Vēḷir accompany the southern migration.",
+      "category": "relationship",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C066",
+      "facet": "tamil",
+      "subject": "viracoliyam",
+      "predicate": "portrays",
+      "object": "tamil",
+      "source": "mahadevan",
+      "locator": "§4.10, p. 15",
+      "summary": "A Buddhist Tamil-learning tradition is reported.",
+      "category": "text",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C067",
+      "facet": "tamil",
+      "subject": "tamil",
+      "predicate": "traditionally_learns_tamil_from",
+      "object": "avalokitesvara",
+      "source": "mahadevan",
+      "locator": "§4.10, p. 15",
+      "summary": "The Buddhist tradition makes Avalokiteśvara the teacher.",
+      "category": "relationship",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C068",
+      "facet": "tamil",
+      "subject": "tamil",
+      "predicate": "alternatively_learns_tamil_from",
+      "object": "siva",
+      "source": "mahadevan",
+      "locator": "§4.10, p. 15",
+      "summary": "Another tradition assigns the instruction to Śiva.",
+      "category": "relationship",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C069",
+      "facet": "tamil",
+      "subject": "tamil",
+      "predicate": "alternatively_learns_tamil_from",
+      "object": "skanda",
+      "source": "mahadevan",
+      "locator": "§4.10, p. 15",
+      "summary": "Skanda is another reported teacher.",
+      "category": "relationship",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C070",
+      "facet": "tamil",
+      "subject": "puram201",
+      "predicate": "possibly_alludes_to",
+      "object": "tamil",
+      "source": "mahadevan",
+      "locator": "§4.9, pp. 13–14",
+      "summary": "Mahadevan identifies an unnamed northern sage with Agastya.",
+      "category": "text",
+      "status": "identity_hypothesis",
+      "speaker": null,
+      "note": "The poem does not name Agastya. Its 49-generation claim concerns a Vēḷir ancestor, not an Agastya lifespan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "C071",
+      "facet": "tamil",
+      "subject": "kapilar",
+      "predicate": "possibly_alludes_to",
+      "object": "tamil",
+      "source": "mahadevan",
+      "locator": "§4.9, pp. 13–14",
+      "summary": "The proposed identification would make Kapilar an indirect witness.",
+      "category": "incoming",
+      "status": "identity_hypothesis",
+      "speaker": null,
+      "note": "Keep separate from explicit named attestations; the identification is disputed.",
+      "original_language_reviewed": false
+    }
+  ],
+  "chronology": [
+    {
+      "id": "T01",
+      "facet": "vedic",
+      "kind": "text_composition",
+      "label": "Ṛgvedic textual horizon",
+      "range": "Latter half of the second millennium BCE",
+      "start": -1500,
+      "end": -1000,
+      "source": "rvdate",
+      "note": "Broad corpus horizon from Jamison–Brereton; not a dated birth, death, or individual hymn. Oral composition complicates finer dating."
+    },
+    {
+      "id": "T02",
+      "facet": "vedic",
+      "kind": "relative_textual",
+      "label": "Later Vedic reception",
+      "range": "After the hymn tradition; absolute range not assigned here",
+      "start": null,
+      "end": null,
+      "source": "ts",
+      "note": "Taittirīya Saṃhitā 7.5.5 already treats a hymn as Agastya’s; a date for this particular layer remains to be sourced."
+    },
+    {
+      "id": "T03",
+      "facet": "ramayana",
+      "kind": "narrative_synchronism",
+      "label": "Contemporary of Rāma and Daśaratha",
+      "range": "Rāma’s exile; friendship with the preceding king",
+      "start": null,
+      "end": null,
+      "source": "ram313",
+      "note": "Internal synchronism only. Does not independently supply a BCE year."
+    },
+    {
+      "id": "T04",
+      "facet": "ramayana",
+      "kind": "cross_text_traditional_placement",
+      "label": "Tretā-yuga linkage",
+      "range": "Tretā-yuga, through the Rāma synchronism",
+      "start": null,
+      "end": null,
+      "source": "bp91051",
+      "note": "Bhāgavata 9.10.51 puts Rāma’s reign in Tretā. Linking Agastya to it combines two texts; it is not an explicit birth date for Agastya."
+    },
+    {
+      "id": "T05",
+      "facet": "ramayana",
+      "kind": "text_formation",
+      "label": "Rāmāyaṇa formative period · Nagy synthesis",
+      "range": "Approximately 200 BCE–200 CE",
+      "start": -200,
+      "end": 200,
+      "source": "epicdate",
+      "note": "Broad scholarly model of epic formation; individual Agastya passages may have different histories. Earlier oral material and later growth are not excluded."
+    },
+    {
+      "id": "T06",
+      "facet": "mahabharata",
+      "kind": "narrative_order",
+      "label": "Past deeds in Yudhiṣṭhira’s narrative present",
+      "range": "Earlier than Lomaśa’s account to the Pāṇḍavas",
+      "start": null,
+      "end": null,
+      "source": "mb396",
+      "note": "The pilgrimage story establishes earlier deeds, not a meeting or a dated death. In §104 Agastya has not returned from the south as of the narrator’s present."
+    },
+    {
+      "id": "T07",
+      "facet": "mahabharata",
+      "kind": "narrative_duration",
+      "label": "Nahuṣa’s curse",
+      "range": "10,000 years in Ganguli’s Udyoga §17",
+      "start": null,
+      "end": null,
+      "source": "mb517",
+      "note": "The duration belongs to Nahuṣa’s serpent curse. It is not Agastya’s age and is not used as a calendar anchor."
+    },
+    {
+      "id": "T08",
+      "facet": "mahabharata",
+      "kind": "text_formation",
+      "label": "Mahābhārata formative period · Nagy synthesis",
+      "range": "Approximately 400 BCE–400 CE",
+      "start": -400,
+      "end": 400,
+      "source": "epicdate",
+      "note": "Broad corpus formation, not the date of the war or the date of Agastya."
+    },
+    {
+      "id": "T09",
+      "facet": "puranic",
+      "kind": "text_composition",
+      "label": "Bhāgavata · Holdrege’s dating",
+      "range": "9th or early 10th century CE",
+      "start": 800,
+      "end": 950,
+      "source": "bpdate",
+      "note": "Numeric endpoints are visualization approximations to the source’s century wording. Applies to text, not narrated persons."
+    },
+    {
+      "id": "T10",
+      "facet": "puranic",
+      "kind": "alternative_text_dating",
+      "label": "Bhāgavata · Ray’s older proposal",
+      "range": "550–650 CE; published in 1935",
+      "start": 550,
+      "end": 650,
+      "source": "bpearly",
+      "note": "Historical alternative in the dating literature; not represented as equal to a current consensus or as Agastya’s lifetime."
+    },
+    {
+      "id": "T11",
+      "facet": "tamil",
+      "kind": "commentary_attestation",
+      "label": "Nacciṉārkkiṉiyar commentary witness",
+      "range": "14th century CE in Zvelebil’s account",
+      "start": 1300,
+      "end": 1400,
+      "source": "zvelebil",
+      "note": "Dates this witness to the disciple tradition, not the origin of every Tamil Agastya tradition and not the life of Tolkāppiyar or Agastya."
+    },
+    {
+      "id": "T12",
+      "facet": "tamil",
+      "kind": "interpretive_hypothesis",
+      "label": "Indus cultural-memory hypothesis · Mahadevan",
+      "range": "Post-Indus migration interpretation; no individual lifespan",
+      "start": null,
+      "end": null,
+      "source": "mahadevan",
+      "note": "A modern interpretation of legends and undeciphered signs; no independently read Agastya inscription or secure absolute date is established."
+    }
+  ],
+  "open_work": [
+    "Align all epic passages to the Sanskrit and the critical apparatus; preserve current edition-specific numbering.",
+    "Audit the full Ṛgveda 1.165–191 attribution block and its named persons/places against an Anukramaṇī and a modern translation.",
+    "Check Aitareya Āraṇyaka 1.2.2, Kāṭhaka Saṃhitā 10.11, Maitrāyaṇī Saṃhitā 2.1, Aitareya Brāhmaṇa 5.16, Taittirīya Brāhmaṇa 2.7.11, Pañcaviṃśa Brāhmaṇa 21.14; citations are leads, not verified graph edges.",
+    "Read Tamil primary witnesses: Paripāṭal, Cilappatikāram, Maṇimēkalai, Vīracōḻiyam, Iraiyaṉār Akapporuḷ commentary, and Tolkāppiyam commentaries; source each date and variant.",
+    "Expand Purāṇic coverage beyond Bhāgavata and distinguish unrelated works called Agastyasaṃhitā.",
+    "Add Agastya/Canopus as a separate celestial entity after checking astronomical texts; do not infer a human lifespan from stellar visibility.",
+    "Investigate whether the epic Trasadasyu is identifiable with Vedic attestations, without automatic name merging.",
+    "Review manuscript witnesses, inscriptions, regional geography, Buddhist Akitti traditions, and Southeast Asian reception."
+  ]
+}

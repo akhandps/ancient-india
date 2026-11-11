@@ -1,0 +1,97 @@
+{
+  "as_of": "2026-10-27",
+  "rows": [
+    {
+      "id": "person-hypothesis",
+      "label": "Historical Agastya · conditional activity",
+      "kind": "hypothesis",
+      "range": "Somewhere within c. 1500–1000 BCE",
+      "start": -1499,
+      "end": -999,
+      "note": "Working scenario: a real individual stands behind the Agastya-attributed Vedic hymns, and those attributions reflect his activity. The broad Ṛgvedic composition horizon supplies a provisional activity window only under those additional assumptions. This is neither a 500-year lifespan nor an independently established birth/death range; a historical core could also predate the surviving formulations.",
+      "source": "Jamison and Brereton, The Rigveda (2020) · corpus date; historical-person placement is our conditional inference",
+      "url": "https://academic.oup.com/book/33632",
+      "status": "Conditional inference; no dated lifespan",
+      "chartRange": "c. 1500–1000 BCE · possible activity"
+    },
+    {
+      "id": "T01",
+      "label": "Ṛgveda · composition horizon",
+      "kind": "text",
+      "range": "Latter half of the second millennium BCE",
+      "start": -1499,
+      "end": -999,
+      "note": "Broad corpus horizon from Jamison–Brereton; not a dated birth, death, or individual hymn. Oral composition complicates finer dating.",
+      "source": "Jamison and Brereton, The Rigveda (2020)",
+      "url": "https://academic.oup.com/book/33632",
+      "status": "text composition",
+      "chartRange": "c. 1500–1000 BCE"
+    },
+    {
+      "id": "T08",
+      "label": "Mahābhārata · formative period",
+      "kind": "text",
+      "range": "Approximately 400 BCE–400 CE",
+      "start": -399,
+      "end": 400,
+      "note": "Broad corpus formation, not the date of the war or the date of Agastya.",
+      "source": "Gregory Nagy, Homeric Questions: comparison with Sanskrit epics",
+      "url": "https://www-current.chs.harvard.edu/homeric-questions-2/",
+      "status": "text formation",
+      "chartRange": "c. 400 BCE–400 CE"
+    },
+    {
+      "id": "T05",
+      "label": "Rāmāyaṇa · formative period",
+      "kind": "text",
+      "range": "Approximately 200 BCE–200 CE",
+      "start": -199,
+      "end": 200,
+      "note": "Broad scholarly model of epic formation; individual Agastya passages may have different histories. Earlier oral material and later growth are not excluded.",
+      "source": "Gregory Nagy, Homeric Questions: comparison with Sanskrit epics",
+      "url": "https://www-current.chs.harvard.edu/homeric-questions-2/",
+      "status": "text formation",
+      "chartRange": "c. 200 BCE–200 CE"
+    },
+    {
+      "id": "T10",
+      "label": "Bhāgavata · older alternative (Ray, 1935)",
+      "kind": "alternative",
+      "range": "550–650 CE; published in 1935",
+      "start": 550,
+      "end": 650,
+      "note": "Historical alternative in the dating literature; not represented as equal to a current consensus or as Agastya’s lifetime.",
+      "source": "Amarnath Ray, Bhāgavata Purāna and the Kārikās of Gaudapāda (1935)",
+      "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/bhagavata-purana-and-the-karikas-of-gaudapada/530F523DFEF6E24819E6D38249DCB079",
+      "status": "alternative text dating",
+      "chartRange": "550–650 CE · older alternative"
+    },
+    {
+      "id": "T09",
+      "label": "Bhāgavata · Holdrege’s dating",
+      "kind": "text",
+      "range": "9th or early 10th century CE",
+      "start": 800,
+      "end": 950,
+      "note": "Numeric endpoints are visualization approximations to the source’s century wording. Applies to text, not narrated persons.",
+      "source": "Barbara Holdrege, Mystical Cognition and Canonical Authority (2000)",
+      "url": "https://academic.oup.com/book/2098/chapter-abstract/142029717",
+      "status": "text composition",
+      "chartRange": "9th–early 10th century CE"
+    },
+    {
+      "id": "T11",
+      "label": "Nacciṉārkkiṉiyar · commentary witness",
+      "kind": "text",
+      "range": "14th century CE in Zvelebil’s account",
+      "start": 1300,
+      "end": 1400,
+      "note": "Dates this witness to the disciple tradition, not the origin of every Tamil Agastya tradition and not the life of Tolkāppiyar or Agastya.",
+      "source": "Kamil Zvelebil, Pre-history of Tamil Literature",
+      "url": "https://www.tamiluniversity.ac.in/english/wp-content/uploads/2018/08/paper_01-PDF.pdf",
+      "status": "commentary attestation",
+      "chartRange": "14th century CE"
+    }
+  ],
+  "assumption": "A historical core behind Vedic Agastya attributions; later texts are witnesses to the tradition, not additions to one lifespan."
+}

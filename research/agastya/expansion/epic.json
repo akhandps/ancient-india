@@ -1,0 +1,567 @@
+{
+  "nodes": [
+    {
+      "id": "epic_pitrs",
+      "label": "Agastya’s ancestors / Pitṛs",
+      "type": "person_collective"
+    }
+  ],
+  "sources": [
+    {
+      "id": "ram312",
+      "title": "Rāmāyaṇa 3.12",
+      "url": "https://www.valmikiramayan.net/utf8/aranya/sarga12/aranya_12_prose.htm",
+      "kind": "primary_translation",
+      "edition": "Desiraju Hanumanta Rao prose translation; site chapter numbering; commentary interspersed",
+      "locator": "narrative vv. 1–10 (site prose) and following weapons episode",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "ram311",
+      "title": "Rāmāyaṇa 3.11",
+      "url": "https://www.valmikiramayan.net/utf8/aranya/sarga11/aranya_11_prose.htm",
+      "kind": "primary_translation",
+      "edition": "Desiraju Hanumanta Rao prose translation; site chapter numbering; commentary interspersed",
+      "locator": "narrative opening and closing paragraphs",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "ram313",
+      "title": "Rāmāyaṇa 3.13",
+      "url": "https://www.valmikiramayan.net/utf8/aranya/sarga13/aranya_13_prose.htm",
+      "kind": "primary_translation",
+      "edition": "Desiraju Hanumanta Rao prose translation; site chapter numbering; commentary interspersed",
+      "locator": "narrative opening and verses directing Rama to Pañcavaṭī",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb396",
+      "title": "Mahābhārata, Vana Parva, Ganguli §96",
+      "url": "https://sacred-texts.com/hin/m03/m03096.htm",
+      "kind": "primary_translation",
+      "edition": "K. M. Ganguli translation; section numbers are not BORI critical-edition chapter numbers",
+      "locator": "§96",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb397",
+      "title": "Mahābhārata, Vana Parva, Ganguli §97",
+      "url": "https://sacred-texts.com/hin/m03/m03097.htm",
+      "kind": "primary_translation",
+      "edition": "K. M. Ganguli translation; section numbers are not BORI critical-edition chapter numbers",
+      "locator": "§97",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb398",
+      "title": "Mahābhārata, Vana Parva, Ganguli §98",
+      "url": "https://sacred-texts.com/hin/m03/m03098.htm",
+      "kind": "primary_translation",
+      "edition": "K. M. Ganguli translation; section numbers are not BORI critical-edition chapter numbers",
+      "locator": "§98",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb399",
+      "title": "Mahābhārata, Vana Parva, Ganguli §99",
+      "url": "https://sacred-texts.com/hin/m03/m03099.htm",
+      "kind": "primary_translation",
+      "edition": "K. M. Ganguli translation; section numbers are not BORI critical-edition chapter numbers",
+      "locator": "§99",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb3103",
+      "title": "Mahābhārata, Vana Parva, Ganguli §103",
+      "url": "https://sacred-texts.com/hin/m03/m03103.htm",
+      "kind": "primary_translation",
+      "edition": "K. M. Ganguli translation; section numbers are not BORI critical-edition chapter numbers",
+      "locator": "§103",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb3104",
+      "title": "Mahābhārata, Vana Parva, Ganguli §104",
+      "url": "https://sacred-texts.com/hin/m03/m03104.htm",
+      "kind": "primary_translation",
+      "edition": "K. M. Ganguli translation; section numbers are not BORI critical-edition chapter numbers",
+      "locator": "§104",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb517",
+      "title": "Mahābhārata, Udyoga Parva, Ganguli §17",
+      "url": "https://sacred-texts.com/hin/m05/m05017.htm",
+      "kind": "primary_translation",
+      "edition": "K. M. Ganguli translation; section numbering is not BORI critical-edition numbering",
+      "locator": "§17",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "EEX001",
+      "facet": "ramayana",
+      "subject": "rama",
+      "predicate": "receives_divine_weapons_from",
+      "object": "ramayana",
+      "source": "ram312",
+      "locator": "3.12, weapons episode (site numbering)",
+      "summary": "Agastya gives Rama a divine bow, inexhaustible quivers and a sword, describing them as weapons once used by Viṣṇu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Agastya",
+      "note": "A narrated gift at their meeting; introductory commentary on the page is excluded.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX002",
+      "facet": "ramayana",
+      "subject": "lakshmana",
+      "predicate": "identifies_as_younger_brother_of",
+      "object": "rama",
+      "source": "ram312",
+      "locator": "3.12, opening exchange (site numbering)",
+      "summary": "Lakṣmaṇa introduces himself to Agastya’s disciple as Rama’s younger brother and says the brothers entered the forest at their father’s order.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Lakṣmaṇa",
+      "note": "Reported speech to the disciple, before the meeting with Agastya.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX003",
+      "facet": "ramayana",
+      "subject": "rama",
+      "predicate": "is_son_of",
+      "object": "dasaratha",
+      "source": "ram312",
+      "locator": "3.12, opening exchange (site numbering)",
+      "summary": "Lakṣmaṇa identifies Rama as Daśaratha’s eldest son when requesting an audience with Agastya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Lakṣmaṇa",
+      "note": "The relationship is stated in an audience request, not as a separate chronology date.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX004",
+      "facet": "ramayana",
+      "subject": "sita",
+      "predicate": "is_wife_of",
+      "object": "rama",
+      "source": "ram312",
+      "locator": "3.12, opening exchange (site numbering)",
+      "summary": "Lakṣmaṇa identifies Sītā as Rama’s wife while announcing their arrival at Agastya’s hermitage.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Lakṣmaṇa",
+      "note": "Directly stated in reported speech to the disciple.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX005",
+      "facet": "ramayana",
+      "subject": "sutikshna",
+      "predicate": "directs_rama_to_visit",
+      "object": "ramayana",
+      "source": "ram311",
+      "locator": "3.11, closing narrative (site numbering)",
+      "summary": "After spending time with Sutīkṣṇa, Rama takes leave and proceeds to visit Agastya; the account places this visit after the narrated ten-year period among nearby hermitages.",
+      "category": "relative_sequence",
+      "status": "translation_checked",
+      "speaker": null,
+      "note": "The ten years belong to Rama’s itinerary in this narrative, not to Agastya’s age.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX007",
+      "facet": "mahabharata",
+      "subject": "epic_pitrs",
+      "predicate": "ask_agastya_for_offspring",
+      "object": "mahabharata",
+      "source": "mb396",
+      "locator": "Vana Parva, Ganguli §96",
+      "summary": "Agastya’s suspended ancestors tell him that they remain in that state for want of his offspring and ask him to beget a son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Agastya’s ancestors, in Lomasa’s narration",
+      "note": "The episode motivates the marriage and progeny narrative; it is a narrated past, not a meeting with Yudhiṣṭhira.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX008",
+      "facet": "mahabharata",
+      "subject": "vidarbha_king",
+      "predicate": "fears_refusing_agastya",
+      "object": "mahabharata",
+      "source": "mb397",
+      "locator": "Vana Parva, Ganguli §97",
+      "summary": "The unnamed Vidarbha king is unwilling to give his daughter but fears Agastya’s curse if he refuses.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Lomasa",
+      "note": "The king remains unnamed in this passage; not assigned another identity.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX009",
+      "facet": "mahabharata",
+      "subject": "lopamudra",
+      "predicate": "asks_father_to_give_her_to",
+      "object": "mahabharata",
+      "source": "mb397",
+      "locator": "Vana Parva, Ganguli §97",
+      "summary": "Seeing her parents distressed, Lopāmudrā tells her father to give her to Agastya and spare himself anxiety.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Lomasa",
+      "note": "The daughter’s own consent is explicit in this telling.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX010",
+      "facet": "mahabharata",
+      "subject": "lopamudra",
+      "predicate": "practices_austerities_with",
+      "object": "mahabharata",
+      "source": "mb397",
+      "locator": "Vana Parva, Ganguli §97",
+      "summary": "After their marriage, Agastya and Lopāmudrā go to Gaṅgādvāra and practice austerities together.",
+      "category": "relative_sequence",
+      "status": "translation_checked",
+      "speaker": "Lomasa",
+      "note": "Narrated after the marriage; this is a narrative sequence, with no absolute date.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX011",
+      "facet": "mahabharata",
+      "subject": "lopamudra",
+      "predicate": "requests_wealth_and_royal_attire_from",
+      "object": "mahabharata",
+      "source": "mb397",
+      "locator": "Vana Parva, Ganguli §97",
+      "summary": "Before agreeing to marital intercourse, Lopāmudrā asks Agastya for a bed, adornments and attire like those she had in her father’s palace.",
+      "category": "relative_sequence",
+      "status": "translation_checked",
+      "speaker": "Lomasa",
+      "note": "This request motivates Agastya’s subsequent search for wealth; no modern chronological inference is implied.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX012",
+      "facet": "mahabharata",
+      "subject": "srutarvan",
+      "predicate": "accompanies_agastya_to",
+      "object": "vradhnasva",
+      "source": "mb398",
+      "locator": "Vana Parva, Ganguli §98",
+      "summary": "After declining to take wealth from Śrutarvan because his income matched his expenses, Agastya takes that king with him to Vṛdhnaśva.",
+      "category": "relative_sequence",
+      "status": "translation_checked",
+      "speaker": "Lomasa",
+      "note": "Narrative sequence among named kings; Ganguli section locator is not a BORI chapter number.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX013",
+      "facet": "mahabharata",
+      "subject": "vradhnasva",
+      "predicate": "accompanies_agastya_and_srutarvan_to",
+      "object": "trasadasyu",
+      "source": "mb398",
+      "locator": "Vana Parva, Ganguli §98",
+      "summary": "After Vṛdhnaśva also declines to provide surplus wealth, he joins Agastya and Śrutarvan on the visit to Trasadasyu.",
+      "category": "relative_sequence",
+      "status": "translation_checked",
+      "speaker": "Lomasa",
+      "note": "The passage calls Trasadasyu Purokutsa’s son and places him in Ikṣvāku’s line; this epic witness is not identified with Vedic namesakes.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX014",
+      "facet": "mahabharata",
+      "subject": "ilvala",
+      "predicate": "transforms_and_serves",
+      "object": "vatapi",
+      "source": "mb396",
+      "locator": "Vana Parva, Ganguli §96",
+      "summary": "Lomasa says Ilvala transforms his brother Vātāpi into a ram, serves his cooked flesh to Brahmins, then summons him to emerge and kill them.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Lomasa",
+      "note": "Narrated background for the later encounter; it is not a separate meeting between Agastya and the brothers.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX015",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "digests",
+      "object": "vatapi",
+      "source": "mb399",
+      "locator": "Vana Parva, Ganguli §99",
+      "summary": "At Ilvala’s feast Agastya eats the served Vātāpi and says he has digested him before he can emerge.",
+      "category": "deed",
+      "status": "translation_checked",
+      "speaker": "Lomasa",
+      "note": "The narrative presents the act as defeating the brothers’ recurring killing stratagem.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX016",
+      "facet": "mahabharata",
+      "subject": "ilvala",
+      "predicate": "gives_wealth_to",
+      "object": "mahabharata",
+      "source": "mb399",
+      "locator": "Vana Parva, Ganguli §99",
+      "summary": "Ilvala gives Agastya the wealth the sage names, including twice the amount offered to each king, a golden chariot and two horses.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Lomasa",
+      "note": "Agastya states the intended gift; Ilvala checks and then gives it. The named kings also receive wealth.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX017",
+      "facet": "mahabharata",
+      "subject": "dridhasyu",
+      "predicate": "is_born_after_seven_years_in_womb_of",
+      "object": "lopamudra",
+      "source": "mb399",
+      "locator": "Vana Parva, Ganguli §99",
+      "summary": "Lomasa says the foetus remained in Lopāmudrā’s womb seven years before Dṛḍhasyu was born; as a child he carried sacrificial fuel and was called Idhmavāha.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Lomasa",
+      "note": "The epithet and the seven-year gestation belong to this epic story; they do not independently date Agastya or identify a different Dṛḍhasyu.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX018",
+      "facet": "mahabharata",
+      "subject": "epic_pitrs",
+      "predicate": "are_released_after_birth_of",
+      "object": "dridhasyu",
+      "source": "mb399",
+      "locator": "Vana Parva, Ganguli §99",
+      "summary": "The narration says Agastya’s ancestors obtain the desired state after he begets Dṛḍhasyu.",
+      "category": "relative_sequence",
+      "status": "translation_checked",
+      "speaker": "Lomasa",
+      "note": "This is the story’s stated consequence of the son’s birth.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX019",
+      "facet": "mahabharata",
+      "subject": "mahabharata",
+      "predicate": "tells_vindhya_he_will_return_from",
+      "object": "south",
+      "source": "mb3104",
+      "locator": "Vana Parva, Ganguli §104",
+      "summary": "Agastya asks Vindhya for a path to the southern region and tells the mountain to wait until his return; the narrator says he has not returned up to the story’s present.",
+      "category": "relative_sequence",
+      "status": "translation_checked",
+      "speaker": "Lomasa",
+      "note": "A narrative synchronism only. Ganguli’s section numbers are not BORI chapter numbers; no absolute date follows.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "EEX020",
+      "facet": "mahabharata",
+      "subject": "nahusha",
+      "predicate": "touches_with_foot",
+      "object": "mahabharata",
+      "source": "mb517",
+      "locator": "Udyoga Parva, Ganguli §17",
+      "summary": "In Agastya’s account to Indra, Nahuṣa touches the sage’s head with his foot while the sages carry him; Agastya then curses him to fall from heaven and roam as a serpent for ten thousand years.",
+      "category": "deed",
+      "status": "translation_checked",
+      "speaker": "Agastya, in Śalya’s narration",
+      "note": "This adds the trigger and sequence to the core curse claim. Ten thousand years describes Nahuṣa’s curse, not Agastya’s lifespan.",
+      "original_language_reviewed": false
+    }
+  ],
+  "person_notes": [
+    {
+      "person_id": "rama",
+      "findings": [
+        "Rāmāyaṇa 3.12: receives Agastya’s weapons; the meeting occurs after the 3.11 itinerary sequence."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "lakshmana",
+      "findings": [
+        "Rāmāyaṇa 3.12: identifies himself as Rama’s younger brother while seeking audience."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "sita",
+      "findings": [
+        "Rāmāyaṇa 3.12: identified by Lakṣmaṇa as Rama’s wife; the existing 3.13 claim compares her to Arundhatī."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "dasaratha",
+      "findings": [
+        "Rāmāyaṇa 3.12: named by Lakṣmaṇa as Rama’s father."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "arundhati",
+      "findings": [
+        "No new claim; core graph already records the 3.13 comparison with Sītā."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "sutikshna",
+      "findings": [
+        "Rāmāyaṇa 3.11 places Rama’s departure from Sutīkṣṇa before the Agastya visit; the narrated ten-year itinerary is Rama’s."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "sugriva",
+      "findings": [
+        "No additional evidence checked; core graph already records Sugrīva’s speech about Agastya in Rāmāyaṇa 4.41."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "surya",
+      "findings": [
+        "No additional evidence checked; core graph already records the Ādityahṛdaya instruction in Rāmāyaṇa 6.105 (site numbering)."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "lomasa",
+      "findings": [
+        "In Vana Parva §96, Lomasa narrates Agastya’s past to Yudhiṣṭhira; §§97–99 continue that account. This is not an Agastya–Yudhiṣṭhira meeting."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "yudhisthira",
+      "findings": [
+        "Vana Parva §96: asks Lomasa about Agastya’s slaying of Vātāpi while at Agastya’s former hermitage."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "salya",
+      "findings": [
+        "Udyoga Parva §17: narrates to Yudhiṣṭhira Agastya’s account to Indra after Nahuṣa’s fall."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "nahusha",
+      "findings": [
+        "Udyoga Parva §17 supplies the kick as the trigger of Agastya’s curse and gives Nahuṣa’s serpent-term; it is not an Agastya lifespan."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "srutarvan",
+      "findings": [
+        "Vana Parva §98: accompanies Agastya after the sage declines to take wealth from him, then goes with him to Vṛdhnaśva."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "vradhnasva",
+      "findings": [
+        "Vana Parva §98: joins Agastya and Śrutarvan on the next visit, to Trasadasyu."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "trasadasyu",
+      "findings": [
+        "Vana Parva §98 calls this Trasadasyu Purokutsa’s son and places him in Ikṣvāku’s line; identity with Vedic attestations remains unestablished here."
+      ],
+      "open_questions": [
+        "Compare epic and Vedic occurrences only with source-specific evidence; do not merge on name alone."
+      ]
+    },
+    {
+      "person_id": "ilvala",
+      "findings": [
+        "Vana Parva §§96, 99: Ilvala uses Vātāpi as a food-based killing stratagem; Agastya defeats it and Ilvala gives wealth."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "vatapi",
+      "findings": [
+        "Vana Parva §§96, 99: named as Ilvala’s younger brother, transformed into a ram, and digested by Agastya."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "vidarbha_king",
+      "findings": [
+        "Vana Parva §97: the unnamed king fears refusing Agastya; Lopāmudrā herself asks him to consent."
+      ],
+      "open_questions": [
+        "King’s personal name is not supplied in this passage."
+      ]
+    },
+    {
+      "person_id": "dridhasyu",
+      "findings": [
+        "Vana Parva §99: Dṛḍhasyu is born after seven years in the womb and is also called Idhmavāha for carrying fuel."
+      ],
+      "open_questions": [
+        "Keep separate from other figures with the same or similar name unless independently identified."
+      ]
+    },
+    {
+      "person_id": "indradyumna",
+      "findings": [
+        "No new epic claim. The Bhāgavata witness remains the person in the core graph; no same-name epic figure is merged with him."
+      ],
+      "open_questions": [
+        "Audit other epic and Purāṇic Indradyumnas by their own passages before comparing identities."
+      ]
+    },
+    {
+      "person_id": "suka",
+      "findings": [
+        "No additional evidence checked; core graph already records Śuka’s Bhāgavata genealogy narration."
+      ],
+      "open_questions": []
+    }
+  ],
+  "search_log": [
+    {
+      "query": "Vālmīki Rāmāyaṇa Aranya Kāṇḍa sargas 11–13 primary prose Agastya Sutīkṣṇa Rama Lakṣmaṇa Sītā",
+      "outcome": "Inspected narrative paragraphs at valmikiramayan.net; extracted visit sequence, audience request and weapons gift; excluded commentary paragraphs."
+    },
+    {
+      "query": "Mahābhārata Vana Parva Ganguli §§96–99 Agastya Lomasa Lopamudra Vātāpi Dridhasyu",
+      "outcome": "Inspected primary translation pages; added contextual family, narrative-sequence, and deed claims while preserving Ganguli numbering."
+    },
+    {
+      "query": "Mahābhārata Vana Parva Ganguli §§103–104 Agastya Vindhya south return",
+      "outcome": "Inspected primary translation; recorded the promised return and narrator’s present-tense non-return as internal narrative synchronism only."
+    },
+    {
+      "query": "Mahābhārata Udyoga Parva Ganguli §17 Agastya Nahusha Indra Salya",
+      "outcome": "Inspected primary translation; distinguished Agastya’s speech to Indra inside Śalya’s narration from direct contact with Yudhiṣṭhira."
+    },
+    {
+      "query": "Bhāgavata Purāṇa Agastya Indradyumna Śuka core graph audit",
+      "outcome": "No new primary passage claim; existing graph already contains the checked Bhāgavata claims. Kept this Indradyumna source-local."
+    }
+  ]
+}

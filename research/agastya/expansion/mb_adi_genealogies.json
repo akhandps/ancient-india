@@ -1,0 +1,3348 @@
+{
+  "nodes": [
+    {
+      "id": "mb_adi_kadru",
+      "label": "Kadrū · mother in Ādiparvan serpent genealogy",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_shesha",
+      "label": "Śeṣa · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_vasuki",
+      "label": "Vāsuki · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_airavata",
+      "label": "Airāvata · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_takshaka",
+      "label": "Takṣaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_karkotaka",
+      "label": "Karkoṭaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_dhanamjaya",
+      "label": "Dhanaṃjaya · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_kaliya",
+      "label": "Kālīya · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_maninaga",
+      "label": "Maṇināga · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_apurana",
+      "label": "Apūraṇa · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_pinjaraka",
+      "label": "Piñjaraka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_elapatra",
+      "label": "Elāpatra · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_vamana",
+      "label": "Vāmana · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_nila",
+      "label": "Nīla · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_anila",
+      "label": "Anīla · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_kalmasha",
+      "label": "Kalmāṣa · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_shabala",
+      "label": "Śabala · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_aryaka",
+      "label": "Āryaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_adika",
+      "label": "Ādika · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_shalapotaka",
+      "label": "Śalapotaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_sumanomukha",
+      "label": "Sumanomukha · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_dadhimukha",
+      "label": "Dadhimukha · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_vimalapindaka",
+      "label": "Vimalapiṇḍaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_apta",
+      "label": "Āpta · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_kotanaka",
+      "label": "Koṭanaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_shangkha",
+      "label": "Śaṅkha · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_valashikha",
+      "label": "Vālaśikha · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_nishthyunaka",
+      "label": "Niṣṭhyūnaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_hemaguha",
+      "label": "Hemaguha · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_nahusha",
+      "label": "Nahuṣa · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_pinggala",
+      "label": "Piṅgala · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_bahyakarna",
+      "label": "Bāhyakarṇa · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_hastipada",
+      "label": "Hastipada · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_mudgarapindaka",
+      "label": "Mudgarapiṇḍaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_kambala",
+      "label": "Kambala · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_ashvatara",
+      "label": "Aśvatara · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_kaliyaka",
+      "label": "Kālīyaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_vrtta",
+      "label": "Vṛtta · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_samvartaka",
+      "label": "Saṃvartaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_shangkhanaka",
+      "label": "Śaṅkhanaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_sphandaka",
+      "label": "Sphaṇḍaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_kshemaka",
+      "label": "Kṣemaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_pindaraka",
+      "label": "Piṇḍāraka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_karavira",
+      "label": "Karavīra · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_pushpadamshtra",
+      "label": "Puṣpadaṃṣṭra · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_elaka",
+      "label": "Eḷaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_bilvapanduka",
+      "label": "Bilvapāṇḍuka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_mushakada",
+      "label": "Mūṣakāda · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_shangkhashiras",
+      "label": "Śaṅkhaśiras · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_purnadamshtra",
+      "label": "Pūrṇadaṃṣṭra · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_haridraka",
+      "label": "Haridraka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_aparajita",
+      "label": "Aparājita · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_jyotika",
+      "label": "Jyotika · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_shrivaha",
+      "label": "Śrīvaha · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_kauravya",
+      "label": "Kauravya · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_dhritarashtra_naga",
+      "label": "Dhṛtarāṣṭra-nāga · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_pushkara",
+      "label": "Puṣkara · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_shalyaka",
+      "label": "Śalyaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_viraja",
+      "label": "Virajā · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_subahu",
+      "label": "Subāhu · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_shalipinda",
+      "label": "Śālipiṇḍa · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_hastibhadra",
+      "label": "Hastibhadra · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_pitharaka",
+      "label": "Pīṭharaka · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_mukhara",
+      "label": "Mukhara · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_konavasana",
+      "label": "Koṇavāsana · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_kunjara",
+      "label": "Kuñjara · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_kurara",
+      "label": "Kurara · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_prabhakara",
+      "label": "Prabhākara · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_kumuda",
+      "label": "Kumuda · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_kumudaksha",
+      "label": "Kumudākṣa · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_tittiri",
+      "label": "Tittiri · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_halika",
+      "label": "Halika · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_karkara",
+      "label": "Karkara · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_akarkara",
+      "label": "Akarkara · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_kundodara",
+      "label": "Kuṇḍodara · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_mahodara",
+      "label": "Mahodara · principal serpent · Ādiparvan 1.31",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_ananta",
+      "label": "Ananta · named son of Kadrū · Ādiparvan 1.59",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_kurma",
+      "label": "Kūrma · named son of Kadrū · Ādiparvan 1.59",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kadru_kulika",
+      "label": "Kulika · named son of Kadrū · Ādiparvan 1.59",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_kotika",
+      "label": "Koṭika · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_manasa",
+      "label": "Mānasa · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_purna",
+      "label": "Pūrṇa · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_saha",
+      "label": "Saha · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_paila",
+      "label": "Paila · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_halisaka",
+      "label": "Halīsaka · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_picchila",
+      "label": "Picchila · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_konapa",
+      "label": "Koṇapa · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_cakra",
+      "label": "Cakra · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_konavega",
+      "label": "Koṇavega · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_prakalana",
+      "label": "Prakālana · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_hiranyavaha",
+      "label": "Hiraṇyavāha · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_sharana",
+      "label": "Śaraṇa · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_kakshaka",
+      "label": "Kakṣaka · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_vasuki_line_kaladantaka",
+      "label": "Kāladantaka · Vāsuki lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_pucchandaka",
+      "label": "Pucchaṇḍaka · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_mandalaka",
+      "label": "Maṇḍalaka · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_pindabhetta",
+      "label": "Piṇḍabhettā · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_rabhenaka",
+      "label": "Rabheṇaka · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_ucchikha",
+      "label": "Ucchikha · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_surasa",
+      "label": "Surasā · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_drangga",
+      "label": "Draṅga · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_balaheda",
+      "label": "Balaheḍa · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_virohana",
+      "label": "Virohaṇa · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_shilishalakara",
+      "label": "Śilīśalakara · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_muka",
+      "label": "Mūka · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_sukumara",
+      "label": "Sukumāra · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_pravepana",
+      "label": "Pravepana · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_mudgara",
+      "label": "Mudgara · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_shasharoma",
+      "label": "Śaśaromā · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_sumana",
+      "label": "Sumanā · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_takshaka_line_vegavahana",
+      "label": "Vegavāhana · Takṣaka lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_airavata_line_paravata",
+      "label": "Pārāvata · Airāvata lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_airavata_line_pariyatra",
+      "label": "Pāriyātra · Airāvata lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_airavata_line_pandara",
+      "label": "Pāṇḍara · Airāvata lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_airavata_line_harina",
+      "label": "Hariṇa · Airāvata lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_airavata_line_krsha",
+      "label": "Kṛśa · Airāvata lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_airavata_line_vihamga",
+      "label": "Vihaṃga · Airāvata lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_airavata_line_sharabha",
+      "label": "Śarabha · Airāvata lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_airavata_line_moda",
+      "label": "Moda · Airāvata lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_airavata_line_pramoda",
+      "label": "Pramoda · Airāvata lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_airavata_line_samhatanggada",
+      "label": "Saṃhatāṅgada · Airāvata lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kauravya_line_aindila",
+      "label": "Aiṇḍila · Kauravya lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kauravya_line_kundala",
+      "label": "Kuṇḍala · Kauravya lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kauravya_line_munda",
+      "label": "Muṇḍa · Kauravya lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kauravya_line_veniskandha",
+      "label": "Veṇiskandha · Kauravya lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kauravya_line_kumaraka",
+      "label": "Kumāraka · Kauravya lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kauravya_line_bahuka",
+      "label": "Bāhuka · Kauravya lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kauravya_line_shrnggavega",
+      "label": "Śṛṅgavega · Kauravya lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kauravya_line_dhurtaka",
+      "label": "Dhūrtaka · Kauravya lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kauravya_line_pata",
+      "label": "Pāta · Kauravya lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_kauravya_line_patara",
+      "label": "Pātara · Kauravya lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_shangkukarna",
+      "label": "Śaṅkukarṇa · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_pinggalaka",
+      "label": "Piṅgalaka · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_kutharamukha",
+      "label": "Kuṭhāramukha · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_mecaka",
+      "label": "Mecaka · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_purnanggada",
+      "label": "Pūrṇāṅgada · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_purnamukha",
+      "label": "Pūrṇamukha · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_prahasa",
+      "label": "Prahasa · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_shakuni",
+      "label": "Śakuni · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_hari",
+      "label": "Hari · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_amahatha",
+      "label": "Āmāhaṭha · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_komathaka",
+      "label": "Komaṭhaka · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_shvasana",
+      "label": "Śvasana · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_manava",
+      "label": "Mānava · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_vata",
+      "label": "Vaṭa · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_bhairava",
+      "label": "Bhairava · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_mundavedangga",
+      "label": "Muṇḍavedāṅga · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_pishangga",
+      "label": "Piśaṅga · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_udraparaga",
+      "label": "Udrapāraga · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_rshabha",
+      "label": "Ṛṣabha · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_vegavan",
+      "label": "Vegavān · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_pindaraka",
+      "label": "Piṇḍāraka · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_mahahanu",
+      "label": "Mahāhanu · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_raktangga",
+      "label": "Raktāṅga · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_sarvasarangga",
+      "label": "Sarvasāraṅga · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_samrddha",
+      "label": "Samṛddha · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_pata",
+      "label": "Pāṭa · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_rakshasa",
+      "label": "Rākṣasa · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_varahaka",
+      "label": "Varāhaka · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_varanaka",
+      "label": "Vāraṇaka · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_sumitra",
+      "label": "Sumitra · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_citravediha",
+      "label": "Citravediha · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_parashara",
+      "label": "Parāśara · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_tarunaka",
+      "label": "Taruṇaka · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_maniskandha",
+      "label": "Maṇiskandha · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    },
+    {
+      "id": "mb_adi_dhrtarashtra_line_aruni",
+      "label": "Āruṇi · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "mb_bori_adi_ce",
+      "title": "Mahābhārata, Ādiparvan, BORI Critical Edition electronic text",
+      "url": "https://bombay.indology.info/mahabharata/text/UR/MBh01.txt",
+      "kind": "primary Sanskrit critical text",
+      "edition": "Bhandarkar Oriental Research Institute Critical Edition, Unicode Roman electronic text (1999; current file updated 2026-08-22)",
+      "locator": "Ādiparvan 1.31.2–16; 1.32.8–13; 1.52.4–18; 1.59.40",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "mb_ganguli_adi",
+      "title": "The Mahābhārata of Krishna-Dwaipayana Vyasa, Ādi Parva, sections XXXV and LVII",
+      "url": "https://sacred-texts.com/hin/m01/m01036.htm ; https://sacred-texts.com/hin/m01/m01058.htm",
+      "kind": "primary text in translation",
+      "edition": "Kisari Mohan Ganguli translation, 1883–1896, as hosted by Internet Sacred Text Archive",
+      "locator": "Ādiparvan, Astika Parva §XXXV, pp. 82–83; §LVII, pp. 113–114",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "MBA001",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_shesha",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA002",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_vasuki",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA003",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_airavata",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA004",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_takshaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA005",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_karkotaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA006",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_dhanamjaya",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA007",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_kaliya",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA008",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_maninaga",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA009",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_apurana",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA010",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_pinjaraka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA011",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_elapatra",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA012",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_vamana",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA013",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_nila",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA014",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_anila",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA015",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_kalmasha",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA016",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_shabala",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA017",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_aryaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA018",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_adika",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA019",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_shalapotaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA020",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_sumanomukha",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA021",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_dadhimukha",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA022",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_vimalapindaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA023",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_apta",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA024",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_kotanaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA025",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_shangkha",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA026",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_valashikha",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA027",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_nishthyunaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA028",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_hemaguha",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA029",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_nahusha",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA030",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_pinggala",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA031",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_bahyakarna",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA032",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_hastipada",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA033",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_mudgarapindaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA034",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_kambala",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA035",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_ashvatara",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA036",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_kaliyaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA037",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_vrtta",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA038",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_samvartaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA039",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_shangkhanaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA040",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_sphandaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA041",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_kshemaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA042",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_pindaraka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA043",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_karavira",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA044",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_pushpadamshtra",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA045",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_elaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA046",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_bilvapanduka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA047",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_mushakada",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA048",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_shangkhashiras",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA049",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_purnadamshtra",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA050",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_haridraka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA051",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_aparajita",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA052",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_jyotika",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA053",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_shrivaha",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA054",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_kauravya",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA055",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_dhritarashtra_naga",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA056",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_pushkara",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA057",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_shalyaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA058",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_viraja",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA059",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_subahu",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA060",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_shalipinda",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA061",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_hastibhadra",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA062",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_pitharaka",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA063",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_mukhara",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA064",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_konavasana",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA065",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_kunjara",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA066",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_kurara",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA067",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_prabhakara",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA068",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_kumuda",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA069",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_kumudaksha",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA070",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_tittiri",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA071",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_halika",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA072",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_karkara",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA073",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_akarkara",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA074",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_kundodara",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA075",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_mahodara",
+      "predicate": "is_named_as_serpent_child_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.31.2–16",
+      "summary": "Sauti names this principal serpent in the list following the account of Kadrū’s serpent offspring.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The CE’s surrounding narrative identifies the serpent group as Kadrū’s children and describes Śeṣa’s brothers as sharing their mother (1.31.2; 1.32.8–13). This is maternal-lineage membership, not an inferred order of parentage among the listed serpents.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA076",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_ananta",
+      "predicate": "is_son_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.59.40",
+      "summary": "The critical text explicitly names this serpent among Kadrū’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "This immediate parent link is stated directly in the CE verse.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA077",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_kurma",
+      "predicate": "is_son_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.59.40",
+      "summary": "The critical text explicitly names this serpent among Kadrū’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "This immediate parent link is stated directly in the CE verse.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA078",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kadru_kulika",
+      "predicate": "is_son_of",
+      "object": "mb_adi_kadru",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.59.40",
+      "summary": "The critical text explicitly names this serpent among Kadrū’s sons.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "This immediate parent link is stated directly in the CE verse.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA079",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_kotika",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Koṭika among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA080",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_manasa",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Mānasa among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA081",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_purna",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Pūrṇa among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA082",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_saha",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Saha among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA083",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_paila",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Paila among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA084",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_halisaka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Halīsaka among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA085",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_picchila",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Picchila among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA086",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_konapa",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Koṇapa among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA087",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_cakra",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Cakra among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA088",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_konavega",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Koṇavega among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA089",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_prakalana",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Prakālana among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA090",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_hiranyavaha",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Hiraṇyavāha among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA091",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_sharana",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Śaraṇa among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA092",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_kakshaka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Kakṣaka among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA093",
+      "facet": "mahabharata",
+      "subject": "mb_adi_vasuki_line_kaladantaka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_vasuki",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.4–6",
+      "summary": "Sauti names Kāladantaka among serpents born in the lineage of Vāsuki.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA094",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_pucchandaka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Pucchaṇḍaka among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA095",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_mandalaka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Maṇḍalaka among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA096",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_pindabhetta",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Piṇḍabhettā among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA097",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_rabhenaka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Rabheṇaka among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA098",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_ucchikha",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Ucchikha among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA099",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_surasa",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Surasā among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA100",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_drangga",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Draṅga among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA101",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_balaheda",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Balaheḍa among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA102",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_virohana",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Virohaṇa among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA103",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_shilishalakara",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Śilīśalakara among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA104",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_muka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Mūka among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA105",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_sukumara",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Sukumāra among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA106",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_pravepana",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Pravepana among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA107",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_mudgara",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Mudgara among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA108",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_shasharoma",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Śaśaromā among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA109",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_sumana",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Sumanā among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA110",
+      "facet": "mahabharata",
+      "subject": "mb_adi_takshaka_line_vegavahana",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_takshaka",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.7–9",
+      "summary": "Sauti names Vegavāhana among serpents born in the lineage of Takṣaka.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA111",
+      "facet": "mahabharata",
+      "subject": "mb_adi_airavata_line_paravata",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_airavata",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.10–11",
+      "summary": "Sauti names Pārāvata among serpents born in the lineage of Airāvata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA112",
+      "facet": "mahabharata",
+      "subject": "mb_adi_airavata_line_pariyatra",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_airavata",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.10–11",
+      "summary": "Sauti names Pāriyātra among serpents born in the lineage of Airāvata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA113",
+      "facet": "mahabharata",
+      "subject": "mb_adi_airavata_line_pandara",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_airavata",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.10–11",
+      "summary": "Sauti names Pāṇḍara among serpents born in the lineage of Airāvata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA114",
+      "facet": "mahabharata",
+      "subject": "mb_adi_airavata_line_harina",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_airavata",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.10–11",
+      "summary": "Sauti names Hariṇa among serpents born in the lineage of Airāvata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA115",
+      "facet": "mahabharata",
+      "subject": "mb_adi_airavata_line_krsha",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_airavata",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.10–11",
+      "summary": "Sauti names Kṛśa among serpents born in the lineage of Airāvata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA116",
+      "facet": "mahabharata",
+      "subject": "mb_adi_airavata_line_vihamga",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_airavata",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.10–11",
+      "summary": "Sauti names Vihaṃga among serpents born in the lineage of Airāvata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA117",
+      "facet": "mahabharata",
+      "subject": "mb_adi_airavata_line_sharabha",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_airavata",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.10–11",
+      "summary": "Sauti names Śarabha among serpents born in the lineage of Airāvata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA118",
+      "facet": "mahabharata",
+      "subject": "mb_adi_airavata_line_moda",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_airavata",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.10–11",
+      "summary": "Sauti names Moda among serpents born in the lineage of Airāvata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA119",
+      "facet": "mahabharata",
+      "subject": "mb_adi_airavata_line_pramoda",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_airavata",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.10–11",
+      "summary": "Sauti names Pramoda among serpents born in the lineage of Airāvata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA120",
+      "facet": "mahabharata",
+      "subject": "mb_adi_airavata_line_samhatanggada",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_airavata",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.10–11",
+      "summary": "Sauti names Saṃhatāṅgada among serpents born in the lineage of Airāvata.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA121",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kauravya_line_aindila",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_kauravya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.11–12",
+      "summary": "Sauti names Aiṇḍila among serpents born in the lineage of Kauravya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA122",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kauravya_line_kundala",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_kauravya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.11–12",
+      "summary": "Sauti names Kuṇḍala among serpents born in the lineage of Kauravya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA123",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kauravya_line_munda",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_kauravya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.11–12",
+      "summary": "Sauti names Muṇḍa among serpents born in the lineage of Kauravya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA124",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kauravya_line_veniskandha",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_kauravya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.11–12",
+      "summary": "Sauti names Veṇiskandha among serpents born in the lineage of Kauravya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA125",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kauravya_line_kumaraka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_kauravya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.11–12",
+      "summary": "Sauti names Kumāraka among serpents born in the lineage of Kauravya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA126",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kauravya_line_bahuka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_kauravya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.11–12",
+      "summary": "Sauti names Bāhuka among serpents born in the lineage of Kauravya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA127",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kauravya_line_shrnggavega",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_kauravya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.11–12",
+      "summary": "Sauti names Śṛṅgavega among serpents born in the lineage of Kauravya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA128",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kauravya_line_dhurtaka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_kauravya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.11–12",
+      "summary": "Sauti names Dhūrtaka among serpents born in the lineage of Kauravya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA129",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kauravya_line_pata",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_kauravya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.11–12",
+      "summary": "Sauti names Pāta among serpents born in the lineage of Kauravya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA130",
+      "facet": "mahabharata",
+      "subject": "mb_adi_kauravya_line_patara",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_kauravya",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.11–12",
+      "summary": "Sauti names Pātara among serpents born in the lineage of Kauravya.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA131",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_shangkukarna",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Śaṅkukarṇa among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA132",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_pinggalaka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Piṅgalaka among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA133",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_kutharamukha",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Kuṭhāramukha among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA134",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_mecaka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Mecaka among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA135",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_purnanggada",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Pūrṇāṅgada among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA136",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_purnamukha",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Pūrṇamukha among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA137",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_prahasa",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Prahasa among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA138",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_shakuni",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Śakuni among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA139",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_hari",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Hari among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA140",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_amahatha",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Āmāhaṭha among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA141",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_komathaka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Komaṭhaka among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA142",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_shvasana",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Śvasana among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA143",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_manava",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Mānava among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA144",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_vata",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Vaṭa among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA145",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_bhairava",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Bhairava among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA146",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_mundavedangga",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Muṇḍavedāṅga among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA147",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_pishangga",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Piśaṅga among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA148",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_udraparaga",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Udrapāraga among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA149",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_rshabha",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Ṛṣabha among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA150",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_vegavan",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Vegavān among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA151",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_pindaraka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Piṇḍāraka among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA152",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_mahahanu",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Mahāhanu among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA153",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_raktangga",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Raktāṅga among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA154",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_sarvasarangga",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Sarvasāraṅga among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA155",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_samrddha",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Samṛddha among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA156",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_pata",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Pāṭa among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA157",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_rakshasa",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Rākṣasa among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA158",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_varahaka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Varāhaka among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA159",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_varanaka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Vāraṇaka among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA160",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_sumitra",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Sumitra among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA161",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_citravediha",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Citravediha among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA162",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_parashara",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Parāśara among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA163",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_tarunaka",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Taruṇaka among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA164",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_maniskandha",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Maṇiskandha among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MBA165",
+      "facet": "mahabharata",
+      "subject": "mb_adi_dhrtarashtra_line_aruni",
+      "predicate": "is_named_as_member_of_lineage_of",
+      "object": "mb_adi_kadru_dhritarashtra_naga",
+      "source": "mb_bori_adi_ce",
+      "locator": "Mahābhārata Ādiparvan 1.52.13–17",
+      "summary": "Sauti names Āruṇi among serpents born in the lineage of Dhṛtarāṣṭra.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sauti / Vaiśaṃpāyana",
+      "note": "The passage states lineage membership, not immediate parentage. This node is branch-scoped; repeated name forms in other serpent lists or other lineages are not silently merged.",
+      "original_language_reviewed": true
+    }
+  ],
+  "search_log": [
+    {
+      "query": "BORI Mahābhārata critical text Ādiparvan serpent lineages 1.31 1.52 1.59",
+      "outcome": "Read the BORI Unicode Roman critical-edition e-text at 1.31, 1.32, 1.52, and 1.59; checked verse locations and Sanskrit name forms against the verse-indexed English rendering."
+    },
+    {
+      "query": "Kisari Mohan Ganguli Mahābhārata Ādi Parva sections XXXV and LVII serpent names",
+      "outcome": "Read the accessible primary translation for cross-check. Recorded that its roster, spelling, and segmentations differ from BORI CE; retained BORI CE forms and avoided identity merges based only on resemblance."
+    }
+  ],
+  "notes": [
+    "This batch contains 166 named-person nodes and 165 person-to-person claims. It covers BORI CE Ādiparvan 1.31.2–16 (Kadrū’s principal serpents), 1.32.8–13 (Śeṣa’s same-mother brothers), 1.52.4–18 (named serpent lineages burned in Janamejaya’s sacrifice), and 1.59.40 (six named sons of Kadrū).",
+    "BORI CE verse locators are primary authority. The accessible Ganguli translation is cross-checked at its traditional sections XXXV and LVII; those section numbers and rosters are not identical to the BORI CE. For example, Ganguli’s §XXXV includes some names absent from the CE principal roster, and §LVII spellings and segmentation differ from CE 1.52. The batch therefore uses CE names and does not merge variants by resemblance.",
+    "The CE explicitly calls Śeṣa, Ananta, Vāsuki, Takṣaka, Kūrma, and Kulika Kadrū’s sons at 1.59.40. The broader 1.31 principal-serpent roster is linked to Kadrū as serpent offspring based on 1.31.2–4 together with 1.32.8–13, where the siblings are identified as sharing a mother. No birth order or individual father-child chain among that roster is inferred.",
+    "The 1.52 groups are connected to their named lineage heads with `is_named_as_member_of_lineage_of`, not a direct parent relation. Repeated names such as Pindāraka, Dhṛtarāṣṭra, Pāṭa, and other short common forms are branch-scoped by section and lineage; no cross-list identity is assumed.",
+    "The English web rendering used to cross-check BORI verse divisions is https://falsafa.ai/works/mahabharata/01-parva-1/translation/ (1.31, 1.52, 1.59). The translation rosters differ from Ganguli in several readings. Where the CE text gives an ambiguous plural (“the two Padmas”), no anonymous individual or invented distinct name is created."
+  ]
+}

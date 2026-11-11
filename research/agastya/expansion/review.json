@@ -1,0 +1,198 @@
+{
+  "edits": {
+    "EEX013": {
+      "summary": "Vṛdhnaśva offers wealth, but Agastya declines because the king’s income equals his expenditure; Vṛdhnaśva then joins Agastya and Śrutarvan in visiting Trasadasyu."
+    },
+    "TEX_008": {
+      "status": "scholarly_report",
+      "note": "Mahadevan paraphrases Puṟanāṉūṟu 201 and separately proposes identifying the unnamed sage as Agastya. The poem itself and its translation have not been independently checked here."
+    },
+    "TEX_006": {
+      "note": "The Tamil prologue names Agastya’s overturned vessel and the river’s emergence. The crow occurs in Hart’s explanatory English prose, not in the cited Tamil lines."
+    },
+    "REX006": {
+      "note": "Cowell’s English for the second half of 4.73 is difficult; this records co-mention only, without inferring kinship or a second event."
+    },
+    "VEX004": {
+      "note": "“Sons of Māna” is in 1.171.5. The identification of Māna as Agastya’s father is commentary. Do not merge him automatically with a Māna in RV 7.33."
+    },
+    "TPH001": {
+      "source": "tamil_manimekalai_hart"
+    },
+    "TPH002": {
+      "source": "tamil_manimekalai_hart"
+    },
+    "VTE002": {
+      "object": "tamil_manimekalai_heroine",
+      "locator": "Canto 2, lines 02-010–02-020",
+      "note": "The heroine is a person node distinct from the epic text of the same name."
+    },
+    "VTE004": {
+      "object": "tamil_manimekalai_heroine",
+      "note": "The heroine is a person node distinct from the epic text of the same name."
+    },
+    "GSC033": {
+      "locator": "4.19.3"
+    },
+    "GSC034": {
+      "locator": "4.19.3"
+    },
+    "GSC039": {
+      "locator": "4.19.3"
+    },
+    "TF010": {
+      "subject": "tamil_adipathi",
+      "summary": "After Brahmadarman’s warning, King Adipathi orders his people to leave and travels north with his army toward Avanthi."
+    },
+    "TF016": {
+      "subject": "tamil_buddha_peedihai",
+      "summary": "The Buddha Peedihai foretells the heroine’s rebirth under the name Kavera Kanni.",
+      "note": "The shrine, not the goddess Maṇimēkalai, is credited with the prediction."
+    },
+    "TF017": {
+      "note": "Kavera Kanni is a predicted name for the heroine in the rebirth account, not counted as a second distinct individual."
+    },
+    "TF024": {
+      "object": "tamil_lakshmi_past",
+      "summary": "Aṟavaṇar tells Lakshmi about the Buddha’s sacred footprints and invites her to worship them."
+    },
+    "TF025": {
+      "subject": "tamil_madhavi",
+      "object": "tamil_tharai",
+      "summary": "The goddess says Mādhavi is the rebirth of Thārai."
+    },
+    "TF026": {
+      "subject": "tamil_sudhamathi",
+      "object": "tamil_veerai",
+      "summary": "The goddess says Sudhamathi is the rebirth of Vīrai."
+    },
+    "GSM011": {
+      "subject": "vp19_bhavanmanyu",
+      "predicate": "is_son_of",
+      "object": "vp19_bharadvaja",
+      "summary": "Vitatha, also called Bharadvāja in this translation, is the father of Bhavanmanyu."
+    },
+    "GSM040": {
+      "subject": "vp19_para_samara",
+      "summary": "Pāra, son of Samara, is the father of Pṛthu in this branch."
+    },
+    "GSK031": {
+      "source": "vp4_19_sanskrit",
+      "note": "The verse-indexed Sanskrit witness distinguishes Saudāsa and his son Sahadeva. ANU English reads “Saudāsa Sahadeva” as one expression; retain the witness variant rather than treating both readings as one settled genealogy."
+    },
+    "GSK032": {
+      "source": "vp4_19_sanskrit",
+      "note": "This follows the Sanskrit witness’s Saudāsa → Sahadeva → Somaka sequence; ANU English punctuation/wording differs."
+    },
+    "ANU18_038": {
+      "predicate": "receives_as_daughter",
+      "summary": "The childless Aṅga-line Daśaratha receives Śāntā as a daughter from Aja’s son Daśaratha.",
+      "note": "The passage says she was given to him; it does not describe a formal adoption rite."
+    },
+    "GKA023": {
+      "subject": "vp20_parjanya",
+      "predicate": "sends_rain_during_reign_of",
+      "object": "vp19end_shantanu",
+      "summary": "Parjanya sends rain during Śāṃtanu’s reign after Devāpi is deemed ineligible to rule."
+    },
+    "GKA041": {
+      "predicate": "has_children_with",
+      "summary": "Dhṛtarāṣṭra has sons with Gāndhārī; the passage identifies their parentage without narrating the marriage."
+    },
+    "GKA087": {
+      "object": "vp20_parikshit_abhimanyu",
+      "summary": "Abhimanyu is the father of the later Parīkṣit born to Uttarā."
+    },
+    "GKA088": {
+      "object": "vp20_parikshit_abhimanyu"
+    },
+    "GKA090": {
+      "object": "vp20_parikshit_abhimanyu"
+    },
+    "GKA091": {
+      "object": "vp20_parikshit_abhimanyu"
+    },
+    "TL051": {
+      "note": "The speaking goddess image represents the previously named Kaṇṇaki; the image is a separate graph node, not a second counted person."
+    },
+    "GFK001": {
+      "object": "vp21_janamejaya_parikshit",
+      "note": "This is Abhimanyu’s son Parīkṣit and his future son, distinct from Kuru’s earlier Parīkṣit and Janamejaya in chapter 20."
+    },
+    "GFK002": {
+      "object": "vp21_shrutasena_parikshit",
+      "note": "Future son of Abhimanyu’s son Parīkṣit; distinct from the same-named son of Kuru’s earlier Parīkṣit."
+    },
+    "GFK003": {
+      "object": "vp21_ugrasena_parikshit",
+      "note": "Future son of Abhimanyu’s son Parīkṣit; distinct from the same-named son of Kuru’s earlier Parīkṣit."
+    },
+    "GFK004": {
+      "object": "vp21_bhimasena_parikshit",
+      "note": "Future son of Abhimanyu’s son Parīkṣit; distinct from the same-named son of Kuru’s earlier Parīkṣit."
+    },
+    "TFNL001": {
+      "predicate": "is_named_as_vedic_authority_to",
+      "summary": "The Alavaivādi names Vedaviyasar among the three sages followed by his Vaidika tradition while speaking to Maṇimēkalai."
+    },
+    "TFNL002": {
+      "predicate": "is_named_as_vedic_authority_to",
+      "summary": "The Alavaivādi names Kirudakoodi among the three sages followed by his Vaidika tradition while speaking to Maṇimēkalai."
+    },
+    "TFNL003": {
+      "predicate": "is_named_as_vedic_authority_to",
+      "summary": "The Alavaivādi names Saimini among the three sages followed by his Vaidika tradition while speaking to Maṇimēkalai."
+    },
+    "TFNL011": {
+      "predicate": "is_described_to_heroine_as_creator_and_destroyer",
+      "summary": "A Śaiva interlocutor describes Śiva as creator and destroyer when the heroine asks about his god."
+    },
+    "TFNL012": {
+      "predicate": "is_described_to_heroine_as_creator",
+      "summary": "A Brahmavādi says to the heroine that Brahmā created the worlds."
+    },
+    "TFNL013": {
+      "predicate": "is_described_to_heroine_as_world_protector",
+      "summary": "A Vaiṣṇava interlocutor tells the heroine that Nārāyaṇa protects the world."
+    },
+    "MB3VANA_003": {
+      "predicate": "rescues",
+      "summary": "Indra drives away Keśin and rescues Devasenā from him."
+    }
+  },
+  "qualification": {
+    "TEX_008": "retained only as scholarly report, not as primary translation",
+    "tamil_cict_iraiyanar_catalogue": "catalogue lead; no textual claim derived",
+    "puranic_bp1084": "roster inspected but no distinctive new relation retained",
+    "TF009": "unclear whether the shrine or Brahmadarman is speaker in the retold warning",
+    "TF029": "reverses the food offering: Lakshmi offers to feed Sādhu Chakran",
+    "GKA020": "unary retirement event was incorrectly encoded as an edge to Śāṃtanu",
+    "TL068": "the survivors of the shipwreck, not the missing child, tell the king about the loss",
+    "TFNL014": "the passage says Indra worships an unnamed Jain god; it does not say Indra is worshiped by the heroine",
+    "TFNL017": "the king hosts visiting sages; the passage does not say he hosts Māsāthuvān",
+    "TFNL018": "the earlier Kovalan called an ancestor of the Chera king is not established as the heroine’s father of the same name",
+    "TFNL029": "the translated warning and destination are ambiguous and do not directly link Dīpathilahai to Mādhavi",
+    "TFNL032": "Aravanar recounts Buddha’s teaching; the passage does not narrate Buddha directly teaching the heroine",
+    "MB2ROSTER_001": "self-attendance of the host is not a meaningful relationship",
+    "MB3VANA_030": "self-edge does not encode the Aditi/Revatī name relationship",
+    "MB3VANA_031": "self-edge does not encode the Diti/Mukhamaṇḍikā name relationship",
+    "SB4_0076": "Dahrāgni is retained as Agastya’s next-birth name on the merged Agastya facet; a self-edge adds no relation"
+  },
+  "additional_claims": [
+    "RFX001",
+    "RFX002",
+    "RFX003",
+    "RFX004",
+    "RFX005",
+    "RFX006",
+    "RFX007",
+    "RFX008",
+    "RFX009",
+    "RFX010",
+    "RFX011",
+    "RFX012",
+    "RFX013",
+    "RFX014",
+    "RFX015"
+  ]
+}

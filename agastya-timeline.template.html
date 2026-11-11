@@ -1,0 +1,100 @@
+<div id="agastya-text-timeline">
+  <style>
+    #agastya-text-timeline { color:var(--foreground); }
+    #agastya-text-timeline .agt-chart { width:100%;display:block; }
+    #agastya-text-timeline .agt-chart text { fill:var(--foreground);font-size:12px;font-weight:400; }
+    #agastya-text-timeline .agt-grid { stroke:var(--border);stroke-width:1; }
+    #agastya-text-timeline .agt-inspect { text-decoration:none; }
+    #agastya-text-timeline .agt-inspect:hover text { text-decoration:underline; }
+    #agastya-text-timeline .agt-detail { margin:12px 0 20px; }
+    #agastya-text-timeline .agt-detail p { margin:6px 0; }
+    #agastya-text-timeline .agt-order { display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:12px 0; }
+    #agastya-text-timeline .agt-order span { padding:4px 0; }
+    #agastya-text-timeline .agt-note { color:var(--muted-foreground); }
+  </style>
+  <h2>Agastya: a historical core and later textual witnesses</h2>
+  <svg class="agt-chart" role="img" aria-label="Timeline of dated texts and a conditional activity horizon for a historical Agastya"></svg>
+  <div id="agt-evidence" class="agt-detail" aria-live="polite"></div>
+  <h3>Narrative relationships without calendar dates</h3>
+  <div class="agt-order"><span>Agastya ↔ Lopāmudrā</span><span>·</span><span>Agastya ↔ Rāma / Daśaratha</span><span>·</span><span>Agastya’s past deeds → Lomaśa’s account to Yudhiṣṭhira</span></div>
+  <p class="text-small agt-note">Tretā-yuga placement through Rāma is a traditional cross-text linkage; it has not been converted into a BCE date.</p>
+  <details><summary>Undated witnesses and dating assumptions</summary>
+    <ul>
+      <li>Taittirīya Saṃhitā 7.5.5: later Vedic reception; our dataset has no sourced numeric date for this layer.</li>
+      <li>Other Tamil and Purāṇic witnesses remain unplotted until their specific dates are sourced.</li>
+      <li>Bars show proposed composition or witness intervals, not manuscript ages or dates of narrated events.</li>
+      <li>The historical-person band is conditional: existence alone does not establish Vedic authorship or a lifespan.</li>
+      <li>Century labels use approximate numeric bounds. Astronomical year numbering is used internally; the display has no year zero.</li>
+    </ul>
+  </details>
+  <p class="text-small agt-note">Research snapshot · 27 October 2026 · Select a row or band for its evidence.</p>
+  <script type="application/json" id="agt-data">__TIMELINE_DATA__</script>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script>
+  (()=>{
+    const root=document.getElementById('agastya-text-timeline');
+    const data=JSON.parse(root.querySelector('#agt-data').textContent);
+    const svg=root.querySelector('svg'),detail=root.querySelector('#agt-evidence');
+    const ns='http://www.w3.org/2000/svg';
+    const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    const make=(tag,attrs={},parent=svg)=>{const n=document.createElementNS(ns,tag);Object.entries(attrs).forEach(([k,v])=>n.setAttribute(k,v));parent.appendChild(n);return n;};
+    let selected=data.rows[0].id;
+    function show(id,save=false){
+      const r=data.rows.find(r=>r.id===id)||data.rows[0];selected=r.id;
+      detail.innerHTML=`<p><strong>${esc(r.label)} · ${esc(r.range)}</strong></p><p>${esc(r.note)}</p><p class="text-small"><a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">${esc(r.source)}</a> · ${esc(r.status)}</p>`;
+      if(save&&window.openai?.setWidgetState)window.openai.setWidgetState({modelContent:{timelineSelection:selected},privateContent:null}).catch(()=>{});
+      draw();
+    }
+    function draw(){
+      if(typeof d3==='undefined'){svg.replaceChildren();make('text',{x:8,y:24}).textContent='Timeline library unavailable. Evidence and date ranges remain available below.';return;}
+      const w=Math.max(300,root.clientWidth),left=64,right=16,top=22,rowH=w<460?100:82,bottom=60;
+      const h=top+data.rows.length*rowH+bottom;
+      svg.setAttribute('viewBox',`0 0 ${w} ${h}`);svg.style.height=h+'px';svg.replaceChildren();
+      make('title').textContent='Agastya timeline: a conditional Vedic activity horizon, text formation ranges, an older alternative date, and a medieval commentary witness.';
+      make('desc').textContent=data.rows.map(r=>r.label+': '+r.range+'. '+r.status).join(' ');
+      const all=data.rows.flatMap(r=>[r.start,r.end]);
+      const extent=d3.extent(all),pad=(extent[1]-extent[0])*.035;
+      const x=d3.scaleLinear().domain([extent[0]-pad,extent[1]+pad]).range([left+8,w-right-8]);
+      const plotBottom=h-bottom;
+      make('rect',{x:left,y:top,width:w-left-right,height:plotBottom-top,fill:'none',stroke:'var(--border)','data-chart-frame':''});
+      const defs=make('defs');
+      const pat=make('pattern',{id:'agt-hypothesis',patternUnits:'userSpaceOnUse',width:7,height:7},defs);
+      make('rect',{width:7,height:7,fill:'var(--viz-series-2)','fill-opacity':'.12'},pat);
+      make('path',{d:'M-1,1 L1,-1 M0,7 L7,0 M6,8 L8,6',stroke:'var(--viz-series-2)','stroke-width':1.5},pat);
+      const tickVals=w<460?[-999,1,1000]:[-1499,-999,-499,1,500,1000];
+      const year=n=>n<=0?`${1-n} BCE`:`${n} CE`;
+      for(const t of tickVals){if(t<x.domain()[0]||t>x.domain()[1])continue;const xx=x(t);make('line',{x1:xx,x2:xx,y1:top,y2:plotBottom,class:'agt-grid'});const el=make('text',{x:xx,y:plotBottom+20,'text-anchor':'middle'});el.textContent=year(t);}
+      make('text',{x:left+(w-left-right)/2,y:h-8,'text-anchor':'middle',class:'axis-title','data-axis':'x'}).textContent='Calendar year · BCE / CE';
+      make('text',{x:16,y:top+(plotBottom-top)/2,transform:`rotate(-90 16 ${top+(plotBottom-top)/2})`,'text-anchor':'middle',class:'axis-title','data-axis':'y'}).textContent='Person hypothesis / textual witnesses';
+      data.rows.forEach((r,i)=>{
+        const y=top+i*rowH;
+        const a=make('a',{href:'#agt-evidence',class:'agt-inspect cursor-interaction','aria-label':`Inspect ${r.label}, ${r.range}`});
+        const title=make('text',{x:left+8,y:y+20},a);title.textContent=r.label;
+        const range=make('text',{x:left+8,y:y+38},a);range.textContent=r.chartRange||r.range;
+        const bx=x(r.start),bw=x(r.end)-bx,by=y+50;
+        const color=r.kind==='hypothesis'?'var(--viz-series-2)':'var(--viz-series-1)';
+        if(r.kind==='alternative'){
+          make('rect',{x:bx,y:by,width:bw,height:12,fill:color,'fill-opacity':'.18'},a);
+          make('line',{x1:bx,x2:bx+bw,y1:by+6,y2:by+6,stroke:color,'stroke-width':2,'stroke-dasharray':'4 3'},a);
+        }else make('rect',{x:bx,y:by,width:bw,height:12,fill:r.kind==='hypothesis'?'url(#agt-hypothesis)':color,'fill-opacity':r.kind==='hypothesis'?1:.55},a);
+        if(selected===r.id)make('circle',{cx:bx+bw/2,cy:by+6,r:4,fill:color},a);
+        make('rect',{x:Math.max(left,bx-8),y:by-12,width:Math.min(w-right-Math.max(left,bx-8),Math.max(44,bw+16)),height:38,fill:'transparent','data-chart-hit':'','data-tooltip':`${r.label} · ${r.range} · ${r.status}`},a);
+        a.addEventListener('click',e=>{e.preventDefault();show(r.id,true);});
+      });
+      // Keep labels readable at the actual container width; reflow long row titles.
+      [...svg.querySelectorAll('.agt-inspect')].forEach(a=>{
+        const t=a.querySelector('text');if(!t||t.getBBox().width<=w-left-right-16)return;
+        const words=t.textContent.split(' ');t.textContent='';let line='',lines=[];
+        for(const word of words){const probe=make('tspan',{},t);probe.textContent=line?line+' '+word:word;if(probe.getComputedTextLength()>w-left-right-16&&line){lines.push(line);line=word;}else line=probe.textContent;probe.remove();}if(line)lines.push(line);
+        // On narrow screens titles have a dedicated extra line; move dates and marks below it.
+        lines.forEach((line,j)=>make('tspan',{x:left+8,dy:j?14:0},t).textContent=line);
+        if(lines.length>1){const date=a.querySelectorAll('text')[1];date.setAttribute('y',Number(date.getAttribute('y'))+14);for(const n of a.children){if(n===t||n===date)continue;if(n.hasAttribute('y'))n.setAttribute('y',Number(n.getAttribute('y'))+14);if(n.hasAttribute('cy'))n.setAttribute('cy',Number(n.getAttribute('cy'))+14);if(n.hasAttribute('y1')){n.setAttribute('y1',Number(n.getAttribute('y1'))+14);n.setAttribute('y2',Number(n.getAttribute('y2'))+14);}}}
+      });
+    }
+    const restore=s=>show(s?.timelineSelection||data.rows[0].id,false);
+    restore(window.openai?.widgetState?.modelContent);
+    window.addEventListener('openai:set_globals',e=>{if(e.detail?.globals?.widgetState)restore(e.detail.globals.widgetState.modelContent);});
+    new ResizeObserver(draw).observe(root);
+  })();
+  </script>
+</div>

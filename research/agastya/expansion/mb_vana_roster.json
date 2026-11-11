@@ -1,0 +1,1126 @@
+{
+  "nodes": [
+    {
+      "id": "skanda",
+      "label": "Skanda · core graph deity anchor",
+      "type": "deity"
+    },
+    {
+      "id": "indra",
+      "label": "Indra · core graph deity anchor",
+      "type": "deity"
+    },
+    {
+      "id": "siva",
+      "label": "Śiva / Rudra · core graph deity anchor",
+      "type": "deity"
+    },
+    {
+      "id": "root_agni",
+      "label": "Agni · core graph deity anchor",
+      "type": "deity"
+    },
+    {
+      "id": "varuna",
+      "label": "Varuṇa · core graph deity anchor",
+      "type": "deity"
+    },
+    {
+      "id": "arundhati",
+      "label": "Arundhatī · core graph person anchor",
+      "type": "person"
+    },
+    {
+      "id": "mb2_kubera_sabha_x",
+      "label": "Kubera / Vaiśravaṇa · existing Mahābhārata deity anchor",
+      "type": "deity"
+    },
+    {
+      "id": "mb2viii_yama",
+      "label": "Yama · existing Mahābhārata deity anchor",
+      "type": "deity"
+    },
+    {
+      "id": "vp20_vayu_deity",
+      "label": "Vāyu · existing deity anchor",
+      "type": "deity"
+    },
+    {
+      "id": "vp20_parjanya",
+      "label": "Parjanya · existing deity anchor",
+      "type": "deity"
+    },
+    {
+      "id": "root_soma",
+      "label": "Soma · existing deity anchor",
+      "type": "deity"
+    },
+    {
+      "id": "mb2_brahma_sabha_xi",
+      "label": "Brahmā · existing Mahābhārata deity anchor",
+      "type": "deity"
+    },
+    {
+      "id": "mb2_xi_daksha",
+      "label": "Dakṣa · existing Mahābhārata person anchor",
+      "type": "person"
+    },
+    {
+      "id": "mb3_kesin",
+      "label": "Keśin · asura who abducts Daityasenā and attacks Devasenā",
+      "type": "person"
+    },
+    {
+      "id": "mb3_devasena",
+      "label": "Devasenā · Prajāpati’s daughter, freed by Indra and promised a husband",
+      "type": "person"
+    },
+    {
+      "id": "mb3_daityasena",
+      "label": "Daityasenā · Devasenā’s sister, abducted by Keśin",
+      "type": "person"
+    },
+    {
+      "id": "mb3_vishvamitra",
+      "label": "Viśvāmitra · performs Skanda’s rites and praises him",
+      "type": "person"
+    },
+    {
+      "id": "mb3_vishakha",
+      "label": "Viśākha · born from Skanda’s side after Indra’s thunderbolt strike; source-local identity",
+      "type": "person"
+    },
+    {
+      "id": "mb3_angiras",
+      "label": "Aṅgiras · husband of Śivā, one of the forms assumed by Svāhā",
+      "type": "person"
+    },
+    {
+      "id": "mb3_shiva_angiras_wife",
+      "label": "Śivā · Aṅgiras’s wife, whose appearance Svāhā assumes",
+      "type": "person"
+    },
+    {
+      "id": "mb3_citra_naga",
+      "label": "Citra · named nāga who appears at Skanda’s roar",
+      "type": "person"
+    },
+    {
+      "id": "mb3_airavata_naga",
+      "label": "Airāvata · named nāga who appears at Skanda’s roar",
+      "type": "person"
+    },
+    {
+      "id": "mb3_kaki_matrika",
+      "label": "Kākī · one of the seven named child-mothers in Skanda’s retinue",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_halima_matrika",
+      "label": "Halimā · one of the seven named child-mothers in Skanda’s retinue",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_rudra_matrika",
+      "label": "Rudrā · one of the seven named child-mothers in Skanda’s retinue; distinct from Rudra/Śiva",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_brihali_matrika",
+      "label": "Bṛhalī · one of the seven named child-mothers in Skanda’s retinue",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_arya_matrika",
+      "label": "Āryā · one of the seven named child-mothers in Skanda’s retinue",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_palala_matrika",
+      "label": "Palālā · one of the seven named child-mothers in Skanda’s retinue",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_mitra_matrika",
+      "label": "Mitrā · one of the seven named child-mothers in Skanda’s retinue; distinct from Mitra",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_lohitaksha",
+      "label": "Lohitākṣa · fearsome son born through Skanda’s favor to the seven mothers",
+      "type": "person"
+    },
+    {
+      "id": "mb3_chagavaktra",
+      "label": "Chāgavaktra · goat-faced attendant included with Skanda’s following",
+      "type": "person"
+    },
+    {
+      "id": "mb3_vinata",
+      "label": "Vinatā · claims Skanda as her son in the account",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_surabhi",
+      "label": "Surabhi · named as mother of cattle",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_sarama",
+      "label": "Saramā · named as mother of dogs",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_kadru",
+      "label": "Kadrū · named as mother of nāgas",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_aditi_revati",
+      "label": "Aditi / Revatī · one goddess explicitly called by both names in the account",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_diti_mukhamandika",
+      "label": "Diti / Mukhamāṇḍikā · one goddess explicitly called by both names in the account",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_dhatri_lohitayani",
+      "label": "Dhātrī / Lohitāyanī · Skanda’s nurse, also named Lohitāyanī",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_arya_goddess",
+      "label": "Āryā · goddess of women, worshipped separately in the account; source-local identity",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_vishvakarman",
+      "label": "Viśvakarman · maker of Skanda’s golden garland",
+      "type": "person"
+    },
+    {
+      "id": "mb3_svaha",
+      "label": "Svāhā · daughter of Dakṣa and Agni’s consort; participates in Skanda’s birth",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_amogha_yaksha",
+      "label": "Amogha · named great Yakṣa in Śiva’s procession",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_mrityu",
+      "label": "Mṛtyu · personified Death accompanying Yama",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_parvati",
+      "label": "Pārvatī · accompanies Śiva in the chariot procession",
+      "type": "person"
+    },
+    {
+      "id": "mb3_gauri",
+      "label": "Gaurī · named among the women accompanying Pārvatī; kept distinct from Pārvatī absent explicit equation",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_vidya",
+      "label": "Vidyā · named among the women accompanying Pārvatī",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_gandhari_goddess",
+      "label": "Gāndhārī · named among the women accompanying Pārvatī; source-local identity",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_kesini_goddess",
+      "label": "Keśinī · named among the women accompanying Pārvatī; source-local identity",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_mitrasahvaya",
+      "label": "Mitrasāhvayā · named among the women accompanying Pārvatī",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_savitri_goddess",
+      "label": "Sāvitrī · named among the women accompanying Pārvatī; source-local identity",
+      "type": "deity"
+    },
+    {
+      "id": "mb3_pingala_yaksha",
+      "label": "Piṅgala · Yakṣa lord and friend of Rudra",
+      "type": "person"
+    },
+    {
+      "id": "mb3_mahisha",
+      "label": "Mahīṣa · named Dānava slain by Skanda in battle",
+      "type": "person"
+    },
+    {
+      "id": "mb3_cattle_class",
+      "label": "Cattle · animal class mentioned in the Skanda account; non-person reference",
+      "type": "class"
+    },
+    {
+      "id": "mb3_dogs_class",
+      "label": "Dogs · animal class mentioned in the Skanda account; non-person reference",
+      "type": "class"
+    },
+    {
+      "id": "mb3_naga_class",
+      "label": "Nāgas · serpent class mentioned in the Skanda account; non-person reference",
+      "type": "class"
+    }
+  ],
+  "claims": [
+    {
+      "id": "MB3VANA_001",
+      "facet": "epic",
+      "subject": "mb3_kesin",
+      "predicate": "abducts",
+      "object": "mb3_daityasena",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.213.16–18",
+      "summary": "Keśin abducts Daityasenā, who is Devasenā’s sister.",
+      "category": "kinship_and_action",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_002",
+      "facet": "epic",
+      "subject": "mb3_daityasena",
+      "predicate": "is_sister_of",
+      "object": "mb3_devasena",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.213.16–18",
+      "summary": "Devasenā identifies Daityasenā as her sister.",
+      "category": "kinship",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_003",
+      "facet": "epic",
+      "subject": "indra",
+      "predicate": "rescues_from",
+      "object": "mb3_devasena",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.213.8–19",
+      "summary": "Indra drives off Keśin and protects Devasenā from his attempted abduction.",
+      "category": "action",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_004",
+      "facet": "epic",
+      "subject": "mb3_devasena",
+      "predicate": "is_wife_of",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.218.42–47",
+      "summary": "Indra identifies Devasenā as the wife Brahmā had assigned to Skanda before his birth.",
+      "category": "kinship_and_marriage",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_005",
+      "facet": "epic",
+      "subject": "mb3_vishvamitra",
+      "predicate": "performs_rites_for",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.215.7–11",
+      "summary": "Viśvāmitra performs Skanda’s birth rites and becomes dear to the child.",
+      "category": "ritual_and_relation",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_006",
+      "facet": "epic",
+      "subject": "mb3_vishvamitra",
+      "predicate": "discovers_account_of",
+      "object": "root_agni",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.215.7",
+      "summary": "Viśvāmitra learns the true account of Agni and Svāhā.",
+      "category": "action",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_007",
+      "facet": "epic",
+      "subject": "mb3_shiva_angiras_wife",
+      "predicate": "is_wife_of",
+      "object": "mb3_angiras",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.214.1–3",
+      "summary": "The text identifies Śivā as Aṅgiras’s wife.",
+      "category": "kinship",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_008",
+      "facet": "epic",
+      "subject": "mb3_svaha",
+      "predicate": "assumes_form_of",
+      "object": "mb3_shiva_angiras_wife",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.214.1–3",
+      "summary": "Svāhā assumes Śivā’s form when approaching Agni.",
+      "category": "action",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_009",
+      "facet": "epic",
+      "subject": "mb3_svaha",
+      "predicate": "deposits_seed_of",
+      "object": "root_agni",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.214.7–16",
+      "summary": "Svāhā takes and deposits Agni’s seed; the text says the gathered fiery seed produces Skanda.",
+      "category": "birth",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_010",
+      "facet": "epic",
+      "subject": "root_agni",
+      "predicate": "contributes_to_birth_of",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.214.7–18",
+      "summary": "Agni’s seed, gathered by Svāhā, produces Skanda, who is also called Guha in the passage.",
+      "category": "birth",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_011",
+      "facet": "epic",
+      "subject": "arundhati",
+      "predicate": "cannot_be_impersonated_by",
+      "object": "mb3_svaha",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.214.13–16",
+      "summary": "The account says Svāhā cannot reproduce Arundhatī’s divine appearance.",
+      "category": "source_statement",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_012",
+      "facet": "epic",
+      "subject": "mb3_citra_naga",
+      "predicate": "appears_before",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.214.22–24",
+      "summary": "Citra and Airāvata, named great nāgas, appear at Skanda’s roar.",
+      "category": "cooccurrence",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_013",
+      "facet": "epic",
+      "subject": "mb3_airavata_naga",
+      "predicate": "appears_before",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.214.22–24",
+      "summary": "Citra and Airāvata, named great nāgas, appear at Skanda’s roar.",
+      "category": "cooccurrence",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_014",
+      "facet": "epic",
+      "subject": "indra",
+      "predicate": "attacks",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.216.3–14",
+      "summary": "Indra attacks Skanda with the thunderbolt; Viśākha emerges from Skanda’s struck side and Indra takes refuge.",
+      "category": "battle",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_015",
+      "facet": "epic",
+      "subject": "mb3_vishakha",
+      "predicate": "is_born_from_wound_of",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.216.12–14",
+      "summary": "Viśākha appears from Skanda’s side after the thunderbolt strikes him.",
+      "category": "birth",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_016",
+      "facet": "epic",
+      "subject": "skanda",
+      "predicate": "accepts_surrender_of",
+      "object": "indra",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.216.14–15",
+      "summary": "After Viśākha appears, Skanda grants Indra and his army safety.",
+      "category": "action",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_017",
+      "facet": "epic",
+      "subject": "mb3_kaki_matrika",
+      "predicate": "is_named_mother_of",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.217.7–10",
+      "summary": "The named figure belongs to the seven mothers who declare that they wish to be mothers of the world and whom Skanda accepts as his mothers.",
+      "category": "kinship",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_018",
+      "facet": "epic",
+      "subject": "mb3_halima_matrika",
+      "predicate": "is_named_mother_of",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.217.7–10",
+      "summary": "The named figure belongs to the seven mothers who declare that they wish to be mothers of the world and whom Skanda accepts as his mothers.",
+      "category": "kinship",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_019",
+      "facet": "epic",
+      "subject": "mb3_rudra_matrika",
+      "predicate": "is_named_mother_of",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.217.7–10",
+      "summary": "The named figure belongs to the seven mothers who declare that they wish to be mothers of the world and whom Skanda accepts as his mothers.",
+      "category": "kinship",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_020",
+      "facet": "epic",
+      "subject": "mb3_brihali_matrika",
+      "predicate": "is_named_mother_of",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.217.7–10",
+      "summary": "The named figure belongs to the seven mothers who declare that they wish to be mothers of the world and whom Skanda accepts as his mothers.",
+      "category": "kinship",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_021",
+      "facet": "epic",
+      "subject": "mb3_arya_matrika",
+      "predicate": "is_named_mother_of",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.217.7–10",
+      "summary": "The named figure belongs to the seven mothers who declare that they wish to be mothers of the world and whom Skanda accepts as his mothers.",
+      "category": "kinship",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_022",
+      "facet": "epic",
+      "subject": "mb3_palala_matrika",
+      "predicate": "is_named_mother_of",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.217.7–10",
+      "summary": "The named figure belongs to the seven mothers who declare that they wish to be mothers of the world and whom Skanda accepts as his mothers.",
+      "category": "kinship",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_023",
+      "facet": "epic",
+      "subject": "mb3_mitra_matrika",
+      "predicate": "is_named_mother_of",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.217.7–10",
+      "summary": "The named figure belongs to the seven mothers who declare that they wish to be mothers of the world and whom Skanda accepts as his mothers.",
+      "category": "kinship",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_024",
+      "facet": "epic",
+      "subject": "mb3_lohitaksha",
+      "predicate": "is_born_through_favor_of",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.217.9–11",
+      "summary": "Lohitākṣa is described as a child born through Skanda’s favor to the mother group, not as Skanda’s biological son.",
+      "category": "kinship",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "The Sanskrit says he is the son of the mothers and born by Skanda’s favor; it does not make Skanda his biological father.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_025",
+      "facet": "epic",
+      "subject": "mb3_chagavaktra",
+      "predicate": "attends",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.217.3–5",
+      "summary": "Chāgavaktra is named alongside Skanda and the child-followers in his retinue.",
+      "category": "cooccurrence",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_026",
+      "facet": "epic",
+      "subject": "mb3_vinata",
+      "predicate": "claims_motherhood_of",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.219.12–13",
+      "summary": "Vinatā tells Skanda that he is her son and asks to live with him.",
+      "category": "kinship_claim",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_027",
+      "facet": "epic",
+      "subject": "mb3_surabhi",
+      "predicate": "is_named_mother_of",
+      "object": "mb3_cattle_class",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.219.32",
+      "summary": "The passage names Surabhi as mother of cattle.",
+      "category": "role",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_028",
+      "facet": "epic",
+      "subject": "mb3_sarama",
+      "predicate": "is_named_mother_of",
+      "object": "mb3_dogs_class",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.219.33",
+      "summary": "Saramā is named as the mother of dogs; the same passage describes her as taking human pregnancies.",
+      "category": "role",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "The class node is a non-person reference for the offspring group named in the source.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_029",
+      "facet": "epic",
+      "subject": "mb3_kadru",
+      "predicate": "is_named_mother_of",
+      "object": "mb3_naga_class",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.219.36",
+      "summary": "Kadrū is named as the mother of nāgas and said to consume a fetus before a nāga birth.",
+      "category": "role",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_030",
+      "facet": "epic",
+      "subject": "mb3_aditi_revati",
+      "predicate": "also_called",
+      "object": "mb3_aditi_revati",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.219.28",
+      "summary": "The text states that Aditi is called Revatī.",
+      "category": "name_variant",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "The self-edge records an explicit within-passage alternate name; no outside identity inference is made.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_031",
+      "facet": "epic",
+      "subject": "mb3_diti_mukhamandika",
+      "predicate": "also_called",
+      "object": "mb3_diti_mukhamandika",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.219.29",
+      "summary": "The text states that Diti, mother of the Daityas, is called Mukhamāṇḍikā.",
+      "category": "name_variant",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "The self-edge records an explicit within-passage alternate name; no outside identity inference is made.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_032",
+      "facet": "epic",
+      "subject": "mb3_dhatri_lohitayani",
+      "predicate": "nurses",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.219.39–40",
+      "summary": "Dhātrī, called Lohitāyanī, is identified as Skanda’s nurse and worshipped as such.",
+      "category": "role",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_033",
+      "facet": "epic",
+      "subject": "mb3_arya_goddess",
+      "predicate": "is_worshipped_as_mother_of",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.219.40",
+      "summary": "Āryā is worshipped as the mother of Kumāra in the passage.",
+      "category": "role",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Kept distinct from the earlier named mother Āryā in 3.217 because the text does not expressly equate the two occurrences.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_034",
+      "facet": "epic",
+      "subject": "mb3_svaha",
+      "predicate": "is_daughter_of",
+      "object": "mb2_xi_daksha",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.220.3",
+      "summary": "Svāhā identifies herself as Dakṣa’s daughter.",
+      "category": "kinship",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_035",
+      "facet": "epic",
+      "subject": "mb3_svaha",
+      "predicate": "is_consort_of",
+      "object": "root_agni",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.220.3–7",
+      "summary": "Svāhā requests permanent residence with Agni; Skanda grants it.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_036",
+      "facet": "epic",
+      "subject": "mb3_vishvakarman",
+      "predicate": "makes_garland_for",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.218.25–26",
+      "summary": "Viśvakarman made the divine golden garland fastened on Skanda by Śiva.",
+      "category": "action",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_037",
+      "facet": "epic",
+      "subject": "mb2_kubera_sabha_x",
+      "predicate": "precedes",
+      "object": "siva",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.1–5",
+      "summary": "Kubera travels ahead of Śiva and Pārvatī in the procession.",
+      "category": "attendance",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_038",
+      "facet": "epic",
+      "subject": "mb3_parvati",
+      "predicate": "accompanies",
+      "object": "siva",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.1–4",
+      "summary": "Pārvatī rides with Śiva in his chariot.",
+      "category": "attendance",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_039",
+      "facet": "epic",
+      "subject": "mb3_amogha_yaksha",
+      "predicate": "accompanies",
+      "object": "siva",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.7",
+      "summary": "Amogha, a great Yakṣa, travels on Śiva’s right flank.",
+      "category": "attendance",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_040",
+      "facet": "epic",
+      "subject": "mb2viii_yama",
+      "predicate": "accompanies",
+      "object": "siva",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.9",
+      "summary": "Yama travels in Śiva’s procession, accompanied by Mṛtyu.",
+      "category": "attendance",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_041",
+      "facet": "epic",
+      "subject": "mb3_mrityu",
+      "predicate": "accompanies",
+      "object": "mb2viii_yama",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.9",
+      "summary": "Mṛtyu is named as accompanying Yama.",
+      "category": "attendance",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_042",
+      "facet": "epic",
+      "subject": "varuna",
+      "predicate": "accompanies",
+      "object": "siva",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.11",
+      "summary": "Varuṇa travels in the procession surrounded by aquatic beings.",
+      "category": "attendance",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_043",
+      "facet": "epic",
+      "subject": "vp20_parjanya",
+      "predicate": "accompanies",
+      "object": "siva",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.18",
+      "summary": "Parjanya follows Śiva after bowing to him.",
+      "category": "attendance",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_044",
+      "facet": "epic",
+      "subject": "root_soma",
+      "predicate": "holds_parasol_for",
+      "object": "siva",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.18",
+      "summary": "Soma holds the white parasol above Śiva.",
+      "category": "service",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_045",
+      "facet": "epic",
+      "subject": "vp20_vayu_deity",
+      "predicate": "holds_fan_for",
+      "object": "siva",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.18",
+      "summary": "Vāyu holds a fly-whisk for Śiva.",
+      "category": "service",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_046",
+      "facet": "epic",
+      "subject": "root_agni",
+      "predicate": "holds_fan_for",
+      "object": "siva",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.18",
+      "summary": "Agni holds a fly-whisk for Śiva.",
+      "category": "service",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_047",
+      "facet": "epic",
+      "subject": "mb3_gauri",
+      "predicate": "accompanies",
+      "object": "mb3_parvati",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.20",
+      "summary": "The named figure is listed among those who follow Pārvatī in the procession.",
+      "category": "attendance",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_048",
+      "facet": "epic",
+      "subject": "mb3_vidya",
+      "predicate": "accompanies",
+      "object": "mb3_parvati",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.20",
+      "summary": "The named figure is listed among those who follow Pārvatī in the procession.",
+      "category": "attendance",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_049",
+      "facet": "epic",
+      "subject": "mb3_gandhari_goddess",
+      "predicate": "accompanies",
+      "object": "mb3_parvati",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.20",
+      "summary": "The named figure is listed among those who follow Pārvatī in the procession.",
+      "category": "attendance",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_050",
+      "facet": "epic",
+      "subject": "mb3_kesini_goddess",
+      "predicate": "accompanies",
+      "object": "mb3_parvati",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.20",
+      "summary": "The named figure is listed among those who follow Pārvatī in the procession.",
+      "category": "attendance",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_051",
+      "facet": "epic",
+      "subject": "mb3_mitrasahvaya",
+      "predicate": "accompanies",
+      "object": "mb3_parvati",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.20",
+      "summary": "The named figure is listed among those who follow Pārvatī in the procession.",
+      "category": "attendance",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_052",
+      "facet": "epic",
+      "subject": "mb3_savitri_goddess",
+      "predicate": "accompanies",
+      "object": "mb3_parvati",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.20",
+      "summary": "The named figure is listed among those who follow Pārvatī in the procession.",
+      "category": "attendance",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_053",
+      "facet": "epic",
+      "subject": "mb3_pingala_yaksha",
+      "predicate": "is_friend_of",
+      "object": "siva",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.22",
+      "summary": "Piṅgala is named as a Yakṣa lord and friend of Rudra (Śiva) who bears a banner in the procession.",
+      "category": "relationship",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_054",
+      "facet": "epic",
+      "subject": "mb3_mahisha",
+      "predicate": "is_slain_by",
+      "object": "skanda",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.221.52–67",
+      "summary": "Mahīṣa attacks the gods and is killed by Skanda’s spear in battle.",
+      "category": "battle",
+      "status": "source_text_checked",
+      "speaker": "Mārkaṇḍeya",
+      "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.",
+      "original_language_reviewed": true
+    },
+    {
+      "id": "MB3VANA_055",
+      "facet": "epic",
+      "subject": "mb3_devasena",
+      "predicate": "is_assigned_as_wife_by",
+      "object": "mb2_brahma_sabha_xi",
+      "source": "mb3_ce_skanda_213_221",
+      "locator": "3.218.44–47",
+      "summary": "Indra says Brahmā had designated Devasenā as Skanda’s wife before Skanda was born.",
+      "category": "marriage",
+      "status": "source_text_checked",
+      "speaker": "Indra, reported by Mārkaṇḍeya",
+      "note": "The following verses describe Skanda taking Devasenā’s hand in marriage.",
+      "original_language_reviewed": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "mb3_ce_skanda_213_221",
+      "title": "Mahābhārata, Book 3 (Āraṇyakaparvan), Skanda’s birth and campaign, BORI Critical Edition, adhyāyas 213–221",
+      "url": "https://bombay.indology.info/mahabharata/text/UR/MBh03.txt",
+      "kind": "primary_sanskrit_text",
+      "edition": "Electronic text of the Bhandarkar Oriental Research Institute Critical Edition; Unicode Roman (ISO 15919), based on Tokunaga’s version with John D. Smith revisions and BORI checking; edition statement and format documented at https://bombay.indology.info/mahabharata/statement.html and https://bombay.indology.info/mahabharata/welcome.html.",
+      "locator": "BORI CE 3.213–3.221; locators in claims are book.chapter.verse.",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "notes": [
+    "Passage-limited extraction from the BORI Critical Edition of Mahābhārata Book 3, chapters 213–221: Devasenā’s encounter with Keśin, Skanda’s birth and divine reception, the named mother/attendant figures, the procession of Śiva, and Skanda’s battle with Mahīṣa.",
+    "The CE chapters contain fewer than 100 defensible individually named persons; this is not a 100-person roster. The batch records 39 newly source-scoped named people plus 13 existing graph anchors and three non-person class references, with explicit source-based relation or action claims. Group names, anonymous wives/warriors, stars, places, weapons, and generic gaṇas are excluded.",
+    "Clear graph anchors reused: Skanda, Indra, Śiva/Rudra, Agni, Varuṇa, Arundhatī, Kubera, Yama, Vāyu, Parjanya, Soma, Brahmā and Dakṣa. Viśākha remains source-scoped because its identity with similar graph names was not established in this passage.",
+    "Names with an explicit within-passage equation are represented once (Aditi/Revatī, Diti/Mukhamāṇḍikā, Dhātrī/Lohitāyanī; Skanda/Guha/Mahāsena/Kumāra/Kārttikeya; Śiva/Rudra/Hara). Female Rudrā and Mitrā from the seven mothers are not merged with male Rudra/Śiva or Mitra. The two occurrences of Āryā are kept separate because no explicit identity equation appears.",
+    "Vinatā’s statement that Skanda is her son is recorded as her claim in the source, not as a harmonized birth account. The text’s multiple birth explanations are represented as such; no single biological parentage is imposed.",
+    "Citra and Airāvata at 3.214.22–24 are explicitly called nāgas in this passage and are kept source-scoped, separate from the elephant Airāvata. Gāndhārī, Keśinī, Sāvitrī, Gaurī, and Vidyā in 3.221 are source-local figures; no identity with similarly named epic women is asserted.",
+    "The named twins Miñjikā and Miñjika are omitted as a pair because the passage does not individuate their referents. Rudra’s weapon Vijaya and animal/vehicle names are also omitted. Cattle, dogs, and nāgas appear only as non-person class reference nodes for explicit motherhood claims."
+  ]
+}

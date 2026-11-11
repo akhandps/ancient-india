@@ -1,0 +1,355 @@
+{
+  "nodes": [
+    {
+      "id": "tamil_manimekalai",
+      "label": "Maṇimēkalai",
+      "type": "text"
+    },
+    {
+      "id": "tamil_iraiyanar",
+      "label": "Iṟaiyaṉār Akapporuḷ and Nakkīrar commentary",
+      "type": "text"
+    },
+    {
+      "id": "tamil_tolkappiyam_base",
+      "label": "Tolkāppiyam · base text",
+      "type": "text"
+    },
+    {
+      "id": "tamil_kaveri",
+      "label": "Kāviri / Kaveri",
+      "type": "place"
+    },
+    {
+      "id": "tamil_kanthan",
+      "label": "King Kānthan · Maṇimēkalai witness",
+      "type": "person"
+    },
+    {
+      "id": "tamil_chembiyan",
+      "label": "King Chembiyan Cheralāthan · Maṇimēkalai witness",
+      "type": "person"
+    },
+    {
+      "id": "tamil_unnamed_northern_sage",
+      "label": "Unnamed northern sage · Puṟanāṉūṟu 201",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "tamil_manimekalai_hart",
+      "title": "Maṇimēkalai · English translation by Kausalya Hart",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0710.html",
+      "kind": "primary_translation",
+      "edition": "Project Madurai Unicode text; English translation by Kausalya Hart",
+      "locator": "Prologue; canto 1, lines 1–10; canto 22, lines 22-030–22-040",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "tamil_puram201_translation_excerpt",
+      "title": "Puṟanāṉūṟu 201 · literal translation excerpt in Mahadevan",
+      "url": "https://www.harappa.com/sites/default/files/pdf/meluhha_and_agastya_2009.pdf",
+      "kind": "primary_translation_excerpt",
+      "edition": "Iravatham Mahadevan, literal translation of Puṟam 201:8–12, reproduced in a scholarly article; translation checked, not the Tamil text",
+      "locator": "§4.9, pp. 13–14",
+      "accessed": "2026-10-27"
+    },
+    {
+      "id": "tamil_cict_iraiyanar_catalogue",
+      "title": "Iṟaiyaṉārkaḷaviyal · Central Institute of Classical Tamil digital catalogue",
+      "url": "https://library.cict.in/ebooks/iraiyanar-kalaviyal",
+      "kind": "catalogue",
+      "edition": "Lists Tamil editions and a 2012 text, transliteration, and English translation by V. Ramasamy; the Agastya narrative passage was not checked here",
+      "locator": "Digital Resources & Editions",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "TEX_001",
+      "facet": "tamil",
+      "subject": "tamil_tolkappiyam_base",
+      "predicate": "does_not_name",
+      "object": "tamil",
+      "source": "zvelebil",
+      "locator": "pp. 10–11, 15",
+      "summary": "Zvelebil reports that Agastya/Akattiyam is absent from the Tolkāppiyam base text and its prefatory stanza; Agastya appears in later commentary traditions.",
+      "category": "textual_absence",
+      "status": "scholarly_report",
+      "speaker": null,
+      "note": "This distinguishes the grammar from its commentaries; it is not a claim that every manuscript or recension has been exhaustively collated.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TEX_002",
+      "facet": "tamil",
+      "subject": "tolkappiyar",
+      "predicate": "commentarially_identified_as_pupil_of",
+      "object": "tamil",
+      "source": "zvelebil",
+      "locator": "p. 15",
+      "summary": "Nacciṉārkkiṉiyar’s commentary on the Tolkāppiyam preface identifies Tolkāppiyar as Tiraṇatūmākkiṉi, son of Camata(k)kiṉi, and a pupil of Akattiyar.",
+      "category": "commentarial_attribution",
+      "status": "scholarly_report",
+      "speaker": "Nacciṉārkkiṉiyar as reported by Zvelebil",
+      "note": "The attribution belongs to the commentator’s account, not to an explicit statement in the Tolkāppiyam base text.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TEX_003",
+      "facet": "tamil",
+      "subject": "peraciriyar",
+      "predicate": "defends_traditional_teacher_relation",
+      "object": "tolkappiyar",
+      "source": "zvelebil",
+      "locator": "p. 15",
+      "summary": "Pērāciriyar acknowledges a view that Tolkāppiyar followed other now-lost grammatical works, then argues that he was Akattiyar’s foremost pupil and followed his teaching.",
+      "category": "commentarial_attribution",
+      "status": "scholarly_report",
+      "speaker": "Pērāciriyar as reported by Zvelebil",
+      "note": "Reports a debate among commentators and scholars; it does not establish a historical teacher-pupil relationship.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TEX_004",
+      "facet": "tamil",
+      "subject": "peraciriyar",
+      "predicate": "attributes_threefold_tamil_division_to",
+      "object": "tamil",
+      "source": "zvelebil",
+      "locator": "pp. 10–11",
+      "summary": "Zvelebil reports Pērāciriyar’s attribution to Akattiyan of Tamil’s three divisions: iyal, icai, and nāṭakam; he also describes Akattiyam as the foundational text for Tolkāppiyam.",
+      "category": "commentarial_attribution",
+      "status": "scholarly_report",
+      "speaker": "Pērāciriyar as reported by Zvelebil",
+      "note": "These are statements attributed to the commentary, not surviving contents of a complete Akattiyam.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TEX_005",
+      "facet": "tamil",
+      "subject": "tamil",
+      "predicate": "instructs_to_hold_indra_festival",
+      "object": "tamil_chembiyan",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 1, lines 1–10 (Hart numbering)",
+      "summary": "In canto 1, the sage Agastya tells the named Chola king Chembiyan Cheralāthan to hold an Indra festival at Pukār; the king agrees and invites Indra for twenty-eight days.",
+      "category": "narrative_action",
+      "status": "translation_checked",
+      "speaker": "Narrator",
+      "note": "A named Agastya appearance in the translated base poem; the narrated setting supplies no historical date for the sage.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TEX_006",
+      "facet": "tamil",
+      "subject": "tamil_manimekalai",
+      "predicate": "narrates_emergence_of",
+      "object": "tamil_kaveri",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Prologue, lines 00-10–00-20 (Tamil text); Hart explanatory prose, lines 202–203",
+      "summary": "The prologue narrates that Agastya’s karakam (water vessel) was overturned and the Kāviri emerged from its water.",
+      "category": "narrative_action",
+      "status": "translation_checked",
+      "speaker": "Narrator",
+      "note": "The Tamil passage and Hart’s translation do not name a crow in these verses. Hart’s surrounding explanatory prose says a crow turned the pot over; that detail is retained as translator-provided narrative explanation, not a direct verse claim.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TEX_007",
+      "facet": "tamil",
+      "subject": "tamil_kanthan",
+      "predicate": "plans_to_seek_audience_with",
+      "object": "tamil",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 22, lines 22-030–22-040 (Hart numbering)",
+      "summary": "King Kānthan says he will seek the sage Agastya’s grace to resolve his troubles.",
+      "category": "narrative_action",
+      "status": "translation_checked",
+      "speaker": "King Kānthan in quoted speech",
+      "note": "The episode names Agastya inside the narrative; it does not date the episode historically.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TEX_008",
+      "facet": "tamil",
+      "subject": "velir",
+      "predicate": "claims_lineage_from_vessel_of",
+      "object": "tamil_unnamed_northern_sage",
+      "source": "tamil_puram201_translation_excerpt",
+      "locator": "Puṟam 201:8–12; Mahadevan §4.9, pp. 13–14",
+      "summary": "Kapilar’s poem praises a Vēḷ chief as descended through forty-nine generations from a lineage said to arise from an unnamed northern sage’s vessel and rule Tuvarai.",
+      "category": "genealogy",
+      "status": "translation_checked",
+      "speaker": "Kapilar in the poem, as translated by Mahadevan",
+      "note": "The poem calls the figure only a “northern sage”; it does not name Agastya. The forty-nine generations refer to the Vēḷ lineage, not to the sage’s lifespan. Mahadevan’s equation of the sage with Agastya remains a separate identity hypothesis in the core graph.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TEX_009",
+      "facet": "tamil",
+      "subject": "naccinarkkiniyar",
+      "predicate": "commentary_narrates_migration_with",
+      "object": "velir",
+      "source": "mahadevan",
+      "locator": "§4.11, pp. 15–16",
+      "summary": "Mahadevan reports that Nacciṉārkkiṉiyar’s Tolkāppiyam commentary has Akattiyar lead eighteen Vēḷir families, eighteen kings, and Aruvaḷar from Tuvarāpati south, with Potiyil as his eventual abode.",
+      "category": "commentarial_narrative",
+      "status": "scholarly_report",
+      "speaker": "Nacciṉārkkiṉiyar as reported by Mahadevan",
+      "note": "This is a commentary narrative reported by a modern scholar. Tuvarāpati = Dvārakā is an identification, and the story supplies no verified migration date.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TEX_010",
+      "facet": "tamil",
+      "subject": "viracoliyam",
+      "predicate": "attributes_tamil_instruction_to",
+      "object": "avalokitesvara",
+      "source": "mahadevan",
+      "locator": "§4.10, printed p. 15",
+      "summary": "Mahadevan reports the Tamil Buddhist tradition represented by Buddhamitra’s Vīracōḻiyam as making Avalokiteśvara the source from whom Agastya learned Tamil.",
+      "category": "commentarial_or_textual_tradition",
+      "status": "scholarly_report",
+      "speaker": "Buddhist Tamil tradition as reported by Mahadevan",
+      "note": "The Vīracōḻiyam passage itself was not checked in an accessible translation here; this remains a report about a textual tradition.",
+      "original_language_reviewed": false
+    }
+  ],
+  "person_notes": [
+    {
+      "person_id": "tolkappiyar",
+      "findings": [
+        "A pupil relationship with Akattiyar is a commentarial tradition attributed particularly to Nacciṉārkkiṉiyar and defended by Pērāciriyar; Zvelebil says neither the Tolkāppiyam base text nor its prefatory stanza names Agastya."
+      ],
+      "open_questions": [
+        "Collate Nacciṉārkkiṉiyar’s and Pērāciriyar’s Tamil commentary passages directly against reliable editions and variants."
+      ]
+    },
+    {
+      "person_id": "naccinarkkiniyar",
+      "findings": [
+        "Zvelebil reports that his Tolkāppiyam preface commentary names Tolkāppiyar as an Akattiyar pupil; Mahadevan reports a separate southern-migration narrative in the commentary."
+      ],
+      "open_questions": [
+        "Check the actual Tamil commentary text and distinguish its wording from later editorial summaries."
+      ]
+    },
+    {
+      "person_id": "peraciriyar",
+      "findings": [
+        "Zvelebil reports that he defended Akattiyar’s foundational role and Tolkāppiyar’s pupil status against an alternative account."
+      ],
+      "open_questions": [
+        "Verify the cited Poruḷatikāram commentary passages in a reliable Tamil edition."
+      ]
+    },
+    {
+      "person_id": "kapilar",
+      "findings": [
+        "In Puṟanāṉūṟu 201’s translated wording, Kapilar refers to a northern sage but does not name Agastya."
+      ],
+      "open_questions": [
+        "Compare the poem’s Tamil text and old commentary with multiple translations; keep Agastya as an identification hypothesis."
+      ]
+    },
+    {
+      "person_id": "avalokitesvara",
+      "findings": [
+        "Mahadevan reports a Buddhist Tamil tradition in the Vīracōḻiyam associated with Avalokiteśvara teaching Tamil to Agastya."
+      ],
+      "open_questions": [
+        "Locate and translate the relevant Vīracōḻiyam passage; do not infer the wording from the scholarly summary alone."
+      ]
+    },
+    {
+      "person_id": "siva",
+      "findings": [
+        "Mahadevan reports a Tamil tradition in which Śiva teaches Tamil to Agastya."
+      ],
+      "open_questions": [
+        "Identify and inspect the specific primary witness or witnesses and their date; this pass found no translation-checked passage."
+      ]
+    },
+    {
+      "person_id": "skanda",
+      "findings": [
+        "Mahadevan reports Skanda as an alternative Tamil teacher of Agastya."
+      ],
+      "open_questions": [
+        "Identify and inspect the specific primary witness or witnesses; this pass found no translation-checked passage."
+      ]
+    },
+    {
+      "person_id": "velir",
+      "findings": [
+        "Puṟanāṉūṟu 201’s translated passage ties a Vēḷ lineage to a northern sage’s vessel and forty-nine generations; Nacciṉārkkiṉiyar’s migration account is separately reported as leading Vēḷir groups south."
+      ],
+      "open_questions": [
+        "Check the Old Tamil poem and commentary directly; keep the poem’s unnamed sage separate from the named Agastya of the commentary tradition."
+      ]
+    },
+    {
+      "person_id": "tamil_kanthan",
+      "findings": [
+        "In Maṇimēkalai’s prologue, King Kānthan asks Kāviri to make his lineage flourish; in canto 22 he says he will seek Agastya’s grace."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "tamil_chembiyan",
+      "findings": [
+        "Maṇimēkalai canto 1 names Chembiyan Cheralāthan as the Chola king whom Agastya instructs to hold Indra’s festival."
+      ],
+      "open_questions": []
+    },
+    {
+      "person_id": "tamil_unnamed_northern_sage",
+      "findings": [
+        "Puṟanāṉūṟu 201’s checked translation says “northern sage” but does not name Agastya."
+      ],
+      "open_questions": [
+        "Compare the Old Tamil text and commentary directly; retain any Agastya equation as a hypothesis."
+      ]
+    }
+  ],
+  "search_log": [
+    {
+      "query": "Project Madurai Maṇimēkalai Kausalya Hart Agastya",
+      "outcome": "Located and inspected Hart’s English translation, including canto 1, the prologue, and canto 22; named narrative references checked."
+    },
+    {
+      "query": "Tolkāppiyam Agastya Nacciṉārkkiṉiyar Pērāciriyar commentary",
+      "outcome": "Inspected Zvelebil’s discussion and the translated scholarly report; found explicit separation between base grammar and commentarial pupil tradition."
+    },
+    {
+      "query": "Puṟanāṉūṟu 201 Kapilar northern sage forty-nine generations",
+      "outcome": "Inspected Mahadevan’s literal translation excerpt and his own proposed identification; kept the poem’s unnamed sage distinct from the hypothesis."
+    },
+    {
+      "query": "Vīracōḻiyam Avalokiteśvara Agastya Tamil",
+      "outcome": "Found Mahadevan’s report of the Buddhist tradition, but did not locate an accessible checked translation of the relevant Vīracōḻiyam passage."
+    },
+    {
+      "query": "Iṟaiyaṉār Akapporuḷ commentary translation Agastya",
+      "outcome": "Found the CICT catalog listing a 2012 text/transliteration/English translation and older commentary editions; did not verify an Agastya passage in the translated text."
+    },
+    {
+      "query": "Cilappatikāram English Agastya primary translation",
+      "outcome": "Found CICT catalog information and Zvelebil’s report on text/commentary references, but no accessible translation passage was checked for a new claim."
+    },
+    {
+      "query": "Paripāṭal Agastya primary translation",
+      "outcome": "Secondary leads found only; no passage added because the underlying Tamil/translation was not checked."
+    },
+    {
+      "query": "Buddhist Akitti Agastya identity",
+      "outcome": "No identity claim added; the Akitti/Agastya comparison remains an unverified comparative lead outside the accepted claims in this file."
+    },
+    {
+      "query": "Maṇimēkalai prologue original passage and Hart explanatory prose on the Kāviri origin",
+      "outcome": "Checked lines 00-10–00-20 alongside Hart’s prose summary: the verse says Agastya’s vessel was overturned and Kāviri emerged; the crow appears only in the translator’s explanatory prose."
+    }
+  ]
+}

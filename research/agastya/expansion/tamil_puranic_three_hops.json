@@ -1,0 +1,80 @@
+{
+  "nodes": [
+    {
+      "id": "tamil_kahandan",
+      "label": "Kahandan · Maṇimēkalai witness",
+      "type": "person"
+    },
+    {
+      "id": "tamil_parasurama",
+      "label": "Paraśurāma · Maṇimēkalai witness",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "tamil_manimekalai_hart_canto22",
+      "title": "Maṇimēkalai, canto 22 · English translation by Kausalya Hart",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0710.html",
+      "kind": "primary_translation",
+      "edition": "Project Madurai Unicode text; English translation by Kausalya Hart",
+      "locator": "Canto 22, lines 22-030–22-040 (Hart English numbering)",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "TPH001",
+      "facet": "tamil",
+      "subject": "tamil_kanthan",
+      "predicate": "appoints_as_successor",
+      "object": "tamil_kahandan",
+      "source": "tamil_manimekalai_hart_canto22",
+      "locator": "Canto 22, lines 22-030–22-040 (Hart English numbering)",
+      "summary": "In the sages’ story, King Kānthan chooses Kahandan, described as a courtesan’s son, to rule while he leaves the city.",
+      "category": "narrative_action",
+      "status": "translation_checked",
+      "speaker": "Sages narrating to the king",
+      "note": "This supplies a passage-supported second edge from the Agastya-related Kānthan episode. It is not evidence of a meeting between Agastya and Kahandan.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TPH002",
+      "facet": "tamil",
+      "subject": "tamil_kanthan",
+      "predicate": "expects_to_avoid_attack_by",
+      "object": "tamil_parasurama",
+      "source": "tamil_manimekalai_hart_canto22",
+      "locator": "Canto 22, lines 22-030–22-040 (Hart English numbering)",
+      "summary": "Kānthan tells Kahandan that Paraśurāma will not come to fight him because he was not born to a king; Kānthan separately says he plans to seek Agastya’s grace.",
+      "category": "narrative_action",
+      "status": "translation_checked",
+      "speaker": "King Kānthan in quoted speech",
+      "note": "Agastya is only the intended object of Kānthan’s visit in this episode; the passage does not narrate their encounter. Paraśurāma is a named person in Kānthan’s reported expectation, not a participant in the scene.",
+      "original_language_reviewed": false
+    }
+  ],
+  "search_log": [
+    {
+      "query": "Bhāgavata Purāṇa Agastya 8.4.7–10, Maṇimēkalai canto 22, Buddhacarita 4.73 named people",
+      "outcome": "Checked the primary translations. Bhāgavata 8.4.7–10 adds no new named individual beyond graph witnesses Indradyumna and Agastya; the disciples are unnamed and Śuka’s narration is not an Agastya encounter. Maṇimēkalai 22:30–40 adds named Kahandan and Paraśurāma via Kānthan’s story. Buddhacarita 4.73 names Agastya, Soma, Rohiṇī, and Lopāmudrā, all already represented in the graph; it is Udāyin’s analogy to the prince, not a narrated encounter with Agastya."
+    },
+    {
+      "query": "Project Madurai Maṇimēkalai Hart canto 22 lines 22-030–22-040",
+      "outcome": "Checked Hart’s English passage. Added Kahandan and Paraśurāma with claims scoped to what the sages and Kānthan say."
+    },
+    {
+      "query": "Bhāgavata Purāṇa 8.4.7–10 Vedabase English translation",
+      "outcome": "Checked verses 7–10; elephant transformation is stated, but this passage supplies no additional named individual to add. Existing graph already records Indradyumna and the curse."
+    },
+    {
+      "query": "Buddhacarita 4.73 Cowell translation primary-text witness",
+      "outcome": "Checked Cowell translation hosted with the Sanskrit text. The verse is a reported traditional example inside Udāyin’s speech; no new named person was found."
+    }
+  ],
+  "notes": [
+    "No new Bhāgavata Purāṇa or Buddhacarita nodes were warranted after comparing their named individuals against graph.json and existing expansion files.",
+    "The Tamil additions are two passage-supported persons in the Kānthan episode, within two narrative edges of Agastya’s intended visit: Agastya is named as the intended source of grace, Kānthan appoints Kahandan and speaks of Paraśurāma. These claims do not assert that Agastya met either person.",
+    "All entries are translation_checked, not original-language reviewed."
+  ]
+}

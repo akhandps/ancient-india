@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Agastya · 2D force graph</title>
+<style>
+  :root{color-scheme:dark;font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#0a1020;color:#edf2ff}
+  *{box-sizing:border-box}body{margin:0}button,input,select{font:inherit}
+  .shell{height:100dvh;min-height:620px;display:grid;grid-template-columns:minmax(0,1fr) 340px;grid-template-rows:auto minmax(0,1fr)}
+  header{grid-column:1/-1;display:flex;flex-wrap:wrap;align-items:center;gap:12px;padding:12px 18px;border-bottom:1px solid #26334c;background:#101a2e}
+  h1{font-size:18px;line-height:1.2;margin:0 14px 0 0;font-weight:650}header p{margin:0;color:#a5b7d4;font-size:13px}
+  .controls{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-left:auto}
+  label{font-size:12px;color:#b3c3dd;display:flex;align-items:center;gap:6px}
+  select,input,button{background:#1a2840;color:#edf2ff;border:1px solid #3a4c6a;border-radius:8px;padding:7px 9px;min-height:34px}
+  input{width:160px}button{cursor:pointer}button:hover{background:#253957}button:focus-visible,select:focus-visible,input:focus-visible,a:focus-visible{outline:2px solid #92ceff;outline-offset:2px}
+  .view-link{color:#d9eaff;border:1px solid #3a4c6a;border-radius:8px;padding:7px 9px;text-decoration:none;font-size:12px;min-height:34px;display:inline-flex;align-items:center}.view-link:hover{background:#253957}
+  .stage{position:relative;overflow:hidden;background:radial-gradient(ellipse at 52% 46%,#162540 0,#0a1020 68%)}
+  canvas{display:block;width:100%;height:100%;touch-action:none;cursor:grab}canvas:active{cursor:grabbing}
+  .overlay{position:absolute;left:16px;bottom:16px;pointer-events:none;color:#bfd0e9;font-size:12px;line-height:1.5;background:#0b1429cf;padding:9px 11px;border:1px solid #2b3a56;border-radius:10px}
+  .legend{display:flex;gap:10px;flex-wrap:wrap}.legend b{font-size:13px}.c-person{color:#7bc9f2}.c-agastya{color:#f4ca83}.c-text{color:#bdabf6}.c-place{color:#83d8bc}
+  aside{min-width:0;overflow:auto;border-left:1px solid #26334c;background:#101a2e;padding:18px}
+  aside h2{font-size:19px;margin:0 0 4px;line-height:1.25}aside h3{font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:#a7bbd8;margin:24px 0 8px}
+  .muted{color:#a7bbd8}.small{font-size:12px;line-height:1.5}.metric{display:flex;gap:12px;flex-wrap:wrap;margin:12px 0;color:#d1def2;font-size:12px}
+  .claim{border-top:1px solid #2b3a56;padding:11px 0}.claim strong{font-size:13px;font-weight:600;line-height:1.4;display:block}.claim p{font-size:12px;line-height:1.48;color:#c4d1e7;margin:6px 0}.claim a,.source a{color:#9fd2ff;overflow-wrap:anywhere}.claim small{font-size:11px;color:#9eb2d1}
+  .hub-list{display:flex;flex-wrap:wrap;gap:6px}.hub-list button{font-size:12px;padding:5px 7px;min-height:30px}.hub-list span{color:#a9d8f5}
+  @media(max-width:900px){.shell{height:auto;min-height:100dvh;grid-template-columns:1fr;grid-template-rows:auto min(70vh,640px) auto}header{align-items:flex-start}header p{width:100%;order:3}.controls{margin-left:0;order:2}aside{border-left:0;border-top:1px solid #26334c;max-height:none}input{width:130px}}
+  @media(max-width:500px){header{padding:12px}.controls{width:100%}.controls label{flex:1 1 120px}.controls select,.controls input{width:100%}.stage{min-height:460px}.overlay{left:8px;bottom:8px;right:8px}}
+</style>
+</head>
+<body>
+<div class="shell">
+ <header><h1>Agastya · 2D force graph</h1><p>Connected concepts pull together · drag space to pan · drag nodes to rearrange · scroll to zoom</p>
+  <div class="controls">
+   <label>Tradition <select id="tradition"><option value="all">All</option></select></label>
+   <label>Claim radius <select id="radius"><option value="1">1 hop</option><option value="2">2 hops</option><option value="3">3 hops</option><option value="all" selected>All claims</option></select></label>
+   <label><input id="search" type="search" placeholder="Find Ram, Rama, Agastya…" aria-label="Find a person or text"></label>
+   <button id="fit" type="button">Fit all</button><button id="pause" type="button">Pause motion</button><a class="view-link" href="force-graph-3d.html">3D view</a>
+  </div>
+ </header>
+ <main class="stage"><canvas id="space" aria-label="Interactive two-dimensional force graph of sourced Agastya relationships"></canvas>
+  <div class="overlay"><div class="legend"><span class="c-agastya"><b>●</b> Agastya</span><span class="c-person"><b>●</b> Person or deity</span><span class="c-text"><b>■</b> Text witness</span><span class="c-place"><b>◆</b> Place</span></div><div>Node size = passage connections · solid = claim · dotted = citation</div></div>
+ </main><aside id="detail" aria-live="polite"></aside>
+</div>
+<script type="application/json" id="graph-data">__GRAPH_DATA__</script>
+<script>
+(()=>{'use strict';
+ const data=JSON.parse(document.getElementById('graph-data').textContent),canvas=document.getElementById('space'),ctx=canvas.getContext('2d'),stage=canvas.parentElement,detail=document.getElementById('detail'),tradition=document.getElementById('tradition'),radius=document.getElementById('radius'),search=document.getElementById('search'),fit=document.getElementById('fit'),pause=document.getElementById('pause');
+ const facets=data.nodes.filter(n=>n.type==='agastya_facet').map(n=>n.id),displayId=id=>facets.includes(id)?'agastya-hub':id;
+ const nodeMap=new Map(data.nodes.map(n=>[n.id,{...n,kind:n.type==='agastya_facet'?'facet':n.type==='place'?'place':n.type==='text'?'text':'person'}]));
+ nodeMap.set('agastya-hub',{id:'agastya-hub',label:'Agastya',kind:'hub',type:'navigation'});
+ const sourceMap=new Map(data.sources.map(s=>[s.id,s]));for(const s of data.sources)nodeMap.set('source:'+s.id,{id:'source:'+s.id,label:s.title,kind:'source',type:'source',source:s});
+ const facetLabels={vedic:'Vedic',ramayana:'Rāmāyaṇa',mahabharata:'Mahābhārata',puranic:'Bhāgavata',tamil:'Tamil',buddhist:'Buddhacarita'};
+ for(const id of facets){const o=document.createElement('option');o.value=id;o.textContent=facetLabels[id]||id;tradition.append(o)}
+ const colors={hub:'#f3c783',person:'#7bc9f2',text:'#bdabf6',source:'#8793bc',place:'#83d8bc'};
+ const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));const human=x=>String(x).replaceAll('_',' ');
+ const claimEdges=data.claims.map(c=>({a:displayId(c.subject),b:displayId(c.object),type:'claim',claim:c}));
+ let activeNodes=[],activeEdges=[],degree=new Map(),particles=new Map(),projected=[],selected='agastya-hub',hovered=null,playing=true,last=0,drag=null,view={x:0,y:0,scale:1},autoFit=true;
+ function seed(id){let h=2166136261;for(const ch of id)h=Math.imul(h^ch.charCodeAt(0),16777619);const a=((h>>>0)%6283)/1000,r=90+((h>>>16)%190);return{x:Math.cos(a)*r,y:Math.sin(a)*r,vx:0,vy:0}}
+ function rebuild(){const facet=tradition.value,base=facet==='all'?claimEdges:claimEdges.filter(e=>e.claim.facet===facet),limit=radius.value==='all'?1e9:Number(radius.value),dist=new Map([['agastya-hub',0]]),queue=['agastya-hub'],adj=new Map;for(const e of base){if(!adj.has(e.a))adj.set(e.a,[]);if(!adj.has(e.b))adj.set(e.b,[]);adj.get(e.a).push(e.b);adj.get(e.b).push(e.a)}for(let i=0;i<queue.length;i++){const u=queue[i];if(dist.get(u)>=limit)continue;for(const v of adj.get(u)||[]){if(!dist.has(v)){dist.set(v,dist.get(u)+1);queue.push(v)}}}
+  const claims=base.filter(e=>dist.has(e.a)&&dist.has(e.b)),ids=new Set(['agastya-hub']);for(const e of claims){ids.add(e.a);ids.add(e.b)}const cited=new Set(claims.map(e=>'source:'+e.claim.source));for(const id of cited)ids.add(id);if(facet==='all'&&radius.value==='all'){for(const n of data.nodes)if(n.type!=='agastya_facet')ids.add(n.id);for(const s of data.sources)ids.add('source:'+s.id)}
+  const citationEdges=[],seen=new Set;for(const e of claims)for(const id of [e.a,e.b]){const key=e.claim.source+'|'+id;if(!seen.has(key)){seen.add(key);citationEdges.push({a:'source:'+e.claim.source,b:id,type:'citation'})}}
+  activeEdges=[...claims,...citationEdges];activeNodes=[...ids].map(id=>nodeMap.get(id)).filter(Boolean);degree=new Map(activeNodes.map(n=>[n.id,0]));for(const e of claims){degree.set(e.a,(degree.get(e.a)||0)+1);degree.set(e.b,(degree.get(e.b)||0)+1)}
+  for(const n of activeNodes)if(!particles.has(n.id))particles.set(n.id,seed(n.id));if(!ids.has(selected))selected='agastya-hub';autoFit=true;renderDetail();
+ }
+ function geometry(){const r=stage.getBoundingClientRect(),dpr=Math.min(2,window.devicePixelRatio||1),w=Math.max(300,r.width),h=Math.max(300,r.height);if(canvas.width!==Math.round(w*dpr)||canvas.height!==Math.round(h*dpr)){canvas.width=Math.round(w*dpr);canvas.height=Math.round(h*dpr);canvas.style.width=w+'px';canvas.style.height=h+'px'}ctx.setTransform(dpr,0,0,dpr,0,0);return{w,h}}
+ function fitView(){const w=Math.max(300,stage.clientWidth),h=Math.max(300,stage.clientHeight);let minX=Infinity,maxX=-Infinity,minY=Infinity,maxY=-Infinity;for(const n of activeNodes){const p=particles.get(n.id);minX=Math.min(minX,p.x);maxX=Math.max(maxX,p.x);minY=Math.min(minY,p.y);maxY=Math.max(maxY,p.y)}if(!activeNodes.length)return;view.x=(minX+maxX)/2;view.y=(minY+maxY)/2;view.scale=Math.min((w-130)/Math.max(180,maxX-minX),(h-130)/Math.max(180,maxY-minY),1.45)}
+ function project(p,w,h){return{x:w/2+(p.x-view.x)*view.scale,y:h/2+(p.y-view.y)*view.scale}}
+ __MANY_BODY_HELPER__
+ function forces(dt){const ns=activeNodes,count=ns.length,fx=new Float64Array(count),fy=new Float64Array(count),idx=new Map(ns.map((n,i)=>[n.id,i]));repulsion(ns,particles,2,fx,fy,null,true);
+  for(const e of activeEdges){const i=idx.get(e.a),j=idx.get(e.b);if(i===undefined||j===undefined)continue;const a=particles.get(e.a),b=particles.get(e.b),dx=b.x-a.x,dy=b.y-a.y,len=Math.hypot(dx,dy)||1,da=degree.get(e.a)||0,db=degree.get(e.b)||0,rest=e.type==='claim'?145-Math.min(78,12*Math.log1p(da*db)):112,k=e.type==='claim'?.036:.011,mag=(len-rest)*k/len;fx[i]+=dx*mag;fy[i]+=dy*mag;fx[j]-=dx*mag;fy[j]-=dy*mag}
+  const step=Math.min(1.6,dt/16.67);for(let i=0;i<count;i++){const n=ns[i],p=particles.get(n.id);if(drag?.id===n.id)continue;const center=n.kind==='hub'?.055:.015;p.vx=Math.max(-12,Math.min(12,(p.vx+step*(fx[i]-p.x*center))*.86));p.vy=Math.max(-12,Math.min(12,(p.vy+step*(fy[i]-p.y*center))*.86));p.x+=p.vx*step;p.y+=p.vy*step}}
+ function nodeRadius(n){return n.kind==='hub'?15:n.kind==='source'?4:n.kind==='text'?5:Math.min(15,4+Math.sqrt(degree.get(n.id)||0)*2.1)}
+ function draw(){const {w,h}=geometry();ctx.clearRect(0,0,w,h);const positions=new Map(activeNodes.map(n=>[n.id,project(particles.get(n.id),w,h)]));const neighbor=new Set([selected]);for(const e of activeEdges)if(e.type==='claim'){if(e.a===selected)neighbor.add(e.b);if(e.b===selected)neighbor.add(e.a)}
+  for(const e of activeEdges){const a=positions.get(e.a),b=positions.get(e.b);if(!a||!b)continue;const focus=e.a===selected||e.b===selected;ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.lineWidth=focus&&e.type==='claim'?2:1;ctx.strokeStyle=e.type==='citation'?'rgba(150,167,205,.13)':focus?'rgba(146,211,255,.9)':'rgba(169,194,228,.32)';ctx.setLineDash(e.type==='citation'?[2,5]:[]);ctx.stroke();ctx.setLineDash([])}
+  const ranked=[...activeNodes].filter(n=>n.kind!=='source'&&n.kind!=='text').sort((a,b)=>(degree.get(b.id)||0)-(degree.get(a.id)||0));const labelIds=new Set(ranked.slice(0,12).map(n=>n.id));projected=activeNodes.map(n=>({n,p:positions.get(n.id)})).sort((a,b)=>nodeRadius(a.n)-nodeRadius(b.n));
+  for(const item of projected){const {n,p}=item,r=nodeRadius(n),focus=n.id===selected,hover=n.id===hovered;ctx.globalAlpha=selected==='agastya-hub'||neighbor.has(n.id)?1:.45;ctx.fillStyle=colors[n.kind]||colors.person;ctx.strokeStyle=focus?'#fff':'rgba(240,246,255,.6)';ctx.lineWidth=focus?2:1;
+   if(n.kind==='source'||n.kind==='text'){ctx.fillRect(p.x-r,p.y-r,r*2,r*2);if(focus)ctx.strokeRect(p.x-r-2,p.y-r-2,r*2+4,r*2+4)}else if(n.kind==='place'){ctx.beginPath();ctx.moveTo(p.x,p.y-r);ctx.lineTo(p.x+r,p.y);ctx.lineTo(p.x,p.y+r);ctx.lineTo(p.x-r,p.y);ctx.closePath();ctx.fill();if(focus)ctx.stroke()}else{ctx.beginPath();ctx.arc(p.x,p.y,r,0,Math.PI*2);ctx.fill();if(focus)ctx.stroke()}
+   if(focus||hover||labelIds.has(n.id)){let label=n.label.split(' · ')[0];if(label.length>25)label=label.slice(0,24)+'…';ctx.font=focus?'600 13px system-ui':'12px system-ui';ctx.textAlign='center';ctx.textBaseline='top';ctx.fillStyle=focus?'#fff':'#dce8fa';ctx.fillText(label,p.x,p.y+r+5)}ctx.globalAlpha=1}
+ }
+ function claimsFor(id){return data.claims.filter(c=>displayId(c.subject)===id||displayId(c.object)===id||(id.startsWith('source:')&&c.source===id.slice(7))).filter(c=>tradition.value==='all'||c.facet===tradition.value)}
+ function renderDetail(){const n=nodeMap.get(selected),claims=claimsFor(selected),s=n?.source,connected=degree.get(selected)||0,kinds={hub:'Agastya across textual witnesses',person:n?.type?.replaceAll('_',' '),place:'Place',text:'Text',source:'Cited edition / translation'};
+  let body=`<h2>${esc(n?.label||'Agastya')}</h2><div class="muted small">${esc(kinds[n?.kind]||'Entity')}${s?` · <a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">Open source</a>`:''}</div><div class="metric"><span>${connected} passage connections</span><span>${claims.length} visible claims</span></div>`;
+  if(selected==='agastya-hub')body+=`<p class="small muted">One display node groups six source-local Agastya witnesses. Larger nodes have more passage connections; springs pull linked concepts together, while all nodes repel one another. This layout is exploratory and does not establish historical proximity.</p>`;
+  if(s)body+=`<p class="small source">${esc(s.edition||'')}<br>${esc(s.locator||'')}</p>`;
+  const top=activeNodes.filter(x=>x.kind!=='source'&&x.kind!=='facet').sort((a,b)=>(degree.get(b.id)||0)-(degree.get(a.id)||0)).slice(0,10);body+='<h3>Most connected in this view</h3><div class="hub-list">'+top.map(x=>`<button type="button" data-node="${esc(x.id)}">${esc(x.label.split(' · ')[0])} <span>${degree.get(x.id)||0}</span></button>`).join('')+'</div>';
+  body+='<h3>Passage evidence</h3>'+claims.slice(0,45).map(c=>{const src=sourceMap.get(c.source);return `<div class="claim"><strong>${esc(nodeMap.get(displayId(c.subject))?.label||c.subject)} → ${esc(human(c.predicate))} → ${esc(nodeMap.get(displayId(c.object))?.label||c.object)}</strong><p>${esc(c.summary)}</p><a class="small" href="${esc(src.url)}" target="_blank" rel="noopener noreferrer">${esc(src.title)} · ${esc(c.locator)}</a><br><small>${esc(facetLabels[c.facet]||c.facet)} · ${esc(human(c.status))}${c.note?' · '+esc(c.note):''}</small></div>`}).join('');if(claims.length>45)body+=`<p class="small muted">${claims.length-45} more claims in graph.json.</p>`;detail.innerHTML=body}
+ detail.addEventListener('click',e=>{const button=e.target.closest('[data-node]');if(button){selected=button.getAttribute('data-node');renderDetail()}});
+ function coords(e){const r=canvas.getBoundingClientRect();return{x:e.clientX-r.left,y:e.clientY-r.top}}
+ function pick(x,y){let best=null,score=20;for(const q of projected){const distance=Math.hypot(q.p.x-x,q.p.y-y),hit=Math.max(11,nodeRadius(q.n)+4);if(distance<Math.min(score,hit)){score=distance;best=q}}return best}
+ canvas.addEventListener('pointerdown',e=>{canvas.setPointerCapture(e.pointerId);const p=coords(e),hit=pick(p.x,p.y);drag={id:hit?.n.id||null,x:p.x,y:p.y,moved:false}});
+ canvas.addEventListener('pointermove',e=>{const p=coords(e);if(!drag){const hit=pick(p.x,p.y);hovered=hit?.n.id||null;canvas.style.cursor=hit?'pointer':'grab';return}const dx=p.x-drag.x,dy=p.y-drag.y;if(Math.hypot(dx,dy)>1.5)drag.moved=true;if(drag.id){const v=particles.get(drag.id);v.x+=dx/view.scale;v.y+=dy/view.scale;v.vx=v.vy=0}else{autoFit=false;view.x-=dx/view.scale;view.y-=dy/view.scale}drag.x=p.x;drag.y=p.y});
+ canvas.addEventListener('pointerup',()=>{if(!drag)return;const {id,moved}=drag;drag=null;if(id&&!moved){selected=id;renderDetail()}});canvas.addEventListener('pointercancel',()=>{drag=null});
+ canvas.addEventListener('wheel',e=>{e.preventDefault();autoFit=false;view.scale=Math.max(.03,Math.min(5,view.scale*Math.exp(-e.deltaY*.001)))},{passive:false});
+ const fold=x=>String(x).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'');
+ const forms=x=>[...new Set([fold(x),fold(String(x).toLowerCase().replace(/[ṛṝ]/g,'ri').replace(/[śṣ]/g,'sh').replace(/ṅ/g,'ng').replace(/ñ/g,'ny'))])];
+ tradition.addEventListener('change',rebuild);radius.addEventListener('change',rebuild);search.addEventListener('input',()=>{const queries=forms(search.value).filter(Boolean);if(!queries.length)return;const hits=[...nodeMap.values()].filter(n=>n.kind!=='facet').map(n=>{const names=n.label.split(' · ')[0].split(/\s*\/\s*/).flatMap(forms),exact=queries.some(q=>names.includes(q)),prefix=queries.some(q=>names.some(name=>name.startsWith(q))),within=queries.some(q=>names.some(name=>name.includes(q)));let score=exact?0:prefix?10:within?25:queries.some(q=>forms(n.label).some(x=>x.includes(q)))?40:queries.some(q=>forms(n.id).some(x=>x.includes(q)))?50:Infinity;if(n.kind==='text')score+=4;if(n.kind==='source')score+=7;score-=Math.min(4,Math.log1p(degree.get(n.id)||0));return{n,score}}).filter(x=>Number.isFinite(x.score)).sort((a,b)=>a.score-b.score||(degree.get(b.n.id)||0)-(degree.get(a.n.id)||0));const n=hits[0]?.n;if(n){if(!activeNodes.some(x=>x.id===n.id)){tradition.value='all';radius.value='all';rebuild()}selected=n.id;renderDetail()}});
+ fit.addEventListener('click',()=>{autoFit=true;fitView()});pause.addEventListener('click',()=>{playing=!playing;pause.textContent=playing?'Pause motion':'Resume motion'});
+ function frame(now){if(playing)forces(Math.min(45,now-last||16));last=now;if(autoFit)fitView();draw();requestAnimationFrame(frame)}rebuild();requestAnimationFrame(frame);
+})();
+</script>
+</body>
+</html>

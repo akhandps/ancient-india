@@ -1,0 +1,562 @@
+{
+  "nodes": [
+    {
+      "id": "tamil_goddess_manimekalai",
+      "label": "Goddess Maṇimēkalai · Maṇimēkalai witness",
+      "type": "person"
+    },
+    {
+      "id": "tamil_bhudam_pukar",
+      "label": "Bhūdam · guardian of Pukār in Maṇimēkalai",
+      "type": "person"
+    },
+    {
+      "id": "tamil_kama",
+      "label": "Kāma · Maṇimēkalai witness",
+      "type": "person"
+    },
+    {
+      "id": "tamil_murugan",
+      "label": "Murugan · Maṇimēkalai witness",
+      "type": "person"
+    },
+    {
+      "id": "tamil_brahmadarman",
+      "label": "Brahmadarman · Maṇimēkalai witness",
+      "type": "person"
+    },
+    {
+      "id": "tamil_adipathi",
+      "label": "Adipathi · king in Maṇimēkalai",
+      "type": "person"
+    },
+    {
+      "id": "tamil_ravivarman",
+      "label": "Ravivarman · king in Maṇimēkalai",
+      "type": "person"
+    },
+    {
+      "id": "tamil_amudapathi",
+      "label": "Amudapathi · queen in Maṇimēkalai",
+      "type": "person"
+    },
+    {
+      "id": "tamil_lakshmi_past",
+      "label": "Lakshmi · Maṇimēkalai past-birth name",
+      "type": "person"
+    },
+    {
+      "id": "tamil_ragulan",
+      "label": "Rāgulan · Maṇimēkalai witness",
+      "type": "person"
+    },
+    {
+      "id": "tamil_neelapathi",
+      "label": "Neelapathi · Maṇimēkalai witness",
+      "type": "person"
+    },
+    {
+      "id": "tamil_shripathi",
+      "label": "Shripathi · king of Chitipuram in Maṇimēkalai",
+      "type": "person"
+    },
+    {
+      "id": "tamil_kavera_kanni",
+      "label": "Kavera Kanni · prophesied birth in Maṇimēkalai",
+      "type": "person"
+    },
+    {
+      "id": "tamil_sadhu_chakran",
+      "label": "Sādhu Chakran · Maṇimēkalai witness",
+      "type": "person"
+    },
+    {
+      "id": "tamil_tharai",
+      "label": "Thārai · Maṇimēkalai past-birth character",
+      "type": "person"
+    },
+    {
+      "id": "tamil_veerai",
+      "label": "Vīrai · Maṇimēkalai past-birth character",
+      "type": "person"
+    },
+    {
+      "id": "tamil_thuchayan",
+      "label": "Thuchayan · king of Aṅganāṭu in Maṇimēkalai",
+      "type": "person"
+    },
+    {
+      "id": "tamil_buddha_peedihai",
+      "label": "Buddha Peedihai · Maṇimēkalai shrine/footprint seat",
+      "type": "object"
+    },
+    {
+      "id": "tamil_avanthi",
+      "label": "Avanthi · Maṇimēkalai place",
+      "type": "place"
+    },
+    {
+      "id": "tamil_amudhasurabhi",
+      "label": "Amudhasurabhi · inexhaustible food vessel in Maṇimēkalai",
+      "type": "object"
+    },
+    {
+      "id": "tamil_apputhiran",
+      "label": "Āputhiran · Maṇimēkalai witness",
+      "type": "person"
+    },
+    {
+      "id": "tamil_pukar",
+      "label": "Pukār · Maṇimēkalai place",
+      "type": "place"
+    }
+  ],
+  "sources": [
+    {
+      "id": "tamil_manimekalai_hart",
+      "title": "Maṇimēkalai · English translation by Kausalya Hart",
+      "url": "https://www.projectmadurai.org/pm_etexts/utf8/pmuni0710.html",
+      "kind": "primary_translation",
+      "edition": "Project Madurai Unicode text; English translation by Kausalya Hart",
+      "locator": "Prologue; cantos 1, 5, 9, 10, and 11 (Hart canto and line numbering)",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "TF001",
+      "facet": "tamil",
+      "subject": "tamil_chembiyan",
+      "predicate": "invites",
+      "object": "indra",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 1, lines 1–10 (Hart numbering)",
+      "summary": "After Agastya advises him to hold the festival, Chembiyan invites Indra to Pukār for the twenty-eight-day celebration.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Narrator",
+      "note": "Passage-level relationship in Hart’s translation; this is a narrative witness, not independent historical evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF002",
+      "facet": "tamil",
+      "subject": "tamil_kaveri",
+      "predicate": "worships",
+      "object": "tamil_sambapathi",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Prologue, lines 00-20–00-30 (Hart numbering)",
+      "summary": "The personified Kāviri worships Sambāpathi after Agastya tells her to do so.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Narrator",
+      "note": "The poem personifies Kāviri; this claim concerns the goddess/river as an acting narrative figure.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF003",
+      "facet": "tamil",
+      "subject": "tamil_goddess_manimekalai",
+      "predicate": "takes_to_island",
+      "object": "tamil_manimekalai_heroine",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 5, lines 05-120–05-140 (Hart numbering)",
+      "summary": "The goddess Maṇimēkalai carries the heroine to Maṇipallavam.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Narrator",
+      "note": "The goddess and the heroine are separate characters despite sharing a name.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF004",
+      "facet": "tamil",
+      "subject": "tamil_goddess_manimekalai",
+      "predicate": "appears_before",
+      "object": "tamil_sudhamathi",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 5, lines 05-100–05-120 (Hart numbering)",
+      "summary": "The goddess appears before Sutamati/Sudhamathi after taking the heroine away.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Narrator",
+      "note": "The goddess and the heroine are separate characters despite sharing a name.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF005",
+      "facet": "tamil",
+      "subject": "tamil_bhudam_pukar",
+      "predicate": "guards",
+      "object": "tamil_pukar",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 1, lines 1-20–1-30 (Hart numbering)",
+      "summary": "The Pukār guardian Bhūdam is described as protecting the city and threatening to destroy it if the Indra festival is neglected.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Narrator",
+      "note": "The Tamil text calls this a guardian Bhūdam; it is treated as a named narrative being, not a historical person.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF006",
+      "facet": "tamil",
+      "subject": "tamil_kama",
+      "predicate": "gives_beauty_to",
+      "object": "tamil_manimekalai_heroine",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 5, lines 05-010–05-020 (Hart numbering)",
+      "summary": "The passage attributes the heroine’s lovely body to Kāma, described as formless and carrying five flower arrows.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Narrator",
+      "note": "Passage-level relationship in Hart’s translation; this is a narrative witness, not independent historical evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF007",
+      "facet": "tamil",
+      "subject": "tamil_murugan",
+      "predicate": "is_compared_to",
+      "object": "tamil_udayakumaran",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 5, lines 05-010–05-020 (Hart numbering)",
+      "summary": "Sudhamathi compares the prince’s handsome body to Murugan, who split Kurugu mountain.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Sudhamathi in quoted speech",
+      "note": "Passage-level relationship in Hart’s translation; this is a narrative witness, not independent historical evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF008",
+      "facet": "tamil",
+      "subject": "tamil_brahmadarman",
+      "predicate": "is_brother_in_law_of",
+      "object": "tamil_adipathi",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 9, lines 09-010–09-020 (Hart numbering)",
+      "summary": "Brahmadarman is identified as the brother-in-law of Adipathi, king of Purva Desam in Kāndāram.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Manimekalai recounting what the Buddha Peedihai told her",
+      "note": "Passage-level relationship in Hart’s translation; this is a narrative witness, not independent historical evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF009",
+      "facet": "tamil",
+      "subject": "tamil_brahmadarman",
+      "predicate": "is_warned_by",
+      "object": "tamil_buddha_peedihai",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 9, lines 09-010–09-020 (Hart numbering)",
+      "summary": "The Buddha Peedihai warns Brahmadarman that Nāganāḍu will be destroyed by an earthquake.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Manimekalai recounting what the Buddha Peedihai told her",
+      "note": "Passage-level relationship in Hart’s translation; this is a narrative witness, not independent historical evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF010",
+      "facet": "tamil",
+      "subject": "tamil_brahmadarman",
+      "predicate": "leads_people_to",
+      "object": "tamil_avanthi",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 9, lines 09-020–09-040 (Hart numbering)",
+      "summary": "After the warning, Brahmadarman orders the people to leave and travels north with his army to Avanthi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Manimekalai recounting what the Buddha Peedihai told her",
+      "note": "Passage-level relationship in Hart’s translation; this is a narrative witness, not independent historical evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF011",
+      "facet": "tamil",
+      "subject": "tamil_ravivarman",
+      "predicate": "is_husband_of",
+      "object": "tamil_amudapathi",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 9, lines 09-040–09-050 (Hart numbering)",
+      "summary": "The heroine says she was born as Lakshmi to Amudapathi, queen of Ravivarman.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Manimekalai",
+      "note": "Passage-level relationship in Hart’s translation; this is a narrative witness, not independent historical evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF012",
+      "facet": "tamil",
+      "subject": "tamil_lakshmi_past",
+      "predicate": "is_daughter_of",
+      "object": "tamil_amudapathi",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 9, lines 09-040–09-050 (Hart numbering)",
+      "summary": "The heroine identifies her former birth as Lakshmi, daughter of Queen Amudapathi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Manimekalai",
+      "note": "The claim is the heroine’s account of a previous birth within the epic.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF013",
+      "facet": "tamil",
+      "subject": "tamil_ragulan",
+      "predicate": "is_son_of",
+      "object": "tamil_neelapathi",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 9, lines 09-040–09-050 (Hart numbering)",
+      "summary": "Rāgulan is said to have been born to Neelapathi, daughter of Shripathi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Manimekalai recounting the Buddha Peedihai’s account",
+      "note": "Passage-level relationship in Hart’s translation; this is a narrative witness, not independent historical evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF014",
+      "facet": "tamil",
+      "subject": "tamil_neelapathi",
+      "predicate": "is_daughter_of",
+      "object": "tamil_shripathi",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 9, lines 09-040–09-050 (Hart numbering)",
+      "summary": "Neelapathi is identified as the daughter of Shripathi, king of Chitipuram.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Manimekalai recounting the Buddha Peedihai’s account",
+      "note": "Passage-level relationship in Hart’s translation; this is a narrative witness, not independent historical evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF015",
+      "facet": "tamil",
+      "subject": "tamil_lakshmi_past",
+      "predicate": "is_married_to",
+      "object": "tamil_ragulan",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 9, lines 09-040–09-050 (Hart numbering)",
+      "summary": "In her narrated former birth as Lakshmi, the heroine says she married Rāgulan.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Manimekalai",
+      "note": "The claim is the heroine’s account of a previous birth within the epic.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF016",
+      "facet": "tamil",
+      "subject": "tamil_goddess_manimekalai",
+      "predicate": "prophesies_birth_as",
+      "object": "tamil_kavera_kanni",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 9, lines 09-050–09-060 (Hart numbering)",
+      "summary": "The Buddha Peedihai’s message, repeated by the heroine, says she would be born in Thavākkali Mudur as Kavera Kanni.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Manimekalai recounting what the Buddha Peedihai told her",
+      "note": "Hart’s translation attributes the prediction to the Buddha Peedihai; the goddess Maṇimēkalai is said to bring Kavera Kanni to the island.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF017",
+      "facet": "tamil",
+      "subject": "tamil_goddess_manimekalai",
+      "predicate": "brings_to_island",
+      "object": "tamil_kavera_kanni",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 9, lines 09-050–09-060 (Hart numbering)",
+      "summary": "The heroine recounts the prediction that the goddess Maṇimēkalai would take Kavera Kanni to a southern island.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Manimekalai recounting what the Buddha Peedihai told her",
+      "note": "Kavera Kanni is kept distinct from the heroine’s current and previous-birth names.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF018",
+      "facet": "tamil",
+      "subject": "tamil_goddess_manimekalai",
+      "predicate": "reveals_past_birth_to",
+      "object": "tamil_manimekalai_heroine",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 10, lines 10-010–10-020 (Hart numbering)",
+      "summary": "The goddess Maṇimēkalai tells the heroine that her previous-birth name was Lakshmi.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Narrator",
+      "note": "Passage-level relationship in Hart’s translation; this is a narrative witness, not independent historical evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF019",
+      "facet": "tamil",
+      "subject": "tamil_sadhu_chakran",
+      "predicate": "is_offered_food_by",
+      "object": "tamil_lakshmi_past",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 10, lines 10-020–10-040 (Hart numbering)",
+      "summary": "As Lakshmi, the heroine and Rāgulan offer food and water to the arriving sage Sādhu Chakran.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Goddess Maṇimēkalai in quoted speech",
+      "note": "This is the goddess’s narration of the heroine’s previous birth.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF020",
+      "facet": "tamil",
+      "subject": "tamil_ragulan",
+      "predicate": "is_husband_of",
+      "object": "tamil_lakshmi_past",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 10, lines 10-020–10-040 (Hart numbering)",
+      "summary": "The goddess recalls Rāgulan as Lakshmi’s husband in the heroine’s previous birth.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Goddess Maṇimēkalai in quoted speech",
+      "note": "This is the goddess’s narration of the heroine’s previous birth.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF021",
+      "facet": "tamil",
+      "subject": "tamil_udayakumaran",
+      "predicate": "is_rebirth_of",
+      "object": "tamil_ragulan",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 10, lines 10-040–10-050 (Hart numbering)",
+      "summary": "The goddess identifies the prince Udayakumaran as the heroine’s former husband Rāgulan reborn.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Goddess Maṇimēkalai in quoted speech",
+      "note": "The identification is a rebirth claim made within the epic narrative.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF022",
+      "facet": "tamil",
+      "subject": "tamil_thuchayan",
+      "predicate": "is_husband_of",
+      "object": "tamil_tharai",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 10, lines 10-050–10-060 (Hart numbering)",
+      "summary": "The goddess says Thārai was one of the elder sisters of the heroine and was married to Thuchayan, king of Aṅganāṭu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Goddess Maṇimēkalai in quoted speech",
+      "note": "Passage-level relationship in Hart’s translation; this is a narrative witness, not independent historical evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF023",
+      "facet": "tamil",
+      "subject": "tamil_thuchayan",
+      "predicate": "is_husband_of",
+      "object": "tamil_veerai",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 10, lines 10-050–10-060 (Hart numbering)",
+      "summary": "The goddess says Vīrai was one of the heroine’s elder sisters and was married to Thuchayan, king of Aṅganāṭu.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Goddess Maṇimēkalai in quoted speech",
+      "note": "Passage-level relationship in Hart’s translation; this is a narrative witness, not independent historical evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF024",
+      "facet": "tamil",
+      "subject": "tamil_aravanar",
+      "predicate": "teaches_about_buddha_footprints_to",
+      "object": "tamil_tharai",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 10, lines 10-060–10-070 (Hart numbering)",
+      "summary": "In the narrated former birth, Aravanar tells the heroine about the Buddha’s footprints on the hill and invites her to worship there.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Goddess Maṇimēkalai in quoted speech",
+      "note": "The episode is told by the goddess as part of the heroine’s previous-birth account.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF025",
+      "facet": "tamil",
+      "subject": "tamil_tharai",
+      "predicate": "is_rebirth_of",
+      "object": "tamil_madhavi",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 10, lines 10-070–10-080 (Hart numbering)",
+      "summary": "The goddess says Thārai was born as Mādhavi in the present birth.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Goddess Maṇimēkalai in quoted speech",
+      "note": "Rebirth relationship stated within the epic narrative.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF026",
+      "facet": "tamil",
+      "subject": "tamil_veerai",
+      "predicate": "is_rebirth_of",
+      "object": "tamil_sudhamathi",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 10, lines 10-070–10-080 (Hart numbering)",
+      "summary": "The goddess says Vīrai was born as Sudhamathi in the present birth.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Goddess Maṇimēkalai in quoted speech",
+      "note": "Rebirth relationship stated within the epic narrative.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF027",
+      "facet": "tamil",
+      "subject": "tamil_apputhiran",
+      "predicate": "puts_in_gomuki_pond",
+      "object": "tamil_amudhasurabhi",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 11, lines 11-030–11-050 (Hart numbering)",
+      "summary": "Deepathilahai explains that Āputhiran placed the inexhaustible Amudhasurabhi in Gomuki pond so it would appear on the Buddha’s birthday.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Deepathilahai in quoted speech",
+      "note": "Passage-level relationship in Hart’s translation; this is a narrative witness, not independent historical evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF028",
+      "facet": "tamil",
+      "subject": "indra",
+      "predicate": "makes_rain_for",
+      "object": "tamil_apputhiran",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 11, lines 11-040–11-050 (Hart numbering)",
+      "summary": "Deepathilahai says Indra made abundant rain after becoming angry at Āputhiran, leaving him with no one to feed.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Deepathilahai in quoted speech",
+      "note": "Passage-level relationship in Hart’s translation; this is a narrative witness, not independent historical evidence.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "TF029",
+      "facet": "tamil",
+      "subject": "tamil_sadhu_chakran",
+      "predicate": "feeds",
+      "object": "tamil_lakshmi_past",
+      "source": "tamil_manimekalai_hart",
+      "locator": "Canto 11, lines 11-090–11-110 (Hart numbering)",
+      "summary": "The heroine recalls that Sādhu Chakran once fed her, in a previous birth, and associates that merit with receiving the food-giving vessel.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Manimekalai",
+      "note": "The claim is the heroine’s account of a prior-life event, not an independent historical assertion.",
+      "original_language_reviewed": false
+    }
+  ]
+}

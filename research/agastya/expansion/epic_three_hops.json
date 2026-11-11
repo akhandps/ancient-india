@@ -1,0 +1,113 @@
+{
+  "nodes": [
+    {
+      "id": "jatayu",
+      "label": "Jaṭāyu · Rāmāyaṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "sampati",
+      "label": "Sampāti · Rāmāyaṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "aruna_epic",
+      "label": "Aruṇa · Rāmāyaṇa witness",
+      "type": "person"
+    },
+    {
+      "id": "shyeni_epic",
+      "label": "Śyenī · Rāmāyaṇa witness",
+      "type": "person"
+    }
+  ],
+  "sources": [
+    {
+      "id": "ram314",
+      "title": "Vālmīki Rāmāyaṇa 3.14",
+      "url": "https://www.valmikiramayan.net/utf8/aranya/sarga14/aranya_14_prose.htm",
+      "kind": "primary_translation",
+      "edition": "Desiraju Hanumanta Rao prose translation; site chapter numbering; commentary interspersed",
+      "locator": "3.14, narrative verses 1–7 and 21–26 (site prose; verse numbering follows the corresponding Sanskrit text)",
+      "accessed": "2026-10-27"
+    }
+  ],
+  "claims": [
+    {
+      "id": "E3H001",
+      "facet": "ramayana",
+      "subject": "rama",
+      "predicate": "meets_and_recognizes_as_fathers_friend",
+      "object": "jatayu",
+      "source": "ram314",
+      "locator": "3.14.1–7, encounter and identification (site prose)",
+      "summary": "While proceeding toward Pañcavaṭī, Rāma and Lakṣmaṇa encounter Jaṭāyu; Jaṭāyu identifies himself as a friend of Daśaratha, and Rāma accepts and honors him.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Narrator; Jaṭāyu identifies himself in reported speech",
+      "note": "This is Rāma's meeting with Jaṭāyu after Agastya's direction to Pañcavaṭī; the passage does not depict Jaṭāyu meeting Agastya.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "E3H002",
+      "facet": "ramayana",
+      "subject": "jatayu",
+      "predicate": "is_son_of",
+      "object": "aruna_epic",
+      "source": "ram314",
+      "locator": "3.14.21–23, Jaṭāyu's lineage speech (site prose)",
+      "summary": "Jaṭāyu says that he was born from Aruṇa.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Jaṭāyu, speaking to Rāma",
+      "note": "A source-local Rāmāyaṇa genealogy claim; this witness should not be merged automatically with other Aruṇa traditions.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "E3H003",
+      "facet": "ramayana",
+      "subject": "jatayu",
+      "predicate": "is_younger_brother_of",
+      "object": "sampati",
+      "source": "ram314",
+      "locator": "3.14.23, Jaṭāyu's lineage speech (site prose)",
+      "summary": "Jaṭāyu identifies Sampāti as his elder brother.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Jaṭāyu, speaking to Rāma",
+      "note": "The passage also says they belong to Aruṇa's lineage.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "E3H004",
+      "facet": "ramayana",
+      "subject": "jatayu",
+      "predicate": "is_son_of",
+      "object": "shyeni_epic",
+      "source": "ram314",
+      "locator": "3.14.23, Jaṭāyu's lineage speech (site prose)",
+      "summary": "Jaṭāyu identifies himself as Śyenī's son.",
+      "category": "relationship",
+      "status": "translation_checked",
+      "speaker": "Jaṭāyu, speaking to Rāma",
+      "note": "The passage gives both this parentage and birth from Aruṇa; both statements are retained without reconciling their genealogy.",
+      "original_language_reviewed": false
+    }
+  ],
+  "search_log": [
+    {
+      "query": "Vālmīki Rāmāyaṇa Araṇya Kāṇḍa 3.14 primary prose translation Jaṭāyu Aruṇa Sampāti Śyenī",
+      "outcome": "Inspected the 3.14 narrative translation. Added Rāma–Jaṭāyu encounter and Jaṭāyu's explicitly spoken lineage; excluded the page's introductory synopsis and editorial glosses."
+    },
+    {
+      "query": "Existing Agastya graph and epic expansion duplicate audit for Jaṭāyu and ancestry",
+      "outcome": "Checked canonical graph nodes and claims plus research/agastya/expansion/epic.json; these Rāmāyaṇa 3.14 named-person claims were not already represented. Existing Agastya-to-Rāma/Pañcavaṭī evidence supplies the upstream path and is not duplicated here."
+    }
+  ],
+  "notes": [
+    "Expansion focuses on named-person links within three edges of Agastya: existing Agastya-to-Rāma evidence, then Rāma-to-Jaṭāyu, then Jaṭāyu's parent and sibling links.",
+    "The 3.14 encounter is between Rāma, Lakṣmaṇa, and Jaṭāyu, not between Agastya and Jaṭāyu. Shared itinerary is not represented as a direct meeting.",
+    "Aruṇa and Śyenī parentage are both stated for Jaṭāyu in this translation. The graph preserves both claims and makes no harmonizing identity hypothesis.",
+    "Site verse ranges are tied to the Sanskrit text represented by the prose page; editorial framing and commentary are not treated as primary narrative evidence."
+  ]
+}
