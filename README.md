@@ -2,6 +2,8 @@
 
 This repository traces people, places, and textual witnesses connected to Agastya and records each relationship as a source attributed claim. The graph currently contains 3,295 nodes and 4,199 claims from 105 sources. These are textual records, not a count of distinct historical people.
 
+[Open the rendered graph](https://akhandps.github.io/ancient-india/).
+
 ## Explore
 
 - [WebGL graph with circular nodes](research/agastya/force-graph-webgl.html)
