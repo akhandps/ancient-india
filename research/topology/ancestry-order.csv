@@ -1,0 +1,1630 @@
+position,layer,id,label,parents_in_projection
+0,0,aruna_epic,Aruṇa · Rāmāyaṇa witness,
+1,0,arundhati,Arundhatī,
+2,0,atri,Atri,
+3,0,epic_purukutsa,Purukutsa · Mahābhārata witness,
+4,0,lakshmana,Lakṣmaṇa,
+5,0,mahabharata,Agastya · Mahābhārata,
+6,0,mb2_brahma_sabha_xi,Brahmā · host of the assembly described in MB 2 Section XI,
+7,0,mb2_kubera_sabha_x,Kubera / Vaiśravaṇa · host of the assembly described in MB 2 Section X,
+8,0,mb2_xi_bhrigu,Bhṛgu · Mahābhārata Sabha Parva §XI Brahmā-assembly roster,
+9,0,mb2_xi_daksha,Dakṣa · Mahābhārata Sabha Parva §XI Brahmā-assembly roster,
+10,0,mb2_xi_gautama,Gautama · Mahābhārata Sabha Parva §XI Brahmā-assembly roster,
+11,0,mb2_xi_kardama,Kardama · Mahābhārata Sabha Parva §XI Brahmā-assembly roster,
+12,0,mb2_xi_marichi,Marīci · Mahābhārata Sabha Parva §XI Brahmā-assembly roster,
+13,0,mb2_xi_pulaha,Pulaha · Mahābhārata Sabha Parva §XI Brahmā-assembly roster,
+14,0,mb2_xi_pulastya,Pulastya · Mahābhārata Sabha Parva §XI Brahmā-assembly roster,
+15,0,mb2iv_rukmini,Rukmiṇī · mother named for Pradyumna in MB 2 Section IV · Mahābhārata Sabha Parva §IV,
+16,0,mb2iv_satyaki,"Sātyaki · named as Yuyudhāna’s father in Ganguli’s rendering · Mahābhārata Sabha Parva §IV, p. 7 roster witness",
+17,0,mb2iv_sini,"Śini · father of Sātyaka · Mahābhārata Sabha Parva §IV, p. 7 roster witness",
+18,0,mb2ix_virochana,Virocana · father named for Bali in MB 2 Section IX · Mahābhārata Sabha Parva §IX,
+19,0,mb2viii_jamadagnya,Jamadagnya · patronymic identifying the father of a distinct Rāma · Mahābhārata Sabha Parva §VIII,
+20,0,mb2viii_vivasvat,"Vivasvat · Yama’s father, named in MB 2 Section VIII · Mahābhārata Sabha Parva §VIII",
+21,0,mb2xxx_suvala,Suvala · king of Gandhāra and guest · Mahābhārata Sabha Parva §§XXXIII–XXXVI witness,
+22,0,mb3_arya_matrika,Āryā · one of the seven named child-mothers in Skanda’s retinue,
+23,0,mb3_brihali_matrika,Bṛhalī · one of the seven named child-mothers in Skanda’s retinue,
+24,0,mb3_halima_matrika,Halimā · one of the seven named child-mothers in Skanda’s retinue,
+25,0,mb3_kaki_matrika,Kākī · one of the seven named child-mothers in Skanda’s retinue,
+26,0,mb3_mitra_matrika,Mitrā · one of the seven named child-mothers in Skanda’s retinue; distinct from Mitra,
+27,0,mb3_palala_matrika,Palālā · one of the seven named child-mothers in Skanda’s retinue,
+28,0,mb3_rudra_matrika,Rudrā · one of the seven named child-mothers in Skanda’s retinue; distinct from Rudra/Śiva,
+29,0,mb5_udyoga_prishata,Pṛṣata · identified as Dhṛṣṭadyumna’s father · Mahābhārata Udyoga Parva §§LVII–LVIII witness,
+30,0,mb_adi_early_abhibhu,Abhibhū · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),
+31,0,mb_adi_early_adryashyanti,Adṛśyantī · wife of Śakti and mother of Parāśara,
+32,0,mb_adi_early_bharadvaja,Bharadvāja · father of Droṇa in the Drupada–Droṇa account,
+33,0,mb_adi_early_chitravahana,Chitravāhana · king and father of Chitrāṅgadā,
+34,0,mb_adi_early_gadhi,Gādhi · father of Viśvāmitra,
+35,0,mb_adi_early_gandhara_king,Unnamed king of Gandhāra · father named for princes at the svayaṃvara,
+36,0,mb_adi_early_ghritachi,"Ghṛtācī · apsaras, mother of Droṇa",
+37,0,mb_adi_early_kauravya,Kauravya · nāga king and father of Ulūpī,
+38,0,mb_adi_early_prishata,Prishata · named in BORI CE Ādiparvan passage,
+39,0,mb_adi_early_samudrasena,Samudrasena · named in BORI CE Ādiparvan passage,
+40,0,mb_adi_early_somadatta,Somadatta · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),
+41,0,mb_adi_early_subhadra,Subhadrā · wife of Arjuna and mother of Abhimanyu,
+42,0,mb_adi_early_ushinara_shibi_patronymic,Uśīnara · eponymous father in the patronymic Auśīnara for Śibi (kept distinct from 1.177.18 attendee),
+43,0,mb_adi_early_vasishtha,Vasiṣṭha · sage in the Tapatī and Kalmāṣapāda accounts,
+44,0,mb_adi_inc_bhrgu,Bhṛgu · Mahābhārata Ādiparvan 1.59–1.61 witness,
+45,0,mb_adi_inc_brhaspati,Bṛhaspati · Mahābhārata Ādiparvan 1.59–1.61 witness,
+46,0,mb_adi_inc_duryodhana_human_incarnation,Duryodhana · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness,
+47,0,mb_adi_inc_kalaka_mother_of_eight_kings,Kālakā · mother of eight kings · Mahābhārata Ādiparvan 1.59–1.61 witness,
+48,0,mb_adi_inc_krodha_kala_line,Krodha · Kāla line · Mahābhārata Ādiparvan 1.59–1.61 witness,
+49,0,mb_adi_inc_manohara,Manohara · Mahābhārata Ādiparvan 1.59–1.61 witness,
+50,0,mb_adi_inc_marici,Marīci · mind-born sage · Mahābhārata Ādiparvan 1.59–1.61 witness,
+51,0,mb_adi_inc_muni_grandfather_of_dharma,Muni · grandfather of Dharma · Mahābhārata Ādiparvan 1.59–1.61 witness,
+52,0,mb_adi_inc_sthanu_rudra_progenitor,Sthāṇu (Śiva) · Rudra progenitor · Mahābhārata Ādiparvan 1.59–1.61 witness,
+53,0,mb_adi_inc_virata_human_incarnation,Virāṭa · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness,
+54,0,mb_adi_kadru,Kadrū · mother in Ādiparvan serpent genealogy,
+55,0,mb_adi_kadru_takshaka,Takṣaka · principal serpent · Ādiparvan 1.31,
+56,0,mb_adi_later_hidimbi,Hiḍimbā · Hiḍimba’s sister,
+57,0,mb_adi_later_hiranyadhanus,Hiraṇyadhanus · Niṣāda king and Ekalavya’s father,
+58,0,mb_adi_later_madayanti,Madayantī,
+59,0,mb_adi_later_prishata,Pṛṣata · father of Drupada,
+60,0,mb_adi_later_uddalaka,Uddālaka,
+61,0,mb_adi_latermore_adrsyanti,Adr̥śyantī,
+62,0,mb_adi_latermore_prishati,Pṛṣatī,
+63,0,mb_adi_latermore_samudrasena,Samudrasena,
+64,0,mb_adi_nxt_menakā,Menakā · mother of Śakuntalā by Viśvāmitra,
+65,0,mb_adi_nxt_rauśadaśva,Rauśadaśva · father indicated by Vasumanas’s patronymic,
+66,0,mb_adi_nxt_urvaśī,Urvaśī · partner of Purūravas and mother of their six sons,
+67,0,mb_adi_nxt_uśīnara,Uśīnara · father of Śibi,
+68,0,mb_adi_nxt_vṛṣaparvan,Vṛṣaparvan · father of Śarmiṣṭhā,
+69,0,ram6_vali,"Vāli · Aṅgada’s father, named in his patronymic · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+70,0,root_agni,Agni,
+71,0,sb4_akuti_sarvateja,Ākūti · wife of Sarvatejā and mother of Cākṣuṣa,
+72,0,sb4_anasuya,Anasūyā · wife of Atri,
+73,0,sb4_atharva,Atharvā · husband of Citti,
+74,0,sb4_citti,Citti · wife of Atharvā,
+75,0,sb4_dosa,Doṣā · wife of Puṣpārṇa,
+76,0,sb4_gati,Gati · wife of Pulaha,
+77,0,sb4_havirbhu,Havirbhū · wife of Pulastya,
+78,0,sb4_havirdhani,Havirdhānī · wife of Havirdhāna,
+79,0,sb4_idavida,Iḍaviḍā · wife of Viśravā,
+80,0,sb4_kandu,Kaṇḍu · sage and father of Māriṣā,
+81,0,sb4_kesini_visrava,"Keśinī · wife of Viśravā and mother of Rāvaṇa, Kumbhakarṇa and Vibhīṣaṇa",
+82,0,sb4_khyati,Khyāti · wife of Bhṛgu,
+83,0,sb4_meru_sage,Meru · sage and father of Āyati and Niyati in this passage,
+84,0,sb4_mrikanda,Mṛkaṇḍa · one of the two sons named with Prāṇa,
+85,0,sb4_mrsha_falsity,Mṛṣā / Falsity · wife of Adharma,
+86,0,sb4_nabhasvati,Nabhasvatī · wife of Vijitāśva / Antardhāna,
+87,0,sb4_nadvala,Naḍvalā · wife of Cākṣuṣa,
+88,0,sb4_prabha,Prabhā · wife of Puṣpārṇa,
+89,0,sb4_pramloca,Pramlocā · apsarā and mother of Māriṣā,
+90,0,sb4_prana,Prāṇa · one of the two sons named with Mṛkaṇḍa,
+91,0,sb4_pushkarini_ulmuka,Puṣkariṇī · wife of Ulmuka; kept separate from Vyuṣṭa’s wife of the same name,
+92,0,sb4_pushkarini_vyushta,Puṣkariṇī · wife of Vyuṣṭa and mother of Sarvatejā,
+93,0,sb4_ruci,Ruci · husband of Ākūti,
+94,0,sb4_shatarupa,Śatarūpā · Svāyambhuva Manu’s wife,
+95,0,sb4_shikhandini,Śikhaṇḍinī · wife of Vijitāśva / Antardhāna,
+96,0,sb4_shraddha_angira,Śraddhā · wife of Aṅgirā; distinct from Dakṣa’s daughter of the same name,
+97,0,sb4_sisumara,Śiśumāra · father of Bhrami,
+98,0,sb4_sunitha,Sunīthā · wife of Aṅga and mother of Vena,
+99,0,sb4_suniti,Sunīti · wife of Uttānapāda and mother of Dhruva,
+100,0,sb4_suruci,Suruci · wife of Uttānapāda and mother of Uttama,
+101,0,sb4_svarvithi,Svarvīthi · wife of Vatsara,
+102,0,sb4_svayambhuva_manu,Svāyambhuva Manu · Canto 4 genealogy witness,
+103,0,sb6_abhimati,Abhimati · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+104,0,sb6_akrti,Ākṛtī · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+105,0,sb6_angira,Aṅgirā · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+106,0,sb6_angirasi,Āṅgirasī · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+107,0,sb6_arcis,Arcis · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+108,0,sb6_asikni,Asiknī · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+109,0,sb6_chaya,Chāyā · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+110,0,sb6_dhara,Dhārā · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+111,0,sb6_dhisana,Dhiṣaṇā · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+112,0,sb6_krttika,Kṛttikā · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+113,0,sb6_racana,Racanā · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+114,0,sb6_samjna,Saṁjñā · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+115,0,sb6_sarupa,Sarūpā · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+116,0,sb6_sarvari,Śarvarī · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+117,0,sb6_sati_angira_wife,Satī (Aṅgirā wife) · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+118,0,sb6_urjasvati,Ūrjasvatī · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+119,0,sb6_usa,Ūṣā · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+120,0,sb6_vasana,Vāsanā · Śrīmad-Bhāgavatam 6.6–6.7 witness,
+121,0,sb8_13_aditi,Aditi · Śrīmad-Bhāgavatam Canto 8 witness,
+122,0,sb8_13_ambudhara,Ambudhārā · Śrīmad-Bhāgavatam Canto 8 witness,
+123,0,sb8_13_aryaka,Āryaka · Śrīmad-Bhāgavatam Canto 8 witness,
+124,0,sb8_13_ayusman,Āyuṣmān · Śrīmad-Bhāgavatam Canto 8 witness,
+125,0,sb8_13_brahati,Bṛhatī · Śrīmad-Bhāgavatam Canto 8 witness,
+126,0,sb8_13_deva_savarni,Deva-sāvarṇi Manu · Śrīmad-Bhāgavatam Canto 8 witness,
+127,0,sb8_13_devaguhya,Devaguhya · Śrīmad-Bhāgavatam Canto 8 witness,
+128,0,sb8_13_devahotra,Devahotra · Śrīmad-Bhāgavatam Canto 8 witness,
+129,0,sb8_13_dharma_savarni,Dharma-sāvarṇi Manu · Śrīmad-Bhāgavatam Canto 8 witness,
+130,0,sb8_13_indra_savarni,Indra-sāvarṇi Manu · Śrīmad-Bhāgavatam Canto 8 witness,
+131,0,sb8_13_rudra_savarni,Rudra-sāvarṇi Manu · Śrīmad-Bhāgavatam Canto 8 witness,
+132,0,sb8_13_sarasvati,Sarasvatī · Śrīmad-Bhāgavatam Canto 8 witness,
+133,0,sb8_13_satrayana,Satrāyaṇa · Śrīmad-Bhāgavatam Canto 8 witness,
+134,0,sb8_13_satyasaha,Satyasahā · Śrīmad-Bhāgavatam Canto 8 witness,
+135,0,sb8_13_sunrta12,Sunṛtā (twelfth manvantara) · Śrīmad-Bhāgavatam Canto 8 witness,
+136,0,sb8_13_upasloka,Upaśloka · Śrīmad-Bhāgavatam Canto 8 witness,
+137,0,sb8_13_vaidhrita_female,Vaidhṛtā · Śrīmad-Bhāgavatam Canto 8 witness,
+138,0,sb8_13_varuna,Varuṇa · Śrīmad-Bhāgavatam Canto 8 witness,
+139,0,sb8_13_visuci,Viṣūcī · Śrīmad-Bhāgavatam Canto 8 witness,
+140,0,sb8_13_visvasrsta,Viśvasraṣṭā · Śrīmad-Bhāgavatam Canto 8 witness,
+141,0,sb8_13_vitana,Vitānā · Śrīmad-Bhāgavatam Canto 8 witness,
+142,0,sb8_agni,Agni · Śrīmad-Bhāgavatam Canto 8 witness,
+143,0,sb8_dharma,Dharma · Śrīmad-Bhāgavatam Canto 8 witness,
+144,0,sb8_harimedha,Harimedhā · Śrīmad-Bhāgavatam Canto 8 witness,
+145,0,sb8_harini,Hariṇī · Śrīmad-Bhāgavatam Canto 8 witness,
+146,0,sb8_priyavrata,Priyavrata · Śrīmad-Bhāgavatam Canto 8 witness,
+147,0,sb8_sunrta,Sūnṛtā · Śrīmad-Bhāgavatam Canto 8 witness,
+148,0,sb8_svayambhuva_manu,Svāyambhuva Manu · Śrīmad-Bhāgavatam Canto 8 witness,
+149,0,sb8_tamasa_manu,Tāmasa Manu · Śrīmad-Bhāgavatam Canto 8 witness,
+150,0,sb8_tusita_wife,Tuṣitā · Śrīmad-Bhāgavatam Canto 8 witness,
+151,0,sb8_vedasira,Vedaśirā · Śrīmad-Bhāgavatam Canto 8 witness,
+152,0,shyeni_epic,Śyenī · Rāmāyaṇa witness,
+153,0,surya,Sūrya / Āditya,
+154,0,tamil_amudapathi,Amudapathi · queen in Maṇimēkalai,
+155,0,tamil_chitrapathi,Chitrāpathi · Maṇimēkalai witness,
+156,0,tamil_final_masathuvan,Māsāthuvān · Kovalan’s father in Maṇimēkalai canto 28,
+157,0,tamil_later_nedumudikkilli,Nedumudikkilli · Chola king in Maṇimēkalai,
+158,0,tamil_later_rajamadevi,Rājamādevi · queen in Maṇimēkalai,
+159,0,tamil_later_valaivanan,Vaḷaivaṇaṉ · Nāga king in Maṇimēkalai,
+160,0,tamil_later_vasamayilai,Vāsa Mayilai · Maṇimēkalai witness,
+161,0,tamil_shripathi,Shripathi · king of Chitipuram in Maṇimēkalai,
+162,0,vasistha,Vasiṣṭha,
+163,0,vishravas_epic,Viśravas · Rāmāyaṇa witness,
+164,0,vp1112_shaibya,Śaibyā · wife of Jyāmagha · Viṣṇu Purāṇa 4.12 witness,
+165,0,vp18_dirghatamas,Dīrghatamas · Viṣṇu Purāṇa 4.18 witness,
+166,0,vp18_pritha,Pṛthā · Viṣṇu Purāṇa 4.18 witness,
+167,0,vp19_bharadvaja,Bharadvāja / Vitatha · Viṣṇu Purāṇa 4.19 witness,
+168,0,vp19_shuka,Śuka · Viṣṇu Purāṇa 4.19 witness,
+169,0,vp19end_kripi,Kṛpī · Satyadhṛti episode · Viṣṇu Purāṇa 4.19 witness,
+170,0,vp19end_nalini,Nalinī · Ajamīḍha branch · Viṣṇu Purāṇa 4.19 witness,
+171,0,vp19end_sharadvat,Śaradvat · Ahalyā branch · Viṣṇu Purāṇa 4.19 witness,
+172,0,vp20_ambalika,Ambālikā · Viṣṇu Purāṇa 4.20 witness,
+173,0,vp20_ambika,Ambikā (ANU; Sanskrit variant Ambā) · Viṣṇu Purāṇa 4.20 witness,
+174,0,vp20_dharma_deity,Dharma · deity · Viṣṇu Purāṇa 4.20 witness,
+175,0,vp20_gandhari,Gāndhārī · Viṣṇu Purāṇa 4.20 witness,
+176,0,vp20_ganga,Gaṅgā · Viṣṇu Purāṇa 4.20 witness,
+177,0,vp20_hidimba,Hiḍimbā · Viṣṇu Purāṇa 4.20 witness,
+178,0,vp20_karenumati,Kareṇumatī (ANU; Sanskrit variant Reṇumatī) · Viṣṇu Purāṇa 4.20 witness,
+179,0,vp20_kashi_wife,Kāśī · Bhīma’s wife · Viṣṇu Purāṇa 4.20 witness,
+180,0,vp20_kunti,Kuntī · Viṣṇu Purāṇa 4.20 witness,
+181,0,vp20_madri,Mādrī · Viṣṇu Purāṇa 4.20 witness,
+182,0,vp20_satyavati,Satyavatī · Viṣṇu Purāṇa 4.20 witness,
+183,0,vp20_subhadra,Subhadrā · Viṣṇu Purāṇa 4.20 witness,
+184,0,vp20_ulupi,Ulūpī · Viṣṇu Purāṇa 4.20 witness,
+185,0,vp20_uttara,Uttarā · Viṣṇu Purāṇa 4.20 witness,
+186,0,vp20_vayu_deity,Vāyu · deity · Viṣṇu Purāṇa 4.20 witness,
+187,0,vp20_vijaya,Vijayā · Viṣṇu Purāṇa 4.20 witness,
+188,0,vp20_yaudheyi,Yaudheyī · Viṣṇu Purāṇa 4.20 witness,
+189,0,vp35_bhanumant,Bhānumant · Sīradhvaja descendant · Viṣṇu Purāṇa 4.3–5 witness,
+190,0,vp35_ikshvaku,Ikṣvāku · Nimi’s father · Viṣṇu Purāṇa 4.3–5 witness,
+191,0,vp35_janaka_ch4,King Janaka · Sītā’s father in 4.4 · Viṣṇu Purāṇa 4.3–5 witness,
+192,0,vp35_janaka_mithi,Janaka / Vaideha / Mithi · Nimi line · Viṣṇu Purāṇa 4.3–5 witness,
+193,0,vp35_kesini_sagara,Keśinī · Sagara’s wife · Viṣṇu Purāṇa 4.3–5 witness,
+194,0,vp35_madayanti,Madayantī · Viṣṇu Purāṇa 4.3–5 witness,
+195,0,vp35_trayaruna,Trayyāruṇa · Viṣṇu Purāṇa 4.3–5 witness,
+196,0,vp35_vasishtha_ashmaka,Vasiṣṭha · Aśmaka’s biological father · Viṣṇu Purāṇa 4.3–5 witness,
+197,0,vp4_13_jambavant,"Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses",
+198,0,vp4_13_satvata,Sātvata · Viṣṇu Purāṇa 4.13 witness,
+199,0,vp4_14_andhaka14,Andhaka · father of Kukura in chapter 14 · Viṣṇu Purāṇa 4.14 witness,
+200,0,vp4_14_citraka,Citraka · Śvaphalka’s brother · Viṣṇu Purāṇa 4.14 witness,
+201,0,vp4_14_damaghosha,Damaghoṣa · Viṣṇu Purāṇa 4.14 witness · king,
+202,0,vp4_14_dasra,Dasra · deity in Viṣṇu Purāṇa 4.14,
+203,0,vp4_14_devaki,Devakī · daughter of Devaka · Viṣṇu Purāṇa 4.14 witness,
+204,0,vp4_14_dharma,Dharma · deity in Viṣṇu Purāṇa 4.14,
+205,0,vp4_14_gandini,Gāndinī · Viṣṇu Purāṇa 4.14 witness,
+206,0,vp4_14_indra,Indra · deity in Viṣṇu Purāṇa 4.14,
+207,0,vp4_14_madri,Mādrī · Viṣṇu Purāṇa 4.14 witness,
+208,0,vp4_14_nasatya,Nāsatya · deity in Viṣṇu Purāṇa 4.14,
+209,0,vp4_14_sun,Sun · deity in Viṣṇu Purāṇa 4.14,
+210,0,vp4_14_vayu,Vāyu · deity in Viṣṇu Purāṇa 4.14,
+211,0,vp4_14_vrddhasharman,Vṛddhaśarman · Viṣṇu Purāṇa 4.14 witness · Kārūṣa prince,
+212,0,vp4_15_bhadra,Bhadrā · Viṣṇu Purāṇa 4.15 witness,
+213,0,vp4_15_dasaratha,Daśaratha · father of Rāma · Viṣṇu Purāṇa 4.15 witness · incarnation-story identity,
+214,0,vp4_15_madira,Madirā · Viṣṇu Purāṇa 4.15 witness,
+215,0,vp4_15_revati,Revatī · Viṣṇu Purāṇa 4.15 witness,
+216,0,vp4_15_rohiṇī,Rohiṇī · Viṣṇu Purāṇa 4.15 witness,
+217,0,vp4_15_rukmin,Rukmin · Viṣṇu Purāṇa 4.15 witness,
+218,0,vp4_15_vaiśali,Vaiśālī · Viṣṇu Purāṇa 4.15 witness,
+219,0,vp67_rcika,Ṛcīka · Bhṛgu’s scion,
+220,0,vp67_renu,Reṇu · Ikṣvāku lineage,
+221,0,vp67_urvashi,Urvaśī · Purūravas’s consort,
+222,0,vp67_vishvamitra,Viśvāmitra · son of Satyavatī’s unnamed mother,
+223,0,vp89_pururavas,Purūravas · Viṣṇu Purāṇa 4.8–9 witness,
+224,0,vp_devayani,Devayānī · Viṣṇu Purāṇa witness,
+225,0,vp_vrishaparvan,Vṛṣaparvan · Viṣṇu Purāṇa witness,
+226,1,dridhasyu,Dṛḍhasyu / Idhmavāha · epic witness,mahabharata
+227,1,jatayu,Jaṭāyu · Rāmāyaṇa witness,aruna_epic;shyeni_epic
+228,1,jv_son_sb10,Unnamed young son of Jāmbavān · Bhāgavata 10.56,vp4_13_jambavant
+229,1,mb2_x_nalakuvera,"Nalakuvera · Mahābhārata Sabha Parva §X, p. 23",mb2_kubera_sabha_x
+230,1,mb2iv_pradyumna,"Pradyumna · son of Rukmiṇī, Vṛṣṇi prince at Yudhiṣṭhira’s assembly · Mahābhārata Sabha Parva §IV",mb2iv_rukmini
+231,1,mb2iv_satyaka,"Sātyaka · son of Śini; kept distinct from Satyaki · Mahābhārata Sabha Parva §IV, p. 7 roster witness",mb2iv_sini
+232,1,mb2iv_yuyudhana,"Yuyudhāna · identified in Ganguli’s translation as son of Satyaki · Mahābhārata Sabha Parva §IV, p. 7 roster witness",mb2iv_satyaki
+233,1,mb2ix_asura_vali_virochana,"Vali · son of Virochana, Asura in Varuṇa roster · Varuṇa’s assembly (Daitya/Daṇava roster)",mb2ix_virochana
+234,1,mb2viii_yama,Yama · host of the assembly described in MB 2 Section VIII · Mahābhārata Sabha Parva §VIII,mb2viii_vivasvat
+235,1,mb2xxx_sakuni,Śakuni · named among the guests · Mahābhārata Sabha Parva §§XXXIII–XXXVI witness,mb2xxx_suvala
+236,1,mb3_svaha,Svāhā · daughter of Dakṣa and Agni’s consort; participates in Skanda’s birth,mb2_xi_daksha
+237,1,mb5_udyoga_sankha_virata,Śaṅkha · named as a son of Virāṭa · Mahābhārata Udyoga Parva §§LVII–LVIII witness,mb_adi_inc_virata_human_incarnation
+238,1,mb5_udyoga_uttara_virata,Uttara · named as a son of Virāṭa; Pāṇḍava ally · Mahābhārata Udyoga Parva §§LVII–LVIII witness,mb_adi_inc_virata_human_incarnation
+239,1,mb5_udyoga_vabhru,Vabhru · Virāṭa’s son and Pāṇḍava-side fighter · Mahābhārata Udyoga Parva §§LVII–LVIII witness,mb_adi_inc_virata_human_incarnation
+240,1,mb_adi_early_ashvasena_takshaka_son,Aśvasena · son of Takṣaka in the Khāṇḍava episode,mb_adi_kadru_takshaka
+241,1,mb_adi_early_bala,Bala · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),mb_adi_early_gandhara_king
+242,1,mb_adi_early_bhuri,Bhūri · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),mb_adi_early_somadatta
+243,1,mb_adi_early_bhurishrava,Bhūriśravā · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),mb_adi_early_somadatta
+244,1,mb_adi_early_brhadbala_gandhara,"Bṛhadbala · son of the king of Gandhāra, svayaṃvara attendee",mb_adi_early_gandhara_king
+245,1,mb_adi_early_candrasena_samudrasena_son,Candrasena · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),mb_adi_early_samudrasena
+246,1,mb_adi_early_chitrangada_manipura,Chitrāṅgadā · daughter of Chitravāhana and mother of Babhruvāhana,mb_adi_early_chitravahana
+247,1,mb_adi_early_shakti_vasishtha_son,Śakti · eldest son of Vasiṣṭha,mb_adi_early_vasishtha
+248,1,mb_adi_early_shala,Śala · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),mb_adi_early_somadatta
+249,1,mb_adi_early_shankha_virata_son,Śaṅkha · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),mb_adi_inc_virata_human_incarnation
+250,1,mb_adi_early_sibi_usinaras_son,Sibi Usinaras Son · named in BORI CE Ādiparvan passage,mb_adi_early_ushinara_shibi_patronymic
+251,1,mb_adi_early_sudamna,Sudāmna · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),mb_adi_early_abhibhu
+252,1,mb_adi_early_ulupi,"Ulūpī · nāga princess, daughter of Kauravya; wife of Arjuna",mb_adi_early_kauravya
+253,1,mb_adi_early_uttara_virata_son,Uttara · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),mb_adi_inc_virata_human_incarnation
+254,1,mb_adi_early_vishvakarman,Viśvakarman · creator of Tilottamā,sb6_angirasi
+255,1,mb_adi_early_vrshaka,"Vṛṣaka · son of the king of Gandhāra, svayaṃvara attendee",mb_adi_early_gandhara_king
+256,1,mb_adi_inc_abhiru,Abhīru · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_kalaka_mother_of_eight_kings
+257,1,mb_adi_inc_ahirbudhnya,Ahirbudhnya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_sthanu_rudra_progenitor;sb6_sarupa
+258,1,mb_adi_inc_ajaikapat,Ajaikapāt · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_sthanu_rudra_progenitor;sb6_sarupa
+259,1,mb_adi_inc_aparajita_kalaka_line,Aparājita · Kālakā line · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_kalaka_mother_of_eight_kings
+260,1,mb_adi_inc_arjuna_human_incarnation,Arjuna · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness,vp20_kunti
+261,1,mb_adi_inc_bhava,Bhava · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_sthanu_rudra_progenitor;sb6_sarupa
+262,1,mb_adi_inc_bhimasena_human_incarnation,Bhīmasena · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness,vp20_kunti
+263,1,mb_adi_inc_brhan_kalaka_son,Bṛhan · Kālakā son · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_kalaka_mother_of_eight_kings
+264,1,mb_adi_inc_cyavana,Cyavana · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_bhrgu
+265,1,mb_adi_inc_dahana,Dahana · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_sthanu_rudra_progenitor
+266,1,mb_adi_inc_dharma_deity,Dharma · deity · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_muni_grandfather_of_dharma
+267,1,mb_adi_inc_drona_human_incarnation,Droṇa · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_early_bharadvaja;mb_adi_early_ghritachi
+268,1,mb_adi_inc_drupada_human_incarnation,Drupada · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_early_prishata
+269,1,mb_adi_inc_hanta_kala_line,Hanta · Kāla line · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_krodha_kala_line
+270,1,mb_adi_inc_jayatsena,Jayatsena · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_kalaka_mother_of_eight_kings
+271,1,mb_adi_inc_kapali,Kapālī · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_sthanu_rudra_progenitor
+272,1,mb_adi_inc_kashyapa,Kaśyapa · son of Marīci · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_marici
+273,1,mb_adi_inc_kavi,Kavi · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_bhrgu
+274,1,mb_adi_inc_mahauja,Mahaujā · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_kalaka_mother_of_eight_kings
+275,1,mb_adi_inc_mrgavyadha,Mṛgavyādha · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_sthanu_rudra_progenitor
+276,1,mb_adi_inc_nakula_human_incarnation,Nakula · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness,vp20_madri
+277,1,mb_adi_inc_nirrti_rudra,Nirṛti · Rudra · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_sthanu_rudra_progenitor
+278,1,mb_adi_inc_pinaki,Pinākī · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_sthanu_rudra_progenitor
+279,1,mb_adi_inc_prana_manohara_line,Prāṇa · Manohara line · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_manohara
+280,1,mb_adi_inc_ramana,Ramaṇa · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_manohara
+281,1,mb_adi_inc_sahadeva_human_incarnation,Sahadeva · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness,vp20_madri
+282,1,mb_adi_inc_samudrasena,Samudrasena · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_kalaka_mother_of_eight_kings
+283,1,mb_adi_inc_shakuni_human_incarnation,Śakuni · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_early_gandhara_king
+284,1,mb_adi_inc_sharva,Śarva · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_sthanu_rudra_progenitor
+285,1,mb_adi_inc_shishira,Śiśira · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_manohara
+286,1,mb_adi_inc_shreniman,Śreṇimān · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_kalaka_mother_of_eight_kings
+287,1,mb_adi_inc_shvara_rudra,Īśvara · Rudra · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_sthanu_rudra_progenitor
+288,1,mb_adi_inc_sthanu_rudra,Sthāṇu · Rudra · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_sthanu_rudra_progenitor
+289,1,mb_adi_inc_yudhishthira_human_incarnation,Yudhiṣṭhira · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness,vp20_kunti
+290,1,mb_adi_kadru_ananta,Ananta · named son of Kadrū · Ādiparvan 1.59,mb_adi_kadru
+291,1,mb_adi_kadru_kulika,Kulika · named son of Kadrū · Ādiparvan 1.59,mb_adi_kadru
+292,1,mb_adi_kadru_kurma,Kūrma · named son of Kadrū · Ādiparvan 1.59,mb_adi_kadru
+293,1,mb_adi_later_ashmaka,Aśmaka,mb_adi_later_madayanti
+294,1,mb_adi_later_drupada,Drupada / Yajñasena · king of Pāñcāla,mb_adi_later_prishata
+295,1,mb_adi_later_ekalavya,Ekalavya · Niṣāda prince and Droṇa’s self-declared pupil,mb_adi_later_hiranyadhanus
+296,1,mb_adi_later_sharadvata,Śaradvat / Śaradvān · Gautama’s son,mb2_xi_gautama
+297,1,mb_adi_later_shvetaketu,Śvetaketu,mb_adi_later_uddalaka
+298,1,mb_adi_latermore_candrasena,Candrasena,mb_adi_latermore_samudrasena
+299,1,mb_adi_nxt_kaca,Kaca · son of Bṛhaspati and grandson of Aṅgiras,mb_adi_inc_brhaspati
+300,1,mb_adi_nxt_vasumanas,Vasumanas · interlocutor addressed by Yayāti; Rauśadaśva’s son,mb_adi_nxt_rauśadaśva
+301,1,mb_adi_nxt_viśvāmitra,Viśvāmitra · father of Śakuntalā by Menakā,mb_adi_early_gadhi
+302,1,mb_adi_nxt_śibi,Śibi · son of Uśīnara,mb_adi_nxt_uśīnara
+303,1,mb_battle_lakshmana_duryodhana_son,"Lakṣmaṇa · son of Duryodhana, killed by Abhimanyu in Droṇaparvan 7.45",mb_adi_inc_duryodhana_human_incarnation
+304,1,puranic,Agastya · Bhāgavata,mb2_xi_pulastya;sb4_havirbhu
+305,1,ram6_angada,Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness,ram6_vali
+306,1,ram6_sushena,Suṣeṇa · monkey combatant and son of Dharma · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness,vp20_dharma_deity
+307,1,root_soma,Soma · Buddhacarita witness,atri;sb4_anasuya
+308,1,sb4_akuti_manu,Ākūti · daughter of Svāyambhuva Manu and wife of Ruci,sb4_shatarupa;sb4_svayambhuva_manu
+309,1,sb4_anumati,Anumati · daughter of Aṅgirā and Śraddhā,sb4_shraddha_angira;sb6_angira
+310,1,sb4_aruni,Aruṇi · named son of Brahmā,mb2_brahma_sabha_xi
+311,1,sb4_asvasira,Aśvaśirā · son of Atharvā and Citti,sb4_atharva;sb4_citti
+312,1,sb4_ayati,Āyati · daughter of Meru,sb4_meru_sage
+313,1,sb4_bhrami,Bhrami · wife of Dhruva and mother of Kalpa and Vatsara,sb4_sisumara
+314,1,sb4_brihaspati,Bṛhaspati · son of Aṅgirā and Śraddhā,sb4_shraddha_angira;sb6_angira
+315,1,sb4_citraketu_vasistha,Citraketu · son of Vasiṣṭha and Ūrjā,arundhati;vasistha
+316,1,sb4_dattatreya,Dattātreya · son of Atri and Anasūyā,atri;sb4_anasuya
+317,1,sb4_devahuti,Devahūti · daughter of Svāyambhuva Manu and wife of Kardama,sb4_shatarupa;sb4_svayambhuva_manu
+318,1,sb4_dhata,Dhātā · son of Bhṛgu and Khyāti,mb2_xi_bhrigu;sb4_khyati
+319,1,sb4_durvasa,Durvāsā · son of Atri and Anasūyā,atri;sb4_anasuya
+320,1,sb4_dyuman,Dyumān · son of Vasiṣṭha and Ūrjā,arundhati;vasistha
+321,1,sb4_hamsa,Haṁsa · named son of Brahmā,mb2_brahma_sabha_xi
+322,1,sb4_ila,Ilā · wife of Dhruva and daughter of Vāyu,vp20_vayu_deity
+323,1,sb4_irreligion,Adharma / Irreligion · named son of Brahmā,mb2_brahma_sabha_xi
+324,1,sb4_kala,Kalā · daughter of Kardama and wife of Marīci,mb2_xi_kardama
+325,1,sb4_karmasrestha,Karmaśreṣṭha · son of Pulaha and Gati,mb2_xi_pulaha;sb4_gati
+326,1,sb4_kuhu,Kuhū · daughter of Aṅgirā and Śraddhā,sb4_shraddha_angira;sb6_angira
+327,1,sb4_markandeya,Mārkaṇḍeya · son of Mṛkaṇḍa,sb4_mrikanda
+328,1,sb4_mitra,Mitra · son of Vasiṣṭha and Ūrjā,arundhati;vasistha
+329,1,sb4_niyati,Niyati · daughter of Meru,sb4_meru_sage
+330,1,sb4_prasuti,Prasūti · daughter of Svāyambhuva Manu and wife of Dakṣa,sb4_shatarupa;sb4_svayambhuva_manu
+331,1,sb4_priyavrata,Priyavrata · son of Svāyambhuva Manu,sb4_svayambhuva_manu
+332,1,sb4_raka,Rākā · daughter of Aṅgirā and Śraddhā,sb4_shraddha_angira;sb6_angira
+333,1,sb4_rbhu,Ṛbhu · named son of Brahmā,mb2_brahma_sabha_xi
+334,1,sb4_sahishnu,Sahiṣṇu · son of Pulaha and Gati,mb2_xi_pulaha;sb4_gati
+335,1,sb4_sanaka,Sanaka · one of Brahmā’s named sons in the account,mb2_brahma_sabha_xi
+336,1,sb4_shri,Śrī · daughter of Bhṛgu and Khyāti,mb2_xi_bhrigu;sb4_khyati
+337,1,sb4_sinivali,Sinīvālī · daughter of Aṅgirā and Śraddhā,sb4_shraddha_angira;sb6_angira
+338,1,sb4_suroci,Suroci · son of Vasiṣṭha and Ūrjā,arundhati;vasistha
+339,1,sb4_ulbana,Ulbaṇa · son of Vasiṣṭha and Ūrjā,arundhati;vasistha
+340,1,sb4_utathya,Utathya · son of Aṅgirā and Śraddhā,sb4_shraddha_angira;sb6_angira
+341,1,sb4_uttanapada,Uttānapāda · son of Svāyambhuva Manu,sb4_svayambhuva_manu
+342,1,sb4_variyan,Varīyān · son of Pulaha and Gati,mb2_xi_pulaha;sb4_gati
+343,1,sb4_vasubhrdyana,Vasubhṛdyāna · son of Vasiṣṭha and Ūrjā,arundhati;vasistha
+344,1,sb4_vedasira,Vedaśirā · son of Prāṇa,sb4_prana
+345,1,sb4_vidhata,Vidhātā · son of Bhṛgu and Khyāti,mb2_xi_bhrigu;sb4_khyati
+346,1,sb4_viraja_vasistha,Virajā · son of Vasiṣṭha and Ūrjā,arundhati;vasistha
+347,1,sb4_visrava,Viśravā · son of Pulastya and Havirbhū,mb2_xi_pulastya;sb4_havirbhu
+348,1,sb4_yati,Yati · named son of Brahmā,mb2_brahma_sabha_xi
+349,1,sb6_aja_rudra,Aja (Rudra) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_sarupa
+350,1,sb6_atapa,Ātapa · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_usa
+351,1,sb6_atharvangirasa_veda,Atharvāṅgirasa Veda · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_sati_angira_wife
+352,1,sb6_ayus_vasu_son,Āyus (Vasu son) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_urjasvati
+353,1,sb6_bahurupa,Bahurūpa · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_sarupa
+354,1,sb6_bhaya,Bhaya · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_abhimati
+355,1,sb6_bhima_rudra,Bhīma (Rudra) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_sarupa
+356,1,sb6_caksusa_manu,Cākṣuṣa Manu · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_akrti
+357,1,sb6_devala_krsasva_son,Devala (Kṛśāśva son) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_dhisana
+358,1,sb6_dhumaketu,Dhūmaketu · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_arcis
+359,1,sb6_dravinaka,Draviṇaka · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_dhara
+360,1,sb6_harsa,Harṣa · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_abhimati
+361,1,sb6_mahan,Mahān · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_sarupa
+362,1,sb6_manu_krsasva_son,Manu (Kṛśāśva son) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_dhisana
+363,1,sb6_purojava,Purojava · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_urjasvati
+364,1,sb6_raivata,Raivata · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_sarupa
+365,1,sb6_rocisa,Rociṣa · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_usa
+366,1,sb6_saha_vasu_son,Saha (Vasu son) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_urjasvati
+367,1,sb6_sisumara,Śiśumāra · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_sarvari
+368,1,sb6_skanda_karttikeya,Skanda / Kārttikeya · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_krttika
+369,1,sb6_soka,Śoka · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_abhimati
+370,1,sb6_tarsa,Tarṣa · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_vasana
+371,1,sb6_ugra_rudra,Ugra (Rudra) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_sarupa
+372,1,sb6_vama,Vāma · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_sarupa
+373,1,sb6_vayuna,Vayuna · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_dhisana
+374,1,sb6_vedasira,Vedaśirā · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_dhisana
+375,1,sb6_vrsakapi,Vṛṣākapi · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_sarupa
+376,1,sb6_vyusta,Vyuṣṭa · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_usa
+377,1,sb8_13_brahma_savarni,Brahma-sāvarṇi Manu · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_upasloka
+378,1,sb8_13_brhadbhanu,Bṛhadbhānu · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_satrayana;sb8_13_vitana
+379,1,sb8_13_daksa_savarni,Dakṣa-sāvarṇi Manu · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_varuna
+380,1,sb8_13_deva_son_citrasena,Citrasena · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_deva_savarni
+381,1,sb8_13_deva_son_vicitra,Vicitra · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_deva_savarni
+382,1,sb8_13_dharma_son_satyadharma,Satyadharma · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_dharma_savarni
+383,1,sb8_13_dharmasetu,Dharmasetu · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_aryaka;sb8_13_vaidhrita_female
+384,1,sb8_13_indra_son_budha,Budha · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_indra_savarni
+385,1,sb8_13_indra_son_gambhira,Gambhīra · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_indra_savarni
+386,1,sb8_13_indra_son_uru,Uru · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_indra_savarni
+387,1,sb8_13_rsabha,Ṛṣabha (ninth manvantara incarnation) · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_ambudhara;sb8_13_ayusman
+388,1,sb8_13_rudra_son_devasrestha,Devaśreṣṭha · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_rudra_savarni
+389,1,sb8_13_rudra_son_devavan,Devavān · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_rudra_savarni
+390,1,sb8_13_rudra_son_upadeva,Upadeva · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_rudra_savarni
+391,1,sb8_13_sarvabhauma,Sārvabhauma · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_devaguhya;sb8_13_sarasvati
+392,1,sb8_13_svadhama,Svadhāmā · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_satyasaha;sb8_13_sunrta12
+393,1,sb8_13_visvaksena,Viṣvaksena · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_visuci;sb8_13_visvasrsta
+394,1,sb8_13_yogesvara,Yogeśvara · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_brahati;sb8_13_devahotra
+395,1,sb8_akuti,Ākūti · Śrīmad-Bhāgavatam Canto 8 witness,sb8_svayambhuva_manu
+396,1,sb8_devahuti,Devahūti · Śrīmad-Bhāgavatam Canto 8 witness,sb8_svayambhuva_manu
+397,1,sb8_hari_incarnation,Hari (Tāmasa manvantara incarnation) · Śrīmad-Bhāgavatam Canto 8 witness,sb8_harimedha;sb8_harini
+398,1,sb8_satyasena,Satyasena · Śrīmad-Bhāgavatam Canto 8 witness,sb8_dharma;sb8_sunrta
+399,1,sb8_svarocisa_manu,Svārociṣa Manu · Śrīmad-Bhāgavatam Canto 8 witness,sb8_agni
+400,1,sb8_tamasa_son_ketu,Ketu · Śrīmad-Bhāgavatam Canto 8 witness,sb8_tamasa_manu
+401,1,sb8_tamasa_son_khyati,Khyāti · Śrīmad-Bhāgavatam Canto 8 witness,sb8_tamasa_manu
+402,1,sb8_tamasa_son_nara,Nara · Śrīmad-Bhāgavatam Canto 8 witness,sb8_tamasa_manu
+403,1,sb8_tamasa_son_prthu,Pṛthu · Śrīmad-Bhāgavatam Canto 8 witness,sb8_tamasa_manu
+404,1,sb8_uttama_manu,Uttama Manu · Śrīmad-Bhāgavatam Canto 8 witness,sb8_priyavrata
+405,1,sb8_vibhu,Vibhu · Śrīmad-Bhāgavatam Canto 8 witness,sb8_tusita_wife;sb8_vedasira
+406,1,sita,Sītā,vp35_janaka_ch4
+407,1,skanda,Skanda,mb3_arya_matrika;mb3_brihali_matrika;mb3_halima_matrika;mb3_kaki_matrika;mb3_mitra_matrika;mb3_palala_matrika;mb3_rudra_matrika
+408,1,tamil_kovalan,Kovalan · Maṇimēkalai witness,tamil_final_masathuvan
+409,1,tamil_lakshmi_past,Lakshmi · Maṇimēkalai past-birth name,tamil_amudapathi
+410,1,tamil_later_peelivalai,Pīḷivaḷai · Maṇimēkalai witness,tamil_later_valaivanan;tamil_later_vasamayilai
+411,1,tamil_madhavi,Mādhavi · Maṇimēkalai witness,tamil_chitrapathi
+412,1,tamil_neelapathi,Neelapathi · Maṇimēkalai witness,tamil_shripathi
+413,1,tamil_udayakumaran,Udayakumaran · Maṇimēkalai witness,tamil_later_nedumudikkilli;tamil_later_rajamadevi
+414,1,trasadasyu,Trasadasyu · epic witness,epic_purukutsa
+415,1,vp18_anga,Aṅga · son of Bali’s wife and Dīrghatamas · Viṣṇu Purāṇa 4.18 witness,vp18_dirghatamas
+416,1,vp18_kalinga,Kaliṅga · son of Bali’s wife and Dīrghatamas · Viṣṇu Purāṇa 4.18 witness,vp18_dirghatamas
+417,1,vp18_karna,Karṇa · Viṣṇu Purāṇa witness · Viṣṇu Purāṇa 4.18 witness,surya;vp18_pritha;vp20_kunti
+418,1,vp18_paundra,Pauṇḍra · son of Bali’s wife and Dīrghatamas · Viṣṇu Purāṇa 4.18 witness,vp18_dirghatamas
+419,1,vp18_suhya,Suhya · son of Bali’s wife and Dīrghatamas · Viṣṇu Purāṇa 4.18 witness,vp18_dirghatamas
+420,1,vp18_vanga,Vaṅga · son of Bali’s wife and Dīrghatamas · Viṣṇu Purāṇa 4.18 witness,vp18_dirghatamas
+421,1,vp19_bhavanmanyu,Bhavanmanyu · Viṣṇu Purāṇa 4.19 witness,vp19_bharadvaja
+422,1,vp19_krtvi,Kṛtvī · Viṣṇu Purāṇa 4.19 witness,vp19_shuka
+423,1,vp19end_ashvatthaman,Aśvatthāman · Viṣṇu Purāṇa 4.19 witness,vp19end_kripi
+424,1,vp20_arjuna,Arjuna · Pāṇḍu’s son · Viṣṇu Purāṇa 4.20 witness,vp20_kunti
+425,1,vp20_bhima_pandava,Bhīma / Bhīmasena · Pāṇḍu’s son · Viṣṇu Purāṇa 4.20 witness,vp20_kunti
+426,1,vp20_nakula,Nakula · Viṣṇu Purāṇa 4.20 witness,vp20_madri
+427,1,vp20_sahadeva_pandava,Sahadeva · Pāṇḍu’s son · Viṣṇu Purāṇa 4.20 witness,vp20_madri
+428,1,vp35_ashmaka,Aśmaka · Viṣṇu Purāṇa 4.3–5 witness,vp35_madayanti;vp35_vasishtha_ashmaka
+429,1,vp35_nimi,Nimi · Viṣṇu Purāṇa 4.3–5 witness,vp35_ikshvaku
+430,1,vp35_satadyumna,Śatadyumna · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_bhanumant
+431,1,vp35_satyavrata_trishanku,Satyavrata / Triśaṅku · Viṣṇu Purāṇa 4.3–5 witness,vp35_trayaruna
+432,1,vp35_udavasu,Udāvasu · Viṣṇu Purāṇa 4.3–5 witness,vp35_janaka_mithi
+433,1,vp4_13_andhaka,Andhaka · Sātvata’s son · Viṣṇu Purāṇa 4.13 witness,vp4_13_satvata
+434,1,vp4_13_bhajamana,Bhajamāna · Sātvata’s son · Viṣṇu Purāṇa 4.13 witness,vp4_13_satvata
+435,1,vp4_13_bhajana,Bhajana · Viṣṇu Purāṇa 4.13 witness,vp4_13_satvata
+436,1,vp4_13_devavrdha,Devāvṛdha · Viṣṇu Purāṇa 4.13 witness,vp4_13_satvata
+437,1,vp4_13_divya,Divya · Viṣṇu Purāṇa 4.13 witness,vp4_13_satvata
+438,1,vp4_13_mahābhoja,Mahābhoja · Viṣṇu Purāṇa 4.13 witness,vp4_13_satvata
+439,1,vp4_13_sukumara,Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son,vp4_13_jambavant
+440,1,vp4_13_vrishni_satvata,Vṛṣṇi · Sātvata’s son · Viṣṇu Purāṇa 4.13 witness,vp4_13_satvata
+441,1,vp4_14_bhajamana_andhaka,Bhajamāna · son of Andhaka · Viṣṇu Purāṇa 4.14 witness,vp4_14_andhaka14
+442,1,vp4_14_citraka_prthu,Pṛthu · son of Citraka · Viṣṇu Purāṇa 4.14 witness,vp4_14_citraka
+443,1,vp4_14_citraka_viprthu,Vipṛthu · son of Citraka · Viṣṇu Purāṇa 4.14 witness,vp4_14_citraka
+444,1,vp4_14_kambalabarhis,Kambalabarhis · Viṣṇu Purāṇa 4.14 witness,vp4_14_andhaka14
+445,1,vp4_14_kukura,Kukura · Viṣṇu Purāṇa 4.14 witness,vp4_14_andhaka14
+446,1,vp4_14_marisa,Māriṣā · Viṣṇu Purāṇa 4.14 witness,sb4_kandu;sb4_pramloca
+447,1,vp4_14_nakula,Nakula · Viṣṇu Purāṇa 4.14 witness,vp4_14_madri;vp4_14_nasatya
+448,1,vp4_14_sahadeva,Sahadeva · Viṣṇu Purāṇa 4.14 witness,vp4_14_dasra;vp4_14_madri
+449,1,vp4_14_suci,Śuci · son of Andhaka · Viṣṇu Purāṇa 4.14 witness,vp4_14_andhaka14
+450,1,vp4_15_jambavati,Jāmbavatī · Viṣṇu Purāṇa 4.15 witness,vp4_13_jambavant
+451,1,vp4_15_kakudvati,Kakudvatī · Viṣṇu Purāṇa 4.15 witness,vp4_15_rukmin
+452,1,vp4_15_rama,Rāma · Viṣṇu’s form in this narrative · Viṣṇu Purāṇa 4.15 witness · incarnation-story identity,vp4_15_dasaratha
+453,1,vp4_angada_lakshmana,Aṅgada · Lakṣmaṇa’s son · Viṣṇu Purāṇa witness,lakshmana
+454,1,vp4_candraketu,Candraketu · Lakṣmaṇa’s son · Viṣṇu Purāṇa witness,lakshmana
+455,1,vp67_amavasu_pururavas,Amāvasu · son of Purūravas,vp67_urvashi;vp89_pururavas
+456,1,vp67_devashtaka,Devāṣṭaka · later son of Viśvāmitra,vp67_vishvamitra
+457,1,vp67_dhimant,Dhīmant · Purūravas branch,vp67_urvashi;vp89_pururavas
+458,1,vp67_haritaka,Hārītaka · later son of Viśvāmitra,vp67_vishvamitra
+459,1,vp67_jayakrita,Jayakṛta · later son of Viśvāmitra,vp67_vishvamitra
+460,1,vp67_kachchapa,Kacchapa · later son of Viśvāmitra,vp67_vishvamitra
+461,1,vp67_madhuchchhanda,Madhucchanda · later son of Viśvāmitra,vp67_vishvamitra
+462,1,vp67_renuka,Reṇukā · daughter of Reṇu,vp67_renu
+463,1,vp67_shatayus,Śatāyus · son of Purūravas,vp67_urvashi;vp89_pururavas
+464,1,vp67_shrutayus,Śrutāyus · son of Purūravas,vp67_urvashi;vp89_pururavas
+465,1,vp67_sunahshepa,Śunaḥśepa · given to Viśvāmitra as son,vp67_vishvamitra
+466,1,vp67_vishvavasu_son,Viśvāvasu · son of Purūravas,vp67_urvashi;vp89_pururavas
+467,1,vp89_ayus,Āyus · Viṣṇu Purāṇa 4.8–9 witness,vp67_urvashi;vp89_pururavas
+468,1,vp_sharmishtha,Śarmiṣṭhā · Viṣṇu Purāṇa witness,vp_vrishaparvan
+469,1,yudhisthira,Yudhiṣṭhira,vp20_kunti
+470,2,mb_adi_early_babhruvahana,Babhruvāhana · son of Arjuna and Chitrāṅgadā,mb_adi_early_chitrangada_manipura;mb_adi_inc_arjuna_human_incarnation
+471,2,mb_adi_inc_abhimanyu_human_incarnation,Abhimanyu · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_early_subhadra;mb_adi_inc_arjuna_human_incarnation;vp20_subhadra
+472,2,mb_adi_inc_aha_vasu,Aha · Vasu · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_dharma_deity
+473,2,mb_adi_inc_anala_vasu,Anala · Vasu · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_dharma_deity
+474,2,mb_adi_inc_anila_vasu,Anila · Vasu · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_dharma_deity
+475,2,mb_adi_inc_aurva,Aurva · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_cyavana
+476,2,mb_adi_inc_daksha,Dakṣa · Prajāpati · Mahābhārata Ādiparvan 1.59–1.61 witness,vp4_14_marisa
+477,2,mb_adi_inc_dhara,Dhara · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_dharma_deity
+478,2,mb_adi_inc_dhruva,Dhruva · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_dharma_deity
+479,2,mb_adi_inc_indra,Indra · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_kashyapa
+480,2,mb_adi_inc_prabhasa,Prabhāsa · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_dharma_deity
+481,2,mb_adi_inc_pratyusha,Pratyūṣa · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_dharma_deity
+482,2,mb_adi_inc_shukra_bhargava,Śukra · Bhārgava · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_kavi
+483,2,mb_adi_inc_soma_vasu,Soma · Vasu · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_dharma_deity
+484,2,mb_adi_later_dhrishtadyumna,Dhṛṣṭadyumna,mb_adi_later_drupada;mb_adi_latermore_prishati
+485,2,mb_adi_later_ghatotkacha,Ghaṭotkaca · son of Bhīma and Hiḍimbā,mb_adi_inc_bhimasena_human_incarnation;mb_adi_later_hidimbi
+486,2,mb_adi_later_kripa,Kṛpa · son of Śaradvat,mb_adi_later_sharadvata
+487,2,mb_adi_later_kripi,Kṛpī · daughter of Śaradvat; Droṇa’s wife,mb_adi_later_sharadvata
+488,2,mb_adi_nxt_śakuntalā,Śakuntalā · daughter of Viśvāmitra and Menakā; fostered by Kaṇva,mb_adi_nxt_menakā;mb_adi_nxt_viśvāmitra
+489,2,mb_adi_royal_parashara,Parāśara,mb_adi_early_adryashyanti;mb_adi_early_shakti_vasishtha_son;mb_adi_latermore_adrsyanti
+490,2,puranic_drdhacyuta,Dṛḍhacyuta · Bhāgavata witness,puranic
+491,2,ravana_epic,Rāvaṇa · Rāmāyaṇa witness,sb4_kesini_visrava;sb4_visrava;vishravas_epic
+492,2,sb4_dakshina,Dakṣiṇā · daughter of Ruci and wife of Yajña,sb4_akuti_manu;sb4_ruci
+493,2,sb4_dambha,Dambha · child of Adharma and Mṛṣā,sb4_irreligion;sb4_mrsha_falsity
+494,2,sb4_dhruva,Dhruva · son of Uttānapāda and Sunīti,sb4_suniti;sb4_uttanapada
+495,2,sb4_kashyapa,Kaśyapa · son of Kalā and Marīci,mb2_xi_marichi;sb4_kala
+496,2,sb4_kubera,Kuvera · son of Viśravā and Iḍaviḍā,sb4_idavida;sb4_visrava
+497,2,sb4_kumbhakarna,Kumbhakarṇa · son of Viśravā and Keśinī,sb4_kesini_visrava;sb4_visrava
+498,2,sb4_maya,Māyā · child of Adharma and Mṛṣā,sb4_irreligion;sb4_mrsha_falsity
+499,2,sb4_purnima,Pūrṇimā · son of Kalā and Marīci,mb2_xi_marichi;sb4_kala
+500,2,sb4_usana,"Uśanā / Kavi · son of Vedaśirā, also known as Kavi",sb4_vedasira
+501,2,sb4_uttama,Uttama · son of Uttānapāda and Suruci,sb4_suruci;sb4_uttanapada
+502,2,sb6_pancayama,Pañcayāma · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_atapa
+503,2,sb8_13_bhuri sena,Bhūriṣeṇa · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_brahma_savarni
+504,2,sb8_13_daksa_son_bhutaketu,Bhūtaketu · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_daksa_savarni
+505,2,sb8_13_daksa_son_diptaketu,Dīptaketu · Śrīmad-Bhāgavatam Canto 8 witness,sb8_13_daksa_savarni
+506,2,sb8_13_vamana,"Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness",mb_adi_inc_kashyapa;sb8_13_aditi
+507,2,sb8_kapila,Kapila · Śrīmad-Bhāgavatam Canto 8 witness,sb8_devahuti
+508,2,sb8_svarocisa_son_dyumat,Dyumat · Śrīmad-Bhāgavatam Canto 8 witness,sb8_svarocisa_manu
+509,2,sb8_svarocisa_son_rocismat,Rociṣmat · Śrīmad-Bhāgavatam Canto 8 witness,sb8_svarocisa_manu
+510,2,sb8_svarocisa_son_susena,Suṣeṇa · Śrīmad-Bhāgavatam Canto 8 witness,sb8_svarocisa_manu
+511,2,sb8_uttama_son_pavana,Pavana · Śrīmad-Bhāgavatam Canto 8 witness,sb8_uttama_manu
+512,2,sb8_uttama_son_srinjaya,Sṛñjaya · Śrīmad-Bhāgavatam Canto 8 witness,sb8_uttama_manu
+513,2,sb8_uttama_son_yajnahotra,Yajñahotra · Śrīmad-Bhāgavatam Canto 8 witness,sb8_uttama_manu
+514,2,sb8_yajna,Yajñamūrti · Śrīmad-Bhāgavatam Canto 8 witness,sb8_akuti
+515,2,tamil_final_vishnu,Vishnu / Nārāyaṇan · deity described in Maṇimēkalai canto 27,sb4_akuti_manu;sb4_ruci
+516,2,tamil_later_peelivalai_child,Unnamed son of Peelivalai · Maṇimēkalai prior-birth story,tamil_later_peelivalai
+517,2,tamil_manimekalai_heroine,Maṇimēkalai · heroine of the Tamil epic,tamil_kovalan;tamil_madhavi
+518,2,tamil_ragulan,Rāgulan · Maṇimēkalai witness,tamil_neelapathi
+519,2,vibhishana_epic,Vibhīṣaṇa · Rāmāyaṇa witness,sb4_kesini_visrava;sb4_visrava
+520,2,vp18_anapana,Anapāna · Viṣṇu Purāṇa 4.18 witness,vp18_anga
+521,2,vp18_vrishasena,Vṛṣasena · Viṣṇu Purāṇa 4.18 witness,vp18_karna
+522,2,vp19_bharata_brihatkshatra,Bṛhatkṣatra · Bhavanmanyu branch · Viṣṇu Purāṇa 4.19 witness,vp19_bhavanmanyu
+523,2,vp19_garga,Garga · Bhavanmanyu branch · Viṣṇu Purāṇa 4.19 witness,vp19_bhavanmanyu
+524,2,vp19_mahavirya,Mahāvīrya · Bhavanmanyu branch · Viṣṇu Purāṇa 4.19 witness,vp19_bhavanmanyu
+525,2,vp19_nara,Nara · Bhavanmanyu branch · Viṣṇu Purāṇa 4.19 witness,vp19_bhavanmanyu
+526,2,vp20_abhimanyu,Abhimanyu · Viṣṇu Purāṇa 4.20 witness,vp20_arjuna;vp20_subhadra
+527,2,vp20_babruvahana,Babhruvāhana · Viṣṇu Purāṇa 4.20 witness,vp20_arjuna
+528,2,vp20_devaka,Devaka · Yudhiṣṭhira branch · Viṣṇu Purāṇa 4.20 witness,vp20_yaudheyi;yudhisthira
+529,2,vp20_draupadi,Draupadī · Viṣṇu Purāṇa 4.20 witness,mb_adi_inc_drupada_human_incarnation;mb_adi_later_drupada;mb_adi_latermore_prishati
+530,2,vp20_ghatotkaca,Ghaṭotkaca · Viṣṇu Purāṇa 4.20 witness,vp20_bhima_pandava;vp20_hidimba
+531,2,vp20_iravant,Irāvant · Viṣṇu Purāṇa 4.20 witness,vp20_arjuna;vp20_ulupi
+532,2,vp20_niramitra,Niramitra · Nakula branch · Viṣṇu Purāṇa 4.20 witness,vp20_karenumati;vp20_nakula
+533,2,vp20_sarvatraga,Sarvatraga (ANU; Sanskrit variant Sarvaga) · Viṣṇu Purāṇa 4.20 witness,vp20_bhima_pandava;vp20_kashi_wife
+534,2,vp20_suhotra_pandava,Suhotra (ANU; Sanskrit variant Kuhotra) · Viṣṇu Purāṇa 4.20 witness,vp20_sahadeva_pandava;vp20_vijaya
+535,2,vp35_harishchandra,Hariścandra · Viṣṇu Purāṇa 4.3–5 witness,vp35_satyavrata_trishanku
+536,2,vp35_mulaka_narikavaca,Mūlaka / Nārīkavaca · Viṣṇu Purāṇa 4.3–5 witness,vp35_ashmaka
+537,2,vp35_nandivardhana_videha,Nandivardhana · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_udavasu
+538,2,vp35_suchi_videha,Śuci · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_satadyumna
+539,2,vp4_13_ayutajit,Ayutajit · Bhajamāna’s son · Viṣṇu Purāṇa 4.13 witness,vp4_13_bhajamana
+540,2,vp4_13_babhru_devavrdha,Babhru · son of Devāvṛdha · Viṣṇu Purāṇa 4.13 witness,vp4_13_devavrdha
+541,2,vp4_13_krikana,Kṛkaṇa · Bhajamāna’s son · Viṣṇu Purāṇa 4.13 witness,vp4_13_bhajamana
+542,2,vp4_13_nimi_bhajamana,Nimi · Bhajamāna’s son · Viṣṇu Purāṇa 4.13 witness,vp4_13_bhajamana
+543,2,vp4_13_sahasrajit_sata,Sahasrajit · Bhajamāna’s son · Viṣṇu Purāṇa 4.13 witness,vp4_13_bhajamana
+544,2,vp4_13_satajit_bhajamana,Śatajit · Bhajamāna’s son · Viṣṇu Purāṇa 4.13 witness,vp4_13_bhajamana
+545,2,vp4_13_sumitra_vrishni,Sumitra · son of Vṛṣṇi · Viṣṇu Purāṇa 4.13 witness,vp4_13_vrishni_satvata
+546,2,vp4_13_vrishni_bhajamana,Vṛṣṇi · another son of Bhajamāna · Viṣṇu Purāṇa 4.13 witness,vp4_13_bhajamana
+547,2,vp4_13_yudhajit,Yudhajit · son of Vṛṣṇi · Viṣṇu Purāṇa 4.13 witness,vp4_13_vrishni_satvata
+548,2,vp4_14_dhrsta,Dhṛṣṭa · Viṣṇu Purāṇa 4.14 witness,vp4_14_kukura
+549,2,vp4_14_viduratha,Vidūratha · Viṣṇu Purāṇa 4.14 witness,vp4_14_bhajamana_andhaka
+550,2,vp67_bhima,Bhīma · Amāvasu branch,vp67_amavasu_pururavas
+551,2,vp89_anenas,Anenas · Viṣṇu Purāṇa 4.8–9 witness,vp89_ayus
+552,2,vp89_kshatravriddha,Kṣatravṛddha · Viṣṇu Purāṇa 4.8–9 witness,vp89_ayus
+553,2,vp89_raji,Raji · son of Āyus · Viṣṇu Purāṇa 4.8–9 witness,vp89_ayus
+554,2,vp89_rambha,Rambha · son of Āyus · Viṣṇu Purāṇa 4.8–9 witness,vp89_ayus
+555,2,vp_nahusha,Nahuṣa · Viṣṇu Purāṇa witness,vp89_ayus
+556,3,mb3_sarama,Saramā · named as mother of dogs,mb_adi_inc_daksha;sb6_asikni
+557,3,mb3_surabhi,Surabhi · named as mother of cattle,mb_adi_inc_daksha;sb6_asikni
+558,3,mb_adi_early_prativindhya,Prativindhya · son of Yudhiṣṭhira and Draupadī,mb_adi_inc_yudhishthira_human_incarnation;vp20_draupadi
+559,3,mb_adi_early_shatanika,Śatānīka · son of Nakula and Draupadī,mb_adi_inc_nakula_human_incarnation;vp20_draupadi
+560,3,mb_adi_early_shrutakarman,Śrutakarman · son of Arjuna and Draupadī,mb_adi_inc_arjuna_human_incarnation;vp20_draupadi
+561,3,mb_adi_early_shrutasena,Śrutasena · son of Sahadeva and Draupadī,mb_adi_inc_sahadeva_human_incarnation;vp20_draupadi
+562,3,mb_adi_early_sutasoma,Sutasoma · son of Bhīma and Draupadī,mb_adi_inc_bhimasena_human_incarnation;vp20_draupadi
+563,3,mb_adi_inc_aditi,Aditi · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_daksha;sb6_asikni
+564,3,mb_adi_inc_anayus,Anāyus · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_daksha
+565,3,mb_adi_inc_arishta,Ariṣṭa · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_daksha
+566,3,mb_adi_inc_avijnatagati,Avijñātagati · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_anila_vasu
+567,3,mb_adi_inc_danu,Danu · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_daksha;sb6_asikni
+568,3,mb_adi_inc_devala,Devala · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_pratyusha
+569,3,mb_adi_inc_diti,Diti · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_daksha;sb6_asikni
+570,3,mb_adi_inc_dravina,Draviṇa · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_dhara
+571,3,mb_adi_inc_hutahavyavaha,Hutahavyavāha · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_dhara
+572,3,mb_adi_inc_jyoti,Jyoti · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aha_vasu
+573,3,mb_adi_inc_kadru,Kadrū · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_daksha
+574,3,mb_adi_inc_kala,Kāla · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_daksha
+575,3,mb_adi_inc_kala_son_of_dhruva,Kāla · son of Dhruva · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_dhruva
+576,3,mb_adi_inc_kapila,Kapilā · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_daksha
+577,3,mb_adi_inc_krodha,Krodha · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_daksha
+578,3,mb_adi_inc_kumara,Kumāra · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_anala_vasu
+579,3,mb_adi_inc_muni_daughter,Muni · daughter of Dakṣa · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_daksha
+580,3,mb_adi_inc_muni_son_of_aha,Muni · son of Aha · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aha_vasu
+581,3,mb_adi_inc_prava,Prava · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_daksha
+582,3,mb_adi_inc_purojava,Purojava · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_anila_vasu
+583,3,mb_adi_inc_rcika,Ṛcīka · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aurva
+584,3,mb_adi_inc_shanta,Śānta · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aha_vasu
+585,3,mb_adi_inc_shrama,Śrama · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aha_vasu
+586,3,mb_adi_inc_simhika,Siṃhikā · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_daksha
+587,3,mb_adi_inc_varcas,Varcas · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_soma_vasu
+588,3,mb_adi_inc_vinata,Vinatā · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_daksha
+589,3,mb_adi_later_ashvatthaman,Aśvatthāman · son of Droṇa and Kṛpī,mb_adi_inc_drona_human_incarnation;mb_adi_later_kripi
+590,3,mb_adi_nxt_devayānī,Devayānī · daughter of Śukra and wife of Yayāti,mb_adi_inc_shukra_bhargava
+591,3,mb_adi_nxt_dākṣāyaṇī,Dākṣāyaṇī · daughter of Dakṣa and wife of Kaśyapa in this passage,mb_adi_inc_daksha
+592,3,puranic_idhmavaha,Idhmavāha · Bhāgavata witness,puranic_drdhacyuta
+593,3,sb4_bhadra,Bhadra · son of Yajña and Dakṣiṇā,sb4_dakshina;tamil_final_vishnu
+594,3,sb4_buddhi,Buddhi · daughter of Dakṣa and wife of Dharma,mb_adi_inc_daksha
+595,3,sb4_daya,Dayā · daughter of Dakṣa and wife of Dharma,mb_adi_inc_daksha
+596,3,sb4_hri,Hrī · daughter of Dakṣa and wife of Dharma,mb_adi_inc_daksha
+597,3,sb4_idaspati,Iḍaspati · son of Yajña and Dakṣiṇā,sb4_dakshina;tamil_final_vishnu
+598,3,sb4_idhma,Idhma · son of Yajña and Dakṣiṇā,sb4_dakshina;tamil_final_vishnu
+599,3,sb4_kalpa,Kalpa · son of Dhruva and Bhrami,sb4_bhrami;sb4_dhruva
+600,3,sb4_kavi,Kavi · son of Yajña and Dakṣiṇā,sb4_dakshina;tamil_final_vishnu
+601,3,sb4_kriya,Kriyā · daughter of Dakṣa and wife of Dharma,mb_adi_inc_daksha
+602,3,sb4_lobha,"Lobha · Greed, child of Dambha and Māyā",sb4_dambha;sb4_maya
+603,3,sb4_maitri,Maitrī · daughter of Dakṣa and wife of Dharma,mb_adi_inc_daksha
+604,3,sb4_medha,Medhā · daughter of Dakṣa and wife of Dharma,mb_adi_inc_daksha
+605,3,sb4_murti,Mūrti · daughter of Dakṣa and wife of Dharma,mb_adi_inc_daksha
+606,3,sb4_nikrti,"Nikṛti · Cunning, child of Dambha and Māyā",sb4_dambha;sb4_maya
+607,3,sb4_pratosa,Pratoṣa · son of Yajña and Dakṣiṇā,sb4_dakshina;tamil_final_vishnu
+608,3,sb4_pushti,Puṣṭi · daughter of Dakṣa and wife of Dharma,mb_adi_inc_daksha
+609,3,sb4_rochana,Rocana · son of Yajña and Dakṣiṇā,sb4_dakshina;tamil_final_vishnu
+610,3,sb4_santosa,Santoṣa · son of Yajña and Dakṣiṇā,sb4_dakshina;tamil_final_vishnu
+611,3,sb4_sati,Satī · daughter of Dakṣa and wife of Śiva,mb_adi_inc_daksha
+612,3,sb4_shanti,Śānti · daughter of Dakṣa and wife of Dharma,mb_adi_inc_daksha
+613,3,sb4_shanti_daksha,Śānti · son of Yajña and Dakṣiṇā,sb4_dakshina;tamil_final_vishnu
+614,3,sb4_shraddha_daksha,Śraddhā · daughter of Dakṣa and wife of Dharma,mb_adi_inc_daksha
+615,3,sb4_sudeva,Sudeva · son of Yajña and Dakṣiṇā,sb4_dakshina;tamil_final_vishnu
+616,3,sb4_svadha,"Svadhā · daughter of Dakṣa, wife of the Pitṛs",mb_adi_inc_daksha
+617,3,sb4_svaha,Svāhā · daughter of Dakṣa and wife of Agni,mb_adi_inc_daksha
+618,3,sb4_svahna,Svahna · son of Yajña and Dakṣiṇā,sb4_dakshina;tamil_final_vishnu
+619,3,sb4_titiksha,Titikṣā · daughter of Dakṣa and wife of Dharma,mb_adi_inc_daksha
+620,3,sb4_tosa,Toṣa · son of Yajña and Dakṣiṇā,sb4_dakshina;tamil_final_vishnu
+621,3,sb4_tushti,Tuṣṭi · daughter of Dakṣa and wife of Dharma,mb_adi_inc_daksha
+622,3,sb4_unnati,Unnati · daughter of Dakṣa and wife of Dharma,mb_adi_inc_daksha
+623,3,sb4_utkala,Utkala · son of Dhruva and Ilā,sb4_dhruva;sb4_ila
+624,3,sb4_vatsara,Vatsara · son of Dhruva and Bhrami; identified as same Vatsara ruling in 4.13,sb4_bhrami;sb4_dhruva
+625,3,sb4_vibhu,Vibhu · son of Yajña and Dakṣiṇā,sb4_dakshina;tamil_final_vishnu
+626,3,sb4_viraja,Viraja · child of Pūrṇimā,sb4_purnima
+627,3,sb4_visvaga,Viśvaga · child of Pūrṇimā,sb4_purnima
+628,3,sb6_arista_kasyapa_wife,Ariṣṭā · Kaśyapa’s wife and named daughter of Dakṣa · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+629,3,sb6_bhanu,Bhānu · daughter of Dakṣa and wife of Yamarāja · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+630,3,sb6_ila,Ilā · Kaśyapa’s wife and named daughter of Dakṣa · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+631,3,sb6_kakud,Kakud · daughter of Dakṣa and wife of Yamarāja · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+632,3,sb6_kastha,Kāṣṭhā · Kaśyapa’s wife and named daughter of Dakṣa · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+633,3,sb6_krodhavasa,Krodhavaśā · Kaśyapa’s wife and named daughter of Dakṣa · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+634,3,sb6_lamba,Lambā · daughter of Dakṣa and wife of Yamarāja · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+635,3,sb6_marutvati,Marutvatī · daughter of Dakṣa and wife of Yamarāja · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+636,3,sb6_muhurta,Muhūrtā · daughter of Dakṣa and wife of Yamarāja · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+637,3,sb6_muni_kasyapa_wife,Muni · Kaśyapa’s wife and named daughter of Dakṣa · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+638,3,sb6_sadhya,Sādhyā · daughter of Dakṣa and wife of Yamarāja · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+639,3,sb6_sankalpa,Saṅkalpā · daughter of Dakṣa and wife of Yamarāja · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+640,3,sb6_surasa_kasyapa_wife,Surasā · Kaśyapa’s wife and named daughter of Dakṣa · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+641,3,sb6_tamra,Tāmrā · Kaśyapa’s wife and named daughter of Dakṣa · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+642,3,sb6_timi,Timi · Kaśyapa’s wife and named daughter of Dakṣa · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+643,3,sb6_vasu_daksa_daughter,Vasu · daughter of Dakṣa and wife of Yamarāja · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+644,3,sb6_visva,Viśvā · daughter of Dakṣa and wife of Yamarāja · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+645,3,sb6_yami,Yāmi · daughter of Dakṣa and wife of Yamarāja · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_daksha;sb6_asikni
+646,3,sb8_rocana_indra,Rocana · Śrīmad-Bhāgavatam Canto 8 witness,sb8_yajna
+647,3,vp18_diviratha,Diviratha · Viṣṇu Purāṇa 4.18 witness,vp18_anapana
+648,3,vp19_durukshaya,Durukṣaya · Mahāvīrya branch · Viṣṇu Purāṇa 4.19 witness,vp19_mahavirya
+649,3,vp19_sankriti_nara,Saṃkṛti · Nara branch · Viṣṇu Purāṇa 4.19 witness,vp19_nara
+650,3,vp19_shini,Śini · Garga branch · Viṣṇu Purāṇa 4.19 witness,vp19_garga
+651,3,vp19_suhotra_brihatkshatra,Suhotra · Bṛhatkṣatra branch · Viṣṇu Purāṇa 4.19 witness,vp19_bharata_brihatkshatra
+652,3,vp20_krishna_dvaipayana,Kṛṣṇa-Dvaipāyana · Viṣṇu Purāṇa 4.20 witness,mb_adi_royal_parashara;vp20_satyavati
+653,3,vp20_parikshit_abhimanyu,Parīkṣit · Abhimanyu’s son · Viṣṇu Purāṇa 4.20 witness,vp20_abhimanyu;vp20_uttara
+654,3,vp20_prativindhya,Prativindhya · Viṣṇu Purāṇa 4.20 witness,vp20_draupadi;yudhisthira
+655,3,vp20_shatanika_draupadi,Śatānika · Draupadī’s son · Viṣṇu Purāṇa 4.20 witness,vp20_draupadi;vp20_nakula
+656,3,vp20_shrutakarman,Śrutakarman · Viṣṇu Purāṇa 4.20 witness,vp20_draupadi;vp20_sahadeva_pandava
+657,3,vp20_shrutakirti,Śrutakīrti · Viṣṇu Purāṇa 4.20 witness,vp20_arjuna;vp20_draupadi
+658,3,vp20_shrutasoma,Śrutasoma · Viṣṇu Purāṇa 4.20 witness,vp20_bhima_pandava;vp20_draupadi
+659,3,vp35_dasaratha_mulaka,Daśaratha · son of Mūlaka · Viṣṇu Purāṇa 4.3–5 witness,vp35_mulaka_narikavaca
+660,3,vp35_rohitashva,Rohitāśva · Viṣṇu Purāṇa 4.3–5 witness,vp35_harishchandra
+661,3,vp35_suketu_videha,Suketu · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_nandivardhana_videha
+662,3,vp35_urjavaha,Ūrjavaha · Viṣṇu Purāṇa 4.3–5 witness,vp35_suchi_videha
+663,3,vp4_13_anamitra,Anamitra · son of Sumitra; father named in Viṣṇu Purāṇa 4.13–14,vp4_13_sumitra_vrishni
+664,3,vp4_13_shini_sumitra,Śinī · son of Sumitra · Viṣṇu Purāṇa 4.13 witness,vp4_13_sumitra_vrishni
+665,3,vp4_14_kapotaroman,Kapotaroman · Viṣṇu Purāṇa 4.14 witness,vp4_14_dhrsta
+666,3,vp4_14_shura,Śūra · son of Vidūratha · Viṣṇu Purāṇa 4.14 witness,vp4_14_viduratha
+667,3,vp67_kanchana,Kāñcana · Amāvasu branch,vp67_bhima
+668,3,vp89_pratikshatra,Pratikṣatra · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness,vp89_kshatravriddha
+669,3,vp89_suhotra,Suhotra · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness,vp89_kshatravriddha
+670,3,vp_ayati,Āyāti · Viṣṇu Purāṇa witness,vp_nahusha
+671,3,vp_kriti,Kṛti · Viṣṇu Purāṇa witness,vp_nahusha
+672,3,vp_samyati,Saṃyāti · Nahuṣa’s son · Viṣṇu Purāṇa witness,vp_nahusha
+673,3,vp_viyati,Viyāti · Viṣṇu Purāṇa witness,vp_nahusha
+674,3,vp_yati,Yati · Viṣṇu Purāṇa witness,vp_nahusha
+675,3,vp_yayati,Yayāti · Viṣṇu Purāṇa witness,vp_nahusha
+676,4,mb_adi_inc_agni,Agni · Mahābhārata Ādiparvan 1.59–1.61 witness,sb6_vasu_daksa_daughter
+677,4,mb_adi_inc_amsha_aditya,Aṃśa · Āditya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aditi
+678,4,mb_adi_inc_arishtanemi,Ariṣṭanemi · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_vinata
+679,4,mb_adi_inc_aruna_vinata_line,Aruṇa · Vinatā line · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_vinata
+680,4,mb_adi_inc_aruni_vinata_line,Āruṇi · Vinatā line · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_vinata
+681,4,mb_adi_inc_aryama_aditya,Aryamā · Āditya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aditi
+682,4,mb_adi_inc_bala_anayus_son,Bala · Anāyus son · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_anayus
+683,4,mb_adi_inc_bhaga_aditya,Bhaga · Āditya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aditi
+684,4,mb_adi_inc_candravimardana,Candravimardana · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_simhika
+685,4,mb_adi_inc_dhata_aditya,Dhātā · Āditya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aditi
+686,4,mb_adi_inc_durjaya_daitya,Durjaya · Daitya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_danu
+687,4,mb_adi_inc_ekacakra,Ekacakra · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_danu
+688,4,mb_adi_inc_garuda_vinata_line,Garuḍa · Vinatā line · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_vinata
+689,4,mb_adi_inc_hiranyakashipu,Hiraṇyakaśipu · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_diti
+690,4,mb_adi_inc_jamadagni,Jamadagni · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_rcika
+691,4,mb_adi_inc_mitra_aditya,Mitra · Āditya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aditi
+692,4,mb_adi_inc_naigamesha,Naigameṣa · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_kumara
+693,4,mb_adi_inc_pushan_aditya,Pūṣan · Āditya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aditi
+694,4,mb_adi_inc_savitr_aditya,Savitṛ · Āditya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aditi
+695,4,mb_adi_inc_shakha,Śākha · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_kumara
+696,4,mb_adi_inc_shakra_aditya,Śakra · Āditya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aditi
+697,4,mb_adi_inc_shambara,Śambara · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_danu
+698,4,mb_adi_inc_sucandra_simhika_son,Sucandra · Siṃhikā son · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_simhika
+699,4,mb_adi_inc_svarbhanu,Svarbhānu · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_danu
+700,4,mb_adi_inc_tarkshya,Tārkṣya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_vinata
+701,4,mb_adi_inc_tvashtr_aditya,Tvaṣṭṛ · Āditya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aditi
+702,4,mb_adi_inc_varuna_aditya,Varuṇa · Āditya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aditi
+703,4,mb_adi_inc_varuni,Vāruṇī · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_vinata
+704,4,mb_adi_inc_vikshara,Vikṣara · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_anayus
+705,4,mb_adi_inc_vipracitti,Vipracitti · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_danu
+706,4,mb_adi_inc_vira_anayus_son,Vīra · Anāyus son · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_anayus
+707,4,mb_adi_inc_virupaksha,Virūpākṣa · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_danu
+708,4,mb_adi_inc_vishakha,Viśākha · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_kumara;sb6_skanda_karttikeya
+709,4,mb_adi_inc_vishnu_aditya,Viṣṇu · Āditya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aditi
+710,4,mb_adi_inc_vivasvat_aditya,Vivasvat · Āditya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_aditi;mb_adi_inc_kashyapa
+711,4,mb_adi_inc_vrshaparvan,Vṛṣaparvan · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_danu
+712,4,mb_adi_inc_vrtra,Vṛtra · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_anayus
+713,4,sb4_abhaya,Abhaya · son of Dharma and Dayā,sb4_daya;vp20_dharma_deity
+714,4,sb4_artha,Artha · son of Dharma and Buddhi,sb4_buddhi;vp20_dharma_deity
+715,4,sb4_darpa,Darpa · son of Dharma and Unnati,sb4_unnati;vp20_dharma_deity
+716,4,sb4_dharini,Dhāriṇī · daughter of Svadhā,sb4_svadha
+717,4,sb4_himsa,"Hiṁsā · Envy, child of Lobha and Nikṛti",sb4_lobha;sb4_nikrti
+718,4,sb4_isa,Iṣa · son of Vatsara and Svarvīthi,sb4_svarvithi;sb4_vatsara
+719,4,sb4_jaya,Jaya · son of Vatsara and Svarvīthi,sb4_svarvithi;sb4_vatsara
+720,4,sb4_krodha,"Krodha · Anger, child of Lobha and Nikṛti",sb4_lobha;sb4_nikrti
+721,4,sb4_kshema,Kṣema · son of Dharma and Titikṣā,sb4_titiksha;vp20_dharma_deity
+722,4,sb4_muda,Muda · son of Dharma and Tuṣṭi,sb4_tushti;vp20_dharma_deity
+723,4,sb4_nara,Nara · son of Dharma and Mūrti,sb4_murti;vp20_dharma_deity
+724,4,sb4_narayana,Nārāyaṇa · son of Dharma and Mūrti,sb4_murti;vp20_dharma_deity
+725,4,sb4_prasada,Prasāda · son of Dharma and Maitrī,sb4_maitri;vp20_dharma_deity
+726,4,sb4_prasraya,Praśraya · son of Dharma and Hrī,sb4_hri;vp20_dharma_deity
+727,4,sb4_pushparna,Puṣpārṇa · son of Vatsara and Svarvīthi,sb4_svarvithi;sb4_vatsara
+728,4,sb4_shubha,Śubha · son of Dharma and Śraddhā,sb4_shraddha_daksha;vp20_dharma_deity
+729,4,sb4_smaya,Smaya · son of Dharma and Puṣṭi,sb4_pushti;vp20_dharma_deity
+730,4,sb4_smriti,Smṛti · son of Dharma and Medhā,sb4_medha;vp20_dharma_deity
+731,4,sb4_sukha,Sukha · son of Dharma and Śānti,sb4_shanti;vp20_dharma_deity
+732,4,sb4_tigmaketu,Tigmaketu · son of Vatsara and Svarvīthi,sb4_svarvithi;sb4_vatsara
+733,4,sb4_urja_vatsara,Ūrja · son of Vatsara and Svarvīthi,sb4_svarvithi;sb4_vatsara
+734,4,sb4_vasu_vatsara,Vasu · son of Vatsara and Svarvīthi,sb4_svarvithi;sb4_vatsara
+735,4,sb4_vayuna,Vayunā · daughter of Svadhā,sb4_svadha
+736,4,sb4_yoga,Yoga · son of Dharma and Kriyā,sb4_kriya;vp20_dharma_deity
+737,4,sb6_anutapana,Anutāpana · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_danu
+738,4,sb6_arista_danu_son,Ariṣṭa (Danu son) · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_danu
+739,4,sb6_arka_vasu,Arka (Vasu) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_vasu_daksa_daughter
+740,4,sb6_arthasiddhi,Arthasiddhi · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_sadhya
+741,4,sb6_aruna_danu_son,Aruṇa (Danu son) · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_danu
+742,4,sb6_ayomukha,Ayomukha · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_danu
+743,4,sb6_deva_rsabha,Deva-ṛṣabha · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_bhanu
+744,4,sb6_dhruva_vasu,Dhruva (Vasu) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_vasu_daksa_daughter
+745,4,sb6_dhumrakesa,Dhūmrakeśa · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_danu
+746,4,sb6_dosa_vasu,Doṣa (Vasu) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_vasu_daksa_daughter
+747,4,sb6_drona_vasu,Droṇa (Vasu) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_vasu_daksa_daughter
+748,4,sb6_dvimurdha,Dvimūrdhā · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_danu
+749,4,sb6_hayagriva,Hayagrīva · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_danu
+750,4,sb6_jayanta_upendra,Jayanta / Upendra · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_marutvati
+751,4,sb6_kapila_danu_son,Kapila (Danu son) · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_danu
+752,4,sb6_marutvan,Marutvān · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_marutvati
+753,4,sb6_prana_vasu,Prāṇa (Vasu) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_vasu_daksa_daughter
+754,4,sb6_puloma_danu_son,Pulomā (Danu son) · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_danu
+755,4,sb6_pusa,Pūṣā · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_aditi
+756,4,sb6_sankalpa_son,Saṅkalpa (son) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_sankalpa
+757,4,sb6_sankata,Saṅkaṭa · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_kakud
+758,4,sb6_sankusira,Śaṅkuśirā · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_danu
+759,4,sb6_satru_aditi_son,Śatru (Aditi son) · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_aditi
+760,4,sb6_svarga,Svarga · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_yami
+761,4,sb6_urukrama_aditi_son,Urukrama (Aditi son) · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_aditi
+762,4,sb6_vaisvanara,Vaiśvānara · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_danu
+763,4,sb6_vastu,Vāstu · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_vasu_daksa_daughter
+764,4,sb6_vibhavasu_danu_son,Vibhāvasu (Danu son) · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_danu
+765,4,sb6_vibhavasu_vasu,Vibhāvasu (Vasu) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_vasu_daksa_daughter
+766,4,sb6_vidhata,Vidhātā · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_aditi
+767,4,sb6_vidyota,Vidyota · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_lamba
+768,4,vp18_dharmaratha,Dharmaratha · Viṣṇu Purāṇa 4.18 witness,vp18_diviratha
+769,4,vp19_hastin,Hastin · Viṣṇu Purāṇa 4.19 witness,vp19_suhotra_brihatkshatra
+770,4,vp19_kapi,Kapi · Durukṣaya branch · Viṣṇu Purāṇa 4.19 witness,vp19_durukshaya
+771,4,vp19_pushkarin,Puṣkarin · Durukṣaya branch · Viṣṇu Purāṇa 4.19 witness,vp19_durukshaya
+772,4,vp19_rantideva,Rantideva · Saṃkṛti branch · Viṣṇu Purāṇa 4.19 witness,vp19_sankriti_nara
+773,4,vp19_ruchiradhi,Ruciradhī · Saṃkṛti branch · Viṣṇu Purāṇa 4.19 witness,vp19_sankriti_nara
+774,4,vp19_trayaruni,Trayyāruṇa · Durukṣaya branch · Viṣṇu Purāṇa 4.19 witness,vp19_durukshaya
+775,4,vp20_dhritarashtra,Dhṛtarāṣṭra · Viṣṇu Purāṇa 4.20 witness,vp20_ambika;vp20_krishna_dvaipayana
+776,4,vp20_pandu,Pāṇḍu · Viṣṇu Purāṇa 4.20 witness,vp20_ambalika;vp20_krishna_dvaipayana
+777,4,vp20_vidura,Vidura · Viṣṇu Purāṇa 4.20 witness,vp20_krishna_dvaipayana
+778,4,vp35_devarata_videha,Devarāta · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_suketu_videha
+779,4,vp35_harita_bahu_branch,Harita · Bāhu branch · Viṣṇu Purāṇa 4.3–5 witness,vp35_rohitashva
+780,4,vp35_ilivila,Ilivila · Viṣṇu Purāṇa 4.3–5 witness,vp35_dasaratha_mulaka
+781,4,vp35_satyadhvaja,Satyadhvaja · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_urjavaha
+782,4,vp4_13_nighna,Nighna · son of Anamitra · Viṣṇu Purāṇa 4.13 witness,vp4_13_anamitra
+783,4,vp4_14_shamin,Śamin · Viṣṇu Purāṇa 4.14 witness,vp4_14_shura
+784,4,vp4_14_shini_anamitra,Śini · son of Anamitra · Viṣṇu Purāṇa 4.14 witness,vp4_13_anamitra
+785,4,vp4_14_viloman,Viloman · Viṣṇu Purāṇa 4.14 witness,vp4_14_kapotaroman
+786,4,vp4_14_vrishni_anamitra,Vṛṣṇi · Anamitra’s lineage · Viṣṇu Purāṇa 4.14 witness,vp4_13_anamitra
+787,4,vp67_suhotra_jahnu,Suhotra · Amāvasu branch,vp67_kanchana
+788,4,vp89_grtsamada,Gṛtsamadās · Viṣṇu Purāṇa 4.8–9 witness,vp89_suhotra
+789,4,vp89_kashya,Kāśya · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness,vp89_suhotra
+790,4,vp89_lesha,Leśa · Viṣṇu Purāṇa 4.8–9 witness,vp89_suhotra
+791,4,vp89_sanjaya,Saṃjaya · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness,vp89_pratikshatra
+792,4,vp_anu,Anu · Viṣṇu Purāṇa witness,vp_sharmishtha;vp_yayati
+793,4,vp_druhyu,Druhyu · Viṣṇu Purāṇa witness,vp_sharmishtha;vp_yayati
+794,4,vp_puru,Puru · Viṣṇu Purāṇa witness,vp_sharmishtha;vp_yayati
+795,4,vp_turvasu,Turvasu · Viṣṇu Purāṇa witness,vp_devayani;vp_yayati
+796,4,vp_yadu,Yadu · Viṣṇu Purāṇa witness,vp_devayani;vp_yayati
+797,5,mb_adi_early_tapati,Tapatī · daughter of the Sun and wife of Saṃvaraṇa,mb_adi_inc_savitr_aditya;mb_adi_inc_vivasvat_aditya;sb6_chaya;surya
+798,5,mb_adi_inc_anuhrada,Anuhrāda · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_hiranyakashipu
+799,5,mb_adi_inc_bashkala,Bāṣkala · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_hiranyakashipu
+800,5,mb_adi_inc_prahlada,Prahlāda · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_hiranyakashipu
+801,5,mb_adi_inc_rahu,Rāhu · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_simhika;mb_adi_inc_vipracitti
+802,5,mb_adi_inc_rama_jamadagni_s_youngest_son,Rāma · Jamadagni’s youngest son · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_jamadagni
+803,5,mb_adi_inc_samhrada,Saṃhrāda · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_hiranyakashipu
+804,5,mb_adi_inc_shibi_daitya,Śibi · Daitya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_hiranyakashipu
+805,5,mb_adi_nxt_arka,Arka · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_inc_vivasvat_aditya
+806,5,mb_adi_nxt_bhānu,Bhānu · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_inc_vivasvat_aditya
+807,5,mb_adi_nxt_bṛhadbhānu,Bṛhadbhānu · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_inc_vivasvat_aditya
+808,5,mb_adi_nxt_cakṣus,Cakṣus · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_inc_vivasvat_aditya
+809,5,mb_adi_nxt_divasputra,Divasputra · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_inc_vivasvat_aditya
+810,5,mb_adi_nxt_mahya,Mahya · youngest among the named sons of Vivasvat in this genealogy,mb_adi_inc_vivasvat_aditya
+811,5,mb_adi_nxt_ravi,Ravi · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_inc_vivasvat_aditya
+812,5,mb_adi_nxt_savitṛ,Savitṛ · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_inc_vivasvat_aditya
+813,5,mb_adi_nxt_vibhāvasu,Vibhāvasu · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_inc_vivasvat_aditya
+814,5,mb_adi_nxt_yama,Yama · son of Vivasvat,mb_adi_inc_vivasvat_aditya;sb6_samjna
+815,5,mb_adi_nxt_ātmā,Ātmā · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_inc_vivasvat_aditya
+816,5,mb_adi_nxt_āśāvaha,Āśāvaha · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_inc_vivasvat_aditya
+817,5,mb_adi_nxt_śarmiṣṭhā,"Śarmiṣṭhā · daughter of Vṛṣaparvan; mother of Druhyu, Anu, and Pūru by Yayāti",mb_adi_inc_vrshaparvan;mb_adi_nxt_vṛṣaparvan
+818,5,mb_adi_nxt_ṛcīka,Ṛcīka · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_inc_vivasvat_aditya
+819,5,mb_adi_royal_dushala,Duḥśalā · daughter of Dhṛtarāṣṭra and Gāndhārī,vp20_dhritarashtra;vp20_gandhari
+820,5,mb_adi_royal_son_v10_01,Aparājita · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+821,5,mb_adi_royal_son_v10_02,Paṇḍitaka · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+822,5,mb_adi_royal_son_v10_03,Viśālākṣa · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+823,5,mb_adi_royal_son_v10_04,Durāvara · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+824,5,mb_adi_royal_son_v10_05,Dṛḍhahasta · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+825,5,mb_adi_royal_son_v10_06,Suhasta · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+826,5,mb_adi_royal_son_v10_07,Vātavega · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+827,5,mb_adi_royal_son_v10_08,Suvarcas · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+828,5,mb_adi_royal_son_v11_01,Ādityaketu · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+829,5,mb_adi_royal_son_v11_02,Bahvāśin · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+830,5,mb_adi_royal_son_v11_03,Nāgadanta · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+831,5,mb_adi_royal_son_v11_04,Ugrayāyin · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+832,5,mb_adi_royal_son_v11_05,Kavacin · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+833,5,mb_adi_royal_son_v11_06,Niṣaṅgin · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+834,5,mb_adi_royal_son_v11_07,Pāśin · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+835,5,mb_adi_royal_son_v11_08,Daṇḍadhāra · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+836,5,mb_adi_royal_son_v11_09,Dhanurgraha · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+837,5,mb_adi_royal_son_v12_01,Ugra · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+838,5,mb_adi_royal_son_v12_02,Bhīmaratha · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+839,5,mb_adi_royal_son_v12_03,Vīra · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+840,5,mb_adi_royal_son_v12_04,Vīrabāhu · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+841,5,mb_adi_royal_son_v12_05,Alolupa · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+842,5,mb_adi_royal_son_v12_06,Abhaya · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+843,5,mb_adi_royal_son_v12_07,Raudrakarman · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+844,5,mb_adi_royal_son_v12_08,Dṛḍharatha 1 · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+845,5,mb_adi_royal_son_v12_09,Dṛḍharatha 2 · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+846,5,mb_adi_royal_son_v12_10,Dṛḍharatha 3 · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+847,5,mb_adi_royal_son_v13_01,Anādhr̥ṣya · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+848,5,mb_adi_royal_son_v13_02,Kuṇḍabhedin · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+849,5,mb_adi_royal_son_v13_03,Virāvin · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+850,5,mb_adi_royal_son_v13_04,Dīrghalocana · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+851,5,mb_adi_royal_son_v13_05,Dīrghabāhu · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+852,5,mb_adi_royal_son_v13_07,Vyūḍhoru · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+853,5,mb_adi_royal_son_v13_08,Kanakadhvaja · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+854,5,mb_adi_royal_son_v14_01,Kuṇḍāśin · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+855,5,mb_adi_royal_son_v14_02,Virajā · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+856,5,mb_adi_royal_son_v2_02,Yuyutsu · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+857,5,mb_adi_royal_son_v2_04,Duḥsaha · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+858,5,mb_adi_royal_son_v2_05,Duḥśala · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+859,5,mb_adi_royal_son_v2_06,Jalasaṃdha · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+860,5,mb_adi_royal_son_v2_07,Sama · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+861,5,mb_adi_royal_son_v2_08,Saha · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+862,5,mb_adi_royal_son_v3_01,Vindā · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+863,5,mb_adi_royal_son_v3_02,Anuvinda · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+864,5,mb_adi_royal_son_v3_03,Durdharṣa · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+865,5,mb_adi_royal_son_v3_04,Subāhu · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+866,5,mb_adi_royal_son_v3_05,Duṣpradharṣaṇa · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+867,5,mb_adi_royal_son_v3_06,Durmarṣaṇa · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+868,5,mb_adi_royal_son_v3_07,Durmukha · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+869,5,mb_adi_royal_son_v3_08,Duṣkarṇa · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+870,5,mb_adi_royal_son_v3_09,Karṇa · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+871,5,mb_adi_royal_son_v4_01,Viviṃśati · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+872,5,mb_adi_royal_son_v4_02,Vikarṇa · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+873,5,mb_adi_royal_son_v4_04,Sulocana · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+874,5,mb_adi_royal_son_v4_05,Citra · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+875,5,mb_adi_royal_son_v4_06,Upacitra · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+876,5,mb_adi_royal_son_v4_07,Citrākṣa · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+877,5,mb_adi_royal_son_v4_08,Cārucitra · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+878,5,mb_adi_royal_son_v4_09,Śarāsana · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+879,5,mb_adi_royal_son_v5_01,Durmada · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+880,5,mb_adi_royal_son_v5_02,Duṣpragāha · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+881,5,mb_adi_royal_son_v5_03,Vivitsu · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+882,5,mb_adi_royal_son_v5_04,Vikaṭa · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+883,5,mb_adi_royal_son_v5_06,Ūrṇanābha · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+884,5,mb_adi_royal_son_v5_07,Sunābha · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+885,5,mb_adi_royal_son_v5_08,Nanda · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+886,5,mb_adi_royal_son_v5_09,Upananda · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+887,5,mb_adi_royal_son_v6_01,Senāpati · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+888,5,mb_adi_royal_son_v6_02,Suṣeṇa · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+889,5,mb_adi_royal_son_v6_03,Kuṇḍodara · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+890,5,mb_adi_royal_son_v6_04,Mahodara · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+891,5,mb_adi_royal_son_v6_05,Citrabāṇa · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+892,5,mb_adi_royal_son_v6_06,Citravarman · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+893,5,mb_adi_royal_son_v6_07,Suvarman · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+894,5,mb_adi_royal_son_v6_08,Durvimocana · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+895,5,mb_adi_royal_son_v7_01,Ayobāhu · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+896,5,mb_adi_royal_son_v7_02,Mahābāhu · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+897,5,mb_adi_royal_son_v7_03,Citrāṅga · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+898,5,mb_adi_royal_son_v7_04,Citrakuṇḍala · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+899,5,mb_adi_royal_son_v7_05,Bhīmavega · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+900,5,mb_adi_royal_son_v7_06,Bhīmabala · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+901,5,mb_adi_royal_son_v7_07,Balākī · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+902,5,mb_adi_royal_son_v7_08,Balavardhana · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+903,5,mb_adi_royal_son_v8_01,Ugrāyudha · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+904,5,mb_adi_royal_son_v8_02,Bhīmakarman · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+905,5,mb_adi_royal_son_v8_03,Kanakāyu · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+906,5,mb_adi_royal_son_v8_04,Dṛḍhāyudha · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+907,5,mb_adi_royal_son_v8_05,Dṛḍhavarman · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+908,5,mb_adi_royal_son_v8_06,Dṛḍhakṣatra · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+909,5,mb_adi_royal_son_v8_07,Somakīrti · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+910,5,mb_adi_royal_son_v8_08,Anūdara · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+911,5,mb_adi_royal_son_v9_01,Dṛḍhasaṃdha · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+912,5,mb_adi_royal_son_v9_02,Jarāsaṃdha · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+913,5,mb_adi_royal_son_v9_03,Satyasaṃdha · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+914,5,mb_adi_royal_son_v9_04,Sadaḥsuvāk · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+915,5,mb_adi_royal_son_v9_05,Ugraśravas · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+916,5,mb_adi_royal_son_v9_06,Aśvasena · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+917,5,mb_adi_royal_son_v9_07,Senānī · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+918,5,mb_adi_royal_son_v9_08,Duṣparājaya · Dhṛtarāṣṭra’s son in the CE birth-order roster,vp20_dhritarashtra
+919,5,sb4_durukti,"Durukti · Harsh Speech, sister of Kali",sb4_himsa;sb4_krodha
+920,5,sb4_kali_person,"Kali · personified figure, child of Krodha and Hiṁsā",sb4_himsa;sb4_krodha
+921,5,sb4_madhyandinam,Madhyandinam · son of Puṣpārṇa and Prabhā,sb4_prabha;sb4_pushparna
+922,5,sb4_nishitha,Niśitha · son of Puṣpārṇa and Doṣā,sb4_dosa;sb4_pushparna
+923,5,sb4_pradosha,Pradoṣa · son of Puṣpārṇa and Doṣā,sb4_dosa;sb4_pushparna
+924,5,sb4_pratar,Prātar · son of Puṣpārṇa and Prabhā,sb4_prabha;sb4_pushparna
+925,5,sb4_sayam,Sāyam · son of Puṣpārṇa and Prabhā,sb4_prabha;sb4_pushparna
+926,5,sb4_vyushta,Vyuṣṭa · son of Puṣpārṇa and Doṣā,sb4_dosa;sb4_pushparna
+927,5,sb6_hayasira,Hayaśirā · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_vaisvanara
+928,5,sb6_indrasena,Indrasena · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_deva_rsabha
+929,5,sb6_kalaka_vaisvanara_daughter,Kālakā (Vaiśvānara daughter) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_vaisvanara
+930,5,sb6_kikata,Kīkaṭa · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_sankata
+931,5,sb6_nandi,Nandi · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_svarga
+932,5,sb6_puloma_vaisvanara_daughter,Pulomā (Vaiśvānara daughter) · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_vaisvanara
+933,5,sb6_sanaiscara,Śanaiścara · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_vivasvat_aditya;sb6_chaya
+934,5,sb6_sannivesa,Sanniveśa · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_tvashtr_aditya;sb6_racana
+935,5,sb6_savarni_manu,Sāvarṇi Manu · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_vivasvat_aditya;sb6_chaya
+936,5,sb6_sraddhadeva_manu,Śrāddhadeva Manu · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_vivasvat_aditya;sb6_samjna
+937,5,sb6_suprabha,Suprabhā · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_svarbhanu
+938,5,sb6_upadanavi,Upadānavī · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_vaisvanara
+939,5,sb6_visvarupa_bhagavata_6_66_7,Viśvarūpa (Bhāgavata 6.6–6.7) · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_tvashtr_aditya;sb6_racana
+940,5,sb6_yamuna,Yamunā · Śrīmad-Bhāgavatam 6.6–6.7 witness,mb_adi_inc_vivasvat_aditya;sb6_samjna
+941,5,vp1112_kroshtu,Kroṣṭu · Viṣṇu Purāṇa 4.11 witness,vp_yadu
+942,5,vp1112_nala,Nala · Yadu branch · Viṣṇu Purāṇa 4.11 witness,vp_yadu
+943,5,vp1112_raghu,Raghu · Yadu branch · Viṣṇu Purāṇa 4.11 witness,vp_yadu
+944,5,vp1112_sahasrajit,Sahasrajit · Viṣṇu Purāṇa 4.11 witness,vp_yadu
+945,5,vp18_cakshu,Cakṣu · Viṣṇu Purāṇa 4.18 witness,vp_anu
+946,5,vp18_citraratha_romapada,Citraratha / Romapāda · Viṣṇu Purāṇa 4.18 witness,vp18_dharmaratha
+947,5,vp18_paramekshu,Paramekṣu · Viṣṇu Purāṇa 4.18 witness,vp_anu
+948,5,vp18_sabhanara,Sabhānara · Viṣṇu Purāṇa 4.18 witness,vp_anu
+949,5,vp19_ajamidha,Ajamīḍha · Hastin branch · Viṣṇu Purāṇa 4.19 witness,vp19_hastin
+950,5,vp19_dvimidha,Dvimīḍha · Hastin branch · Viṣṇu Purāṇa 4.19 witness,vp19_hastin
+951,5,vp19_purumidha,Purumīḍha · Hastin branch · Viṣṇu Purāṇa 4.19 witness,vp19_hastin
+952,5,vp20_duryodhana,Duryodhana · Dhṛtarāṣṭra branch · Viṣṇu Purāṇa 4.20 witness,vp20_dhritarashtra;vp20_gandhari
+953,5,vp20_dushasana,Duḥśāsana · Dhṛtarāṣṭra branch · Viṣṇu Purāṇa 4.20 witness,vp20_dhritarashtra;vp20_gandhari
+954,5,vp35_brihaduktha_videha,Bṛhaduktha · Viṣṇu Purāṇa 4.3–5 witness,vp35_devarata_videha
+955,5,vp35_cancu,Cañcu · Viṣṇu Purāṇa 4.3–5 witness,vp35_harita_bahu_branch
+956,5,vp35_kuni_videha,Kuṇi · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_satyadhvaja
+957,5,vp35_visvasaha_pre_rama,Viśvasaha · pre-Rāma branch · Viṣṇu Purāṇa 4.3–5 witness,vp35_ilivila
+958,5,vp4_13_prasena,Prasena · son of Nighna · Viṣṇu Purāṇa 4.13 witness,vp4_13_nighna
+959,5,vp4_13_satrajita,Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness,vp4_13_nighna
+960,5,vp4_14_bhava,Bhava / Candanodaka Dundubhi · Viṣṇu Purāṇa 4.14 witness,vp4_14_viloman
+961,5,vp4_14_pratikshatra,Pratikṣatra · Viṣṇu Purāṇa 4.14 witness,vp4_14_shamin
+962,5,vp4_14_satyaka,Satyaka · Viṣṇu Purāṇa 4.14 witness,vp4_14_shini_anamitra
+963,5,vp4_14_svaphalka,Śvaphalka · Viṣṇu Purāṇa 4.14 witness,vp4_14_vrishni_anamitra
+964,5,vp4_16_vahni,Vahni · Viṣṇu Purāṇa 4.16 witness,vp_turvasu
+965,5,vp4_17_babhru,Babhru · Viṣṇu Purāṇa 4.17 witness,vp_druhyu
+966,5,vp67_jahnu,Jahnu · Amāvasu branch,vp67_suhotra_jahnu
+967,5,vp89_jaya,Jaya · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness,vp89_sanjaya
+968,5,vp89_shaunaka,Śaunaka · son of Gṛtsamadās · Viṣṇu Purāṇa 4.8–9 witness,vp89_grtsamada
+969,5,vp89_unnamed_kasi_king,Unnamed king of Kāśī · son of Kāśya · Viṣṇu Purāṇa 4.8–9 witness,vp89_kashya
+970,5,vp_janamejaya,Janamejaya · Puru-line witness,vp_puru
+971,6,mb_adi_inc_kumbha,Kumbha · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_prahlada
+972,6,mb_adi_inc_nikumbha_daitya,Nikumbha · Daitya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_prahlada
+973,6,mb_adi_inc_virocana,Virocana · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_prahlada
+974,6,mb_adi_nxt_devabhrāṭ,Devabhrāṭ · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_nxt_mahya
+975,6,mb_adi_nxt_mārtaṇḍa,Mārtaṇḍa · called son of Yama in this passage,mb_adi_nxt_yama
+976,6,sb4_bhiti,"Bhīti · Fear, child of Kali and Durukti",sb4_durukti;sb4_kali_person
+977,6,sb4_mrtyu,"Mṛtyu · Death, child of Kali and Durukti",sb4_durukti;sb4_kali_person
+978,6,sb4_sarvateja,Sarvatejā · son of Vyuṣṭa and Puṣkariṇī,sb4_pushkarini_vyushta;sb4_vyushta
+979,6,sb6_nivatakavaca,Nivātakavaca · Śrīmad-Bhāgavatam 6.6–6.7 witness,sb6_kalaka_vaisvanara_daughter;sb6_puloma_vaisvanara_daughter
+980,6,sb8_13_savarni_son_nirmoka,Nirmoka · Śrīmad-Bhāgavatam Canto 8 witness,sb6_savarni_manu
+981,6,sb8_13_savarni_son_virajaska,Virajaska · Śrīmad-Bhāgavatam Canto 8 witness,sb6_savarni_manu
+982,6,sb8_13_shraddhadeva_son_dhrsta,Dhṛṣṭa · Śrīmad-Bhāgavatam Canto 8 witness,sb6_sraddhadeva_manu
+983,6,sb8_13_shraddhadeva_son_dista,Diṣṭa · Śrīmad-Bhāgavatam Canto 8 witness,sb6_sraddhadeva_manu
+984,6,sb8_13_shraddhadeva_son_iks,Ikṣvāku · Śrīmad-Bhāgavatam Canto 8 witness,sb6_sraddhadeva_manu
+985,6,sb8_13_shraddhadeva_son_nabhaga,Nabhaga · Śrīmad-Bhāgavatam Canto 8 witness,sb6_sraddhadeva_manu
+986,6,sb8_13_shraddhadeva_son_nabhasa,Nābhāga · Śrīmad-Bhāgavatam Canto 8 witness,sb6_sraddhadeva_manu
+987,6,sb8_13_shraddhadeva_son_narisyanta,Nariṣyanta · Śrīmad-Bhāgavatam Canto 8 witness,sb6_sraddhadeva_manu
+988,6,sb8_13_shraddhadeva_son_prsad,Pṛṣadhra · Śrīmad-Bhāgavatam Canto 8 witness,sb6_sraddhadeva_manu
+989,6,sb8_13_shraddhadeva_son_saryati,Śaryāti · Śrīmad-Bhāgavatam Canto 8 witness,sb6_sraddhadeva_manu
+990,6,sb8_13_shraddhadeva_son_tarusa,Tarūṣa · Śrīmad-Bhāgavatam Canto 8 witness,sb6_sraddhadeva_manu
+991,6,sb8_13_shraddhadeva_son_vasuman,Vasumān · Śrīmad-Bhāgavatam Canto 8 witness,sb6_sraddhadeva_manu
+992,6,sb924_dharmavrddha,Dharmavṛddha · Bhāgavata 9.24 witness,vp4_14_svaphalka
+993,6,sb924_gandhamada,Gandhamāda · Bhāgavata 9.24 witness,vp4_14_svaphalka
+994,6,sb924_giri,Giri · Bhāgavata 9.24 witness,vp4_14_svaphalka
+995,6,sb924_ksetropeksa,Kṣetropekṣa · Bhāgavata 9.24 witness,vp4_14_svaphalka
+996,6,sb924_mrduvit,Mṛduvit · Bhāgavata 9.24 witness,vp4_14_svaphalka
+997,6,sb924_sarameya,Sārameya · Bhāgavata 9.24 witness,vp4_14_svaphalka
+998,6,sb924_sucara,Sucārā · Bhāgavata 9.24 witness,vp4_14_svaphalka
+999,6,sb924_sukarma,Sukarmā · Bhāgavata 9.24 witness,vp4_14_svaphalka
+1000,6,vp1112_shatajit,Śatajit · Sahasrajit branch · Viṣṇu Purāṇa 4.11 witness,vp1112_sahasrajit
+1001,6,vp1112_vrijinivant,Vṛjinīvant · Kroṣṭu line,vp1112_kroshtu
+1002,6,vp18_chaturanga,Caturaṅga · Viṣṇu Purāṇa 4.18 witness,vp18_citraratha_romapada
+1003,6,vp18_kalanara,Kālānara · Viṣṇu Purāṇa 4.18 witness,vp18_sabhanara
+1004,6,vp18_romapada_dasaratha,Daśaratha · son of Romapāda · Viṣṇu Purāṇa 4.18 witness,vp18_citraratha_romapada
+1005,6,vp19_brihadishu_ajamidha,Bṛhadiṣu · Ajamīḍha branch · Viṣṇu Purāṇa 4.19 witness,vp19_ajamidha
+1006,6,vp19_kanva_ajamidha,Kaṇva · Ajamīḍha branch · Viṣṇu Purāṇa 4.19 witness,vp19_ajamidha
+1007,6,vp19_yavinara,Yavīnara · Dvimīḍha branch · Viṣṇu Purāṇa 4.19 witness,vp19_dvimidha
+1008,6,vp19end_nila,Nīla · Ajamīḍha–Nalinī branch · Viṣṇu Purāṇa 4.19 witness,vp19_ajamidha;vp19end_nalini
+1009,6,vp19end_riksha_ajamidha,Ṛkṣa · Ajamīḍha branch · Viṣṇu Purāṇa 4.19 witness,vp19_ajamidha
+1010,6,vp35_anjana_videha,Añjana · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_kuni_videha
+1011,6,vp35_khatvanga_dilipa,Khaṭvāṅga / Dilīpa · pre-Rāma branch · Viṣṇu Purāṇa 4.3–5 witness,vp35_visvasaha_pre_rama
+1012,6,vp35_mahavirya_videha,Mahāvīrya · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_brihaduktha_videha
+1013,6,vp35_sudeva,Sudeva · Cañcu branch · Viṣṇu Purāṇa 4.3–5 witness,vp35_cancu
+1014,6,vp35_vijaya_cancu,Vijaya · Cañcu branch · Viṣṇu Purāṇa 4.3–5 witness,vp35_cancu
+1015,6,vp4_13_akruura,Akrūra · Viṣṇu Purāṇa 4.13 witness · Yadu elder,vp4_14_gandini;vp4_14_svaphalka
+1016,6,vp4_14_abhijit,Abhijit · Viṣṇu Purāṇa 4.14 witness,vp4_14_bhava
+1017,6,vp4_14_satyaki,Sātyaki / Yuyudhāna · Viṣṇu Purāṇa 4.14 witness,vp4_14_satyaka
+1018,6,vp4_14_svayambhoja,Svayaṃbhoja · Viṣṇu Purāṇa 4.14 witness,vp4_14_pratikshatra
+1019,6,vp4_14_upamadgu,Upamadgu · Viṣṇu Purāṇa 4.14 witness,vp4_14_svaphalka
+1020,6,vp4_15_satyabhama,Satyabhāmā · Viṣṇu Purāṇa 4.15 witness,vp4_13_satrajita
+1021,6,vp4_16_gobhanu,Gobhānu · Viṣṇu Purāṇa 4.16 witness,vp4_16_vahni
+1022,6,vp4_17_setu,Setu · Viṣṇu Purāṇa 4.17 witness,vp4_17_babhru
+1023,6,vp67_sumantu,Sumantu · Amāvasu branch,vp67_jahnu
+1024,6,vp89_dirghatamas,Dīrghatamas · Kāśī line · Viṣṇu Purāṇa 4.8–9 witness,vp89_unnamed_kasi_king
+1025,6,vp89_vijaya,Vijaya · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness,vp89_jaya
+1026,6,vp_pracinvant,Pracinvant · Puru-line witness,vp_janamejaya
+1027,7,mb_adi_inc_bali_daitya,Bali · Daitya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_virocana
+1028,7,mb_adi_nxt_manu,Manu · son of Mārtaṇḍa,mb_adi_nxt_mārtaṇḍa
+1029,7,mb_adi_nxt_subhrāṭ,Subhrāṭ · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_nxt_devabhrāṭ
+1030,7,sb4_cakshusha,Cākṣuṣa · son of Sarvatejā and Ākūti; later Manu,sb4_akuti_sarvateja;sb4_sarvateja
+1031,7,sb4_niraya,"Niraya · Hell, child of Mṛtyu and Bhīti",sb4_bhiti;sb4_mrtyu
+1032,7,sb4_yatana,"Yātanā · Excessive Pain, child of Mṛtyu and Bhīti",sb4_bhiti;sb4_mrtyu
+1033,7,vp1112_haihaya,Haihaya · Viṣṇu Purāṇa 4.11 witness,vp1112_shatajit
+1034,7,vp1112_hehaya,Hehaya · Viṣṇu Purāṇa 4.11 witness,vp1112_shatajit
+1035,7,vp1112_svahi,Svāhi · Kroṣṭu line,vp1112_vrijinivant
+1036,7,vp1112_venuhaya,Veṇuhaya · Viṣṇu Purāṇa 4.11 witness,vp1112_shatajit
+1037,7,vp18_prithulaksha,Pṛthulākṣa · Viṣṇu Purāṇa 4.18 witness,vp18_chaturanga
+1038,7,vp18_srinjaya,Sṛñjaya · Viṣṇu Purāṇa 4.18 witness,vp18_kalanara
+1039,7,vp19_brihaddhanu,Bṛhaddhanu · Viṣṇu Purāṇa 4.19 witness,vp19_brihadishu_ajamidha
+1040,7,vp19_dhrtimant,Dhṛtimant · Viṣṇu Purāṇa 4.19 witness,vp19_yavinara
+1041,7,vp19_medhatithi_ajamidha,Medhātithi · Ajamīḍha branch · Viṣṇu Purāṇa 4.19 witness,vp19_kanva_ajamidha
+1042,7,vp19end_samvarana,Saṃvaraṇa · Ṛkṣa branch · Viṣṇu Purāṇa 4.19 witness,vp19end_riksha_ajamidha
+1043,7,vp19end_shanti,Śānti · Nīla branch · Viṣṇu Purāṇa 4.19 witness,vp19end_nila
+1044,7,vp35_dirghabahu,Dīrghabāhu · Viṣṇu Purāṇa 4.3–5 witness,vp35_khatvanga_dilipa
+1045,7,vp35_rtujit,Ṛtujit · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_anjana_videha
+1046,7,vp35_ruruka,Ruruka · Viṣṇu Purāṇa 4.3–5 witness,vp35_vijaya_cancu
+1047,7,vp35_satyadhriti,Satyadhṛti · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_mahavirya_videha
+1048,7,vp4_14_akruura_son_devavant,Devavant · Akrūra’s son · Viṣṇu Purāṇa 4.14 witness,vp4_13_akruura
+1049,7,vp4_14_akruura_son_upadeva,Upadeva · Akrūra’s son · Viṣṇu Purāṇa 4.14 witness,vp4_13_akruura
+1050,7,vp4_14_arimardana,Arimardana · Viṣṇu Purāṇa 4.14 witness,vp4_14_upamadgu
+1051,7,vp4_14_asanga,Asaṅga · Viṣṇu Purāṇa 4.14 witness,vp4_14_satyaki
+1052,7,vp4_14_dharmadṛk,Dharmadṛk · Viṣṇu Purāṇa 4.14 witness,vp4_14_upamadgu
+1053,7,vp4_14_dṛṣṭavarman,Dṛṣṭavarman · Viṣṇu Purāṇa 4.14 witness,vp4_14_upamadgu
+1054,7,vp4_14_gandhamojavaha,Gandhamojavāha · Viṣṇu Purāṇa 4.14 witness,vp4_14_upamadgu
+1055,7,vp4_14_girikṣatra,Girikṣatra · Viṣṇu Purāṇa 4.14 witness,vp4_14_upamadgu
+1056,7,vp4_14_hrdika,Hṛdika · Viṣṇu Purāṇa 4.14 witness,vp4_14_svayambhoja
+1057,7,vp4_14_mejaya,Mejaya · Viṣṇu Purāṇa 4.14 witness,vp4_14_upamadgu
+1058,7,vp4_14_mṛdura,Mṛdura · Viṣṇu Purāṇa 4.14 witness,vp4_14_upamadgu
+1059,7,vp4_14_prativaha,Prativāha · Viṣṇu Purāṇa 4.14 witness,vp4_14_upamadgu
+1060,7,vp4_14_punarvasu,Punarvasu · Viṣṇu Purāṇa 4.14 witness,vp4_14_abhijit
+1061,7,vp4_14_sutara,Sutārā · Viṣṇu Purāṇa 4.14 witness,vp4_14_upamadgu
+1062,7,vp4_14_upakṣatra,Upakṣatra · Viṣṇu Purāṇa 4.14 witness,vp4_14_upamadgu
+1063,7,vp4_14_viśari,Viśāri · Viṣṇu Purāṇa 4.14 witness,vp4_14_upamadgu
+1064,7,vp4_14_śatrughna_upamadgu,Śatrughna · son of Upamadgu · Viṣṇu Purāṇa 4.14 witness,vp4_14_upamadgu
+1065,7,vp4_16_traishanu,Traiśānu · Viṣṇu Purāṇa 4.16 witness,vp4_16_gobhanu
+1066,7,vp4_17_aradvat,Āradvant · Viṣṇu Purāṇa 4.17 witness,vp4_17_setu
+1067,7,vp67_ajaka,Ajaka · Amāvasu branch,vp67_sumantu
+1068,7,vp89_dhanvantari,Dhanvantari · son of Dīrghatamas · Viṣṇu Purāṇa 4.8–9 witness,vp89_dirghatamas
+1069,7,vp89_krita,Kṛta · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness,vp89_vijaya
+1070,7,vp_pravira,Pravīra · Puru-line witness,vp_pracinvant
+1071,8,mb_adi_early_kuru,Kuru · son of Saṃvaraṇa and Tapatī,mb_adi_early_tapati;vp19end_samvarana
+1072,8,mb_adi_inc_bana_daitya,Bāṇa · Daitya · Mahābhārata Ādiparvan 1.59–1.61 witness,mb_adi_inc_bali_daitya
+1073,8,mb_adi_nxt_daśajyotis,Daśajyotis · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_nxt_subhrāṭ
+1074,8,mb_adi_nxt_dhṛṣṇu,Dhṛṣṇu · named son of Manu,mb_adi_nxt_manu
+1075,8,mb_adi_nxt_ikṣvāku,Ikṣvāku · named son of Manu,mb_adi_nxt_manu
+1076,8,mb_adi_nxt_ilā,Ilā · named child of Manu; mother and father of Purūravas in this account,mb_adi_nxt_manu
+1077,8,mb_adi_nxt_karūṣa,Karūṣa · named son of Manu,mb_adi_nxt_manu
+1078,8,mb_adi_nxt_nariṣyanta,Nariṣyanta · named son of Manu,mb_adi_nxt_manu
+1079,8,mb_adi_nxt_nābhāga,Nābhāga · named son of Manu,mb_adi_nxt_manu
+1080,8,mb_adi_nxt_nābhāgāriṣṭa,Nābhāgāriṣṭa · named son of Manu,mb_adi_nxt_manu
+1081,8,mb_adi_nxt_pṛṣadhra,Pṛṣadhra · named son of Manu,mb_adi_nxt_manu
+1082,8,mb_adi_nxt_sahasrajyotis,Sahasrajyotis · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_nxt_subhrāṭ
+1083,8,mb_adi_nxt_vena,Vena · named son of Manu,mb_adi_nxt_manu
+1084,8,mb_adi_nxt_śaryāti,Śaryāti · named son of Manu,mb_adi_nxt_manu
+1085,8,mb_adi_nxt_śatajyotis,Śatajyotis · named in the Vivasvat–Devabhrāṭ solar genealogy,mb_adi_nxt_subhrāṭ
+1086,8,sb4_agnistoma,Agniṣṭoma · son of Cākṣuṣa and Naḍvalā,sb4_cakshusha;sb4_nadvala
+1087,8,sb4_atiratra,Atīrātra · son of Cākṣuṣa and Naḍvalā,sb4_cakshusha;sb4_nadvala
+1088,8,sb4_dyumna,Dyumna · son of Cākṣuṣa and Naḍvalā,sb4_cakshusha;sb4_nadvala
+1089,8,sb4_kutsa,Kutsa · son of Cākṣuṣa and Naḍvalā,sb4_cakshusha;sb4_nadvala
+1090,8,sb4_pradyumna_cakshusha,Pradyumna · son of Cākṣuṣa and Naḍvalā,sb4_cakshusha;sb4_nadvala
+1091,8,sb4_puru_cakshusha,Puru · son of Cākṣuṣa and Naḍvalā,sb4_cakshusha;sb4_nadvala
+1092,8,sb4_rta,Ṛta · son of Cākṣuṣa and Naḍvalā,sb4_cakshusha;sb4_nadvala
+1093,8,sb4_satyavan,Satyavān · son of Cākṣuṣa and Naḍvalā,sb4_cakshusha;sb4_nadvala
+1094,8,sb4_shibi,Śibi · son of Cākṣuṣa and Naḍvalā,sb4_cakshusha;sb4_nadvala
+1095,8,sb4_trita,Trita · son of Cākṣuṣa and Naḍvalā,sb4_cakshusha;sb4_nadvala
+1096,8,sb4_ulmuka,Ulmuka · son of Cākṣuṣa and Naḍvalā,sb4_cakshusha;sb4_nadvala
+1097,8,sb4_vrata,Vrata · son of Cākṣuṣa and Naḍvalā,sb4_cakshusha;sb4_nadvala
+1098,8,vp1112_dharma,Dharma · Haihaya branch · Viṣṇu Purāṇa 4.11 witness,vp1112_haihaya
+1099,8,vp1112_rushanku,Ruṣaṅku · Kroṣṭu line,vp1112_svahi
+1100,8,vp18_champa,Campa · Viṣṇu Purāṇa 4.18 witness,vp18_prithulaksha
+1101,8,vp18_puranjaya,Puraṃjaya · Viṣṇu Purāṇa 4.18 witness,vp18_srinjaya
+1102,8,vp19_brihatkarman,Bṛhatkarman · Viṣṇu Purāṇa 4.19 witness,vp19_brihaddhanu
+1103,8,vp19_satyadhriti_dvimidha,Satyadhṛti · Dvimīḍha branch · Viṣṇu Purāṇa 4.19 witness,vp19_dhrtimant
+1104,8,vp19end_kuru,Kuru · Saṃvaraṇa branch · Viṣṇu Purāṇa 4.19 witness,vp19end_samvarana
+1105,8,vp19end_sushanti,Suśānti · Viṣṇu Purāṇa 4.19 witness,vp19end_shanti
+1106,8,vp35_aristanemi_videha,Ariṣṭanemi · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_rtujit
+1107,8,vp35_dhrishtaketu_videha,Dhṛṣṭaketu · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_satyadhriti
+1108,8,vp35_raghu,Raghu · Viṣṇu Purāṇa 4.3–5 witness,vp35_dirghabahu
+1109,8,vp35_vrka,Vṛka · Viṣṇu Purāṇa 4.3–5 witness,vp35_ruruka
+1110,8,vp4_14_ahuka,Āhuka · Viṣṇu Purāṇa 4.14 witness,vp4_14_punarvasu
+1111,8,vp4_14_ahuki,Āhukī · Viṣṇu Purāṇa 4.14 witness,vp4_14_punarvasu
+1112,8,vp4_14_devamidhuṣa,Devamīḍhuṣa · Viṣṇu Purāṇa 4.14 witness,vp4_14_hrdika
+1113,8,vp4_14_kṛtavarman14,Kṛtavarman · son of Hṛdika · Viṣṇu Purāṇa 4.14 witness,vp4_14_hrdika
+1114,8,vp4_14_satadhanu14,Śatadhanu · son of Hṛdika · Viṣṇu Purāṇa 4.14 witness,vp4_14_hrdika
+1115,8,vp4_14_tuni,Tūṇi · Viṣṇu Purāṇa 4.14 witness,vp4_14_asanga
+1116,8,vp4_16_karandhama,Karaṃdhama · Viṣṇu Purāṇa 4.16 witness,vp4_16_traishanu
+1117,8,vp4_17_gandhara,Gāndhāra · Viṣṇu Purāṇa 4.17 witness,vp4_17_aradvat
+1118,8,vp67_balakashva,Balākāśva · Amāvasu branch,vp67_ajaka
+1119,8,vp89_harshavardhana,Harṣavardhana · Viṣṇu Purāṇa 4.8–9 witness,vp89_krita
+1120,8,vp89_ketumant,Ketumant · Viṣṇu Purāṇa 4.8–9 witness,vp89_dhanvantari
+1121,8,vp_manasyu,Manasyu · Puru-line witness,vp_pravira
+1122,9,mb_adi_nxt_purūravas,Purūravas · child of Ilā; partner of Urvaśī,mb_adi_nxt_ilā
+1123,9,sb4_anga_ulmuka,Aṅga · son of Ulmuka and Puṣkariṇī,sb4_pushkarini_ulmuka;sb4_ulmuka
+1124,9,sb4_angira_ulmuka,Aṅgirā · son of Ulmuka and Puṣkariṇī,sb4_pushkarini_ulmuka;sb4_ulmuka
+1125,9,sb4_gaya,Gaya · son of Ulmuka and Puṣkariṇī,sb4_pushkarini_ulmuka;sb4_ulmuka
+1126,9,sb4_khyati_ulmuka,Khyāti · son of Ulmuka and Puṣkariṇī,sb4_pushkarini_ulmuka;sb4_ulmuka
+1127,9,sb4_kratu_ulmuka,Kratu · son of Ulmuka and Puṣkariṇī,sb4_pushkarini_ulmuka;sb4_ulmuka
+1128,9,sb4_sumana,Sumanā · son of Ulmuka and Puṣkariṇī,sb4_pushkarini_ulmuka;sb4_ulmuka
+1129,9,vp1112_citraratha,Citraratha · Kroṣṭu line,vp1112_rushanku
+1130,9,vp1112_dharmanetra,Dharmanetra · Viṣṇu Purāṇa 4.11 witness,vp1112_dharma
+1131,9,vp18_aja,Aja · father of a second Daśaratha · Viṣṇu Purāṇa 4.18 witness,vp35_raghu
+1132,9,vp18_anu_janamejaya,Janamejaya · Anu branch · Viṣṇu Purāṇa 4.18 witness,vp18_puranjaya
+1133,9,vp18_haryanga,Haryaṅga · Viṣṇu Purāṇa 4.18 witness,vp18_champa
+1134,9,vp19_drdhanemi,Dṛḍhanemi · Viṣṇu Purāṇa 4.19 witness,vp19_satyadhriti_dvimidha
+1135,9,vp19_jayadratha_brihaddhanu,Jayadratha · Bṛhadiṣu branch · Viṣṇu Purāṇa 4.19 witness,vp19_brihatkarman
+1136,9,vp19end_jahnu,Jahnu · Kuru branch · Viṣṇu Purāṇa 4.19 witness,vp19end_kuru
+1137,9,vp19end_parikshit_kuru,Parīkṣit · Kuru branch · Viṣṇu Purāṇa 4.19 witness,vp19end_kuru
+1138,9,vp19end_purujanu,Purujānu · Viṣṇu Purāṇa 4.19 witness,vp19end_sushanti
+1139,9,vp19end_sudhanus,Sudhanus · Kuru branch · Viṣṇu Purāṇa 4.19 witness,vp19end_kuru
+1140,9,vp35_bahu,Bāhu · Viṣṇu Purāṇa 4.3–5 witness,vp35_vrka
+1141,9,vp35_haryashva_videha,Haryaśva · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_dhrishtaketu_videha
+1142,9,vp35_shrutaayus_videha,Śrutāyus · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_aristanemi_videha
+1143,9,vp4_14_devaka,Devaka · Viṣṇu Purāṇa 4.14 witness,vp4_14_ahuka
+1144,9,vp4_14_shura_deva,Śūra · son of Devamīḍhuṣa · Viṣṇu Purāṇa 4.14 witness,vp4_14_devamidhuṣa
+1145,9,vp4_14_ugrasena,Ugrasena · Viṣṇu Purāṇa 4.14 witness,vp4_14_ahuka
+1146,9,vp4_14_yugandhara,Yugaṃdhara · Viṣṇu Purāṇa 4.14 witness,vp4_14_tuni
+1147,9,vp4_16_marutta,Marutta · Viṣṇu Purāṇa 4.16 witness,vp4_16_karandhama
+1148,9,vp4_17_dharma,Dharma · Viṣṇu Purāṇa 4.17 witness,vp4_17_gandhara
+1149,9,vp67_kusha,Kuśa · Amāvasu branch,vp67_balakashva
+1150,9,vp89_bhimaratha,Bhīmaratha · Viṣṇu Purāṇa 4.8–9 witness,vp89_ketumant
+1151,9,vp89_sahadeva,Sahadeva · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness,vp89_harshavardhana
+1152,9,vp_abhayada,Abhayada · Puru-line witness,vp_manasyu
+1153,10,dasaratha,Daśaratha,vp18_aja
+1154,10,mb_adi_nxt_amāvasu,Amāvasu · son of Purūravas and Urvaśī,mb_adi_nxt_purūravas;mb_adi_nxt_urvaśī
+1155,10,mb_adi_nxt_dṛḍhāyu,Dṛḍhāyu · son of Purūravas and Urvaśī,mb_adi_nxt_purūravas;mb_adi_nxt_urvaśī
+1156,10,mb_adi_nxt_vanāyu,Vanāyu · son of Purūravas and Urvaśī,mb_adi_nxt_purūravas;mb_adi_nxt_urvaśī
+1157,10,mb_adi_nxt_āyu,Āyu · son of Purūravas and Urvaśī,mb_adi_nxt_purūravas;mb_adi_nxt_urvaśī
+1158,10,mb_adi_nxt_śrutāyu,Śrutāyu · son of Purūravas and Urvaśī,mb_adi_nxt_purūravas;mb_adi_nxt_urvaśī
+1159,10,sb4_vena,Vena · son of Aṅga and Sunīthā,sb4_anga_ulmuka;sb4_sunitha
+1160,10,sb924_anaka_sura,Ānaka · son of Śūra · Bhāgavata 9.24 witness,vp4_14_shura_deva
+1161,10,sb924_rastrapalika,Rāṣṭrapālikā · Bhāgavata 9.24 witness,vp4_14_ugrasena
+1162,10,sb924_suhu,Suhū · Bhāgavata 9.24 witness,vp4_14_ugrasena
+1163,10,sb924_sunama,Sunāmā · Bhāgavata 9.24 witness,vp4_14_ugrasena
+1164,10,sb924_surabhu,Śūrabhū · Bhāgavata 9.24 witness,vp4_14_ugrasena
+1165,10,sb924_tustiman,Tuṣṭimān · Bhāgavata 9.24 witness,vp4_14_ugrasena
+1166,10,vp1112_kunti_haihaya,Kunti · Haihaya branch · Viṣṇu Purāṇa 4.11 witness,vp1112_dharmanetra
+1167,10,vp1112_shashabindu,Śaśabindu · Kroṣṭu line,vp1112_citraratha
+1168,10,vp18_bhadraratha,Bhadraratha · Viṣṇu Purāṇa 4.18 witness,vp18_haryanga
+1169,10,vp18_mahasala,Mahāśāla · Viṣṇu Purāṇa 4.18 witness,vp18_anu_janamejaya
+1170,10,vp19_suparsva,Supārśva · Dvimīḍha branch · Viṣṇu Purāṇa 4.19 witness,vp19_drdhanemi
+1171,10,vp19_visvajit,Viśvajit · Jayadratha branch · Viṣṇu Purāṇa 4.19 witness,vp19_jayadratha_brihaddhanu
+1172,10,vp19end_cakshus,Cakṣus · Viṣṇu Purāṇa 4.19 witness,vp19end_purujanu
+1173,10,vp19end_suhotra_sudhanus,Suhotra · Sudhanus branch · Viṣṇu Purāṇa 4.19 witness,vp19end_sudhanus
+1174,10,vp20_bhimasena_parikshit,Bhīmasena · son of Parīkṣit · Viṣṇu Purāṇa 4.20 witness,vp19end_parikshit_kuru
+1175,10,vp20_janamejaya_parikshit,Janamejaya · son of Parīkṣit · Viṣṇu Purāṇa 4.20 witness,vp19end_parikshit_kuru
+1176,10,vp20_shrutasena_parikshit,Śrutasena · son of Parīkṣit · Viṣṇu Purāṇa 4.20 witness,vp19end_parikshit_kuru
+1177,10,vp20_suratha,Suratha · Jahnu branch · Viṣṇu Purāṇa 4.20 witness,vp19end_jahnu
+1178,10,vp20_ugrasena_parikshit,Ugrasena · son of Parīkṣit · Viṣṇu Purāṇa 4.20 witness,vp19end_parikshit_kuru
+1179,10,vp35_maru_videha,Maru · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_haryashva_videha
+1180,10,vp35_sagara,Sagara · Viṣṇu Purāṇa 4.3–5 witness,vp35_bahu
+1181,10,vp35_suparshva_videha,Supārśva · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_shrutaayus_videha
+1182,10,vp4_14_anadhrsti,Anādhṛṣṭi · Viṣṇu Purāṇa 4.14 witness · Vasudeva’s brother,vp4_14_shura_deva
+1183,10,vp4_14_devabhaga,Devabhāga · Viṣṇu Purāṇa 4.14 witness · Vasudeva’s brother,vp4_14_shura_deva
+1184,10,vp4_14_devarakṣita_son,Devarakṣita · son of Devaka · Viṣṇu Purāṇa 4.14 witness,vp4_14_devaka
+1185,10,vp4_14_devashravas,Devaśravas · Viṣṇu Purāṇa 4.14 witness · Vasudeva’s brother,vp4_14_shura_deva
+1186,10,vp4_14_devavant_devaka,Devavant · son of Devaka · Viṣṇu Purāṇa 4.14 witness,vp4_14_devaka
+1187,10,vp4_14_gandusa,Gaṇḍūṣa · Viṣṇu Purāṇa 4.14 witness · Vasudeva’s brother,vp4_14_shura_deva
+1188,10,vp4_14_kamsa,Kaṃsa · Viṣṇu Purāṇa 4.14 witness,vp4_14_ugrasena
+1189,10,vp4_14_kamsa_daughter,Kaṃsā · Viṣṇu Purāṇa 4.14 witness,vp4_14_ugrasena
+1190,10,vp4_14_kamsavati,Kaṃsavatī · Viṣṇu Purāṇa 4.14 witness,vp4_14_ugrasena
+1191,10,vp4_14_kanka,Kaṅka · Viṣṇu Purāṇa 4.14 witness,vp4_14_ugrasena
+1192,10,vp4_14_kanki,Kaṅkī · Viṣṇu Purāṇa 4.14 witness,vp4_14_ugrasena
+1193,10,vp4_14_karundhaka,Karundhaka · Viṣṇu Purāṇa 4.14 witness · Vasudeva’s brother,vp4_14_shura_deva
+1194,10,vp4_14_nyagrodha,Nyagrodha · Viṣṇu Purāṇa 4.14 witness,vp4_14_ugrasena
+1195,10,vp4_14_prtha,Pṛthā · Viṣṇu Purāṇa 4.14 witness · Vasudeva’s sister,vp4_14_shura_deva
+1196,10,vp4_14_rajadhidevi,Rājādhidevī · Viṣṇu Purāṇa 4.14 witness · Vasudeva’s sister,vp4_14_shura_deva
+1197,10,vp4_14_rastrapala,Rāṣṭrapāla · Viṣṇu Purāṇa 4.14 witness,vp4_14_ugrasena
+1198,10,vp4_14_rastrapali,Rāṣṭrapālī · Viṣṇu Purāṇa 4.14 witness,vp4_14_ugrasena
+1199,10,vp4_14_sanku,Śaṅku · Viṣṇu Purāṇa 4.14 witness,vp4_14_ugrasena
+1200,10,vp4_14_shamika,Śamīka · Viṣṇu Purāṇa 4.14 witness · Vasudeva’s brother,vp4_14_shura_deva
+1201,10,vp4_14_shrutadeva,Śrutadevā · Viṣṇu Purāṇa 4.14 witness · Vasudeva’s sister,vp4_14_shura_deva
+1202,10,vp4_14_shrutakirti,Śrutakīrti · Viṣṇu Purāṇa 4.14 witness · Vasudeva’s sister,vp4_14_shura_deva
+1203,10,vp4_14_shrutashravas,Śrutaśravas · Viṣṇu Purāṇa 4.14 witness · Vasudeva’s sister,vp4_14_shura_deva
+1204,10,vp4_14_shyama,Śyāma · Viṣṇu Purāṇa 4.14 witness · Vasudeva’s brother,vp4_14_shura_deva
+1205,10,vp4_14_subhumi,Subhūmi · Viṣṇu Purāṇa 4.14 witness,vp4_14_ugrasena
+1206,10,vp4_14_sudeva,Sudeva · son of Devaka · Viṣṇu Purāṇa 4.14 witness,vp4_14_devaka
+1207,10,vp4_14_sunaman,Sunāman · Viṣṇu Purāṇa 4.14 witness,vp4_14_ugrasena
+1208,10,vp4_14_sutanu,Sutanu · Viṣṇu Purāṇa 4.14 witness,vp4_14_ugrasena
+1209,10,vp4_14_sṛnjaya,Sṛñjaya · Viṣṇu Purāṇa 4.14 witness · Vasudeva’s brother,vp4_14_shura_deva
+1210,10,vp4_14_tustimant,Tuṣṭimant · Viṣṇu Purāṇa 4.14 witness,vp4_14_ugrasena
+1211,10,vp4_14_upadeva_devaka,Upadeva · son of Devaka · Viṣṇu Purāṇa 4.14 witness,vp4_14_devaka
+1212,10,vp4_14_vasudeva,Vasudeva / Ānakadundubhi · Viṣṇu Purāṇa 4.14 witness,vp4_14_shura_deva
+1213,10,vp4_14_vatsabalaka,Vatsabālaka · Viṣṇu Purāṇa 4.14 witness · Vasudeva’s brother,vp4_14_shura_deva
+1214,10,vp4_14_yuddhamusti,Yuddhamuṣṭi · Viṣṇu Purāṇa 4.14 witness,vp4_14_ugrasena
+1215,10,vp4_17_dhṛta,Dhṛta · Viṣṇu Purāṇa 4.17 witness,vp4_17_dharma
+1216,10,vp67_amavasu_kusha,Amāvasu · son of Kuśa,vp67_kusha
+1217,10,vp67_amurtaraya,Amūrtaraya · son of Kuśa,vp67_kusha
+1218,10,vp67_kushamba,Kuśāmba · son of Kuśa,vp67_kusha
+1219,10,vp67_kushanabha,Kuśanābha · son of Kuśa,vp67_kusha
+1220,10,vp89_adina,Adīna · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness,vp89_sahadeva
+1221,10,vp89_divodasa,Divodāsa · Viṣṇu Purāṇa 4.8–9 witness,vp89_bhimaratha
+1222,10,vp_sudyu,Sudyu · Puru-line witness,vp_abhayada
+1223,11,mb_adi_nxt_anenas,Anenas · son of Āyu,mb_adi_nxt_āyu
+1224,11,mb_adi_nxt_nahuṣa,Nahuṣa · son of Āyu,mb_adi_nxt_āyu
+1225,11,mb_adi_nxt_raji,Raji · son of Āyu,mb_adi_nxt_āyu
+1226,11,mb_adi_nxt_rambha,Rambha · son of Āyu,mb_adi_nxt_āyu
+1227,11,mb_adi_nxt_vṛddhaśarman,Vṛddhaśarman · son of Āyu,mb_adi_nxt_āyu
+1228,11,rama,Rāma,dasaratha
+1229,11,sb4_arci,Arci · born from Vena’s arm and wife of Pṛthu,sb4_vena
+1230,11,sb4_prithu,Pṛthu · born from Vena’s arm and husband of Arci,sb4_vena
+1231,11,sb924_arjunapala,Arjunapāla · Bhāgavata 9.24 witness,vp4_14_shamika
+1232,11,sb924_citraketu,Citraketu · Bhāgavata 9.24 witness,vp4_14_devabhaga
+1233,11,sb924_durmarsana_srn,Durmarṣaṇa · Bhāgavata 9.24 witness,vp4_14_sṛnjaya
+1234,11,sb924_hasta,Hasta · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1235,11,sb924_hemangada,Hemāṅgada · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1236,11,sb924_isuman,Iṣumān · Bhāgavata 9.24 witness,vp4_14_devashravas
+1237,11,sb924_kalpa,Kalpa · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1238,11,sb924_kirtiman,Kīrtimān · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1239,11,sb924_prasama,Praśama · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1240,11,sb924_prasita,Prasita · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1241,11,sb924_pravara,Pravara · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1242,11,sb924_rajanya,Rājanya · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1243,11,sb924_rju,Ṛju · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1244,11,sb924_rtadhama,Ṛtadhāmā · Bhāgavata 9.24 witness,sb924_anaka_sura
+1245,11,sb924_sammardana,Sammardana · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1246,11,sb924_suvamsa,Suvaṁśa · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1247,11,sb924_uruvalka,Uruvalka · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1248,11,sb924_varsa,Varṣa · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1249,11,sb924_viprstha,Vipṛṣṭha · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1250,11,sb924_vipula,Vipula · Bhāgavata 9.24 witness,vp4_14_vasudeva
+1251,11,vp1112_prithudana,Pṛthudāna · son of Śaśabindu,vp1112_shashabindu
+1252,11,vp1112_prithujaya,Pṛthujaya · son of Śaśabindu,vp1112_shashabindu
+1253,11,vp1112_prithukarman,Pṛthukarman · son of Śaśabindu,vp1112_shashabindu
+1254,11,vp1112_prithukirti,Pṛthukīrti · son of Śaśabindu,vp1112_shashabindu
+1255,11,vp1112_prithushravas,Pṛthuśravas · son of Śaśabindu,vp1112_shashabindu
+1256,11,vp1112_prithuyashas,Pṛthuyaśas · son of Śaśabindu,vp1112_shashabindu
+1257,11,vp1112_sahamji,Sāhaṃji · Viṣṇu Purāṇa 4.11 witness,vp1112_kunti_haihaya
+1258,11,vp18_brihadratha,Bṛhadratha · Aṅga branch · Viṣṇu Purāṇa 4.18 witness,vp18_bhadraratha
+1259,11,vp18_mahamanas,Mahāmanas · Viṣṇu Purāṇa 4.18 witness,vp18_mahasala
+1260,11,vp18_shanta,Śāntā · Viṣṇu Purāṇa 4.18 witness,dasaratha
+1261,11,vp19_senajit,Senajit · Viṣṇu Purāṇa 4.19 witness,vp19_visvajit
+1262,11,vp19_sumati_dvimidha,Sumati · Dvimīḍha branch · Viṣṇu Purāṇa 4.19 witness,vp19_suparsva
+1263,11,vp19end_cyavana_suhotra,Cyavana · Suhotra branch · Viṣṇu Purāṇa 4.19 witness,vp19end_suhotra_sudhanus
+1264,11,vp19end_haryashva,Haryaśva · Nīla branch · Viṣṇu Purāṇa 4.19 witness,vp19end_cakshus
+1265,11,vp20_krishna_deity,Kṛṣṇa · divine restorer · Viṣṇu Purāṇa 4.20 witness,vp4_14_vasudeva
+1266,11,vp20_viduratha,Vidūratha · Suratha branch · Viṣṇu Purāṇa 4.20 witness,vp20_suratha
+1267,11,vp35_asamanjas,Asamañjas · Viṣṇu Purāṇa 4.3–5 witness,vp35_kesini_sagara;vp35_sagara
+1268,11,vp35_pratibandhaka,Pratibandhaka · Viṣṇu Purāṇa 4.3–5 witness,vp35_maru_videha
+1269,11,vp35_sanjaya_videha,Saṃjaya · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_suparshva_videha
+1270,11,vp4_14_anuvinda,Anuvinda · Viṣṇu Purāṇa 4.14 witness,vp4_14_rajadhidevi
+1271,11,vp4_14_arjuna,Arjuna · Viṣṇu Purāṇa 4.14 witness,vp4_14_indra;vp4_14_prtha
+1272,11,vp4_14_bhima,Bhīma · Viṣṇu Purāṇa 4.14 witness,vp4_14_prtha;vp4_14_vayu
+1273,11,vp4_14_dantavakra,Dantavakra · Viṣṇu Purāṇa 4.14 witness,vp4_14_shrutadeva;vp4_14_vrddhasharman
+1274,11,vp4_14_karna,Karṇa · Viṣṇu Purāṇa 4.14 witness,vp4_14_prtha;vp4_14_sun
+1275,11,vp4_14_santardana,Saṃtardana · Viṣṇu Purāṇa 4.14 witness,vp4_14_shrutakirti
+1276,11,vp4_14_shishupala,Śiśupāla · Viṣṇu Purāṇa 4.14 witness,vp4_14_damaghosha;vp4_14_shrutashravas
+1277,11,vp4_14_vinda,Vinda · Viṣṇu Purāṇa 4.14 witness,vp4_14_rajadhidevi
+1278,11,vp4_14_yudhisthira,Yudhiṣṭhira · Viṣṇu Purāṇa 4.14 witness,vp4_14_dharma;vp4_14_prtha
+1279,11,vp4_15_balarama,Balarāma · Viṣṇu Purāṇa 4.15 witness,vp4_14_vasudeva;vp4_15_rohiṇī
+1280,11,vp4_15_bhadradeva,Bhadradeva · Viṣṇu Purāṇa 4.15 witness,vp4_14_devaki;vp4_14_vasudeva
+1281,11,vp4_15_bhadrasena,Bhadrasena · Viṣṇu Purāṇa 4.15 witness,vp4_14_devaki;vp4_14_vasudeva
+1282,11,vp4_15_durmada,Durmada · Viṣṇu Purāṇa 4.15 witness,vp4_14_vasudeva;vp4_15_rohiṇī
+1283,11,vp4_15_gada,Gada · Viṣṇu Purāṇa 4.15 witness,vp4_14_vasudeva;vp4_15_bhadra
+1284,11,vp4_15_kaushika,Kauśika · Viṣṇu Purāṇa 4.15 witness,vp4_14_vasudeva;vp4_15_vaiśali
+1285,11,vp4_15_kirtimant,Kīrtimant · Viṣṇu Purāṇa 4.15 witness,vp4_14_devaki;vp4_14_vasudeva
+1286,11,vp4_15_krtaka,Kṛtaka · Viṣṇu Purāṇa 4.15 witness,vp4_14_vasudeva;vp4_15_madira
+1287,11,vp4_15_kṛṣṇa,Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative,vp4_14_devaki;vp4_14_vasudeva
+1288,11,vp4_15_nanda,Nanda · Viṣṇu Purāṇa 4.15 witness,vp4_14_vasudeva;vp4_15_madira
+1289,11,vp4_15_rjudasa,Ṛjudāsa · Viṣṇu Purāṇa 4.15 witness,vp4_14_devaki;vp4_14_vasudeva
+1290,11,vp4_15_sarana,Sāraṇa · Viṣṇu Purāṇa 4.15 witness,vp4_14_vasudeva;vp4_15_rohiṇī
+1291,11,vp4_15_shatha,Śaṭha · Viṣṇu Purāṇa 4.15 witness,vp4_14_vasudeva;vp4_15_rohiṇī
+1292,11,vp4_15_susena,Suṣeṇa · Viṣṇu Purāṇa 4.15 witness,vp4_14_devaki;vp4_14_vasudeva
+1293,11,vp4_15_udayin,Udāyin · Viṣṇu Purāṇa 4.15 witness,vp4_14_devaki;vp4_14_vasudeva
+1294,11,vp4_15_upananda,Upananda · Viṣṇu Purāṇa 4.15 witness,vp4_14_vasudeva;vp4_15_madira
+1295,11,vp4_15_upanidhi,Upanidhi · Viṣṇu Purāṇa 4.15 witness,vp4_14_vasudeva;vp4_15_bhadra
+1296,11,vp4_17_durdama,Durdama · Viṣṇu Purāṇa 4.17 witness,vp4_17_dhṛta
+1297,11,vp4_bharata_rama,Bharata · Rāma’s brother · Viṣṇu Purāṇa witness,dasaratha
+1298,11,vp4_satrughna,Śatrughna · Rāma’s brother · Viṣṇu Purāṇa witness,dasaratha
+1299,11,vp67_gadhi,Gādhi / Kauśaki · son of Kuśāmba,vp67_kushamba
+1300,11,vp89_jayatsena,Jayatsena · Viṣṇu Purāṇa 4.8–9 witness,vp89_adina
+1301,11,vp89_pratardana,"Pratardana · also Śatrujit, Vatsa, Ṛtadhvaja and Kuvalayāśva · Viṣṇu Purāṇa 4.8–9 witness",vp89_divodasa
+1302,11,vp_bahugava,Bahugava · Puru-line witness,vp_sudyu
+1303,12,mb_adi_nxt_pāñca,Pāñca · son in Nahuṣa’s six-son list; name form follows the BORI text,mb_adi_nxt_nahuṣa
+1304,12,mb_adi_nxt_saṃyāti,Saṃyāti · son of Nahuṣa,mb_adi_nxt_nahuṣa
+1305,12,mb_adi_nxt_uddhava,Uddhava · son in Nahuṣa’s six-son list; name form follows the BORI text,mb_adi_nxt_nahuṣa
+1306,12,mb_adi_nxt_yati,Yati · son of Nahuṣa,mb_adi_nxt_nahuṣa
+1307,12,mb_adi_nxt_yayāti,Yayāti · son of Nahuṣa; father of the five named sons,mb_adi_nxt_nahuṣa
+1308,12,mb_adi_nxt_āyāti,Āyāti · son of Nahuṣa,mb_adi_nxt_nahuṣa
+1309,12,sb4_dhumrakesa,Dhūmrakeśa · younger brother of Vijitāśva,sb4_prithu
+1310,12,sb4_dravina,Draviṇa · younger brother of Vijitāśva,sb4_prithu
+1311,12,sb4_haryaksha,Haryakṣa · younger brother of Vijitāśva,sb4_prithu
+1312,12,sb4_vijitasva,Vijitāśva / Antardhāna · eldest son of Pṛthu; source explicitly gives title Antardhāna,sb4_prithu
+1313,12,sb4_vrka,Vṛka · younger brother of Vijitāśva,sb4_prithu
+1314,12,vp1112_mahishmant,Mahiṣmant · Viṣṇu Purāṇa 4.11 witness,vp1112_sahamji
+1315,12,vp1112_tamas,Tamas · Kroṣṭu line,vp1112_prithushravas;vp1112_prithuyashas
+1316,12,vp18_brihatkarman,Bṛhatkarman · Aṅga branch · Viṣṇu Purāṇa 4.18 witness,vp18_brihadratha
+1317,12,vp18_titikshu,Titikṣu · Viṣṇu Purāṇa 4.18 witness,vp18_mahamanas
+1318,12,vp18_ushinara,Uśīnara · Viṣṇu Purāṇa 4.18 witness,vp18_mahamanas
+1319,12,vp19_drdhahanu,Dṛḍhahanu · Senajit branch · Viṣṇu Purāṇa 4.19 witness,vp19_senajit
+1320,12,vp19_kashya_senajit,Kāśya · Senajit branch · Viṣṇu Purāṇa 4.19 witness,vp19_senajit
+1321,12,vp19_ruchirashva,Rucirāśva · Senajit branch · Viṣṇu Purāṇa 4.19 witness,vp19_senajit
+1322,12,vp19_sannatimant,Sannatimant · Viṣṇu Purāṇa 4.19 witness,vp19_sumati_dvimidha
+1323,12,vp19_vatsahanu,Vatsahanu · Senajit branch · Viṣṇu Purāṇa 4.19 witness,vp19_senajit
+1324,12,vp19end_brihadishu_haryashva,Bṛhadiṣu · Haryaśva branch · Viṣṇu Purāṇa 4.19 witness,vp19end_haryashva
+1325,12,vp19end_kampilya,Kāmpilya · Haryaśva branch · Viṣṇu Purāṇa 4.19 witness,vp19end_haryashva
+1326,12,vp19end_krtaka,Kṛtaka · Cyavana branch · Viṣṇu Purāṇa 4.19 witness,vp19end_cyavana_suhotra
+1327,12,vp19end_mudgala,Mudgala · Haryaśva branch · Viṣṇu Purāṇa 4.19 witness,vp19end_haryashva
+1328,12,vp19end_pravira_haryashva,Pravīra · Haryaśva branch · Viṣṇu Purāṇa 4.19 witness,vp19end_haryashva
+1329,12,vp19end_srinjaya,Sṛñjaya · Haryaśva branch · Viṣṇu Purāṇa 4.19 witness,vp19end_haryashva
+1330,12,vp20_sarvabhauma,Sārvabhauma · Viṣṇu Purāṇa 4.20 witness,vp20_viduratha
+1331,12,vp35_amshumant,Aṃśumant · Viṣṇu Purāṇa 4.3–5 witness,vp35_asamanjas
+1332,12,vp35_krtaratha_videha,Kṛtaratha · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_pratibandhaka
+1333,12,vp35_kshemari_videha,Kṣemāri · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_sanjaya_videha
+1334,12,vp4_15_carudesna,Cārudeṣṇa · Viṣṇu Purāṇa 4.15 witness,vp4_15_kṛṣṇa
+1335,12,vp4_15_marshimant,Mārṣimant · Viṣṇu Purāṇa 4.15 witness,vp4_15_sarana
+1336,12,vp4_15_marshti,Mārṣṭi · Viṣṇu Purāṇa 4.15 witness,vp4_15_sarana
+1337,12,vp4_15_nisatha,Niśaṭha · Viṣṇu Purāṇa 4.15 witness,vp4_15_balarama;vp4_15_revati
+1338,12,vp4_15_pradyumna,Pradyumna · Viṣṇu Purāṇa 4.15 witness,vp4_15_kṛṣṇa
+1339,12,vp4_15_samba,Sāmba · Viṣṇu Purāṇa 4.15 witness,vp4_15_jambavati;vp4_15_kṛṣṇa
+1340,12,vp4_15_satyadhṛti,Satyadhṛti · Viṣṇu Purāṇa 4.15 witness,vp4_15_sarana
+1341,12,vp4_15_shishi,Śiśi · Viṣṇu Purāṇa 4.15 witness,vp4_15_sarana
+1342,12,vp4_15_shishu,Śiśu · Viṣṇu Purāṇa 4.15 witness,vp4_15_sarana
+1343,12,vp4_15_ulmuka,Ulmuka · Viṣṇu Purāṇa 4.15 witness,vp4_15_balarama;vp4_15_revati
+1344,12,vp4_17_pracetas,Pracetas · Viṣṇu Purāṇa 4.17 witness,vp4_17_durdama
+1345,12,vp4_kusha,Kuśa · Rāma’s son · Viṣṇu Purāṇa witness,rama
+1346,12,vp4_lava,Lava · Rāma’s son · Viṣṇu Purāṇa witness,rama
+1347,12,vp4_pushkara,Puṣkara · Bharata’s son · Viṣṇu Purāṇa witness,vp4_bharata_rama
+1348,12,vp4_subahu_satrughna,Subāhu · Śatrughna’s son · Viṣṇu Purāṇa witness,vp4_satrughna
+1349,12,vp4_surasena_satrughna,Śūrasena · Śatrughna’s son · Viṣṇu Purāṇa witness,vp4_satrughna
+1350,12,vp4_taksha,Takṣa · Bharata’s son · Viṣṇu Purāṇa witness,vp4_bharata_rama
+1351,12,vp67_satyavati,Satyavatī · daughter of Gādhi,vp67_gadhi
+1352,12,vp89_alarka,Alarka · Viṣṇu Purāṇa 4.8–9 witness,vp89_pratardana
+1353,12,vp89_sankriti,Saṃkṛti · Kṣatravṛddha branch · Viṣṇu Purāṇa 4.8–9 witness,vp89_jayatsena
+1354,12,vp_puru_samyati,Saṃyāti · Puru descendant · Puru-line witness,vp_bahugava
+1355,13,mb_adi_nxt_anu,Anu · son of Yayāti and Śarmiṣṭhā,mb_adi_nxt_yayāti;mb_adi_nxt_śarmiṣṭhā
+1356,13,mb_adi_nxt_druhyu,Druhyu · son of Yayāti and Śarmiṣṭhā,mb_adi_nxt_yayāti;mb_adi_nxt_śarmiṣṭhā
+1357,13,mb_adi_nxt_pūru,Pūru · son of Yayāti and Śarmiṣṭhā,mb_adi_nxt_yayāti;mb_adi_nxt_śarmiṣṭhā
+1358,13,mb_adi_nxt_turvasu,Turvasu · son of Yayāti and Devayānī,mb_adi_nxt_devayānī;mb_adi_nxt_yayāti
+1359,13,mb_adi_nxt_yadu,Yadu · son of Yayāti and Devayānī,mb_adi_nxt_devayānī;mb_adi_nxt_yayāti
+1360,13,sb4_havirdhana,Havirdhāna · son of Vijitāśva / Antardhāna and Nabhasvatī,sb4_nabhasvati;sb4_vijitasva
+1361,13,sb4_pavaka,Pāvaka · son of Agni and Svāhā,root_agni;sb4_shikhandini;sb4_svaha;sb4_vijitasva
+1362,13,sb4_pavamana,Pavamāna · son of Agni and Svāhā,root_agni;sb4_shikhandini;sb4_svaha;sb4_vijitasva
+1363,13,sb4_suchi,Śuci · son of Agni and Svāhā,root_agni;sb4_shikhandini;sb4_svaha;sb4_vijitasva
+1364,13,vp1112_bhadrasrenya,Bhadraśreṇya · Viṣṇu Purāṇa 4.11 witness,vp1112_mahishmant
+1365,13,vp1112_usanas,Uśanas · Kroṣṭu line,vp1112_tamas
+1366,13,vp18_brihadbhanu,Bṛhadbhānu · Viṣṇu Purāṇa 4.18 witness,vp18_brihatkarman
+1367,13,vp18_darva,Darva · Viṣṇu Purāṇa 4.18 witness,vp18_ushinara
+1368,13,vp18_krmi,Kṛmi · Viṣṇu Purāṇa 4.18 witness,vp18_ushinara
+1369,13,vp18_nara,Nara · Uśīnara branch · Viṣṇu Purāṇa 4.18 witness,vp18_ushinara
+1370,13,vp18_nrga,Nṛga · Viṣṇu Purāṇa 4.18 witness,vp18_ushinara
+1371,13,vp18_rushadratha,Ruṣadratha · Viṣṇu Purāṇa 4.18 witness,vp18_titikshu
+1372,13,vp18_shibi,Śibi · Viṣṇu Purāṇa 4.18 witness,vp18_ushinara
+1373,13,vp19_krita_dvimidha,Kṛta · Dvimīḍha branch · Viṣṇu Purāṇa 4.19 witness,vp19_sannatimant
+1374,13,vp19_prthusena,Pṛthusena · Viṣṇu Purāṇa 4.19 witness,vp19_ruchirashva
+1375,13,vp19end_uparicara_vasu,Uparicara Vasu · Kṛtaka branch · Viṣṇu Purāṇa 4.19 witness,vp19end_krtaka
+1376,13,vp19end_vadhyashva,Vadhyaśva · Mudgala branch · Viṣṇu Purāṇa 4.19 witness,vp19end_mudgala
+1377,13,vp20_jayasena,Jayasena · Viṣṇu Purāṇa 4.20 witness,vp20_sarvabhauma
+1378,13,vp35_anenas_videha,Anenas · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_kshemari_videha
+1379,13,vp35_dilipa_amshumant,Dilīpa · son of Aṃśumant · Viṣṇu Purāṇa 4.3–5 witness,vp35_amshumant
+1380,13,vp35_kriti_videha_1,"Kṛti · Videha line, earlier namesake · Viṣṇu Purāṇa 4.3–5 witness",vp35_krtaratha_videha
+1381,13,vp4_15_aniruddha,Aniruddha · Viṣṇu Purāṇa 4.15 witness,vp4_15_pradyumna
+1382,13,vp4_atithi,Atithi · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_kusha
+1383,13,vp67_jamadagni,Jamadagni · son of Satyavatī,vp67_rcika;vp67_satyavati
+1384,13,vp89_kshatradharman,Kṣatradharman · Viṣṇu Purāṇa 4.8–9 witness,vp89_sankriti
+1385,13,vp89_sannati,Sannati · son of Alarka · Viṣṇu Purāṇa 4.8–9 witness,vp89_alarka
+1386,13,vp_ahamyati,Ahaṃyāti · Puru-line witness,vp_puru_samyati
+1387,14,sb4_barhisat,Barhiṣat / Prācīnabarhi · son of Havirdhāna and Havirdhānī; also known as Prācīnabarhi,sb4_havirdhana;sb4_havirdhani
+1388,14,sb4_gaya_havirdhana,Gaya · son of Havirdhāna and Havirdhānī; kept distinct from Ulmuka’s son Gaya,sb4_havirdhana;sb4_havirdhani
+1389,14,sb4_jitavrata,Jitavrata · son of Havirdhāna and Havirdhānī,sb4_havirdhana;sb4_havirdhani
+1390,14,sb4_krishna_son,Kṛṣṇa · son of Havirdhāna and Havirdhānī,sb4_havirdhana;sb4_havirdhani
+1391,14,sb4_satya_son,Satya · son of Havirdhāna and Havirdhānī,sb4_havirdhana;sb4_havirdhani
+1392,14,sb4_sukla,Śukla · son of Havirdhāna and Havirdhānī,sb4_havirdhana;sb4_havirdhani
+1393,14,vp1112_durdama,Durdama · Viṣṇu Purāṇa 4.11 witness,vp1112_bhadrasrenya
+1394,14,vp1112_shitapu,Śitapu · Kroṣṭu line,vp1112_usanas
+1395,14,vp18_brihanmanas,Bṛhanmanas · Viṣṇu Purāṇa 4.18 witness,vp18_brihadbhanu
+1396,14,vp18_hema,Hema · Viṣṇu Purāṇa 4.18 witness,vp18_rushadratha
+1397,14,vp18_kaikeya,Kaikeya · Viṣṇu Purāṇa 4.18 witness,vp18_shibi
+1398,14,vp18_madraka,Madraka · Viṣṇu Purāṇa 4.18 witness,vp18_shibi
+1399,14,vp18_suvira,Suvīra · Śibi branch · Viṣṇu Purāṇa 4.18 witness,vp18_shibi
+1400,14,vp18_vrishadarbha,Vṛṣadarbha · Viṣṇu Purāṇa 4.18 witness,vp18_shibi
+1401,14,vp19_para_prthusena,Pāra · Pṛthusena branch · Viṣṇu Purāṇa 4.19 witness,vp19_prthusena
+1402,14,vp19_ugrayudha,Ugrāyudha · Viṣṇu Purāṇa 4.19 witness,vp19_krita_dvimidha
+1403,14,vp19end_ahalya,Ahalyā · Vadhyaśva branch · Viṣṇu Purāṇa 4.19 witness,vp19end_vadhyashva
+1404,14,vp19end_brihadratha,Bṛhadratha · Vasu branch · Viṣṇu Purāṇa 4.19 witness,vp19end_uparicara_vasu
+1405,14,vp19end_divodasa,Divodāsa · Vadhyaśva branch · Viṣṇu Purāṇa 4.19 witness,vp19end_vadhyashva
+1406,14,vp19end_kushamba,Kuśāmba · Vasu branch · Viṣṇu Purāṇa 4.19 witness,vp19end_uparicara_vasu
+1407,14,vp19end_matsya,Matsya · Vasu branch · Viṣṇu Purāṇa 4.19 witness,vp19end_uparicara_vasu
+1408,14,vp19end_mavella,Māvella · Vasu branch · Viṣṇu Purāṇa 4.19 witness,vp19end_uparicara_vasu
+1409,14,vp19end_pratyagra,Pratyagra · Vasu branch · Viṣṇu Purāṇa 4.19 witness,vp19end_uparicara_vasu
+1410,14,vp20_aradhita,Ārādhita · Viṣṇu Purāṇa 4.20 witness,vp20_jayasena
+1411,14,vp35_bhagiratha,Bhagīratha · Viṣṇu Purāṇa 4.3–5 witness,vp35_dilipa_amshumant
+1412,14,vp35_minaratha,Mīnaratha · Viṣṇu Purāṇa 4.3–5 witness,vp35_anenas_videha
+1413,14,vp35_vibudha_videha,Vibudha · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_kriti_videha_1
+1414,14,vp4_15_vajra,Vajra · Viṣṇu Purāṇa 4.15 witness,vp4_15_aniruddha
+1415,14,vp4_nishadha,Niṣadha · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_atithi
+1416,14,vp67_parashurama,Paraśurāma · son of Jamadagni and Reṇukā,mb2viii_jamadagnya;vp67_jamadagni;vp67_renuka
+1417,14,vp89_sunitha,Sunītha · Viṣṇu Purāṇa 4.8–9 witness,vp89_sannati
+1418,14,vp_raudrashva,Raudrāśva · Puru-line witness,vp_ahamyati
+1419,15,vp1112_dhanaka,Dhanaka · Viṣṇu Purāṇa 4.11 witness,vp1112_durdama
+1420,15,vp1112_rukmakavacha,Rukmakavaca · Kroṣṭu line,vp1112_shitapu
+1421,15,vp18_jayadratha,Jayadratha · Aṅga branch · Viṣṇu Purāṇa 4.18 witness,vp18_brihanmanas
+1422,15,vp18_sutapas,Sutapas · Bali branch · Viṣṇu Purāṇa 4.18 witness,vp18_hema
+1423,15,vp19_kshemya,Kṣemya · Ugrāyudha branch · Viṣṇu Purāṇa 4.19 witness,vp19_ugrayudha
+1424,15,vp19_nipa,Nīpa · Viṣṇu Purāṇa 4.19 witness,vp19_para_prthusena
+1425,15,vp19_raudrashva_dhaneyu,Dhaneyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness,vp_raudrashva
+1426,15,vp19_raudrashva_dharmeyu,Dharmeyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness,vp_raudrashva
+1427,15,vp19_raudrashva_dhrteyu,Dhṛteyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness,vp_raudrashva
+1428,15,vp19_raudrashva_jaleyu,Jalēyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness,vp_raudrashva
+1429,15,vp19_raudrashva_kaksheyu,Kakṣeyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness,vp_raudrashva
+1430,15,vp19_raudrashva_sannateyu,Sannateyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness,vp_raudrashva
+1431,15,vp19_raudrashva_sthaleyu,Sthaleyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness,vp_raudrashva
+1432,15,vp19_raudrashva_sthandileyu,Sthaṇḍileyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness,vp_raudrashva
+1433,15,vp19_raudrashva_vaneyu,Vaneyu · Raudrāśva branch · Viṣṇu Purāṇa 4.19 witness,vp_raudrashva
+1434,15,vp19end_jarasandha,Jarāsandha · Bṛhadratha branch · Viṣṇu Purāṇa 4.19 witness,vp19end_brihadratha
+1435,15,vp19end_kushagra,Kuśāgra · Bṛhadratha branch · Viṣṇu Purāṇa 4.19 witness,vp19end_brihadratha
+1436,15,vp19end_mitrayu,Mitrāyu · Divodāsa branch · Viṣṇu Purāṇa 4.19 witness,vp19end_divodasa
+1437,15,vp19end_shatananda,Śatānanda · Viṣṇu Purāṇa 4.19 witness,vp19end_ahalya;vp19end_sharadvat
+1438,15,vp20_ayutayu,Ayutāyu · Viṣṇu Purāṇa 4.20 witness,vp20_aradhita
+1439,15,vp35_mahadhrti,Mahādhṛti · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_vibudha_videha
+1440,15,vp35_satyaratha,Satyaratha · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_minaratha
+1441,15,vp35_shruta,Śruta · Sagara branch · Viṣṇu Purāṇa 4.3–5 witness,vp35_bhagiratha
+1442,15,vp4_15_pratibahu,Pratibāhu · Viṣṇu Purāṇa 4.15 witness,vp4_15_vajra
+1443,15,vp4_nala,Nala · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_nishadha
+1444,15,vp89_suketu,Suketu · Kāśī line · Viṣṇu Purāṇa 4.8–9 witness,vp89_sunitha
+1445,15,vp_rteyu,Ṛteyu · Puru-line witness,vp_raudrashva
+1446,16,vp1112_kritadharma,Kṛtadharma · Viṣṇu Purāṇa 4.11 witness,vp1112_dhanaka
+1447,16,vp1112_kritagni,Kṛtāgni · Viṣṇu Purāṇa 4.11 witness,vp1112_dhanaka
+1448,16,vp1112_kritaujas,Kṛtaujas · Viṣṇu Purāṇa 4.11 witness,vp1112_dhanaka
+1449,16,vp1112_kritavirya,Kṛtavīrya · Viṣṇu Purāṇa 4.11 witness,vp1112_dhanaka
+1450,16,vp1112_paravrit,Parāvṛt · Kroṣṭu line,vp1112_rukmakavacha
+1451,16,vp18_bali,Bali · son of Sutapas · Viṣṇu Purāṇa 4.18 witness,vp18_sutapas
+1452,16,vp18_vijaya,Vijaya · Aṅga branch · Viṣṇu Purāṇa 4.18 witness,vp18_jayadratha
+1453,16,vp19_samara,Samara · Nīpa branch · Viṣṇu Purāṇa 4.19 witness,vp19_nipa
+1454,16,vp19_su_vira,Suvīra · Kṣemya branch · Viṣṇu Purāṇa 4.19 witness,vp19_kshemya
+1455,16,vp19end_cyavana_mitrayu,Cyavana · Mitrāyu branch · Viṣṇu Purāṇa 4.19 witness,vp19end_mitrayu
+1456,16,vp19end_rishabha,Ṛṣabha · Kuśāgra branch · Viṣṇu Purāṇa 4.19 witness,vp19end_kushagra
+1457,16,vp19end_sahadeva_jarasandha,Sahadeva · Jarāsandha branch · Viṣṇu Purāṇa 4.19 witness,vp19end_jarasandha
+1458,16,vp19end_satyadhriti_panchala,Satyadhṛti · Śatānanda branch · Viṣṇu Purāṇa 4.19 witness,vp19end_shatananda
+1459,16,vp20_akrodhana,Akrodhana · Viṣṇu Purāṇa 4.20 witness,vp20_ayutayu
+1460,16,vp35_krtirata,Kṛtirāta · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_mahadhrti
+1461,16,vp35_nabhaga_sagara,Nābhāga · Sagara branch · Viṣṇu Purāṇa 4.3–5 witness,vp35_shruta
+1462,16,vp35_satyarathi,Sātyarathi · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_satyaratha
+1463,16,vp4_15_sucaru,Sucāru · Viṣṇu Purāṇa 4.15 witness,vp4_15_pratibahu
+1464,16,vp4_nabhas,Nabhas · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_nala
+1465,16,vp89_dharmaketu,Dharmaketu · Viṣṇu Purāṇa 4.8–9 witness,vp89_suketu
+1466,16,vp_rantinara,Rantināra · Puru-line witness,vp_rteyu
+1467,17,vp1112_harita,Harita · son of Parāvṛt,vp1112_paravrit
+1468,17,vp1112_jyamagha,Jyāmagha · son of Parāvṛt,vp1112_paravrit
+1469,17,vp1112_kartavirya_arjuna,Kārtavīrya Arjuna · son of Kṛtavīrya · Viṣṇu Purāṇa 4.11 witness,vp1112_kritavirya
+1470,17,vp1112_palita,Pālita · son of Parāvṛt,vp1112_paravrit
+1471,17,vp1112_prithu_paravrit,Pṛthu · son of Parāvṛt · son of Parāvṛt,vp1112_paravrit
+1472,17,vp1112_rukmeshu,Rukmeṣu · son of Parāvṛt,vp1112_paravrit
+1473,17,vp18_dhriti,Dhṛti · Aṅga branch · Viṣṇu Purāṇa 4.18 witness,vp18_vijaya
+1474,17,vp19_para_samara,Pāra · Samara branch · Viṣṇu Purāṇa 4.19 witness,vp19_samara
+1475,17,vp19_ripunjaya,Ripuṃjaya · Suvīra branch · Viṣṇu Purāṇa 4.19 witness,vp19_su_vira
+1476,17,vp19_sadasva,Sadaśva · Samara branch · Viṣṇu Purāṇa 4.19 witness,vp19_samara
+1477,17,vp19_supara,Supāra · Samara branch · Viṣṇu Purāṇa 4.19 witness,vp19_samara
+1478,17,vp19end_pushpavant,Puṣpavant · Ṛṣabha branch · Viṣṇu Purāṇa 4.19 witness,vp19end_rishabha
+1479,17,vp19end_somapi,Somapi · Sahadeva branch · Viṣṇu Purāṇa 4.19 witness,vp19end_sahadeva_jarasandha
+1480,17,vp19end_sudasa,Sudāsa · Cyavana branch · Viṣṇu Purāṇa 4.19 witness,vp19end_cyavana_mitrayu
+1481,17,vp20_devatithi,Devātithi · Viṣṇu Purāṇa 4.20 witness,vp20_akrodhana
+1482,17,vp35_ambarisha_sagara,Ambarīṣa · Sagara branch · Viṣṇu Purāṇa 4.3–5 witness,vp35_nabhaga_sagara
+1483,17,vp35_maharoman,Mahāroman · Viṣṇu Purāṇa 4.3–5 witness,vp35_krtirata
+1484,17,vp35_upagu_videha,Upagu · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_satyarathi
+1485,17,vp4_pundarika,Puṇḍarīka · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_nabhas
+1486,17,vp89_satyaketu,Satyaketu · Viṣṇu Purāṇa 4.8–9 witness,vp89_dharmaketu
+1487,17,vp_apratiratha,Apratiratha · Puru-line witness,vp_rantinara
+1488,17,vp_dhruva,Dhruva · Puru-line witness,vp_rantinara
+1489,17,vp_sumati,Sumati · Puru-line witness,vp_rantinara
+1490,18,vp1112_jayadhvaja,Jayadhvaja · Viṣṇu Purāṇa 4.11 witness,vp1112_kartavirya_arjuna
+1491,18,vp1112_madhu_kartavirya,Madhu · son of Kārtavīrya Arjuna · Viṣṇu Purāṇa 4.11 witness,vp1112_kartavirya_arjuna
+1492,18,vp1112_shura,Śūra · son of Kārtavīrya Arjuna · Viṣṇu Purāṇa 4.11 witness,vp1112_kartavirya_arjuna
+1493,18,vp1112_shurasena,Śūrasena · son of Kārtavīrya Arjuna · Viṣṇu Purāṇa 4.11 witness,vp1112_kartavirya_arjuna
+1494,18,vp1112_vidarbha,Vidarbha · son of Jyāmagha and Śaibyā · Viṣṇu Purāṇa 4.12 witness,vp1112_jyamagha;vp1112_shaibya
+1495,18,vp1112_vrishana,Vṛṣaṇa · son of Kārtavīrya Arjuna · Viṣṇu Purāṇa 4.11 witness,vp1112_kartavirya_arjuna
+1496,18,vp18_dhritavrata,Dhṛtivrata · Viṣṇu Purāṇa 4.18 witness,vp18_dhriti
+1497,18,vp19_bahuratha,Bahuratha · Ripuṃjaya branch · Viṣṇu Purāṇa 4.19 witness,vp19_ripunjaya
+1498,18,vp19_prthu_supara,Pṛthu · Supāra branch · Viṣṇu Purāṇa 4.19 witness,vp19_para_samara
+1499,18,vp19end_satyahita,Satyahita · Puṣpavant branch · Viṣṇu Purāṇa 4.19 witness,vp19end_pushpavant
+1500,18,vp19end_saudasa,Saudāsa · Sudāsa branch · Viṣṇu Purāṇa 4.19 witness,vp19end_sudasa
+1501,18,vp19end_shrutaśravas,Śrutaśravas · Somapi branch · Viṣṇu Purāṇa 4.19 witness,vp19end_somapi
+1502,18,vp20_riksha_devatithi,Ṛkṣa · Devātithi branch · Viṣṇu Purāṇa 4.20 witness,vp20_devatithi
+1503,18,vp35_shashvata,Śāśvata · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_upagu_videha
+1504,18,vp35_sindhudvipa,Sindhudvīpa · Viṣṇu Purāṇa 4.3–5 witness,vp35_ambarisha_sagara
+1505,18,vp35_suvarnaroman,Suvarṇaroman · Viṣṇu Purāṇa 4.3–5 witness,vp35_maharoman
+1506,18,vp4_kshemadhanvan,Kṣemadhanvan · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_pundarika
+1507,18,vp89_vibhu,Vibhu · Kāśī line · Viṣṇu Purāṇa 4.8–9 witness,vp89_satyaketu
+1508,18,vp_ailina,Ailīna · Puru-line witness,vp_apratiratha
+1509,18,vp_kanva,Kaṇva · Puru-line witness,vp_apratiratha
+1510,19,vp1112_kaisika_vidarbha,Kaiśika · son of Vidarbha · Viṣṇu Purāṇa 4.12 witness,vp1112_vidarbha
+1511,19,vp1112_kratha,Kratha · son of Vidarbha · Viṣṇu Purāṇa 4.12 witness,vp1112_vidarbha
+1512,19,vp1112_romapada,Romapāda · son of Vidarbha · Viṣṇu Purāṇa 4.12 witness,vp1112_vidarbha
+1513,19,vp1112_talajangha,Tālajaṅgha · Viṣṇu Purāṇa 4.11 witness,vp1112_jayadhvaja
+1514,19,vp18_satyakarman,Satyakarman · Aṅga branch · Viṣṇu Purāṇa 4.18 witness,vp18_dhritavrata
+1515,19,vp19_sukriti,Sukṛti · Pṛthu branch · Viṣṇu Purāṇa 4.19 witness,vp19_prthu_supara
+1516,19,vp19end_sahadeva_saudasa,Sahadeva · Saudāsa branch · Viṣṇu Purāṇa 4.19 witness,vp19end_saudasa
+1517,19,vp19end_sudhanvan,Sudhanvan · Satyahita branch · Viṣṇu Purāṇa 4.19 witness,vp19end_satyahita
+1518,19,vp20_bhimasena_riksha,Bhīmasena · Ṛkṣa branch · Viṣṇu Purāṇa 4.20 witness,vp20_riksha_devatithi
+1519,19,vp35_ayutayu,Ayutāyu · Sagara branch · Viṣṇu Purāṇa 4.3–5 witness,vp35_sindhudvipa
+1520,19,vp35_hrasvaroman,Hrasvaroman · Viṣṇu Purāṇa 4.3–5 witness,vp35_suvarnaroman
+1521,19,vp35_sudhanvan_videha,Sudhanvan · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_shashvata
+1522,19,vp4_devanika,Devānīka · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_kshemadhanvan
+1523,19,vp89_suvibhu,Suvibhu · Viṣṇu Purāṇa 4.8–9 witness,vp89_vibhu
+1524,19,vp_dushyanta,Duṣyanta · Puru-line witness,vp_ailina
+1525,19,vp_medhatithi,Medhātithi · Puru-line witness,vp_kanva
+1526,20,vp1112_babhru,Babhru · son of Romapāda · Viṣṇu Purāṇa 4.12 witness,vp1112_romapada
+1527,20,vp1112_bharata_talajangha,Bharata · son of Tālajaṅgha · Viṣṇu Purāṇa 4.11 witness,vp1112_talajangha
+1528,20,vp1112_kunti_kratha,Kunti · Kratha branch · Viṣṇu Purāṇa 4.12 witness,vp1112_kratha
+1529,20,vp1112_vitihotra,Vītahotra · son of Tālajaṅgha · Viṣṇu Purāṇa 4.11 witness,vp1112_talajangha
+1530,20,vp18_adhiratha,Adhiratha · Aṅga branch · Viṣṇu Purāṇa 4.18 witness,vp18_satyakarman
+1531,20,vp19_vibhraja,Vibhrāja · Viṣṇu Purāṇa 4.19 witness,vp19_sukriti
+1532,20,vp19end_jantu_brihadratha,Jantu · Sudhanvan branch · Viṣṇu Purāṇa 4.19 witness,vp19end_sudhanvan
+1533,20,vp19end_somaka,Somaka · Sahadeva branch · Viṣṇu Purāṇa 4.19 witness,vp19end_sahadeva_saudasa
+1534,20,vp20_dilipa,Dilīpa · Bhīmasena branch · Viṣṇu Purāṇa 4.20 witness,vp20_bhimasena_riksha
+1535,20,vp35_rtuparna,Ṛtuparṇa · Viṣṇu Purāṇa 4.3–5 witness,vp35_ayutayu
+1536,20,vp35_siradhvaja,Sīradhvaja · Viṣṇu Purāṇa 4.3–5 witness,vp35_hrasvaroman
+1537,20,vp35_subhasha_videha,Subhāṣa · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_sudhanvan_videha
+1538,20,vp4_ahinagu,Ahīnagu · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_devanika
+1539,20,vp89_sukumara,Sukumāra · Viṣṇu Purāṇa 4.8–9 witness,vp89_suvibhu
+1540,20,vp_bharata,Bharata · Puru-line witness,mb_adi_nxt_śakuntalā;vp_dushyanta
+1541,21,vp1112_dhriti,Dhṛti · son of Babhru · Viṣṇu Purāṇa 4.12 witness,vp1112_babhru
+1542,21,vp1112_sujata,Sujāta · son of Bharata · Viṣṇu Purāṇa 4.11 witness,vp1112_bharata_talajangha
+1543,21,vp1112_vrisha_bharata,Vṛṣa · son of Bharata · Viṣṇu Purāṇa 4.11 witness,vp1112_bharata_talajangha
+1544,21,vp1112_vrishni_kunti,Vṛṣṇi · Kunti branch · Viṣṇu Purāṇa 4.12 witness,vp1112_kunti_kratha
+1545,21,vp19_anuha,Aṇuha · Viṣṇu Purāṇa 4.19 witness,vp19_vibhraja
+1546,21,vp19end_jantu_somaka,Jantu · Somaka branch · Viṣṇu Purāṇa 4.19 witness,vp19end_somaka
+1547,21,vp19end_prishata,Pṛṣata · Somaka branch · Viṣṇu Purāṇa 4.19 witness,vp19end_somaka
+1548,21,vp20_pratipa,Pratīpa · Dilīpa branch · Viṣṇu Purāṇa 4.20 witness,vp20_dilipa
+1549,21,vp35_sarvakama,Sarvakāma · Viṣṇu Purāṇa 4.3–5 witness,vp35_rtuparna
+1550,21,vp35_susruta_videha,Suśruta · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_subhasha_videha
+1551,21,vp4_ruru,Ruru · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_ahinagu
+1552,21,vp89_dhrishtaketu,Dhṛṣṭaketu · Kāśī line · Viṣṇu Purāṇa 4.8–9 witness,vp89_sukumara
+1553,22,vp1112_kaisika_dhriti,Kaiśika · son of Dhṛti · Viṣṇu Purāṇa 4.12 witness,vp1112_dhriti
+1554,22,vp1112_madhu_vrisha,Madhu · son of Vṛṣa · Viṣṇu Purāṇa 4.11 witness,vp1112_vrisha_bharata
+1555,22,vp1112_nirvriti,Nirvṛti · Viṣṇu Purāṇa 4.12 witness,vp1112_vrishni_kunti
+1556,22,vp19_brahmadatta,Brahmadatta · Viṣṇu Purāṇa 4.19 witness,vp19_anuha
+1557,22,vp19end_drupada,Drupada · Pṛṣata branch · Viṣṇu Purāṇa 4.19 witness,vp19end_prishata
+1558,22,vp19end_shantanu,Śāṃtanu · Viṣṇu Purāṇa 4.19 witness,vp20_pratipa
+1559,22,vp20_bahlika,Bāhlīka · Pratīpa branch · Viṣṇu Purāṇa 4.20 witness,vp20_pratipa
+1560,22,vp20_devapi,Devāpi · Pratīpa branch · Viṣṇu Purāṇa 4.20 witness,vp20_pratipa
+1561,22,vp35_jaya_videha,Jaya · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_susruta_videha
+1562,22,vp35_sudasa_sagara,Sudāsa · Sagara branch · Viṣṇu Purāṇa 4.3–5 witness,vp35_sarvakama
+1563,22,vp4_pariyatra,Pāriyātra · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_ruru
+1564,22,vp89_vainahotra,Vainahotra · Viṣṇu Purāṇa 4.8–9 witness,vp89_dhrishtaketu
+1565,23,mb5_udyoga_satyajit,Satyajit · one of Drupada’s named sons · Mahābhārata Udyoga Parva §§LVII–LVIII witness,vp19end_drupada
+1566,23,mb_adi_inc_dhrshtadyumna_human_incarnation,Dhṛṣṭadyumna · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness,mb5_udyoga_prishata;mb_adi_inc_drupada_human_incarnation;vp19end_drupada
+1567,23,vp1112_cedi,Cedi · son of Kaiśika · Viṣṇu Purāṇa 4.12 witness,vp1112_kaisika_dhriti
+1568,23,vp1112_dasarha,Daśārha · Viṣṇu Purāṇa 4.12 witness,vp1112_nirvriti
+1569,23,vp1112_vrishni_madhu,Vṛṣṇi · son of Madhu · Viṣṇu Purāṇa 4.11 witness,vp1112_madhu_vrisha
+1570,23,vp19_visvaksena,Viṣvaksena · Viṣṇu Purāṇa 4.19 witness,vp19_brahmadatta
+1571,23,vp19end_dhrishtadyumna,Dhṛṣṭadyumna · Viṣṇu Purāṇa 4.19 witness,vp19end_drupada
+1572,23,vp20_bhishma,Bhīṣma · Gaṅgā branch · Viṣṇu Purāṇa 4.20 witness,vp19end_shantanu;vp20_ganga
+1573,23,vp20_chitrangada_royal,Citrāṅgada · Śāṃtanu’s son · Viṣṇu Purāṇa 4.20 witness,vp19end_shantanu;vp20_satyavati
+1574,23,vp20_somadatta,Somadatta · Bāhlīka branch · Viṣṇu Purāṇa 4.20 witness,vp20_bahlika
+1575,23,vp20_vicitravirya,Vicitravīrya · Śāṃtanu’s son · Viṣṇu Purāṇa 4.20 witness,vp19end_shantanu;vp20_satyavati
+1576,23,vp35_saudasa,Saudāsa / Mitrasaha / Kalmāṣapāda · Viṣṇu Purāṇa 4.3–5 witness,vp35_sudasa_sagara
+1577,23,vp35_vijaya_videha,Vijaya · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_jaya_videha
+1578,23,vp4_dala,Dala · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_pariyatra
+1579,23,vp89_bharga,Bhārga · Viṣṇu Purāṇa 4.8–9 witness,vp89_vainahotra
+1580,24,vp1112_vyoma,Vyoma · Viṣṇu Purāṇa 4.12 witness,vp1112_dasarha
+1581,24,vp19_udaksena,Udaksena · Viṣṇu Purāṇa 4.19 witness,vp19_visvaksena
+1582,24,vp19end_dhrishtaketu,Dhṛṣṭaketu · Viṣṇu Purāṇa 4.19 witness,vp19end_dhrishtadyumna
+1583,24,vp20_bhuri,Bhūri · Somadatta branch · Viṣṇu Purāṇa 4.20 witness,vp20_somadatta
+1584,24,vp20_bhurishravas,Bhūriśravas · Somadatta branch · Viṣṇu Purāṇa 4.20 witness,vp20_somadatta
+1585,24,vp20_shalya,Śalya · Somadatta branch · Viṣṇu Purāṇa 4.20 witness,vp20_somadatta
+1586,24,vp35_rta_videha,Ṛta · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_vijaya_videha
+1587,24,vp4_chala,Chala · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_dala
+1588,24,vp89_bhargabhumi,Bhārgabhūmi · Viṣṇu Purāṇa 4.8–9 witness,vp89_bharga
+1589,25,vp1112_jimuta,Jīmūta · Viṣṇu Purāṇa 4.12 witness,vp1112_vyoma
+1590,25,vp19_bhallata,Bhallāṭa · Viṣṇu Purāṇa 4.19 witness,vp19_udaksena
+1591,25,vp35_sunaya_videha,Sunaya · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_rta_videha
+1592,25,vp4_uktha,Uktha · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_chala
+1593,26,vp1112_vikriti,Vikṛti · Viṣṇu Purāṇa 4.12 witness,vp1112_jimuta
+1594,26,vp35_vitahavya_videha,Vītahavya · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_sunaya_videha
+1595,26,vp4_vajranabha,Vajranābha · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_uktha
+1596,27,vp1112_bhimaratha,Bhīmaratha · Kunti branch · Viṣṇu Purāṇa 4.12 witness,vp1112_vikriti
+1597,27,vp35_dhriti_videha,Dhṛti · Videha line · Viṣṇu Purāṇa 4.3–5 witness,vp35_vitahavya_videha
+1598,27,vp4_sankhanabha,Śaṅkhanābha · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_vajranabha
+1599,28,vp1112_navaratha,Navaratha · Viṣṇu Purāṇa 4.12 witness,vp1112_bhimaratha
+1600,28,vp35_bahulashva,Bahulāśva · Viṣṇu Purāṇa 4.3–5 witness,vp35_dhriti_videha
+1601,28,vp4_vyutthitasva,Vyutthitāśva · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_sankhanabha
+1602,29,vp1112_dasaratha,Daśaratha · Kunti branch · Viṣṇu Purāṇa 4.12 witness,vp1112_navaratha
+1603,29,vp35_kriti_videha_terminal,Kṛti · terminal Videha king · Viṣṇu Purāṇa 4.3–5 witness,vp35_bahulashva
+1604,29,vp4_visvasaha,Viśvasaha · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_vyutthitasva
+1605,30,vp1112_shakuni,Śakuni · Viṣṇu Purāṇa 4.12 witness,vp1112_dasaratha
+1606,30,vp4_hiranyanabha,Hiraṇyanābha · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_visvasaha
+1607,31,vp1112_karambhi,Karambhi · Viṣṇu Purāṇa 4.12 witness,vp1112_shakuni
+1608,31,vp4_pushya,Puṣya · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_hiranyanabha
+1609,32,vp1112_devarata,Devarāta · Kunti branch · Viṣṇu Purāṇa 4.12 witness,vp1112_karambhi
+1610,32,vp4_dhruvasamdhi,Dhruvasaṃdhi · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_pushya
+1611,33,vp1112_devakshatra,Devakṣatra · Viṣṇu Purāṇa 4.12 witness,vp1112_devarata
+1612,33,vp4_sudarsana,Sudarśana · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_dhruvasamdhi
+1613,34,vp1112_madhu_satvata_line,Madhu · Kunti branch · Viṣṇu Purāṇa 4.12 witness,vp1112_devakshatra
+1614,34,vp4_agnivarna,Agnivarṇa · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_sudarsana
+1615,35,vp1112_anavaratha,Anavaratha · Viṣṇu Purāṇa 4.12 witness,vp1112_madhu_satvata_line
+1616,35,vp4_sighraga,Śīghraga · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_agnivarna
+1617,36,vp1112_kuruvatsa,Kuruvatsa · Viṣṇu Purāṇa 4.12 witness,vp1112_anavaratha
+1618,36,vp4_maru,Maru · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_sighraga
+1619,37,vp1112_anuratha,Anuratha · Viṣṇu Purāṇa 4.12 witness,vp1112_kuruvatsa
+1620,37,vp4_prasusruta,Prasuśruta · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_maru
+1621,38,vp1112_puruhotra,Puruhotra · Viṣṇu Purāṇa 4.12 witness,vp1112_anuratha
+1622,38,vp4_susandhi,Susandhi · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_prasusruta
+1623,39,vp1112_amshu,Aṃśu · Viṣṇu Purāṇa 4.12 witness,vp1112_puruhotra
+1624,39,vp4_amarsa,Amarṣa · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_susandhi
+1625,40,vp1112_satvata,Satvata · Viṣṇu Purāṇa 4.12 witness,vp1112_amshu
+1626,40,vp4_mahasvant,Mahasvant · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_amarsa
+1627,41,vp4_visrutavant,Viśrutavant · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_mahasvant
+1628,42,vp4_brihadbala,Bṛhadbala · Rāma-line witness in Viṣṇu Purāṇa 4.4,vp4_visrutavant

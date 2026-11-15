@@ -16,6 +16,7 @@ This repository traces people, places, and textual witnesses connected to Agasty
 - [Jāmbavant deep dive](research/jambavant/README.md): new passage records, narrative connections, duration variants, and identity-sensitive bridge tests.
 - [Distant-pair experiments](research/distant-pairs/FINDINGS.md): exact graph extremes, disconnected records, and source-backed connection searches.
 - [Maximum-weight independent sets](research/mwis/FINDINGS.md): certified solutions under explicit weights, with shared-neighbor and shortlist controls.
+- [Topological ordering](research/topology/README.md): ancestry layers, mixed-relation cycle audit, and the distinction from narrative chronology.
 
 Open the HTML files locally in a browser. The WebGL views use the bundled JavaScript in `research/agastya/vendor/` and do not require a server.
 
