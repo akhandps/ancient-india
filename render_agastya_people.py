@@ -16,8 +16,9 @@ for name in ('vedic', 'epic', 'tamil', 'reception', 'vedic_three_hops', 'epic_th
     for item in batch.get('person_notes', []):
         notes.setdefault(item['person_id'], []).append(item)
 
-extension = json.loads((ROOT / 'expansion/jambavant_deep_dive.json').read_text())
-logs.append({'batch': 'jambavant_deep_dive', 'search_log': extension.get('search_log', [])})
+for name in ['jambavant_deep_dive', 'distance_bridges']:
+    extension = json.loads((ROOT / 'expansion' / f'{name}.json').read_text())
+    logs.append({'batch': name, 'search_log': extension.get('search_log', [])})
 
 def sortkey(n):
     return n['label'].casefold()

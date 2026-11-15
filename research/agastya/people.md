@@ -1,6 +1,6 @@
 # People around Agastya
 
-3232 person-like nodes in 4235 passage claims. A direct claim names a source-local Agastya facet as an endpoint. Context claims connect other figures in the same source tradition. Neither kind proves a historical meeting.
+3232 person-like nodes in 4243 passage claims. A direct claim names a source-local Agastya facet as an endpoint. Context claims connect other figures in the same source tradition. Neither kind proves a historical meeting.
 
 Claim status is a review level: `translation_checked` concerns a translated text, `source_text_checked` concerns the Sanskrit text, `editorial_attribution` marks assigned speakers or authors, `scholarly_report` is second-hand, and `identity_hypothesis` is a proposed identification.
 
@@ -12,7 +12,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Abhibhū · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177)](#mb_adi_early_abhibhu) — 0 direct, 3 contextual
 - [Abhijit · Viṣṇu Purāṇa 4.14 witness](#vp4_14_abhijit) — 0 direct, 2 contextual
 - [Abhimanyu · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_abhimanyu_human_incarnation) — 0 direct, 49 contextual
-- [Abhimanyu · Viṣṇu Purāṇa 4.20 witness](#vp20_abhimanyu) — 0 direct, 3 contextual
+- [Abhimanyu · Viṣṇu Purāṇa 4.20 witness](#vp20_abhimanyu) — 0 direct, 4 contextual
 - [Abhimati · Śrīmad-Bhāgavatam 6.6–6.7 witness](#sb6_abhimati) — 0 direct, 4 contextual
 - [Abhīru · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_abhiru) — 0 direct, 1 contextual
 - [Achala · named among the guests · Mahābhārata Sabha Parva §§XXXIII–XXXVI witness](#mb2xxx_achala) — 0 direct, 1 contextual
@@ -114,7 +114,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Antarikṣa · Viṣṇu Purāṇa 4.22 future-lineage witness](#vp22_antariksha) — 0 direct, 2 contextual
 - [Anu · son of Yayāti and Śarmiṣṭhā](#mb_adi_nxt_anu) — 0 direct, 4 contextual
 - [Anu · Viṣṇu Purāṇa witness](#vp_anu) — 0 direct, 6 contextual
-- [Anubṛhadratha · Viṣṇu Purāṇa 4.24 future-dynasty witness](#vp24_anubrihadratha) — 0 direct, 1 contextual
+- [Anubṛhadratha · Viṣṇu Purāṇa 4.24 future-dynasty witness](#vp24_anubrihadratha) — 0 direct, 2 contextual
 - [Anuhrāda · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_anuhrada) — 0 direct, 2 contextual
 - [Anumati · daughter of Aṅgirā and Śraddhā](#sb4_anumati) — 0 direct, 2 contextual
 - [Anuparāja · Kṣatriya visitor · Mahābhārata Sabha Parva §IV, p. 7 roster witness](#mb2iv_anuparaja) — 0 direct, 1 contextual
@@ -417,9 +417,9 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Bṛhadbala (Gāndhāra prince) · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177)](#mb_adi_early_brhadbala_gandhara_prince) — 0 direct, 1 contextual
 - [Bṛhadbala (Kaurava attendee) · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177)](#mb_adi_early_brhadbala_kaurava_attendee) — 0 direct, 1 contextual
 - [Bṛhadbala (Ādiparvan 1.177.15)](#mb_adi_latermore_brhadbala_of_the_sibi_line) — 0 direct, 1 contextual
-- [Bṛhadbala · Ikṣvāku branch · Viṣṇu Purāṇa 4.22 future-lineage witness](#vp22_brihadbala) — 0 direct, 1 contextual
+- [Bṛhadbala · Ikṣvāku branch · Viṣṇu Purāṇa 4.22 future-lineage witness](#vp22_brihadbala) — 0 direct, 2 contextual
 - [Bṛhadbala · Kosala king killed by Abhimanyu in Droṇaparvan 7.46 (distinct from similarly named attendees in Ādiparvan)](#mb_battle_brhadbala_kosala) — 0 direct, 3 contextual
-- [Bṛhadbala · Rāma-line witness in Viṣṇu Purāṇa 4.4](#vp4_brihadbala) — 0 direct, 1 contextual
+- [Bṛhadbala · Rāma-line witness in Viṣṇu Purāṇa 4.4](#vp4_brihadbala) — 0 direct, 3 contextual
 - [Bṛhadbala · son of the king of Gandhāra, svayaṃvara attendee](#mb_adi_early_brhadbala_gandhara) — 0 direct, 2 contextual
 - [Bṛhadbhānu · named in the Vivasvat–Devabhrāṭ solar genealogy](#mb_adi_nxt_bṛhadbhānu) — 0 direct, 1 contextual
 - [Bṛhadbhānu · Viṣṇu Purāṇa 4.18 witness](#vp18_brihadbhanu) — 0 direct, 2 contextual
@@ -1113,7 +1113,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Kauśika · sage in Yudhiṣṭhira’s court · Mahābhārata Sabha Parva §IV, p. 7 roster witness](#mb2iv_kausika) — 0 direct, 1 contextual
 - [Kauśika · Viṣṇu Purāṇa 4.15 witness](#vp4_15_kaushika) — 0 direct, 2 contextual
 - [Kauṇḍinya · Mahābhārata Sabha Parva §IV, p. 7 roster witness](#mb2iv_kaundinya) — 0 direct, 1 contextual
-- [Kauṭilya · Viṣṇu Purāṇa 4.24 future-dynasty witness](#vp24_kautilya) — 0 direct, 1 contextual
+- [Kauṭilya · Viṣṇu Purāṇa 4.24 future-dynasty witness](#vp24_kautilya) — 0 direct, 3 contextual
 - [Kavacin · Dhṛtarāṣṭra’s son in the CE birth-order roster](#mb_adi_royal_son_v11_05) — 0 direct, 1 contextual
 - [Kavera Kanni · prophesied birth in Maṇimēkalai](#tamil_kavera_kanni) — 0 direct, 2 contextual
 - [Kavi · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_kavi) — 0 direct, 2 contextual
@@ -1399,7 +1399,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Mahāmanas · Viṣṇu Purāṇa 4.18 witness](#vp18_mahamanas) — 0 direct, 3 contextual
 - [Mahān · Śrīmad-Bhāgavatam 6.6–6.7 witness](#sb6_mahan) — 0 direct, 1 contextual
 - [Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness](#vp24_mahanandin) — 0 direct, 2 contextual
-- [Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness](#vp24_mahapadma_nanda) — 0 direct, 2 contextual
+- [Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness](#vp24_mahapadma_nanda) — 0 direct, 6 contextual
 - [Mahāpārśva · Varuṇa’s assembly (Daitya/Daṇava roster)](#mb2ix_asura_mahaparswa) — 0 direct, 1 contextual
 - [Mahāroman · Viṣṇu Purāṇa 4.3–5 witness](#vp35_maharoman) — 0 direct, 2 contextual
 - [Mahāvīra · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_mahavira) — 0 direct, 1 contextual
@@ -1664,7 +1664,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Panasa · monkey troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness](#ram6_panasa) — 0 direct, 1 contextual
 - [Paramekṣu · Viṣṇu Purāṇa 4.18 witness](#vp18_paramekshu) — 0 direct, 1 contextual
 - [Paraśurāma · Maṇimēkalai witness](#tamil_parasurama) — 0 direct, 1 contextual
-- [Paraśurāma · son of Jamadagni and Reṇukā](#vp67_parashurama) — 0 direct, 6 contextual
+- [Paraśurāma · son of Jamadagni and Reṇukā](#vp67_parashurama) — 0 direct, 8 contextual
 - [Paraśurāma · Śrīmad-Bhāgavatam Canto 8 witness](#sb8_13_sage8_parasurama) — 0 direct, 1 contextual
 - [Parijāta · companion of Nārada in Sabha Parva §V · Mahābhārata Sabha Parva §V](#mb2v_parijata) — 0 direct, 1 contextual
 - [Pariplava · Viṣṇu Purāṇa 4.21 future-lineage witness](#vp21_pariplava) — 0 direct, 2 contextual
@@ -1836,7 +1836,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Puṣkariṇī · wife of Ulmuka; kept separate from Vyuṣṭa’s wife of the same name](#sb4_pushkarini_ulmuka) — 0 direct, 7 contextual
 - [Puṣkariṇī · wife of Vyuṣṭa and mother of Sarvatejā](#sb4_pushkarini_vyushta) — 0 direct, 2 contextual
 - [Puṣpadaṃṣṭra · principal serpent · Ādiparvan 1.31](#mb_adi_kadru_pushpadamshtra) — 0 direct, 1 contextual
-- [Puṣpamitra · Viṣṇu Purāṇa 4.24 future-dynasty witness](#vp24_pushpamitra) — 0 direct, 1 contextual
+- [Puṣpamitra · Viṣṇu Purāṇa 4.24 future-dynasty witness](#vp24_pushpamitra) — 0 direct, 2 contextual
 - [Puṣpavant · Ṛṣabha branch · Viṣṇu Purāṇa 4.19 witness](#vp19end_pushpavant) — 0 direct, 2 contextual
 - [Puṣpānana · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23](#mb2_x_pushpanana) — 0 direct, 1 contextual
 - [Puṣpārṇa · son of Vatsara and Svarvīthi](#sb4_pushparna) — 0 direct, 10 contextual
@@ -2063,7 +2063,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Sat · gandharva named at Arjuna’s birth](#mb_adi_later_birth_gandharva_gandharva_17) — 0 direct, 1 contextual
 - [Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness](#vp4_13_satrajita) — 0 direct, 11 contextual
 - [Satrāyaṇa · Śrīmad-Bhāgavatam Canto 8 witness](#sb8_13_satrayana) — 0 direct, 1 contextual
-- [Satvata · Viṣṇu Purāṇa 4.12 witness](#vp1112_satvata) — 0 direct, 1 contextual
+- [Satvata · Viṣṇu Purāṇa 4.12 witness](#vp1112_satvata) — 0 direct, 2 contextual
 - [Satya · sage in Yudhiṣṭhira’s court · Mahābhārata Sabha Parva §IV, p. 6 roster witness](#mb2iv_satya) — 0 direct, 1 contextual
 - [Satya · son of Havirdhāna and Havirdhānī](#sb4_satya_son) — 0 direct, 2 contextual
 - [Satya · Śrīmad-Bhāgavatam Canto 8 witness](#sb8_13_sage10_satya) — 0 direct, 1 contextual
@@ -2377,7 +2377,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Sāraṇa · Viṣṇu Purāṇa 4.15 witness](#vp4_15_sarana) — 0 direct, 8 contextual
 - [Sārvabhauma · Viṣṇu Purāṇa 4.20 witness](#vp20_sarvabhauma) — 0 direct, 2 contextual
 - [Sārvabhauma · Śrīmad-Bhāgavatam Canto 8 witness](#sb8_13_sarvabhauma) — 0 direct, 2 contextual
-- [Sātvata · Viṣṇu Purāṇa 4.13 witness](#vp4_13_satvata) — 0 direct, 7 contextual
+- [Sātvata · Viṣṇu Purāṇa 4.13 witness](#vp4_13_satvata) — 0 direct, 8 contextual
 - [Sātyaka · son of Śini; kept distinct from Satyaki · Mahābhārata Sabha Parva §IV, p. 7 roster witness](#mb2iv_satyaka) — 0 direct, 2 contextual
 - [Sātyaki / Yuyudhāna · Viṣṇu Purāṇa 4.14 witness](#vp4_14_satyaki) — 0 direct, 3 contextual
 - [Sātyaki · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_satyaki_human_incarnation) — 0 direct, 3 contextual
@@ -3355,13 +3355,14 @@ Type: person. Direct links: 0. Context links: 49.
 <a id="vp20_abhimanyu"></a>
 ## Abhimanyu · Viṣṇu Purāṇa 4.20 witness
 
-Type: person. Direct links: 0. Context links: 3.
+Type: person. Direct links: 0. Context links: 4.
 
 ### Context in the same passages
 
 - **GKA085** Arjuna · Pāṇḍu’s son · Viṣṇu Purāṇa 4.20 witness → father of → Abhimanyu · Viṣṇu Purāṇa 4.20 witness. [The Viṣṇu Purāṇa, Book 4, chapter 20: The lineages of the Kauravas and Pāṇḍavas, Viṣṇu Purāṇa 4.20.51](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Abhimanyu is named as Arjuna · Pāṇḍu’s son’s son with Subhadrā. This records the ANU Press Viṣṇu Purāṇa 4.20 witness; no cross-branch identity is inferred.
 - **GKA086** Subhadrā · Viṣṇu Purāṇa 4.20 witness → mother of → Abhimanyu · Viṣṇu Purāṇa 4.20 witness. [The Viṣṇu Purāṇa, Book 4, chapter 20: The lineages of the Kauravas and Pāṇḍavas, Viṣṇu Purāṇa 4.20.51](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Subhadrā is named as mother of Abhimanyu. This mother–child link follows chapter 20; no unnamed maternal kin are represented.
 - **GKA087** Abhimanyu · Viṣṇu Purāṇa 4.20 witness → father of → Parīkṣit · Abhimanyu’s son · Viṣṇu Purāṇa 4.20 witness. [The Viṣṇu Purāṇa, Book 4, chapter 20: The lineages of the Kauravas and Pāṇḍavas, Viṣṇu Purāṇa 4.20.52](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Abhimanyu is the father of the later Parīkṣit born to Uttarā. This records the ANU Press Viṣṇu Purāṇa 4.20 witness; no cross-branch identity is inferred.
+- **FD007** Abhimanyu · Viṣṇu Purāṇa 4.20 witness → killed → Bṛhadbala · Rāma-line witness in Viṣṇu Purāṇa 4.4. [Viṣṇu Purāṇa, Book 4, chapter 4: Rāma and his descendants, 4.4.60](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Abhimanyu kills Bṛhadbala in the narrated Bhārata war. The named Abhimanyu is identified here as Arjuna’s son. This preserves the Viṣṇu Purāṇa witness without merging distinct epic namesakes.
 
 
 <a id="sb6_abhimati"></a>
@@ -4523,11 +4524,12 @@ Type: person. Direct links: 0. Context links: 6.
 <a id="vp24_anubrihadratha"></a>
 ## Anubṛhadratha · Viṣṇu Purāṇa 4.24 future-dynasty witness
 
-Type: person. Direct links: 0. Context links: 1.
+Type: person. Direct links: 0. Context links: 2.
 
 ### Context in the same passages
 
 - **GFD027** Śatadhanvan · Maurya branch · Viṣṇu Purāṇa 4.24 future-dynasty witness → is predicted to be father of → Anubṛhadratha · Viṣṇu Purāṇa 4.24 future-dynasty witness. [The Viṣṇu Purāṇa, Book Four, chapter 24: Future kings; The age of Kali, Viṣṇu Purāṇa 4.24.6](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Anubṛhadratha is identified in ANU’s future account as father of Śatadhanvan · Maurya branch. A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.
+- **FD008** Puṣpamitra · Viṣṇu Purāṇa 4.24 future-dynasty witness → is predicted to kill and succeed → Anubṛhadratha · Viṣṇu Purāṇa 4.24 future-dynasty witness. [The Viṣṇu Purāṇa, Book Four, chapter 24: Future kings; The age of Kali, 4.24.7–8](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Puṣpamitra is predicted to kill his sovereign and take power. His sovereign is resolved contextually to the preceding final Maurya, Anubṛhadratha in this translation. Not the earlier Magadha Bṛhadratha or the later Puṣyamitra among the Mekalas.
 
 
 <a id="mb_adi_inc_anuhrada"></a>
@@ -8116,11 +8118,12 @@ Type: person. Direct links: 0. Context links: 1.
 <a id="vp22_brihadbala"></a>
 ## Bṛhadbala · Ikṣvāku branch · Viṣṇu Purāṇa 4.22 future-lineage witness
 
-Type: person. Direct links: 0. Context links: 1.
+Type: person. Direct links: 0. Context links: 2.
 
 ### Context in the same passages
 
 - **GFK036** Bṛhadbala · Ikṣvāku branch · Viṣṇu Purāṇa 4.22 future-lineage witness → is predicted to be father of → Bṛhatkṣaṇa · Viṣṇu Purāṇa 4.22 future-lineage witness. [The Viṣṇu Purāṇa, Book 4, chapter 22: The future descendants of Bṛhadbala, Viṣṇu Purāṇa 4.22.2](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Bṛhatkṣaṇa is named as the future son of Bṛhadbala · Ikṣvāku branch in the Ikṣvāku line. A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.
+- **FD006** Bṛhadbala · Ikṣvāku branch · Viṣṇu Purāṇa 4.22 future-lineage witness → corresponds to earlier lineage dossier → Bṛhadbala · Rāma-line witness in Viṣṇu Purāṇa 4.4. [The Viṣṇu Purāṇa, Book 4, chapter 22: The future descendants of Bṛhadbala, 4.22.1; compare 4.4.60; Taylor note 17](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). editorial_attribution. Chapter 22 resumes the Bṛhadbala lineage recorded in chapter 4. Continuity is inferred from the named lineage and the translator’s explicit cross-reference. Do not merge unrelated Gāndhāra or svayaṃvara Bṛhadbalas.
 
 
 <a id="mb_battle_brhadbala_kosala"></a>
@@ -8138,11 +8141,13 @@ Type: person. Direct links: 0. Context links: 3.
 <a id="vp4_brihadbala"></a>
 ## Bṛhadbala · Rāma-line witness in Viṣṇu Purāṇa 4.4
 
-Type: person. Direct links: 0. Context links: 1.
+Type: person. Direct links: 0. Context links: 3.
 
 ### Context in the same passages
 
 - **VRD040** Viśrutavant · Rāma-line witness in Viṣṇu Purāṇa 4.4 → father of → Bṛhadbala · Rāma-line witness in Viṣṇu Purāṇa 4.4. [Viṣṇu Purāṇa, Book 4, chapter 4: Rāma and his descendants, 4.4.58–60](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Taylor’s translation lists Bṛhadbala as a son or successor in this named Rāma-line genealogy. This is a literary genealogy in the Viṣṇu Purāṇa. The book and verse identify an attestation, not an independently dated lifespan.
+- **FD006** Bṛhadbala · Ikṣvāku branch · Viṣṇu Purāṇa 4.22 future-lineage witness → corresponds to earlier lineage dossier → Bṛhadbala · Rāma-line witness in Viṣṇu Purāṇa 4.4. [The Viṣṇu Purāṇa, Book 4, chapter 22: The future descendants of Bṛhadbala, 4.22.1; compare 4.4.60; Taylor note 17](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). editorial_attribution. Chapter 22 resumes the Bṛhadbala lineage recorded in chapter 4. Continuity is inferred from the named lineage and the translator’s explicit cross-reference. Do not merge unrelated Gāndhāra or svayaṃvara Bṛhadbalas.
+- **FD007** Abhimanyu · Viṣṇu Purāṇa 4.20 witness → killed → Bṛhadbala · Rāma-line witness in Viṣṇu Purāṇa 4.4. [Viṣṇu Purāṇa, Book 4, chapter 4: Rāma and his descendants, 4.4.60](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Abhimanyu kills Bṛhadbala in the narrated Bhārata war. The named Abhimanyu is identified here as Arjuna’s son. This preserves the Viṣṇu Purāṇa witness without merging distinct epic namesakes.
 
 
 <a id="mb_adi_early_brhadbala_gandhara"></a>
@@ -16488,11 +16493,13 @@ Type: person. Direct links: 0. Context links: 1.
 <a id="vp24_kautilya"></a>
 ## Kauṭilya · Viṣṇu Purāṇa 4.24 future-dynasty witness
 
-Type: person. Direct links: 0. Context links: 1.
+Type: person. Direct links: 0. Context links: 3.
 
 ### Context in the same passages
 
 - **GFD018** Kauṭilya · Viṣṇu Purāṇa 4.24 future-dynasty witness → is predicted to anoint as king → Candragupta · Maurya branch · Viṣṇu Purāṇa 4.24 future-dynasty witness. [The Viṣṇu Purāṇa, Book Four, chapter 24: Future kings; The age of Kali, Viṣṇu Purāṇa 4.24.6](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. ANU’s future account says Kauṭilya anoints as king Candragupta · Maurya branch. A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.
+- **FD003** Kauṭilya · Viṣṇu Purāṇa 4.24 future-dynasty witness → is predicted to eradicate dynasty of → Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness. [The Viṣṇu Purāṇa, Book Four, chapter 24: Future kings; The age of Kali, 4.24.5–6](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Kauṭilya is predicted to eliminate the Nandas’ dynasty. The passage’s object is the nine Nandas collectively. This edge points to their founder’s dossier and does not assert a particular personal killing method. It complements the existing Candragupta anointing claim GFD018.
+- **FD005** Kauṭilya · Viṣṇu Purāṇa 4.24 future-dynasty witness → is predicted to eradicate dynasty of → Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness. [Viṣṇu Purāṇa, Book 4, chapter 24 · Wilson translation, Book 4, chapter 24, printed pp. 468–469](https://sacred-texts.com/book/the-vishnu-purana/chapter-xxiv). translation_checked. Wilson also links Kauṭilya’s Nanda overthrow to Maurya rule. Textual prediction; narrative text only, without importing the nineteenth-century commentator’s historical chronology.
 
 
 <a id="mb_adi_royal_son_v11_05"></a>
@@ -19734,12 +19741,16 @@ Type: person. Direct links: 0. Context links: 2.
 <a id="vp24_mahapadma_nanda"></a>
 ## Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness
 
-Type: person. Direct links: 0. Context links: 2.
+Type: person. Direct links: 0. Context links: 6.
 
 ### Context in the same passages
 
 - **GFD016** Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness → is predicted to be father of → Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness. [The Viṣṇu Purāṇa, Book Four, chapter 24: Future kings; The age of Kali, Viṣṇu Purāṇa 4.24.3](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Mahāpadma (also called Nanda) · son of Mahānandin is identified in ANU’s future account as father of Mahānandin. A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.
 - **GFD017** Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness → is predicted to be father of → Sumālya · Viṣṇu Purāṇa 4.24 future-dynasty witness. [The Viṣṇu Purāṇa, Book Four, chapter 24: Future kings; The age of Kali, Viṣṇu Purāṇa 4.24.5](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Sumālya is identified in ANU’s future account as father of Mahāpadma (also called Nanda) · son of Mahānandin. A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.
+- **FD002** Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness → is compared to → Paraśurāma · son of Jamadagni and Reṇukā. [The Viṣṇu Purāṇa, Book Four, chapter 24: Future kings; The age of Kali, 4.24.3](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Mahāpadma Nanda is compared with Paraśurāma. A comparison in a future-king narrative; not a meeting, kinship, rebirth, or chronological synchronism.
+- **FD003** Kauṭilya · Viṣṇu Purāṇa 4.24 future-dynasty witness → is predicted to eradicate dynasty of → Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness. [The Viṣṇu Purāṇa, Book Four, chapter 24: Future kings; The age of Kali, 4.24.5–6](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Kauṭilya is predicted to eliminate the Nandas’ dynasty. The passage’s object is the nine Nandas collectively. This edge points to their founder’s dossier and does not assert a particular personal killing method. It complements the existing Candragupta anointing claim GFD018.
+- **FD004** Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness → is compared to → Paraśurāma · son of Jamadagni and Reṇukā. [Viṣṇu Purāṇa, Book 4, chapter 24 · Wilson translation, Book 4, chapter 24, printed p. 467](https://sacred-texts.com/book/the-vishnu-purana/chapter-xxiv). translation_checked. Wilson’s translation also retains the Paraśurāma comparison. Another translation of the same work; not independent historical corroboration or another structural edge.
+- **FD005** Kauṭilya · Viṣṇu Purāṇa 4.24 future-dynasty witness → is predicted to eradicate dynasty of → Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness. [Viṣṇu Purāṇa, Book 4, chapter 24 · Wilson translation, Book 4, chapter 24, printed pp. 468–469](https://sacred-texts.com/book/the-vishnu-purana/chapter-xxiv). translation_checked. Wilson also links Kauṭilya’s Nanda overthrow to Maurya rule. Textual prediction; narrative text only, without importing the nineteenth-century commentator’s historical chronology.
 
 
 <a id="mb2ix_asura_mahaparswa"></a>
@@ -22673,7 +22684,7 @@ Type: person. Direct links: 0. Context links: 1.
 <a id="vp67_parashurama"></a>
 ## Paraśurāma · son of Jamadagni and Reṇukā
 
-Type: person. Direct links: 0. Context links: 6.
+Type: person. Direct links: 0. Context links: 8.
 
 ### Context in the same passages
 
@@ -22683,6 +22694,8 @@ Type: person. Direct links: 0. Context links: 6.
 - **MB2EARLY_203** Jamadagnya · patronymic identifying the father of a distinct Rāma · Mahābhārata Sabha Parva §VIII → father of → Paraśurāma · son of Jamadagni and Reṇukā. [Mahābhārata, Book 2 (Sabhāparvan), Section VIII: Yama’s assembly, §VIII, p. 19](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-viii). translation_checked. This distinct Rāma is identified as the son of Jamadagnya; the patronymic is retained as the subject rather than harmonized with a Jamadagni node from another roster. Entity and claim are source-scoped to this roster; no identity with similarly named figures elsewhere in the epic or graph is implied.
 - **MB2ROSTER_055** Paraśurāma · son of Jamadagni and Reṇukā → named as present at rajasuya of → Yudhiṣṭhira. [Mahābhārata, Book 2 (Sabhāparvan), Section XXXVI: Śiśupāla’s objections, §XXXVI, pp. 76–77](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-xxxvi). translation_checked. Śiśupāla names Jāmadagnya as present in the Rājasūya assembly while arguing over the first arghya. named as Karṇa’s teacher; retained under the passage’s designation
 - **MB2ROSTER_REL_02** Paraśurāma · son of Jamadagni and Reṇukā → teacher of → Karṇa · Viṣṇu Purāṇa witness · Viṣṇu Purāṇa 4.18 witness. [Mahābhārata, Book 2 (Sabhāparvan), Section XXXVI: Śiśupāla’s objections, §XXXVI, p. 76](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-xxxvi). translation_checked. Śiśupāla describes Karṇa as a favorite disciple of Jāmadagnya. The source’s designation “Jāmadagnya” is preserved without cross-text identity normalization.
+- **FD002** Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness → is compared to → Paraśurāma · son of Jamadagni and Reṇukā. [The Viṣṇu Purāṇa, Book Four, chapter 24: Future kings; The age of Kali, 4.24.3](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Mahāpadma Nanda is compared with Paraśurāma. A comparison in a future-king narrative; not a meeting, kinship, rebirth, or chronological synchronism.
+- **FD004** Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness → is compared to → Paraśurāma · son of Jamadagni and Reṇukā. [Viṣṇu Purāṇa, Book 4, chapter 24 · Wilson translation, Book 4, chapter 24, printed p. 467](https://sacred-texts.com/book/the-vishnu-purana/chapter-xxiv). translation_checked. Wilson’s translation also retains the Paraśurāma comparison. Another translation of the same work; not independent historical corroboration or another structural edge.
 
 
 <a id="sb8_13_sage8_parasurama"></a>
@@ -24569,11 +24582,12 @@ Type: person. Direct links: 0. Context links: 1.
 <a id="vp24_pushpamitra"></a>
 ## Puṣpamitra · Viṣṇu Purāṇa 4.24 future-dynasty witness
 
-Type: person. Direct links: 0. Context links: 1.
+Type: person. Direct links: 0. Context links: 2.
 
 ### Context in the same passages
 
 - **GFD028** Puṣpamitra · Viṣṇu Purāṇa 4.24 future-dynasty witness → is predicted to be father of → Agnimitra · Viṣṇu Purāṇa 4.24 future-dynasty witness. [The Viṣṇu Purāṇa, Book Four, chapter 24: Future kings; The age of Kali, Viṣṇu Purāṇa 4.24.7–10](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Agnimitra is identified in ANU’s future account as father of Puṣpamitra. A future prediction in Parāśara’s account; retained as a textual claim, not independently established history.
+- **FD008** Puṣpamitra · Viṣṇu Purāṇa 4.24 future-dynasty witness → is predicted to kill and succeed → Anubṛhadratha · Viṣṇu Purāṇa 4.24 future-dynasty witness. [The Viṣṇu Purāṇa, Book Four, chapter 24: Future kings; The age of Kali, 4.24.7–8](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Puṣpamitra is predicted to kill his sovereign and take power. His sovereign is resolved contextually to the preceding final Maurya, Anubṛhadratha in this translation. Not the earlier Magadha Bṛhadratha or the later Puṣyamitra among the Mekalas.
 
 
 <a id="vp19end_pushpavant"></a>
@@ -27167,11 +27181,12 @@ Type: person. Direct links: 0. Context links: 1.
 <a id="vp1112_satvata"></a>
 ## Satvata · Viṣṇu Purāṇa 4.12 witness
 
-Type: person. Direct links: 0. Context links: 1.
+Type: person. Direct links: 0. Context links: 2.
 
 ### Context in the same passages
 
 - **ANU67_1112_124** Aṃśu · Viṣṇu Purāṇa 4.12 witness → father of → Satvata · Viṣṇu Purāṇa 4.12 witness. [Viṣṇu Purāṇa, Book 4, chapter 12: Jyāmagha and the Kroṣṭu line, 4.12.16](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Satvata · Viṣṇu Purāṇa 4.12 witness is named as a child of Aṃśu · Viṣṇu Purāṇa 4.12 witness. Claim follows the ANU translation and preserves branch distinctions; genealogies are not harmonized across texts.
+- **FD001** Satvata · Viṣṇu Purāṇa 4.12 witness → corresponds to next chapter dossier → Sātvata · Viṣṇu Purāṇa 4.13 witness. [Viṣṇu Purāṇa, Book 4, chapter 12: Jyāmagha and the Kroṣṭu line, 4.12.16; compare 4.13.1](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). editorial_attribution. The next chapter continues Satvata’s family under the Sātvata dossier. Editorial continuity link across adjacent chapters, not a newly narrated encounter. Both source-local nodes remain distinct; no identity resolution is inferred from spelling alone.
 
 
 <a id="mb2iv_satya"></a>
@@ -30641,7 +30656,7 @@ Type: person. Direct links: 0. Context links: 2.
 <a id="vp4_13_satvata"></a>
 ## Sātvata · Viṣṇu Purāṇa 4.13 witness
 
-Type: person. Direct links: 0. Context links: 7.
+Type: person. Direct links: 0. Context links: 8.
 
 ### Context in the same passages
 
@@ -30652,6 +30667,7 @@ Type: person. Direct links: 0. Context links: 7.
 - **GYM005** Sātvata · Viṣṇu Purāṇa 4.13 witness → father of → Devāvṛdha · Viṣṇu Purāṇa 4.13 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.1](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. The translation names vp4_13_satvata as the father of vp4_13_devavrdha. Direct parentage stated in the ANU translation.
 - **GYM006** Sātvata · Viṣṇu Purāṇa 4.13 witness → father of → Mahābhoja · Viṣṇu Purāṇa 4.13 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.1](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. The translation names vp4_13_satvata as the father of vp4_13_mahābhoja. Direct parentage stated in the ANU translation.
 - **GYM007** Sātvata · Viṣṇu Purāṇa 4.13 witness → father of → Vṛṣṇi · Sātvata’s son · Viṣṇu Purāṇa 4.13 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.1](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. The translation names vp4_13_satvata as the father of vp4_13_vrishni_satvata. Direct parentage stated in the ANU translation.
+- **FD001** Satvata · Viṣṇu Purāṇa 4.12 witness → corresponds to next chapter dossier → Sātvata · Viṣṇu Purāṇa 4.13 witness. [Viṣṇu Purāṇa, Book 4, chapter 12: Jyāmagha and the Kroṣṭu line, 4.12.16; compare 4.13.1](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). editorial_attribution. The next chapter continues Satvata’s family under the Sātvata dossier. Editorial continuity link across adjacent chapters, not a newly narrated encounter. Both source-local nodes remain distinct; no identity resolution is inferred from spelling alone.
 
 
 <a id="mb2iv_satyaka"></a>
@@ -41043,3 +41059,7 @@ A search log records checked leads. It is not a claim of exhaustive coverage.
 ### Jambavant_Deep_Dive
 
 - **Jāmbavant source review**: Translation-level checks of linked Ramayana, Bhagavata, Vishnu Purana and Harivamsa passages; narrative content kept separate from commentary.
+
+### Distance_Bridges
+
+- **Exact graph diameter and disconnected components**: Examined adjacent VP chapter boundaries and missing comparison, dynastic overthrow, and battle claims. Retained two explicit editorial continuity links separately from passage-checked events.

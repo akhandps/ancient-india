@@ -1,0 +1,91 @@
+{
+  "nodes": [],
+  "sources": [
+    {
+      "id": "FD_wilson_vp424",
+      "title": "Viṣṇu Purāṇa, Book 4, chapter 24 · Wilson translation",
+      "url": "https://sacred-texts.com/book/the-vishnu-purana/chapter-xxiv",
+      "kind": "primary_translation",
+      "edition": "H. H. Wilson translation; narrative distinguished from translator footnotes",
+      "locator": "Nanda and Maurya transition, printed pp. 467–469",
+      "accessed": "2026-11-15"
+    }
+  ],
+  "claims": [
+    {
+      "id": "FD001", "facet": "puranic", "subject": "vp1112_satvata",
+      "predicate": "corresponds_to_next_chapter_dossier", "object": "vp4_13_satvata",
+      "source": "vp4_12_anu", "locator": "4.12.16; compare 4.13.1",
+      "summary": "The next chapter continues Satvata’s family under the Sātvata dossier.",
+      "category": "identity", "status": "editorial_attribution", "speaker": null,
+      "note": "Editorial continuity link across adjacent chapters, not a newly narrated encounter. Both source-local nodes remain distinct; no identity resolution is inferred from spelling alone.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "FD002", "facet": "puranic", "subject": "vp24_mahapadma_nanda",
+      "predicate": "is_compared_to", "object": "vp67_parashurama",
+      "source": "vp4_24_anu", "locator": "4.24.3",
+      "summary": "Mahāpadma Nanda is compared with Paraśurāma.",
+      "category": "comparison", "status": "translation_checked", "speaker": "Parāśara",
+      "note": "A comparison in a future-king narrative; not a meeting, kinship, rebirth, or chronological synchronism.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "FD003", "facet": "puranic", "subject": "vp24_kautilya",
+      "predicate": "is_predicted_to_eradicate_dynasty_of", "object": "vp24_mahapadma_nanda",
+      "source": "vp4_24_anu", "locator": "4.24.5–6",
+      "summary": "Kauṭilya is predicted to eliminate the Nandas’ dynasty.",
+      "category": "prediction", "status": "translation_checked", "speaker": "Parāśara",
+      "note": "The passage’s object is the nine Nandas collectively. This edge points to their founder’s dossier and does not assert a particular personal killing method. It complements the existing Candragupta anointing claim GFD018.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "FD004", "facet": "puranic", "subject": "vp24_mahapadma_nanda",
+      "predicate": "is_compared_to", "object": "vp67_parashurama",
+      "source": "FD_wilson_vp424", "locator": "Book 4, chapter 24, printed p. 467",
+      "summary": "Wilson’s translation also retains the Paraśurāma comparison.",
+      "category": "comparison", "status": "translation_checked", "speaker": "Parāśara",
+      "note": "Another translation of the same work; not independent historical corroboration or another structural edge.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "FD005", "facet": "puranic", "subject": "vp24_kautilya",
+      "predicate": "is_predicted_to_eradicate_dynasty_of", "object": "vp24_mahapadma_nanda",
+      "source": "FD_wilson_vp424", "locator": "Book 4, chapter 24, printed pp. 468–469",
+      "summary": "Wilson also links Kauṭilya’s Nanda overthrow to Maurya rule.",
+      "category": "prediction", "status": "translation_checked", "speaker": "Parāśara",
+      "note": "Textual prediction; narrative text only, without importing the nineteenth-century commentator’s historical chronology.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "FD006", "facet": "puranic", "subject": "vp22_brihadbala",
+      "predicate": "corresponds_to_earlier_lineage_dossier", "object": "vp4_brihadbala",
+      "source": "vp4_22_anu", "locator": "4.22.1; compare 4.4.60; Taylor note 17",
+      "summary": "Chapter 22 resumes the Bṛhadbala lineage recorded in chapter 4.",
+      "category": "identity", "status": "editorial_attribution", "speaker": null,
+      "note": "Continuity is inferred from the named lineage and the translator’s explicit cross-reference. Do not merge unrelated Gāndhāra or svayaṃvara Bṛhadbalas.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "FD007", "facet": "puranic", "subject": "vp20_abhimanyu",
+      "predicate": "killed", "object": "vp4_brihadbala",
+      "source": "vp4_4_anu", "locator": "4.4.60",
+      "summary": "Abhimanyu kills Bṛhadbala in the narrated Bhārata war.",
+      "category": "battle_relation", "status": "translation_checked", "speaker": "Parāśara",
+      "note": "The named Abhimanyu is identified here as Arjuna’s son. This preserves the Viṣṇu Purāṇa witness without merging distinct epic namesakes.",
+      "original_language_reviewed": false
+    },
+    {
+      "id": "FD008", "facet": "puranic", "subject": "vp24_pushpamitra",
+      "predicate": "is_predicted_to_kill_and_succeed", "object": "vp24_anubrihadratha",
+      "source": "vp4_24_anu", "locator": "4.24.7–8",
+      "summary": "Puṣpamitra is predicted to kill his sovereign and take power.",
+      "category": "prediction", "status": "translation_checked", "speaker": "Parāśara",
+      "note": "His sovereign is resolved contextually to the preceding final Maurya, Anubṛhadratha in this translation. Not the earlier Magadha Bṛhadratha or the later Puṣyamitra among the Mekalas.",
+      "original_language_reviewed": false
+    }
+  ],
+  "search_log": [
+    {"query": "Exact graph diameter and disconnected components", "outcome": "Examined adjacent VP chapter boundaries and missing comparison, dynastic overthrow, and battle claims. Retained two explicit editorial continuity links separately from passage-checked events."}
+  ]
+}

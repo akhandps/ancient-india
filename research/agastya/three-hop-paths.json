@@ -26867,6 +26867,46 @@
       ]
     },
     {
+      "id": "vp24_mahapadma_nanda",
+      "label": "Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness",
+      "hops": 3,
+      "steps": [
+        {
+          "from": "mahabharata",
+          "to": "yudhisthira",
+          "claim_id": "C030",
+          "predicate": "asks_about",
+          "source": "mb396",
+          "locator": "Vana §96",
+          "status": "translation_checked",
+          "summary": "Yudhiṣṭhira asks why Agastya killed Vātāpi.",
+          "note": "He asks Lomaśa, not Agastya; no meeting is asserted."
+        },
+        {
+          "from": "yudhisthira",
+          "to": "vp67_parashurama",
+          "claim_id": "MB2ROSTER_055",
+          "predicate": "named_as_present_at_rajasuya_of",
+          "source": "mb2_sabha_xxxvi",
+          "locator": "§XXXVI, pp. 76–77",
+          "status": "translation_checked",
+          "summary": "Śiśupāla names Jāmadagnya as present in the Rājasūya assembly while arguing over the first arghya.",
+          "note": "named as Karṇa’s teacher; retained under the passage’s designation"
+        },
+        {
+          "from": "vp67_parashurama",
+          "to": "vp24_mahapadma_nanda",
+          "claim_id": "FD002",
+          "predicate": "is_compared_to",
+          "source": "vp4_24_anu",
+          "locator": "4.24.3",
+          "status": "translation_checked",
+          "summary": "Mahāpadma Nanda is compared with Paraśurāma.",
+          "note": "A comparison in a future-king narrative; not a meeting, kinship, rebirth, or chronological synchronism."
+        }
+      ]
+    },
+    {
       "id": "mb2viii_mahaswa",
       "label": "Mahāśva · Yama’s assembly (royal sages and kings)",
       "hops": 3,

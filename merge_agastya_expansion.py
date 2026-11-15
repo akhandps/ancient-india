@@ -10,6 +10,7 @@ seed = json.loads((OUT / 'seed-graph.json').read_text())
 batches = {name: json.loads((EXP / f'{name}.json').read_text()) for name in ('vedic', 'epic', 'tamil', 'reception', 'vedic_three_hops', 'epic_three_hops', 'tamil_puranic_three_hops', 'epic_scale', 'puranic_scale', 'vedic_tamil_scale', 'tamil_scale_review', 'genealogy_scale', 'genealogy_scale_more', 'genealogy_scale_kuru', 'genealogy_scale_kaurava', 'genealogy_anu', 'genealogy_ayus', 'rama_descendants', 'tamil_further', 'tamil_later', 'genealogy_future_kuru', 'genealogy_vedic_solar', 'tamil_final', 'genealogy_future_dynasties', 'genealogy_solar_middle', 'genealogy_yadu_middle', 'mb_sabha_people', 'mb_adi_genealogies', 'mb_sabha_earlier', 'mb_adi_incarnations', 'mb_adi_royal_lineages', 'mb_sabha_first', 'mb_adi_next', 'mb_other_roster', 'mb_war_roster', 'mb_adi_pandava_early', 'ramayana_war_roster', 'mb_battle_new_people', 'mb_vana_roster', 'bhagavata_lineages_more', 'mb_adi_later', 'bhagavata_9_24_new', 'bhagavata_canto8_people', 'mb_adi_later_more', 'bhagavata_canto4_people')}
 
 batches['jambavant_deep_dive'] = json.loads((EXP / 'jambavant_deep_dive.json').read_text())
+batches['distance_bridges'] = json.loads((EXP / 'distance_bridges.json').read_text())
 
 # Preserve collector output unchanged. These adjustments document the editorial review.
 edits = {

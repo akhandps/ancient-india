@@ -4,7 +4,7 @@ sb4_abhaya,Abhaya · son of Dharma and Dayā,person,passage_checked,SB4_0161;SB4
 vp_abhayada,Abhayada · Puru-line witness,person,passage_checked,GSC024;GSC025,vp4_19_anu
 mb_adi_early_abhibhu,Abhibhū · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),person,passage_checked,MBAPE043;MBAPE116;MBALM041,mb_bori_adi_ce
 vp4_14_abhijit,Abhijit · Viṣṇu Purāṇa 4.14 witness,person,passage_checked,GYM078;GYM079,vp4_13_17_anu
-vp20_abhimanyu,Abhimanyu · Viṣṇu Purāṇa 4.20 witness,person,passage_checked,GKA085;GKA086;GKA087,vp4_20_anu
+vp20_abhimanyu,Abhimanyu · Viṣṇu Purāṇa 4.20 witness,person,passage_checked,GKA085;GKA086;GKA087;FD007,vp4_20_anu;vp4_4_anu
 sb6_abhimati,Abhimati · Śrīmad-Bhāgavatam 6.6–6.7 witness,person,passage_checked,SB6L052;SB6L053;SB6L054;SB6L055,sb6_6
 mb_adi_inc_abhiru,Abhīru · Mahābhārata Ādiparvan 1.59–1.61 witness,person,passage_checked,MBAI231,mb_bori_adi_inc_ce
 mb2xxx_achala,Achala · named among the guests · Mahābhārata Sabha Parva §§XXXIII–XXXVI witness,person,passage_checked,MB2ROSTER_009,mb2_sabha_xxxiii
@@ -102,7 +102,7 @@ mb_adi_inc_antaka,Antaka · Mahābhārata Ādiparvan 1.59–1.61 witness,person,
 vp22_antariksha,Antarikṣa · Viṣṇu Purāṇa 4.22 future-lineage witness,person,passage_checked,GFK050;GFK051,vp4_22_anu
 mb_adi_nxt_anu,Anu · son of Yayāti and Śarmiṣṭhā,person,passage_checked,MBANI056;MBANI057;MBANI071;MBANI072,mb_bori_adi_ce
 vp_anu,Anu · Viṣṇu Purāṇa witness,person,passage_checked,GSC016;GSC017;ANU18_001;ANU18_002;ANU18_003;ANU18_004,vp4_10_anu;vp4_18_anu
-vp24_anubrihadratha,Anubṛhadratha · Viṣṇu Purāṇa 4.24 future-dynasty witness,person,passage_checked,GFD027,vp4_24_anu
+vp24_anubrihadratha,Anubṛhadratha · Viṣṇu Purāṇa 4.24 future-dynasty witness,person,passage_checked,GFD027;FD008,vp4_24_anu
 mb_adi_inc_anuhrada,Anuhrāda · Mahābhārata Ādiparvan 1.59–1.61 witness,person,passage_checked,MBAI036;MBAI195,mb_bori_adi_inc_ce
 sb4_anumati,Anumati · daughter of Aṅgirā and Śraddhā,person,passage_checked,SB4_0065;SB4_0066,sb4_ch1
 mb2iv_anuparaja,"Anuparāja · Kṣatriya visitor · Mahābhārata Sabha Parva §IV, p. 7 roster witness",person,passage_checked,MB2FIRST_104,mb2_sabha_iv
@@ -393,9 +393,9 @@ vp22_brihadasva,Bṛhadaśva · Viṣṇu Purāṇa 4.22 future-lineage witness,
 mb_adi_early_brhadbala_gandhara_prince,Bṛhadbala (Gāndhāra prince) · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),person,passage_checked,MBAPE029,mb_bori_adi_ce
 mb_adi_early_brhadbala_kaurava_attendee,Bṛhadbala (Kaurava attendee) · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),person,passage_checked,MBAPE073,mb_bori_adi_ce
 mb_adi_latermore_brhadbala_of_the_sibi_line,Bṛhadbala (Ādiparvan 1.177.15),person,passage_checked,MBALM071,mb_bori_adi_ce
-vp22_brihadbala,Bṛhadbala · Ikṣvāku branch · Viṣṇu Purāṇa 4.22 future-lineage witness,person,passage_checked,GFK036,vp4_22_anu
+vp22_brihadbala,Bṛhadbala · Ikṣvāku branch · Viṣṇu Purāṇa 4.22 future-lineage witness,person,passage_checked,GFK036;FD006,vp4_22_anu
 mb_battle_brhadbala_kosala,Bṛhadbala · Kosala king killed by Abhimanyu in Droṇaparvan 7.46 (distinct from similarly named attendees in Ādiparvan),person,passage_checked,MBBNP006;MBBNP007;MBBNP021,mb_bori_drona_ce
-vp4_brihadbala,Bṛhadbala · Rāma-line witness in Viṣṇu Purāṇa 4.4,person,passage_checked,VRD040,vp4_4_anu
+vp4_brihadbala,Bṛhadbala · Rāma-line witness in Viṣṇu Purāṇa 4.4,person,passage_checked,VRD040;FD006;FD007,vp4_22_anu;vp4_4_anu
 mb_adi_early_brhadbala_gandhara,"Bṛhadbala · son of the king of Gandhāra, svayaṃvara attendee",person,passage_checked,MBAPE113;MBALM027,mb_bori_adi_ce
 mb_adi_nxt_bṛhadbhānu,Bṛhadbhānu · named in the Vivasvat–Devabhrāṭ solar genealogy,person,passage_checked,MBANI083,mb_bori_adi_ce
 vp18_brihadbhanu,Bṛhadbhānu · Viṣṇu Purāṇa 4.18 witness,person,passage_checked,ANU18_046;ANU18_047,vp4_18_anu
@@ -1063,7 +1063,7 @@ mb2vii_kaushika,Kauśika · Indra’s assembly,person,passage_checked,MB2EARLY_0
 mb2iv_kausika,"Kauśika · sage in Yudhiṣṭhira’s court · Mahābhārata Sabha Parva §IV, p. 7 roster witness",person,passage_checked,MB2FIRST_022,mb2_sabha_iv
 vp4_15_kaushika,Kauśika · Viṣṇu Purāṇa 4.15 witness,person,passage_checked,GYM211;GYM212,vp4_13_17_anu
 mb2iv_kaundinya,"Kauṇḍinya · Mahābhārata Sabha Parva §IV, p. 7 roster witness",person,passage_checked,MB2FIRST_043,mb2_sabha_iv
-vp24_kautilya,Kauṭilya · Viṣṇu Purāṇa 4.24 future-dynasty witness,person,passage_checked,GFD018,vp4_24_anu
+vp24_kautilya,Kauṭilya · Viṣṇu Purāṇa 4.24 future-dynasty witness,person,passage_checked,GFD018;FD003;FD005,FD_wilson_vp424;vp4_24_anu
 mb_adi_royal_son_v11_05,Kavacin · Dhṛtarāṣṭra’s son in the CE birth-order roster,person,passage_checked,MBAR107,mb_bori_adi_ce
 mb_adi_inc_kavi,Kavi · Mahābhārata Ādiparvan 1.59–1.61 witness,person,passage_checked,MBAI184;MBAI185,mb_bori_adi_inc_ce
 sb4_kavi,Kavi · son of Yajña and Dakṣiṇā,person,passage_checked,SB4_0028;SB4_0029,sb4_ch1
@@ -1342,7 +1342,7 @@ mb_adi_dhrtarashtra_line_mahahanu,Mahāhanu · Dhṛtarāṣṭra lineage serpen
 vp18_mahamanas,Mahāmanas · Viṣṇu Purāṇa 4.18 witness,person,passage_checked,ANU18_010;ANU18_011;ANU18_012,vp4_18_anu
 sb6_mahan,Mahān · Śrīmad-Bhāgavatam 6.6–6.7 witness,person,passage_checked,SB6L089,sb6_6
 vp24_mahanandin,Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness,person,passage_checked,GFD015;GFD016,vp4_24_anu
-vp24_mahapadma_nanda,Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness,person,passage_checked,GFD016;GFD017,vp4_24_anu
+vp24_mahapadma_nanda,Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness,person,passage_checked,GFD016;GFD017;FD002;FD003;FD004;FD005,FD_wilson_vp424;vp4_24_anu
 mb2ix_asura_mahaparswa,Mahāpārśva · Varuṇa’s assembly (Daitya/Daṇava roster),person,passage_checked,MB2EARLY_234,mb2_sabha_ix
 vp35_maharoman,Mahāroman · Viṣṇu Purāṇa 4.3–5 witness,person,passage_checked,VSG060;VSG061,vp4_5_anu
 mb_adi_inc_mahavira,Mahāvīra · Mahābhārata Ādiparvan 1.59–1.61 witness,person,passage_checked,MBAI240,mb_bori_adi_inc_ce
@@ -1596,7 +1596,7 @@ mb3_palala_matrika,Palālā · one of the seven named child-mothers in Skanda’
 ram6_panasa,Panasa · monkey troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness,person,passage_checked,RMW_008,ram6_yuddha_26
 vp18_paramekshu,Paramekṣu · Viṣṇu Purāṇa 4.18 witness,person,passage_checked,ANU18_004,vp4_18_anu
 tamil_parasurama,Paraśurāma · Maṇimēkalai witness,person,passage_checked,TPH002,tamil_manimekalai_hart
-vp67_parashurama,Paraśurāma · son of Jamadagni and Reṇukā,person,passage_checked,ANU67_1112_031;ANU67_1112_032;MB2EARLY_168;MB2EARLY_203;MB2ROSTER_055;MB2ROSTER_REL_02,mb2_sabha_viii;mb2_sabha_xxxvi;vp4_7_anu
+vp67_parashurama,Paraśurāma · son of Jamadagni and Reṇukā,person,passage_checked,ANU67_1112_031;ANU67_1112_032;MB2EARLY_168;MB2EARLY_203;MB2ROSTER_055;MB2ROSTER_REL_02;FD002;FD004,FD_wilson_vp424;mb2_sabha_viii;mb2_sabha_xxxvi;vp4_24_anu;vp4_7_anu
 sb8_13_sage8_parasurama,Paraśurāma · Śrīmad-Bhāgavatam Canto 8 witness,person,passage_checked,SB8P130,sb8_13
 mb2v_parijata,Parijāta · companion of Nārada in Sabha Parva §V · Mahābhārata Sabha Parva §V,person,passage_checked,MB2FIRST_127,mb2_sabha_v
 vp21_pariplava,Pariplava · Viṣṇu Purāṇa 4.21 future-lineage witness,person,passage_checked,GFK022;GFK023,vp4_21_anu
@@ -1764,7 +1764,7 @@ vp19_pushkarin,Puṣkarin · Durukṣaya branch · Viṣṇu Purāṇa 4.19 witn
 sb4_pushkarini_ulmuka,Puṣkariṇī · wife of Ulmuka; kept separate from Vyuṣṭa’s wife of the same name,person,passage_checked,SB4_0306;SB4_0308;SB4_0310;SB4_0312;SB4_0314;SB4_0316;SB4_0318,sb4_ch13
 sb4_pushkarini_vyushta,Puṣkariṇī · wife of Vyuṣṭa and mother of Sarvatejā,person,passage_checked,SB4_0275;SB4_0277,sb4_ch13
 mb_adi_kadru_pushpadamshtra,Puṣpadaṃṣṭra · principal serpent · Ādiparvan 1.31,person,passage_checked,MBA044,mb_bori_adi_ce
-vp24_pushpamitra,Puṣpamitra · Viṣṇu Purāṇa 4.24 future-dynasty witness,person,passage_checked,GFD028,vp4_24_anu
+vp24_pushpamitra,Puṣpamitra · Viṣṇu Purāṇa 4.24 future-dynasty witness,person,passage_checked,GFD028;FD008,vp4_24_anu
 vp19end_pushpavant,Puṣpavant · Ṛṣabha branch · Viṣṇu Purāṇa 4.19 witness,person,passage_checked,GSK055;GSK056,vp4_19_anu
 mb2_x_pushpanana,"Puṣpānana · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",person,passage_checked,MB2SAB_034,mb2_sabha_ganguli_x
 sb4_pushparna,Puṣpārṇa · son of Vatsara and Svarvīthi,person,passage_checked,SB4_0249;SB4_0250;SB4_0261;SB4_0262;SB4_0263;SB4_0265;SB4_0267;SB4_0269;SB4_0271;SB4_0273,sb4_ch13
@@ -1979,7 +1979,7 @@ sb6_sarupa,Sarūpā · Śrīmad-Bhāgavatam 6.6–6.7 witness,person,passage_che
 mb_adi_later_birth_gandharva_gandharva_17,Sat · gandharva named at Arjuna’s birth,person,passage_checked,MBAL121,mb_bori_adi_ce
 vp4_13_satrajita,Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness,person,passage_checked,GYM021;GYM022;GYM023;GYM025;GYM026;GYM027;GYM032;GYM037;GYM038;GYM039;JV035,JV_SB105616;vp4_13_17_anu
 sb8_13_satrayana,Satrāyaṇa · Śrīmad-Bhāgavatam Canto 8 witness,person,passage_checked,SB8P185,sb8_13
-vp1112_satvata,Satvata · Viṣṇu Purāṇa 4.12 witness,person,passage_checked,ANU67_1112_124,vp4_12_anu
+vp1112_satvata,Satvata · Viṣṇu Purāṇa 4.12 witness,person,passage_checked,ANU67_1112_124;FD001,vp4_12_anu
 mb2iv_satya,"Satya · sage in Yudhiṣṭhira’s court · Mahābhārata Sabha Parva §IV, p. 6 roster witness",person,passage_checked,MB2FIRST_001,mb2_sabha_iv
 sb4_satya_son,Satya · son of Havirdhāna and Havirdhānī,person,passage_checked,SB4_0372;SB4_0373,sb4_ch24
 sb8_13_sage10_satya,Satya · Śrīmad-Bhāgavatam Canto 8 witness,person,passage_checked,SB8P148,sb8_13
@@ -2290,7 +2290,7 @@ mb_adi_early_sarana,Sāraṇa · named attendee at Draupadī’s svayaṃvara (B
 vp4_15_sarana,Sāraṇa · Viṣṇu Purāṇa 4.15 witness,person,passage_checked,GYM184;GYM188;GYM196;GYM197;GYM198;GYM199;GYM200;MB2ROSTER_034,mb2_sabha_xxxiii;vp4_13_17_anu
 vp20_sarvabhauma,Sārvabhauma · Viṣṇu Purāṇa 4.20 witness,person,passage_checked,GKA007;GKA008,vp4_20_anu
 sb8_13_sarvabhauma,Sārvabhauma · Śrīmad-Bhāgavatam Canto 8 witness,person,passage_checked,SB8P135;SB8P136,sb8_13
-vp4_13_satvata,Sātvata · Viṣṇu Purāṇa 4.13 witness,person,passage_checked,GYM001;GYM002;GYM003;GYM004;GYM005;GYM006;GYM007,vp4_13_17_anu
+vp4_13_satvata,Sātvata · Viṣṇu Purāṇa 4.13 witness,person,passage_checked,GYM001;GYM002;GYM003;GYM004;GYM005;GYM006;GYM007;FD001,vp4_12_anu;vp4_13_17_anu
 mb2iv_satyaka,"Sātyaka · son of Śini; kept distinct from Satyaki · Mahābhārata Sabha Parva §IV, p. 7 roster witness",person,passage_checked,MB2FIRST_113;MB2FIRST_123,mb2_sabha_iv
 vp4_14_satyaki,Sātyaki / Yuyudhāna · Viṣṇu Purāṇa 4.14 witness,person,passage_checked,GYM043;GYM044;GYM281,vp4_13_17_anu
 mb2iv_satyaki,"Sātyaki · named as Yuyudhāna’s father in Ganguli’s rendering · Mahābhārata Sabha Parva §IV, p. 7 roster witness",person,passage_checked,MB2FIRST_120;MB2FIRST_124;MB5WAR_003;MB5WAR_042,mb2_sabha_iv;mb5_udyoga_lvii

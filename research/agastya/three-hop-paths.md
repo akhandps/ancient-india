@@ -2,7 +2,7 @@
 
 This is a shortest-path audit over sourced person-to-person claim edges. All six source-local Agastya facets start at distance zero. Text witnesses, places, and citations remain visible in the 3D graph but are not counted as person hops. Direction is ignored only when finding a path. A path does not show that its people met or lived at the same time.
 
-## 3 hops · 777 people
+## 3 hops · 778 people
 
 ### Abhaya · Dhṛtarāṣṭra’s son in the CE birth-order roster
 
@@ -2739,6 +2739,14 @@ Akattiyar · Tamil traditions → Śiva → Kubera / Vaiśravaṇa · host of th
 - C068: Akattiyar · Tamil traditions → alternatively learns tamil from → Śiva. [Iravatham Mahadevan, Meluhha and Agastya (2009), §4.10, p. 15](https://www.harappa.com/sites/default/files/pdf/meluhha_and_agastya_2009.pdf). scholarly_report. Another tradition assigns the instruction to Śiva.
 - MB3VANA_037: Kubera / Vaiśravaṇa · host of the assembly described in MB 2 Section X → precedes → Śiva. [Mahābhārata, Book 3 (Āraṇyakaparvan), Skanda’s birth and campaign, BORI Critical Edition, adhyāyas 213–221, 3.221.1–5](https://bombay.indology.info/mahabharata/text/UR/MBh03.txt). source_text_checked. Kubera travels ahead of Śiva and Pārvatī in the procession. Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.
 - MB2SAB_053: Mahādeva / Śiva · Mahābhārata Sabha Parva §X, p. 23 → attends assembly of → Kubera / Vaiśravaṇa · host of the assembly described in MB 2 Section X. [Mahābhārata, Book 2 (Sabhāparvan), Section X: Kubera’s assembly, §X, p. 23](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-x). translation_checked. Mahādeva is said to wait in Kuvera’s assembly as his friend. Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.
+
+### Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness
+
+Agastya · Mahābhārata → Yudhiṣṭhira → Paraśurāma · son of Jamadagni and Reṇukā → Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness
+
+- C030: Yudhiṣṭhira → asks about → Agastya · Mahābhārata. [Mahābhārata, Vana Parva, Ganguli §96, Vana §96](https://sacred-texts.com/hin/m03/m03096.htm). translation_checked. Yudhiṣṭhira asks why Agastya killed Vātāpi. He asks Lomaśa, not Agastya; no meeting is asserted.
+- MB2ROSTER_055: Paraśurāma · son of Jamadagni and Reṇukā → named as present at rajasuya of → Yudhiṣṭhira. [Mahābhārata, Book 2 (Sabhāparvan), Section XXXVI: Śiśupāla’s objections, §XXXVI, pp. 76–77](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-xxxvi). translation_checked. Śiśupāla names Jāmadagnya as present in the Rājasūya assembly while arguing over the first arghya. named as Karṇa’s teacher; retained under the passage’s designation
+- FD002: Mahāpadma (also called Nanda) · son of Mahānandin · Viṣṇu Purāṇa 4.24 future-dynasty witness → is compared to → Paraśurāma · son of Jamadagni and Reṇukā. [The Viṣṇu Purāṇa, Book Four, chapter 24: Future kings; The age of Kali, 4.24.3](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Mahāpadma Nanda is compared with Paraśurāma. A comparison in a future-king narrative; not a meeting, kinship, rebirth, or chronological synchronism.
 
 ### Mahāśva · Yama’s assembly (royal sages and kings)
 
