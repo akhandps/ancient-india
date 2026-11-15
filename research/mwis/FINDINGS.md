@@ -53,6 +53,8 @@ Forcing Jāmbavant into the shortlist gives an optimum of **7,691**, just **57 p
 
 The forced optimum keeps the other seven original members and replaces Rāma, Satrājita and Bali with **Jāmbavant, Dharma (the Ādiparvan deity dossier), and Sātvata (the Viṣṇu Purāṇa dossier)**. This gives us a concrete alternative set to investigate, rather than interpreting one optimal selection as the only useful agenda.
 
+The [passage-level narrative audit](../jambavant/NARRATIVE.md) distinguishes these conflicts: Rāma is directly linked; Satrājita shares Kṛṣṇa as a neighbor; Bali shares Indra. The last path does not establish a meeting or a shared battle between Bali and Jāmbavant.
+
 This is a useful near-optimal alternative if Jāmbavant is a research priority. His omission is not evidence of unimportance. Indra, Arjuna and Kṛṣṇa have larger forced-in costs—670, 662 and 662 points respectively—because choosing them blocks combinations the objective prefers. All forced-in alternatives were also solved to optimality.
 
 ## What this experiment adds

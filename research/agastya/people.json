@@ -48536,6 +48536,19 @@
           "status": "translation_checked",
           "note": "",
           "speaker": "Parāśara"
+        },
+        {
+          "claim_id": "JV037",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "initially_mistakes_for_ordinary_person",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "JV_SB105622",
+          "locator": "10.56.22",
+          "summary": "The narrator says Jāmbavān fights Kṛṣṇa without recognizing his divine status, taking him for an ordinary person.",
+          "status": "translation_checked",
+          "note": "Initial narrated belief, superseded by the recognition in 10.56.26. Not an objective identity assertion or a claim of deliberate opposition after recognition.",
+          "speaker": "Śuka"
         }
       ],
       "research_notes": [],
@@ -60848,6 +60861,19 @@
           "status": "translation_checked",
           "note": "An attributed accusation, contradicted by the narrated lion episode; not an actual killing edge.",
           "speaker": "Satrājit"
+        },
+        {
+          "claim_id": "JV037",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "initially_mistakes_for_ordinary_person",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "JV_SB105622",
+          "locator": "10.56.22",
+          "summary": "The narrator says Jāmbavān fights Kṛṣṇa without recognizing his divine status, taking him for an ordinary person.",
+          "status": "translation_checked",
+          "note": "Initial narrated belief, superseded by the recognition in 10.56.26. Not an objective identity assertion or a claim of deliberate opposition after recognition.",
+          "speaker": "Śuka"
         }
       ],
       "research_notes": [],

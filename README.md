@@ -1,6 +1,6 @@
 # Ancient Indian textual relationships
 
-This repository traces people, places, and textual witnesses connected to Agastya and records each relationship as a source attributed claim. The graph currently contains 3,310 nodes and 4,243 claims from 124 sources, plus eight source-qualified observations. These are textual records, not a count of distinct historical people.
+This repository traces people, places, and textual witnesses connected to Agastya and records each relationship as a source attributed claim. The graph currently contains 3,310 nodes and 4,244 claims from 125 sources, plus eight source-qualified observations. These are textual records, not a count of distinct historical people.
 
 [Open the rendered graph](https://akhandps.github.io/ancient-india/).
 

@@ -1,6 +1,6 @@
 {
   "baseline_sha256": "f91663fa2b6fc4449de4a8fb86a0eb61f49703a7fa41f8c6d9f3daab2ee26bea",
-  "supplement_sha256": "ba3f72c60220458c3ffc2444ebffaffd3db67d1d43e38e3fc1563a2f0a20e6de",
+  "supplement_sha256": "806c5c3e9a5ba61cef3e124edfce8fece436b3bae5433b57ca1fa907b530d7e2",
   "networkx": "3.4.2",
   "method": "Exact unweighted undirected betweenness on fixed union of person-like records, including isolates. Local or aligned records are graph entities, not distinct historical people.",
   "alignment_maps": {
@@ -19,9 +19,9 @@
   },
   "supplement_counts": {
     "nodes": 24,
-    "claims": 36,
+    "claims": 37,
     "observations": 8,
-    "sources": 18
+    "sources": 19
   },
   "scenarios": {
     "original": {
@@ -594,7 +594,8 @@
                   "JV012",
                   "JV013",
                   "JV014",
-                  "JV016"
+                  "JV016",
+                  "JV037"
                 ]
               },
               {
@@ -756,7 +757,8 @@
                   "JV012",
                   "JV013",
                   "JV014",
-                  "JV016"
+                  "JV016",
+                  "JV037"
                 ]
               },
               {
@@ -895,7 +897,8 @@
                 "claim_ids": [
                   "JV012",
                   "JV013",
-                  "JV014"
+                  "JV014",
+                  "JV037"
                 ]
               }
             ]
@@ -991,7 +994,8 @@
                   "JV012",
                   "JV013",
                   "JV014",
-                  "JV016"
+                  "JV016",
+                  "JV037"
                 ]
               },
               {
@@ -1150,7 +1154,8 @@
                   "JV012",
                   "JV013",
                   "JV014",
-                  "JV016"
+                  "JV016",
+                  "JV037"
                 ]
               },
               {
@@ -1293,7 +1298,8 @@
                 "claim_ids": [
                   "JV012",
                   "JV013",
-                  "JV014"
+                  "JV014",
+                  "JV037"
                 ]
               },
               {
@@ -1489,7 +1495,8 @@
                   "JV012",
                   "JV013",
                   "JV014",
-                  "JV016"
+                  "JV016",
+                  "JV037"
                 ]
               }
             ]
@@ -1630,7 +1637,8 @@
                   "JV012",
                   "JV013",
                   "JV014",
-                  "JV016"
+                  "JV016",
+                  "JV037"
                 ]
               }
             ]
@@ -1733,7 +1741,8 @@
                   "GYM279",
                   "JV012",
                   "JV013",
-                  "JV014"
+                  "JV014",
+                  "JV037"
                 ]
               }
             ]

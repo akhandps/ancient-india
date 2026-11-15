@@ -28,6 +28,7 @@ sources = [
     ('JV_R560', 'Vālmīki Rāmāyaṇa 5.60', 'https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm'),
     ('JV_SB105616', 'Bhāgavata Purāṇa 10.56.16', 'https://vedabase.io/en/library/sb/10/56/16/'),
     ('JV_SB105635', 'Bhāgavata Purāṇa 10.56.35', 'https://vedabase.io/en/library/sb/10/56/35/'),
+    ('JV_SB105622', 'Bhāgavata Purāṇa 10.56.22', 'https://vedabase.io/en/library/sb/10/56/22/'),
 ]
 node_specs = [
     ('jv_ram', 'Jāmbavān · Rāmāyaṇa dossier', 'person'),
@@ -158,6 +159,9 @@ add(35, 'vp4_13_satrajita', 'accuses_of_killing_prasena', 'jv_krishna_sb10', 'JV
 add(36, 'jv_dvaraka_residents_sb', 'pray_for_krishnas_return_to', 'jv_candrabhaga_durga', 'JV_SB105635', '10.56.35',
     'The residents seek Kṛṣṇa’s return through Candrabhāgā / Durgā.', speaker='Śuka',
     note='Compare the VP funerary-offering narrative; do not infer either practice is absent from every other witness.')
+add(37, 'jv_sb10', 'initially_mistakes_for_ordinary_person', 'jv_krishna_sb10', 'JV_SB105622', '10.56.22',
+    'The narrator says Jāmbavān fights Kṛṣṇa without recognizing his divine status, taking him for an ordinary person.', speaker='Śuka',
+    note='Initial narrated belief, superseded by the recognition in 10.56.26. Not an objective identity assertion or a claim of deliberate opposition after recognition.')
 
 observations = [
     dict(id='JVO01', kind='narrated_duration', episode='Syamantaka fight',

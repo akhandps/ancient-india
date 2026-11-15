@@ -1,6 +1,8 @@
 # Jāmbavant: targeted textual dossier
 
-Research snapshot: 15 November 2026. **36 passage-level claims, eight observations, 18 source records.** These are integrated into the canonical Agastya graph through `expansion/jambavant_deep_dive.json`; the original source-local dossiers and explicit literary alignment maps remain in `records.json`. Translation-level review only; no critical-edition concordance or systematic Sanskrit audit is claimed.
+Research snapshot: 15 November 2026. **37 passage-level claims, eight observations, 19 source records.** These are integrated into the canonical Agastya graph through `expansion/jambavant_deep_dive.json`; the original source-local dossiers and explicit literary alignment maps remain in `records.json`. Translation-level review only; no critical-edition concordance or systematic Sanskrit audit is claimed.
+
+The [narrative follow-up](NARRATIVE.md) audits the actual MWIS paths and examines the contrast between Jāmbavant's initial misrecognition of Kṛṣṇa and his later recognition through earlier divine deeds.
 
 ## What stands out
 
@@ -89,6 +91,7 @@ Full results: [RESULTS.md](RESULTS.md), [analysis.json](analysis.json). The fixe
 | JV020–JV023 | Family continuity / later group episode | Bhāgavata 10.61; 11.1 |
 | JV024–JV028 | Earth circuits, herbs, counsel and proposed rescue | Rāmāyaṇa 4.66; 5.60 |
 | JV029–JV036 | Ritual action, information flow and suspicion | VP 4.13; Bhāgavata 10.56 |
+| JV037 | Initial misrecognition before later recognition | Bhāgavata 10.56.22 |
 | JVO01–JVO08 | Durations, waiting alternatives, capacities and circuits | VP 4.13; Rāmāyaṇa 4.65–66; Bhāgavata 10.56; Harivaṃśa 1.38 |
 
 The source-specific summaries, locators, speaker qualifications, and URLs are in [records.json](records.json). Jambha, Jambhāsura, Jambūmāli, and Vāmana the serpent are explicitly excluded from name matching.

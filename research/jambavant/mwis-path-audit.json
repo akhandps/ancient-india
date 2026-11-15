@@ -1,0 +1,328 @@
+{
+  "input_commit": "d966449",
+  "scope": "Original MWIS conflicts; directions, predicates and speakers retained in evidence. Undirected paths do not establish shared events or meetings.",
+  "audited_conflicts": [
+    {
+      "target": {
+        "id": "mb_adi_inc_bali_daitya",
+        "label": "Bali · Daitya · Mahābhārata Ādiparvan 1.59–1.61 witness",
+        "weight": 289
+      },
+      "distance": 2,
+      "paths": [
+        {
+          "ids": [
+            "vp4_13_jambavant",
+            "indra",
+            "mb_adi_inc_bali_daitya"
+          ],
+          "labels": [
+            "Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses",
+            "Indra",
+            "Bali · Daitya · Mahābhārata Ādiparvan 1.59–1.61 witness"
+          ],
+          "steps": [
+            {
+              "from_id": "vp4_13_jambavant",
+              "to_id": "indra",
+              "evidence": [
+                {
+                  "id": "RMW_030",
+                  "facet": "ramayana",
+                  "subject": "vp4_13_jambavant",
+                  "predicate": "aided_in_battle",
+                  "object": "indra",
+                  "source": "ram6_yuddha_27",
+                  "locator": "6.27.12",
+                  "summary": "Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons.",
+                  "category": "battle_relation",
+                  "status": "translation_checked",
+                  "speaker": "Sāraṇa",
+                  "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
+                  "original_language_reviewed": false,
+                  "source_record": {
+                    "id": "ram6_yuddha_27",
+                    "title": "Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders",
+                    "url": "https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm",
+                    "kind": "primary_text_and_translation",
+                    "edition": "Online Sanskrit text in IAST with verse-by-verse gloss and English translation, SanskritDocuments.org hosted Vālmīki Rāmāyaṇa transcription; chapter page does not specify a print edition. Verse numbering is 6-27-x.",
+                    "locator": "Yuddha Kāṇḍa 6.27.1–48",
+                    "accessed": "2026-10-27"
+                  }
+                }
+              ]
+            },
+            {
+              "from_id": "indra",
+              "to_id": "mb_adi_inc_bali_daitya",
+              "evidence": [
+                {
+                  "id": "SB8P067",
+                  "facet": "puranic",
+                  "subject": "mb_adi_inc_bali_daitya",
+                  "predicate": "fought",
+                  "object": "indra",
+                  "source": "sb8_10",
+                  "locator": "Śrīmad-Bhāgavatam 8.10.28",
+                  "summary": "Bali fought Indra.",
+                  "category": "relationship",
+                  "status": "translation_checked",
+                  "speaker": "Śukadeva Gosvāmī",
+                  "original_language_reviewed": true,
+                  "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded.",
+                  "source_record": {
+                    "id": "sb8_10",
+                    "title": "Śrīmad-Bhāgavatam, Canto 8, Chapter 10, “The Battle Between the Demigods and the Demons”",
+                    "url": "https://vedabase.io/en/library/sb/8/10/",
+                    "kind": "primary Sanskrit text and verse translation",
+                    "edition": "Bhaktivedanta VedaBase dual-language edition; numbered Sanskrit text and verse translation reviewed, purport excluded.",
+                    "locator": "Texts 1–57; claims cite the individual verse(s).",
+                    "accessed": "2026-10-27"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "id": "rama",
+        "label": "Rāma",
+        "weight": 709
+      },
+      "distance": 1,
+      "paths": [
+        {
+          "ids": [
+            "vp4_13_jambavant",
+            "rama"
+          ],
+          "labels": [
+            "Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses",
+            "Rāma"
+          ],
+          "steps": [
+            {
+              "from_id": "vp4_13_jambavant",
+              "to_id": "rama",
+              "evidence": [
+                {
+                  "id": "RMW_017",
+                  "facet": "ramayana",
+                  "subject": "vp4_13_jambavant",
+                  "predicate": "commands_allied_troops_for",
+                  "object": "rama",
+                  "source": "ram6_yuddha_27",
+                  "locator": "6.27.10–14",
+                  "summary": "Jāmbavān is named in the commander roll for Rāma’s allied host.",
+                  "category": "battle_role",
+                  "status": "translation_checked",
+                  "speaker": "Sāraṇa",
+                  "note": "Named by Sāraṇa among the bear commanders in the allied force advancing for Rāma.",
+                  "original_language_reviewed": false,
+                  "source_record": {
+                    "id": "ram6_yuddha_27",
+                    "title": "Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders",
+                    "url": "https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm",
+                    "kind": "primary_text_and_translation",
+                    "edition": "Online Sanskrit text in IAST with verse-by-verse gloss and English translation, SanskritDocuments.org hosted Vālmīki Rāmāyaṇa transcription; chapter page does not specify a print edition. Verse numbering is 6-27-x.",
+                    "locator": "Yuddha Kāṇḍa 6.27.1–48",
+                    "accessed": "2026-10-27"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "target": {
+        "id": "vp4_13_satrajita",
+        "label": "Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness",
+        "weight": 307
+      },
+      "distance": 2,
+      "paths": [
+        {
+          "ids": [
+            "vp4_13_jambavant",
+            "vp4_15_kṛṣṇa",
+            "vp4_13_satrajita"
+          ],
+          "labels": [
+            "Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses",
+            "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+            "Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness"
+          ],
+          "steps": [
+            {
+              "from_id": "vp4_13_jambavant",
+              "to_id": "vp4_15_kṛṣṇa",
+              "evidence": [
+                {
+                  "id": "GYM279",
+                  "facet": "puranic",
+                  "subject": "vp4_13_jambavant",
+                  "predicate": "fought_with",
+                  "object": "vp4_15_kṛṣṇa",
+                  "source": "vp4_13_17_anu",
+                  "locator": "4.13.16–20",
+                  "summary": "Jāmbavant and Kṛṣṇa fight for twenty-one days over the Syamantaka jewel.",
+                  "category": "relationship",
+                  "status": "translation_checked",
+                  "speaker": "Parāśara",
+                  "note": "The passage identifies the encounter as a fight; no additional identity claim is implied.",
+                  "original_language_reviewed": false,
+                  "source_record": {
+                    "id": "vp4_13_17_anu",
+                    "title": "The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines",
+                    "url": "https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=",
+                    "kind": "primary_text_translation",
+                    "edition": "McComas Taylor, trans., The Viṣṇu Purāṇa: Ancient Annals of the God with Lotus Eyes (ANU Press, 2021), Book 4, chapters 13–17; locators follow the verse numbering printed in the ANU translation.",
+                    "locator": "4.13.1–57; 4.14.1–14; 4.15.1–26; 4.16.1; 4.17.1–2",
+                    "accessed": "2026-10-27",
+                    "note": "Claims cover only Book 4, chapters 13–17; no chapter 12 material is included. Chapter 13/14 repeated names (including Bhajamāna, Vṛṣṇi and Śini) are kept context-specific where the text does not unambiguously establish identity. The 4.14–15 rebirth chain is represented as distinct person nodes connected by explicit rebirth claims. Divine Vāsudeva born as Kṛṣṇa is distinct from the human father Vasudeva/Ānakadundubhi. Chapter 13 begins with Sātvata’s descendants, but these chapters do not restate his connection to Yadu."
+                  }
+                },
+                {
+                  "id": "JV012",
+                  "subject": "vp4_13_jambavant",
+                  "predicate": "fights_with",
+                  "object": "vp4_15_kṛṣṇa",
+                  "source": "JV_SB105624",
+                  "locator": "10.56.24",
+                  "summary": "The two fight for twenty-eight days.",
+                  "status": "translation_checked",
+                  "original_language_reviewed": false,
+                  "speaker": "Śuka",
+                  "facet": "puranic",
+                  "category": "relationship",
+                  "note": "",
+                  "source_record": {
+                    "id": "JV_SB105624",
+                    "title": "Bhāgavata Purāṇa 10.56.24",
+                    "url": "https://vedabase.io/en/library/sb/10/56/24/",
+                    "kind": "primary_translation",
+                    "accessed": "2026-11-15",
+                    "locator": "",
+                    "edition": "Linked online verse translation; site-specific numbering.",
+                    "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+                  }
+                },
+                {
+                  "id": "JV013",
+                  "subject": "vp4_13_jambavant",
+                  "predicate": "recognizes_as_vishnu",
+                  "object": "vp4_15_kṛṣṇa",
+                  "source": "JV_SB105626",
+                  "locator": "10.56.26",
+                  "summary": "Jāmbavān identifies his opponent as Viṣṇu.",
+                  "status": "translation_checked",
+                  "original_language_reviewed": false,
+                  "speaker": "Jāmbavān",
+                  "note": "A character’s theological recognition, not a database same-person merge.",
+                  "facet": "puranic",
+                  "category": "relationship",
+                  "source_record": {
+                    "id": "JV_SB105626",
+                    "title": "Bhāgavata Purāṇa 10.56.26",
+                    "url": "https://vedabase.io/en/library/sb/10/56/26/",
+                    "kind": "primary_translation",
+                    "accessed": "2026-11-15",
+                    "locator": "",
+                    "edition": "Linked online verse translation; site-specific numbering.",
+                    "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+                  }
+                },
+                {
+                  "id": "JV014",
+                  "subject": "vp4_13_jambavant",
+                  "predicate": "attributes_prior_lanka_campaign_to",
+                  "object": "vp4_15_kṛṣṇa",
+                  "source": "JV_SB105628",
+                  "locator": "10.56.28",
+                  "summary": "He associates his addressee with the bridge and Laṅkā campaign.",
+                  "status": "translation_checked",
+                  "original_language_reviewed": false,
+                  "speaker": "Jāmbavān",
+                  "note": "Rāma is not explicitly named in the verse; the episode identification is contextual. Does not itself say the speaker personally witnessed every listed deed.",
+                  "facet": "puranic",
+                  "category": "relationship",
+                  "source_record": {
+                    "id": "JV_SB105628",
+                    "title": "Bhāgavata Purāṇa 10.56.28",
+                    "url": "https://vedabase.io/en/library/sb/10/56/28/",
+                    "kind": "primary_translation",
+                    "accessed": "2026-11-15",
+                    "locator": "",
+                    "edition": "Linked online verse translation; site-specific numbering.",
+                    "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+                  }
+                },
+                {
+                  "id": "JV016",
+                  "subject": "vp4_13_jambavant",
+                  "predicate": "presents_jewel_and_daughter_to",
+                  "object": "vp4_15_kṛṣṇa",
+                  "source": "JV_SB105632",
+                  "locator": "10.56.32",
+                  "summary": "He presents the jewel and his daughter to Kṛṣṇa.",
+                  "status": "translation_checked",
+                  "original_language_reviewed": false,
+                  "speaker": "Śuka",
+                  "facet": "puranic",
+                  "category": "relationship",
+                  "note": "",
+                  "source_record": {
+                    "id": "JV_SB105632",
+                    "title": "Bhāgavata Purāṇa 10.56.32",
+                    "url": "https://vedabase.io/en/library/sb/10/56/32/",
+                    "kind": "primary_translation",
+                    "accessed": "2026-11-15",
+                    "locator": "",
+                    "edition": "Linked online verse translation; site-specific numbering.",
+                    "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+                  }
+                }
+              ]
+            },
+            {
+              "from_id": "vp4_15_kṛṣṇa",
+              "to_id": "vp4_13_satrajita",
+              "evidence": [
+                {
+                  "id": "JV035",
+                  "subject": "vp4_13_satrajita",
+                  "predicate": "accuses_of_killing_prasena",
+                  "object": "vp4_15_kṛṣṇa",
+                  "source": "JV_SB105616",
+                  "locator": "10.56.16",
+                  "summary": "Satrājit voices the accusation that spreads through the populace.",
+                  "status": "translation_checked",
+                  "original_language_reviewed": false,
+                  "speaker": "Satrājit",
+                  "note": "An attributed accusation, contradicted by the narrated lion episode; not an actual killing edge.",
+                  "facet": "puranic",
+                  "category": "relationship",
+                  "source_record": {
+                    "id": "JV_SB105616",
+                    "title": "Bhāgavata Purāṇa 10.56.16",
+                    "url": "https://vedabase.io/en/library/sb/10/56/16/",
+                    "kind": "primary_translation",
+                    "accessed": "2026-11-15",
+                    "locator": "",
+                    "edition": "Linked online verse translation; site-specific numbering.",
+                    "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

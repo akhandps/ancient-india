@@ -256,6 +256,16 @@
       "locator": "",
       "edition": "Linked online verse translation; site-specific numbering.",
       "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_SB105622",
+      "title": "Bhāgavata Purāṇa 10.56.22",
+      "url": "https://vedabase.io/en/library/sb/10/56/22/",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
     }
   ],
   "claims": [
@@ -797,6 +807,21 @@
       "original_language_reviewed": false,
       "speaker": "Śuka",
       "note": "Compare the VP funerary-offering narrative; do not infer either practice is absent from every other witness.",
+      "facet": "puranic",
+      "category": "relationship"
+    },
+    {
+      "id": "JV037",
+      "subject": "vp4_13_jambavant",
+      "predicate": "initially_mistakes_for_ordinary_person",
+      "object": "vp4_15_kṛṣṇa",
+      "source": "JV_SB105622",
+      "locator": "10.56.22",
+      "summary": "The narrator says Jāmbavān fights Kṛṣṇa without recognizing his divine status, taking him for an ordinary person.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Śuka",
+      "note": "Initial narrated belief, superseded by the recognition in 10.56.26. Not an objective identity assertion or a claim of deliberate opposition after recognition.",
       "facet": "puranic",
       "category": "relationship"
     }

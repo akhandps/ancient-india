@@ -1,6 +1,6 @@
 # People around Agastya
 
-3232 person-like nodes in 4243 passage claims. A direct claim names a source-local Agastya facet as an endpoint. Context claims connect other figures in the same source tradition. Neither kind proves a historical meeting.
+3232 person-like nodes in 4244 passage claims. A direct claim names a source-local Agastya facet as an endpoint. Context claims connect other figures in the same source tradition. Neither kind proves a historical meeting.
 
 Claim status is a review level: `translation_checked` concerns a translated text, `source_text_checked` concerns the Sanskrit text, `editorial_attribution` marks assigned speakers or authors, `scholarly_report` is second-hand, and `identity_hypothesis` is a proposed identification.
 
@@ -1031,7 +1031,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Jyāmagha · son of Parāvṛt](#vp1112_jyamagha) — 0 direct, 3 contextual
 - [Jājali · sage visited by the Pracetās](#sb4_jajali) — 0 direct, 1 contextual
 - [Jālapadī · apsaras in Kripa and Kripi’s birth account](#mb_adi_later_jalapadi) — 0 direct, 1 contextual
-- [Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses](#vp4_13_jambavant) — 0 direct, 30 contextual
+- [Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses](#vp4_13_jambavant) — 0 direct, 31 contextual
 - [Jāmbavatī · Viṣṇu Purāṇa 4.15 witness](#vp4_15_jambavati) — 0 direct, 5 contextual
 - [Jānakī · human king · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_human_incarnation_janaki_human_king) — 0 direct, 1 contextual
 - [Jātukarṇa · Mahābhārata Sabha Parva §IV, p. 7 roster witness](#mb2iv_jatukarna) — 0 direct, 1 contextual
@@ -1320,7 +1320,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Kṛṣivala · Indra’s assembly](#mb2vii_krishivala) — 0 direct, 1 contextual
 - [Kṛṣṇa Vāsudeva](#mb_adi_inc_krishna_human_incarnation) — 0 direct, 3 contextual
 - [Kṛṣṇa · Andhra branch · Viṣṇu Purāṇa 4.24 future-dynasty witness](#vp24_krishna_andhra) — 0 direct, 2 contextual
-- [Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative](#vp4_15_kṛṣṇa) — 0 direct, 28 contextual
+- [Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative](#vp4_15_kṛṣṇa) — 0 direct, 29 contextual
 - [Kṛṣṇa · divine restorer · Viṣṇu Purāṇa 4.20 witness](#vp20_krishna_deity) — 0 direct, 6 contextual
 - [Kṛṣṇa · Nāga in Varuṇa roster · Varuṇa’s assembly (Nāga roster)](#mb2ix_naga_krishna) — 0 direct, 1 contextual
 - [Kṛṣṇa · son of Havirdhāna and Havirdhānī](#sb4_krishna_son) — 0 direct, 2 contextual
@@ -15478,7 +15478,7 @@ Type: person. Direct links: 0. Context links: 1.
 <a id="vp4_13_jambavant"></a>
 ## Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses
 
-Type: person. Direct links: 0. Context links: 30.
+Type: person. Direct links: 0. Context links: 31.
 
 ### Context in the same passages
 
@@ -15512,6 +15512,7 @@ Type: person. Direct links: 0. Context links: 30.
 - **JV025** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → recalls collecting → Herbs gathered for nectar-churning · Rāmāyaṇa 4.66. [Vālmīki Rāmāyaṇa 4.66, 4.66.33](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm). translation_checked. He recalls collecting herbs under divine orders for nectar-churning. The speaker uses a plural rendered as royal we by the linked translator. No claim that these are the later four healing herbs.
 - **JV027** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → counsels considering ramas intent → Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa 5.60, 5.60.5–6](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm). translation_checked. He urges Aṅgada to consider Rāma’s intention before acting. This short passage does not explicitly state a ban on unauthorized rescue, despite expanded retellings.
 - **JV031** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → weakens without food during → Jāmbavant–Kṛṣṇa duel · Viṣṇu Purāṇa 4.13. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.19](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant lacks food and weakens as the fight continues.
+- **JV037** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → initially mistakes for ordinary person → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [Bhāgavata Purāṇa 10.56.22, 10.56.22](https://vedabase.io/en/library/sb/10/56/22/). translation_checked. The narrator says Jāmbavān fights Kṛṣṇa without recognizing his divine status, taking him for an ordinary person. Initial narrated belief, superseded by the recognition in 10.56.26. Not an objective identity assertion or a claim of deliberate opposition after recognition.
 
 
 <a id="vp4_15_jambavati"></a>
@@ -18827,7 +18828,7 @@ Type: person. Direct links: 0. Context links: 2.
 <a id="vp4_15_kṛṣṇa"></a>
 ## Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative
 
-Type: person. Direct links: 0. Context links: 28.
+Type: person. Direct links: 0. Context links: 29.
 
 ### Context in the same passages
 
@@ -18859,6 +18860,7 @@ Type: person. Direct links: 0. Context links: 28.
 - **JV033** Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative → hears song of → Unnamed nurse of Jāmbavant’s child · Viṣṇu Purāṇa 4.13. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.14–17](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Kṛṣṇa hears the nurse before approaching the jewel. Hearing is not necessarily a reciprocal conversation.
 - **JV034** Kṛṣṇa’s kinsfolk · Viṣṇu Purāṇa Syamantaka episode → suspect killing of prasena by → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.13](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. The Yādavas suspect Kṛṣṇa after Prasena disappears. This encodes suspicion, not Kṛṣṇa killing Prasena. The subject is the collectively described Yādavas.
 - **JV035** Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness → accuses of killing prasena → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [Bhāgavata Purāṇa 10.56.16, 10.56.16](https://vedabase.io/en/library/sb/10/56/16/). translation_checked. Satrājit voices the accusation that spreads through the populace. An attributed accusation, contradicted by the narrated lion episode; not an actual killing edge.
+- **JV037** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → initially mistakes for ordinary person → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [Bhāgavata Purāṇa 10.56.22, 10.56.22](https://vedabase.io/en/library/sb/10/56/22/). translation_checked. The narrator says Jāmbavān fights Kṛṣṇa without recognizing his divine status, taking him for an ordinary person. Initial narrated belief, superseded by the recognition in 10.56.26. Not an objective identity assertion or a claim of deliberate opposition after recognition.
 
 
 <a id="vp20_krishna_deity"></a>
