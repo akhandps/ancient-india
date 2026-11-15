@@ -1,0 +1,1745 @@
+{
+  "baseline_sha256": "f91663fa2b6fc4449de4a8fb86a0eb61f49703a7fa41f8c6d9f3daab2ee26bea",
+  "supplement_sha256": "ba3f72c60220458c3ffc2444ebffaffd3db67d1d43e38e3fc1563a2f0a20e6de",
+  "networkx": "3.4.2",
+  "method": "Exact unweighted undirected betweenness on fixed union of person-like records, including isolates. Local or aligned records are graph entities, not distinct historical people.",
+  "alignment_maps": {
+    "jambavant_only": {
+      "jv_ram": "vp4_13_jambavant",
+      "jv_sb8": "vp4_13_jambavant",
+      "jv_sb10": "vp4_13_jambavant"
+    },
+    "additional_named_figures": {
+      "jv_krishna_sb10": "vp4_15_kṛṣṇa",
+      "jv_jambavati_sb10": "vp4_15_jambavati",
+      "jv_samba_sb": "vp4_15_samba",
+      "jv_vamana_sb8": "sb8_13_vamana",
+      "jv_trivikrama_ram": "sb8_13_vamana"
+    }
+  },
+  "supplement_counts": {
+    "nodes": 24,
+    "claims": 36,
+    "observations": 8,
+    "sources": 18
+  },
+  "scenarios": {
+    "original": {
+      "all": {
+        "nodes": 3246,
+        "edges": 3730,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 6,
+            "betweenness": 0.07662211044081287,
+            "rank": 14,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "ram6_dhumra",
+                "label": "Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "RMW_029"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              },
+              {
+                "id": "vp4_13_sukumara",
+                "label": "Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son",
+                "claim_ids": [
+                  "GYM028"
+                ]
+              },
+              {
+                "id": "vp4_15_jambavati",
+                "label": "Jāmbavatī · Viṣṇu Purāṇa 4.15 witness",
+                "claim_ids": [
+                  "GYM029"
+                ]
+              },
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "no_attendance": {
+        "nodes": 3246,
+        "edges": 3014,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 6,
+            "betweenness": 0.07931937926625626,
+            "rank": 3,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "ram6_dhumra",
+                "label": "Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "RMW_029"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              },
+              {
+                "id": "vp4_13_sukumara",
+                "label": "Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son",
+                "claim_ids": [
+                  "GYM028"
+                ]
+              },
+              {
+                "id": "vp4_15_jambavati",
+                "label": "Jāmbavatī · Viṣṇu Purāṇa 4.15 witness",
+                "claim_ids": [
+                  "GYM029"
+                ]
+              },
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "no_attendance_or_kinship": {
+        "nodes": 3246,
+        "edges": 638,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 3,
+            "betweenness": 0.003199482456428766,
+            "rank": 5,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              },
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "existing_jambavant_split": {
+      "all": {
+        "nodes": 3246,
+        "edges": 3730,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 3,
+            "betweenness": 0.038541592043487366,
+            "rank": 26,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "ram6_dhumra",
+                "label": "Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "RMW_029"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              }
+            ]
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 3,
+            "betweenness": 0.0005422360873885461,
+            "rank": 890,
+            "distance_from_any_agastya": 4,
+            "neighbors": [
+              {
+                "id": "vp4_13_sukumara",
+                "label": "Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son",
+                "claim_ids": [
+                  "GYM028"
+                ]
+              },
+              {
+                "id": "vp4_15_jambavati",
+                "label": "Jāmbavatī · Viṣṇu Purāṇa 4.15 witness",
+                "claim_ids": [
+                  "GYM029"
+                ]
+              },
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "no_attendance": {
+        "nodes": 3246,
+        "edges": 3014,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 3,
+            "betweenness": 0.03691345537330605,
+            "rank": 24,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "ram6_dhumra",
+                "label": "Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "RMW_029"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              }
+            ]
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 3,
+            "betweenness": 0.0004206414497120677,
+            "rank": 865,
+            "distance_from_any_agastya": 5,
+            "neighbors": [
+              {
+                "id": "vp4_13_sukumara",
+                "label": "Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son",
+                "claim_ids": [
+                  "GYM028"
+                ]
+              },
+              {
+                "id": "vp4_15_jambavati",
+                "label": "Jāmbavatī · Viṣṇu Purāṇa 4.15 witness",
+                "claim_ids": [
+                  "GYM029"
+                ]
+              },
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "no_attendance_or_kinship": {
+        "nodes": 3246,
+        "edges": 638,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 2,
+            "betweenness": 0.0019592171521286943,
+            "rank": 12,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              }
+            ]
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 1,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": [
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "enriched_source_local": {
+      "all": {
+        "nodes": 3246,
+        "edges": 3749,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 9,
+            "betweenness": 0.04492249595930987,
+            "rank": 21,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "jv_brahma_ram",
+                "label": "Brahmā · Rāmāyaṇa 1.17 creation account",
+                "claim_ids": [
+                  "JV001",
+                  "JV010"
+                ]
+              },
+              {
+                "id": "jv_garuda_ram",
+                "label": "Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66",
+                "claim_ids": [
+                  "JV005"
+                ]
+              },
+              {
+                "id": "jv_trivikrama_ram",
+                "label": "Trivikrama / Viṣṇu · Rāmāyaṇa 4.65",
+                "claim_ids": [
+                  "JV002"
+                ]
+              },
+              {
+                "id": "ram6_angada",
+                "label": "Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV003",
+                  "JV027"
+                ]
+              },
+              {
+                "id": "ram6_dhumra",
+                "label": "Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "RMW_029"
+                ]
+              },
+              {
+                "id": "ram6_hanuman",
+                "label": "Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV004",
+                  "JV006",
+                  "JV008",
+                  "JV009"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              },
+              {
+                "id": "vibhishana_epic",
+                "label": "Vibhīṣaṇa · Rāmāyaṇa witness",
+                "claim_ids": [
+                  "JV007"
+                ]
+              }
+            ]
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 1,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": [
+              {
+                "id": "jv_vamana_sb8",
+                "label": "Vāmana · Bhāgavata 8.21 victory",
+                "claim_ids": [
+                  "JV011"
+                ]
+              }
+            ]
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 3,
+            "betweenness": 0.0027214399844966834,
+            "rank": 479,
+            "distance_from_any_agastya": 7,
+            "neighbors": [
+              {
+                "id": "jv_jambavati_sb10",
+                "label": "Jāmbavatī · Bhāgavata 10.56 / 10.61",
+                "claim_ids": [
+                  "JV015"
+                ]
+              },
+              {
+                "id": "jv_krishna_sb10",
+                "label": "Kṛṣṇa · Bhāgavata Syamantaka episode",
+                "claim_ids": [
+                  "JV012",
+                  "JV013",
+                  "JV014",
+                  "JV016"
+                ]
+              },
+              {
+                "id": "jv_son_sb10",
+                "label": "Unnamed young son of Jāmbavān · Bhāgavata 10.56",
+                "claim_ids": [
+                  "JV017"
+                ]
+              }
+            ]
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 3,
+            "betweenness": 0.0002724479850438595,
+            "rank": 973,
+            "distance_from_any_agastya": 4,
+            "neighbors": [
+              {
+                "id": "vp4_13_sukumara",
+                "label": "Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son",
+                "claim_ids": [
+                  "GYM028"
+                ]
+              },
+              {
+                "id": "vp4_15_jambavati",
+                "label": "Jāmbavatī · Viṣṇu Purāṇa 4.15 witness",
+                "claim_ids": [
+                  "GYM029"
+                ]
+              },
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "no_attendance": {
+        "nodes": 3246,
+        "edges": 3033,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 9,
+            "betweenness": 0.042089024215978384,
+            "rank": 20,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "jv_brahma_ram",
+                "label": "Brahmā · Rāmāyaṇa 1.17 creation account",
+                "claim_ids": [
+                  "JV001",
+                  "JV010"
+                ]
+              },
+              {
+                "id": "jv_garuda_ram",
+                "label": "Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66",
+                "claim_ids": [
+                  "JV005"
+                ]
+              },
+              {
+                "id": "jv_trivikrama_ram",
+                "label": "Trivikrama / Viṣṇu · Rāmāyaṇa 4.65",
+                "claim_ids": [
+                  "JV002"
+                ]
+              },
+              {
+                "id": "ram6_angada",
+                "label": "Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV003",
+                  "JV027"
+                ]
+              },
+              {
+                "id": "ram6_dhumra",
+                "label": "Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "RMW_029"
+                ]
+              },
+              {
+                "id": "ram6_hanuman",
+                "label": "Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV004",
+                  "JV006",
+                  "JV008",
+                  "JV009"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              },
+              {
+                "id": "vibhishana_epic",
+                "label": "Vibhīṣaṇa · Rāmāyaṇa witness",
+                "claim_ids": [
+                  "JV007"
+                ]
+              }
+            ]
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 1,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": [
+              {
+                "id": "jv_vamana_sb8",
+                "label": "Vāmana · Bhāgavata 8.21 victory",
+                "claim_ids": [
+                  "JV011"
+                ]
+              }
+            ]
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 3,
+            "betweenness": 0.0021134667961142913,
+            "rank": 484,
+            "distance_from_any_agastya": 8,
+            "neighbors": [
+              {
+                "id": "jv_jambavati_sb10",
+                "label": "Jāmbavatī · Bhāgavata 10.56 / 10.61",
+                "claim_ids": [
+                  "JV015"
+                ]
+              },
+              {
+                "id": "jv_krishna_sb10",
+                "label": "Kṛṣṇa · Bhāgavata Syamantaka episode",
+                "claim_ids": [
+                  "JV012",
+                  "JV013",
+                  "JV014",
+                  "JV016"
+                ]
+              },
+              {
+                "id": "jv_son_sb10",
+                "label": "Unnamed young son of Jāmbavān · Bhāgavata 10.56",
+                "claim_ids": [
+                  "JV017"
+                ]
+              }
+            ]
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 3,
+            "betweenness": 0.00021165066620562034,
+            "rank": 922,
+            "distance_from_any_agastya": 5,
+            "neighbors": [
+              {
+                "id": "vp4_13_sukumara",
+                "label": "Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son",
+                "claim_ids": [
+                  "GYM028"
+                ]
+              },
+              {
+                "id": "vp4_15_jambavati",
+                "label": "Jāmbavatī · Viṣṇu Purāṇa 4.15 witness",
+                "claim_ids": [
+                  "GYM029"
+                ]
+              },
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "no_attendance_or_kinship": {
+        "nodes": 3246,
+        "edges": 652,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 7,
+            "betweenness": 0.002694874359037128,
+            "rank": 7,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "jv_garuda_ram",
+                "label": "Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66",
+                "claim_ids": [
+                  "JV005"
+                ]
+              },
+              {
+                "id": "jv_trivikrama_ram",
+                "label": "Trivikrama / Viṣṇu · Rāmāyaṇa 4.65",
+                "claim_ids": [
+                  "JV002"
+                ]
+              },
+              {
+                "id": "ram6_angada",
+                "label": "Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV003",
+                  "JV027"
+                ]
+              },
+              {
+                "id": "ram6_hanuman",
+                "label": "Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV004",
+                  "JV006",
+                  "JV008",
+                  "JV009"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              },
+              {
+                "id": "vibhishana_epic",
+                "label": "Vibhīṣaṇa · Rāmāyaṇa witness",
+                "claim_ids": [
+                  "JV007"
+                ]
+              }
+            ]
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 1,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": [
+              {
+                "id": "jv_vamana_sb8",
+                "label": "Vāmana · Bhāgavata 8.21 victory",
+                "claim_ids": [
+                  "JV011"
+                ]
+              }
+            ]
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 1,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": [
+              {
+                "id": "jv_krishna_sb10",
+                "label": "Kṛṣṇa · Bhāgavata Syamantaka episode",
+                "claim_ids": [
+                  "JV012",
+                  "JV013",
+                  "JV014"
+                ]
+              }
+            ]
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 1,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": [
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "enriched_align_jambavant": {
+      "all": {
+        "nodes": 3246,
+        "edges": 3749,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 16,
+            "betweenness": 0.09175660886463922,
+            "rank": 9,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "jv_brahma_ram",
+                "label": "Brahmā · Rāmāyaṇa 1.17 creation account",
+                "claim_ids": [
+                  "JV001",
+                  "JV010"
+                ]
+              },
+              {
+                "id": "jv_garuda_ram",
+                "label": "Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66",
+                "claim_ids": [
+                  "JV005"
+                ]
+              },
+              {
+                "id": "jv_jambavati_sb10",
+                "label": "Jāmbavatī · Bhāgavata 10.56 / 10.61",
+                "claim_ids": [
+                  "JV015"
+                ]
+              },
+              {
+                "id": "jv_krishna_sb10",
+                "label": "Kṛṣṇa · Bhāgavata Syamantaka episode",
+                "claim_ids": [
+                  "JV012",
+                  "JV013",
+                  "JV014",
+                  "JV016"
+                ]
+              },
+              {
+                "id": "jv_son_sb10",
+                "label": "Unnamed young son of Jāmbavān · Bhāgavata 10.56",
+                "claim_ids": [
+                  "JV017"
+                ]
+              },
+              {
+                "id": "jv_trivikrama_ram",
+                "label": "Trivikrama / Viṣṇu · Rāmāyaṇa 4.65",
+                "claim_ids": [
+                  "JV002"
+                ]
+              },
+              {
+                "id": "jv_vamana_sb8",
+                "label": "Vāmana · Bhāgavata 8.21 victory",
+                "claim_ids": [
+                  "JV011"
+                ]
+              },
+              {
+                "id": "ram6_angada",
+                "label": "Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV003",
+                  "JV027"
+                ]
+              },
+              {
+                "id": "ram6_dhumra",
+                "label": "Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "RMW_029"
+                ]
+              },
+              {
+                "id": "ram6_hanuman",
+                "label": "Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV004",
+                  "JV006",
+                  "JV008",
+                  "JV009"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              },
+              {
+                "id": "vibhishana_epic",
+                "label": "Vibhīṣaṇa · Rāmāyaṇa witness",
+                "claim_ids": [
+                  "JV007"
+                ]
+              },
+              {
+                "id": "vp4_13_sukumara",
+                "label": "Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son",
+                "claim_ids": [
+                  "GYM028"
+                ]
+              },
+              {
+                "id": "vp4_15_jambavati",
+                "label": "Jāmbavatī · Viṣṇu Purāṇa 4.15 witness",
+                "claim_ids": [
+                  "GYM029"
+                ]
+              },
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "no_attendance": {
+        "nodes": 3246,
+        "edges": 3033,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 16,
+            "betweenness": 0.08898808186657696,
+            "rank": 2,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "jv_brahma_ram",
+                "label": "Brahmā · Rāmāyaṇa 1.17 creation account",
+                "claim_ids": [
+                  "JV001",
+                  "JV010"
+                ]
+              },
+              {
+                "id": "jv_garuda_ram",
+                "label": "Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66",
+                "claim_ids": [
+                  "JV005"
+                ]
+              },
+              {
+                "id": "jv_jambavati_sb10",
+                "label": "Jāmbavatī · Bhāgavata 10.56 / 10.61",
+                "claim_ids": [
+                  "JV015"
+                ]
+              },
+              {
+                "id": "jv_krishna_sb10",
+                "label": "Kṛṣṇa · Bhāgavata Syamantaka episode",
+                "claim_ids": [
+                  "JV012",
+                  "JV013",
+                  "JV014",
+                  "JV016"
+                ]
+              },
+              {
+                "id": "jv_son_sb10",
+                "label": "Unnamed young son of Jāmbavān · Bhāgavata 10.56",
+                "claim_ids": [
+                  "JV017"
+                ]
+              },
+              {
+                "id": "jv_trivikrama_ram",
+                "label": "Trivikrama / Viṣṇu · Rāmāyaṇa 4.65",
+                "claim_ids": [
+                  "JV002"
+                ]
+              },
+              {
+                "id": "jv_vamana_sb8",
+                "label": "Vāmana · Bhāgavata 8.21 victory",
+                "claim_ids": [
+                  "JV011"
+                ]
+              },
+              {
+                "id": "ram6_angada",
+                "label": "Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV003",
+                  "JV027"
+                ]
+              },
+              {
+                "id": "ram6_dhumra",
+                "label": "Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "RMW_029"
+                ]
+              },
+              {
+                "id": "ram6_hanuman",
+                "label": "Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV004",
+                  "JV006",
+                  "JV008",
+                  "JV009"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              },
+              {
+                "id": "vibhishana_epic",
+                "label": "Vibhīṣaṇa · Rāmāyaṇa witness",
+                "claim_ids": [
+                  "JV007"
+                ]
+              },
+              {
+                "id": "vp4_13_sukumara",
+                "label": "Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son",
+                "claim_ids": [
+                  "GYM028"
+                ]
+              },
+              {
+                "id": "vp4_15_jambavati",
+                "label": "Jāmbavatī · Viṣṇu Purāṇa 4.15 witness",
+                "claim_ids": [
+                  "GYM029"
+                ]
+              },
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "no_attendance_or_kinship": {
+        "nodes": 3246,
+        "edges": 652,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 10,
+            "betweenness": 0.00435274124710735,
+            "rank": 4,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "jv_garuda_ram",
+                "label": "Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66",
+                "claim_ids": [
+                  "JV005"
+                ]
+              },
+              {
+                "id": "jv_krishna_sb10",
+                "label": "Kṛṣṇa · Bhāgavata Syamantaka episode",
+                "claim_ids": [
+                  "JV012",
+                  "JV013",
+                  "JV014"
+                ]
+              },
+              {
+                "id": "jv_trivikrama_ram",
+                "label": "Trivikrama / Viṣṇu · Rāmāyaṇa 4.65",
+                "claim_ids": [
+                  "JV002"
+                ]
+              },
+              {
+                "id": "jv_vamana_sb8",
+                "label": "Vāmana · Bhāgavata 8.21 victory",
+                "claim_ids": [
+                  "JV011"
+                ]
+              },
+              {
+                "id": "ram6_angada",
+                "label": "Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV003",
+                  "JV027"
+                ]
+              },
+              {
+                "id": "ram6_hanuman",
+                "label": "Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV004",
+                  "JV006",
+                  "JV008",
+                  "JV009"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              },
+              {
+                "id": "vibhishana_epic",
+                "label": "Vibhīṣaṇa · Rāmāyaṇa witness",
+                "claim_ids": [
+                  "JV007"
+                ]
+              },
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "enriched_align_named_figures": {
+      "all": {
+        "nodes": 3246,
+        "edges": 3746,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 13,
+            "betweenness": 0.08925261604980465,
+            "rank": 9,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "jv_brahma_ram",
+                "label": "Brahmā · Rāmāyaṇa 1.17 creation account",
+                "claim_ids": [
+                  "JV001",
+                  "JV010"
+                ]
+              },
+              {
+                "id": "jv_garuda_ram",
+                "label": "Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66",
+                "claim_ids": [
+                  "JV005"
+                ]
+              },
+              {
+                "id": "jv_son_sb10",
+                "label": "Unnamed young son of Jāmbavān · Bhāgavata 10.56",
+                "claim_ids": [
+                  "JV017"
+                ]
+              },
+              {
+                "id": "ram6_angada",
+                "label": "Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV003",
+                  "JV027"
+                ]
+              },
+              {
+                "id": "ram6_dhumra",
+                "label": "Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "RMW_029"
+                ]
+              },
+              {
+                "id": "ram6_hanuman",
+                "label": "Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV004",
+                  "JV006",
+                  "JV008",
+                  "JV009"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              },
+              {
+                "id": "sb8_13_vamana",
+                "label": "Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness",
+                "claim_ids": [
+                  "JV002",
+                  "JV011"
+                ]
+              },
+              {
+                "id": "vibhishana_epic",
+                "label": "Vibhīṣaṇa · Rāmāyaṇa witness",
+                "claim_ids": [
+                  "JV007"
+                ]
+              },
+              {
+                "id": "vp4_13_sukumara",
+                "label": "Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son",
+                "claim_ids": [
+                  "GYM028"
+                ]
+              },
+              {
+                "id": "vp4_15_jambavati",
+                "label": "Jāmbavatī · Viṣṇu Purāṇa 4.15 witness",
+                "claim_ids": [
+                  "GYM029",
+                  "JV015"
+                ]
+              },
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279",
+                  "JV012",
+                  "JV013",
+                  "JV014",
+                  "JV016"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "no_attendance": {
+        "nodes": 3246,
+        "edges": 3030,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 13,
+            "betweenness": 0.09912780843243185,
+            "rank": 2,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "jv_brahma_ram",
+                "label": "Brahmā · Rāmāyaṇa 1.17 creation account",
+                "claim_ids": [
+                  "JV001",
+                  "JV010"
+                ]
+              },
+              {
+                "id": "jv_garuda_ram",
+                "label": "Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66",
+                "claim_ids": [
+                  "JV005"
+                ]
+              },
+              {
+                "id": "jv_son_sb10",
+                "label": "Unnamed young son of Jāmbavān · Bhāgavata 10.56",
+                "claim_ids": [
+                  "JV017"
+                ]
+              },
+              {
+                "id": "ram6_angada",
+                "label": "Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV003",
+                  "JV027"
+                ]
+              },
+              {
+                "id": "ram6_dhumra",
+                "label": "Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "RMW_029"
+                ]
+              },
+              {
+                "id": "ram6_hanuman",
+                "label": "Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV004",
+                  "JV006",
+                  "JV008",
+                  "JV009"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              },
+              {
+                "id": "sb8_13_vamana",
+                "label": "Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness",
+                "claim_ids": [
+                  "JV002",
+                  "JV011"
+                ]
+              },
+              {
+                "id": "vibhishana_epic",
+                "label": "Vibhīṣaṇa · Rāmāyaṇa witness",
+                "claim_ids": [
+                  "JV007"
+                ]
+              },
+              {
+                "id": "vp4_13_sukumara",
+                "label": "Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son",
+                "claim_ids": [
+                  "GYM028"
+                ]
+              },
+              {
+                "id": "vp4_15_jambavati",
+                "label": "Jāmbavatī · Viṣṇu Purāṇa 4.15 witness",
+                "claim_ids": [
+                  "GYM029",
+                  "JV015"
+                ]
+              },
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279",
+                  "JV012",
+                  "JV013",
+                  "JV014",
+                  "JV016"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "no_attendance_or_kinship": {
+        "nodes": 3246,
+        "edges": 650,
+        "focal": {
+          "jv_ram": {
+            "label": "Jāmbavān · Rāmāyaṇa dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb8": {
+            "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "jv_sb10": {
+            "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+            "degree": 0,
+            "betweenness": 0.0,
+            "rank": null,
+            "distance_from_any_agastya": null,
+            "neighbors": []
+          },
+          "vp4_13_jambavant": {
+            "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+            "degree": 8,
+            "betweenness": 0.004189348452729586,
+            "rank": 4,
+            "distance_from_any_agastya": 2,
+            "neighbors": [
+              {
+                "id": "indra",
+                "label": "Indra",
+                "claim_ids": [
+                  "RMW_030"
+                ]
+              },
+              {
+                "id": "jv_garuda_ram",
+                "label": "Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66",
+                "claim_ids": [
+                  "JV005"
+                ]
+              },
+              {
+                "id": "ram6_angada",
+                "label": "Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV003",
+                  "JV027"
+                ]
+              },
+              {
+                "id": "ram6_hanuman",
+                "label": "Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+                "claim_ids": [
+                  "JV004",
+                  "JV006",
+                  "JV008",
+                  "JV009"
+                ]
+              },
+              {
+                "id": "rama",
+                "label": "Rāma",
+                "claim_ids": [
+                  "RMW_017"
+                ]
+              },
+              {
+                "id": "sb8_13_vamana",
+                "label": "Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness",
+                "claim_ids": [
+                  "JV002",
+                  "JV011"
+                ]
+              },
+              {
+                "id": "vibhishana_epic",
+                "label": "Vibhīṣaṇa · Rāmāyaṇa witness",
+                "claim_ids": [
+                  "JV007"
+                ]
+              },
+              {
+                "id": "vp4_15_kṛṣṇa",
+                "label": "Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative",
+                "claim_ids": [
+                  "GYM279",
+                  "JV012",
+                  "JV013",
+                  "JV014"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

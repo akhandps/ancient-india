@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-27",
+  "as_of": "2026-11-15",
   "scope": "Every person-like node in graph.json. Direct means a claim endpoint is a source-local Agastya facet; context is a link between other figures.",
   "people": [
     {
@@ -11483,6 +11483,45 @@
           "status": "translation_checked",
           "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
           "speaker": "Narrator; Sāraṇa supplies the initial matchup roster"
+        },
+        {
+          "claim_id": "JV003",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "argues_against_sending_leader",
+          "object": "ram6_angada",
+          "source": "JV_R465",
+          "locator": "4.65.20–27",
+          "summary": "He argues that Aṅgada should be protected as leader.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV027",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "counsels_considering_ramas_intent",
+          "object": "ram6_angada",
+          "source": "JV_R560",
+          "locator": "5.60.5–6",
+          "summary": "He urges Aṅgada to consider Rāma’s intention before acting.",
+          "status": "translation_checked",
+          "note": "This short passage does not explicitly state a ban on unauthorized rescue, despite expanded retellings.",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV028",
+          "facet": "ramayana",
+          "subject": "ram6_angada",
+          "predicate": "proposes_bringing_back",
+          "object": "sita",
+          "source": "JV_R560",
+          "locator": "5.60.1–4",
+          "summary": "Aṅgada proposes returning with Sītā rather than only reporting.",
+          "status": "translation_checked",
+          "note": "A proposed action, not a completed rescue.",
+          "speaker": "Aṅgada"
         }
       ],
       "research_notes": [],
@@ -18018,6 +18057,42 @@
       "open_questions": []
     },
     {
+      "id": "jv_brahma_ram",
+      "label": "Brahmā · Rāmāyaṇa 1.17 creation account",
+      "type": "deity",
+      "direct_claims": [],
+      "context_claims": [
+        {
+          "claim_id": "JV001",
+          "facet": "ramayana",
+          "subject": "jv_brahma_ram",
+          "predicate": "creates",
+          "object": "vp4_13_jambavant",
+          "source": "JV_R117",
+          "locator": "1.17.7",
+          "summary": "Brahmā describes Jāmbavān emerging when he yawned.",
+          "status": "translation_checked",
+          "note": "Narrated origin, not an ordinary biological father claim.",
+          "speaker": "Brahmā"
+        },
+        {
+          "claim_id": "JV010",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "is_described_as_son_of",
+          "object": "jv_brahma_ram",
+          "source": "JV_R674",
+          "locator": "6.74.14",
+          "summary": "The battlefield account calls him Prajāpati’s son.",
+          "status": "translation_checked",
+          "note": "Linked translation identifies Prajāpati here as Brahmā; retain that qualification.",
+          "speaker": "narrator"
+        }
+      ],
+      "research_notes": [],
+      "open_questions": []
+    },
+    {
       "id": "tamil_final_brugarpathi",
       "label": "Brugarpathi · philosophical author named in Maṇimēkalai canto 27",
       "type": "person",
@@ -20162,6 +20237,29 @@
           "status": "translation_checked",
           "note": "The passage explicitly maps a named divine/asura figure to a named human identity; branch labels preserve the two manifestations as distinct person nodes.",
           "speaker": "Vaiśaṃpāyana"
+        }
+      ],
+      "research_notes": [],
+      "open_questions": []
+    },
+    {
+      "id": "jv_candrabhaga_durga",
+      "label": "Candrabhāgā / Durgā · Bhāgavata 10.56.35",
+      "type": "deity",
+      "direct_claims": [],
+      "context_claims": [
+        {
+          "claim_id": "JV036",
+          "facet": "puranic",
+          "subject": "jv_dvaraka_residents_sb",
+          "predicate": "pray_for_krishnas_return_to",
+          "object": "jv_candrabhaga_durga",
+          "source": "JV_SB105635",
+          "locator": "10.56.35",
+          "summary": "The residents seek Kṛṣṇa’s return through Candrabhāgā / Durgā.",
+          "status": "translation_checked",
+          "note": "Compare the VP funerary-offering narrative; do not infer either practice is absent from every other witness.",
+          "speaker": "Śuka"
         }
       ],
       "research_notes": [],
@@ -32024,7 +32122,7 @@
           "claim_id": "MBAPE128",
           "facet": "mahabharata",
           "subject": "mb_adi_inc_drona_human_incarnation",
-          "predicate": "is_father_of",
+          "predicate": "teacher_of",
           "object": "mb_adi_inc_dhrshtadyumna_human_incarnation",
           "source": "mb_bori_adi_ce",
           "locator": "Mahābhārata Ādiparvan 1.155.49–52",
@@ -34767,7 +34865,7 @@
           "claim_id": "MBAPE128",
           "facet": "mahabharata",
           "subject": "mb_adi_inc_drona_human_incarnation",
-          "predicate": "is_father_of",
+          "predicate": "teacher_of",
           "object": "mb_adi_inc_dhrshtadyumna_human_incarnation",
           "source": "mb_bori_adi_ce",
           "locator": "Mahābhārata Ādiparvan 1.155.49–52",
@@ -39280,6 +39378,29 @@
       "open_questions": []
     },
     {
+      "id": "jv_garuda_ram",
+      "label": "Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66",
+      "type": "celestial",
+      "direct_claims": [],
+      "context_claims": [
+        {
+          "claim_id": "JV005",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "reports_having_seen",
+          "object": "jv_garuda_ram",
+          "source": "JV_R466",
+          "locator": "4.66.4–6",
+          "summary": "He recalls seeing Garuḍa and compares Hanumān’s abilities.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Jāmbavān"
+        }
+      ],
+      "research_notes": [],
+      "open_questions": []
+    },
+    {
       "id": "mb_adi_later_birth_vainateya_vainateya_3",
       "label": "Garuḍa · vainateya named at Arjuna’s birth",
       "type": "person",
@@ -41147,6 +41268,58 @@
           "status": "translation_checked",
           "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
           "speaker": "Narrator; Sāraṇa supplies the initial matchup roster"
+        },
+        {
+          "claim_id": "JV004",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "encourages_for_ocean_crossing",
+          "object": "ram6_hanuman",
+          "source": "JV_R465",
+          "locator": "4.65.34–35",
+          "summary": "He turns to Hanumān to enable the mission.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV006",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "narrates_birth_and_praises_capacity_of",
+          "object": "ram6_hanuman",
+          "source": "JV_R466",
+          "locator": "4.66.8–30, 37",
+          "summary": "He recounts Hanumān’s origins and urges action.",
+          "status": "translation_checked",
+          "note": "No forgetting-curse claim is extracted from the site’s commentary.",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV008",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "asks_about_survival_of",
+          "object": "ram6_hanuman",
+          "source": "JV_R674",
+          "locator": "6.74.18–23",
+          "summary": "He treats Hanumān’s survival as crucial to recovery.",
+          "status": "translation_checked",
+          "note": "An inquiry about Hanumān, not an address to him.",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV009",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "sends_for_four_healing_herbs",
+          "object": "ram6_hanuman",
+          "source": "JV_R674",
+          "locator": "6.74.26–34",
+          "summary": "He directs Hanumān to fetch four restorative herbs.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Jāmbavān"
         }
       ],
       "research_notes": [],
@@ -47905,7 +48078,7 @@
     },
     {
       "id": "vp4_13_jambavant",
-      "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+      "label": "Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses",
       "type": "person",
       "direct_claims": [],
       "context_claims": [
@@ -48012,6 +48185,292 @@
           "status": "translation_checked",
           "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted.",
           "speaker": "Sāraṇa"
+        },
+        {
+          "claim_id": "JV001",
+          "facet": "ramayana",
+          "subject": "jv_brahma_ram",
+          "predicate": "creates",
+          "object": "vp4_13_jambavant",
+          "source": "JV_R117",
+          "locator": "1.17.7",
+          "summary": "Brahmā describes Jāmbavān emerging when he yawned.",
+          "status": "translation_checked",
+          "note": "Narrated origin, not an ordinary biological father claim.",
+          "speaker": "Brahmā"
+        },
+        {
+          "claim_id": "JV002",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "recalls_circumambulating",
+          "object": "sb8_13_vamana",
+          "source": "JV_R465",
+          "locator": "4.65.15",
+          "summary": "Jāmbavān recalls circling Trivikrama at Bali’s sacrifice.",
+          "status": "translation_checked",
+          "note": "Verse 15 gives no count of circuits. No yuga-to-calendar conversion.",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV003",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "argues_against_sending_leader",
+          "object": "ram6_angada",
+          "source": "JV_R465",
+          "locator": "4.65.20–27",
+          "summary": "He argues that Aṅgada should be protected as leader.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV004",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "encourages_for_ocean_crossing",
+          "object": "ram6_hanuman",
+          "source": "JV_R465",
+          "locator": "4.65.34–35",
+          "summary": "He turns to Hanumān to enable the mission.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV005",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "reports_having_seen",
+          "object": "jv_garuda_ram",
+          "source": "JV_R466",
+          "locator": "4.66.4–6",
+          "summary": "He recalls seeing Garuḍa and compares Hanumān’s abilities.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV006",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "narrates_birth_and_praises_capacity_of",
+          "object": "ram6_hanuman",
+          "source": "JV_R466",
+          "locator": "4.66.8–30, 37",
+          "summary": "He recounts Hanumān’s origins and urges action.",
+          "status": "translation_checked",
+          "note": "No forgetting-curse claim is extracted from the site’s commentary.",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV007",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "recognizes_by_voice",
+          "object": "vibhishana_epic",
+          "source": "JV_R674",
+          "locator": "6.74.17",
+          "summary": "Wounded Jāmbavān identifies Vibhīṣaṇa by voice.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV008",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "asks_about_survival_of",
+          "object": "ram6_hanuman",
+          "source": "JV_R674",
+          "locator": "6.74.18–23",
+          "summary": "He treats Hanumān’s survival as crucial to recovery.",
+          "status": "translation_checked",
+          "note": "An inquiry about Hanumān, not an address to him.",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV009",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "sends_for_four_healing_herbs",
+          "object": "ram6_hanuman",
+          "source": "JV_R674",
+          "locator": "6.74.26–34",
+          "summary": "He directs Hanumān to fetch four restorative herbs.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV010",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "is_described_as_son_of",
+          "object": "jv_brahma_ram",
+          "source": "JV_R674",
+          "locator": "6.74.14",
+          "summary": "The battlefield account calls him Prajāpati’s son.",
+          "status": "translation_checked",
+          "note": "Linked translation identifies Prajāpati here as Brahmā; retain that qualification.",
+          "speaker": "narrator"
+        },
+        {
+          "claim_id": "JV011",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "announces_victory_of",
+          "object": "sb8_13_vamana",
+          "source": "JV_SB8218",
+          "locator": "8.21.8",
+          "summary": "Jāmbavān proclaims Vāmana’s victory with an instrument.",
+          "status": "translation_checked",
+          "note": "No circumambulation count is given in this verse.",
+          "speaker": "narrator"
+        },
+        {
+          "claim_id": "JV012",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "fights_with",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "JV_SB105624",
+          "locator": "10.56.24",
+          "summary": "The two fight for twenty-eight days.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Śuka"
+        },
+        {
+          "claim_id": "JV013",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "recognizes_as_vishnu",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "JV_SB105626",
+          "locator": "10.56.26",
+          "summary": "Jāmbavān identifies his opponent as Viṣṇu.",
+          "status": "translation_checked",
+          "note": "A character’s theological recognition, not a database same-person merge.",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV014",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "attributes_prior_lanka_campaign_to",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "JV_SB105628",
+          "locator": "10.56.28",
+          "summary": "He associates his addressee with the bridge and Laṅkā campaign.",
+          "status": "translation_checked",
+          "note": "Rāma is not explicitly named in the verse; the episode identification is contextual. Does not itself say the speaker personally witnessed every listed deed.",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV015",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "father_of",
+          "object": "vp4_15_jambavati",
+          "source": "JV_SB105632",
+          "locator": "10.56.32",
+          "summary": "Jāmbavatī is identified as Jāmbavān’s daughter.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Śuka"
+        },
+        {
+          "claim_id": "JV016",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "presents_jewel_and_daughter_to",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "JV_SB105632",
+          "locator": "10.56.32",
+          "summary": "He presents the jewel and his daughter to Kṛṣṇa.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Śuka"
+        },
+        {
+          "claim_id": "JV017",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "father_of",
+          "object": "jv_son_sb10",
+          "source": "JV_SB1056",
+          "locator": "10.56.15",
+          "summary": "The jewel becomes a plaything for his young son.",
+          "status": "translation_checked",
+          "note": "The verse leaves the son unnamed. Do not automatically label him Sukumāra.",
+          "speaker": "Śuka"
+        },
+        {
+          "claim_id": "JV018",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "kills",
+          "object": "jv_lion_sb10",
+          "source": "JV_SB1056",
+          "locator": "10.56.14",
+          "summary": "Jāmbavān kills the lion that killed Prasena.",
+          "status": "translation_checked",
+          "note": "This is not a claim that Jāmbavān killed Prasena.",
+          "speaker": "Śuka"
+        },
+        {
+          "claim_id": "JV024",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "reports_circling_twenty_one_times",
+          "object": "jv_earth_ram",
+          "source": "JV_R466",
+          "locator": "4.66.32",
+          "summary": "He reports twenty-one circuits of the earth during Trivikrama’s time.",
+          "status": "translation_checked",
+          "note": "The object is the earth, not explicitly Trivikrama’s body. This numerical passage was omitted from the initial dossier.",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV025",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "recalls_collecting",
+          "object": "jv_amrita_herbs",
+          "source": "JV_R466",
+          "locator": "4.66.33",
+          "summary": "He recalls collecting herbs under divine orders for nectar-churning.",
+          "status": "translation_checked",
+          "note": "The speaker uses a plural rendered as royal we by the linked translator. No claim that these are the later four healing herbs.",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV027",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "counsels_considering_ramas_intent",
+          "object": "ram6_angada",
+          "source": "JV_R560",
+          "locator": "5.60.5–6",
+          "summary": "He urges Aṅgada to consider Rāma’s intention before acting.",
+          "status": "translation_checked",
+          "note": "This short passage does not explicitly state a ban on unauthorized rescue, despite expanded retellings.",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV031",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "weakens_without_food_during",
+          "object": "jv_duel_vp",
+          "source": "vp4_13_17_anu",
+          "locator": "4.13.19",
+          "summary": "Jāmbavant lacks food and weakens as the fight continues.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Parāśara"
         }
       ],
       "research_notes": [],
@@ -48048,6 +48507,45 @@
           "status": "translation_checked",
           "note": "Direct marriage or spouse relationship stated in the ANU translation.",
           "speaker": "Parāśara"
+        },
+        {
+          "claim_id": "JV015",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "father_of",
+          "object": "vp4_15_jambavati",
+          "source": "JV_SB105632",
+          "locator": "10.56.32",
+          "summary": "Jāmbavatī is identified as Jāmbavān’s daughter.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Śuka"
+        },
+        {
+          "claim_id": "JV020",
+          "facet": "puranic",
+          "subject": "vp4_15_jambavati",
+          "predicate": "mother_of",
+          "object": "vp4_15_samba",
+          "source": "JV_SB1061",
+          "locator": "10.61.11–12",
+          "summary": "Sāmba is listed among Jāmbavatī’s sons.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Śuka"
+        },
+        {
+          "claim_id": "JV021",
+          "facet": "puranic",
+          "subject": "vp4_15_samba",
+          "predicate": "is_son_of",
+          "object": "vp4_15_jambavati",
+          "source": "JV_SB111",
+          "locator": "11.1.14",
+          "summary": "The later episode again names Sāmba’s mother.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Śuka"
         }
       ],
       "research_notes": [],
@@ -60142,6 +60640,123 @@
           "status": "translation_checked",
           "note": "Direct action in the narrated pursuit.",
           "speaker": "Parāśara"
+        },
+        {
+          "claim_id": "JV012",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "fights_with",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "JV_SB105624",
+          "locator": "10.56.24",
+          "summary": "The two fight for twenty-eight days.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Śuka"
+        },
+        {
+          "claim_id": "JV013",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "recognizes_as_vishnu",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "JV_SB105626",
+          "locator": "10.56.26",
+          "summary": "Jāmbavān identifies his opponent as Viṣṇu.",
+          "status": "translation_checked",
+          "note": "A character’s theological recognition, not a database same-person merge.",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV014",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "attributes_prior_lanka_campaign_to",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "JV_SB105628",
+          "locator": "10.56.28",
+          "summary": "He associates his addressee with the bridge and Laṅkā campaign.",
+          "status": "translation_checked",
+          "note": "Rāma is not explicitly named in the verse; the episode identification is contextual. Does not itself say the speaker personally witnessed every listed deed.",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV016",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "presents_jewel_and_daughter_to",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "JV_SB105632",
+          "locator": "10.56.32",
+          "summary": "He presents the jewel and his daughter to Kṛṣṇa.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Śuka"
+        },
+        {
+          "claim_id": "JV029",
+          "facet": "puranic",
+          "subject": "jv_kin_vp",
+          "predicate": "perform_funeral_rites_for",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "vp4_13_17_anu",
+          "locator": "4.13.18",
+          "summary": "Kṛṣṇa’s kinsfolk perform rites after receiving news of his supposed death.",
+          "status": "translation_checked",
+          "note": "The report is mistaken within the narrative; Kṛṣṇa is still fighting.",
+          "speaker": "Parāśara"
+        },
+        {
+          "claim_id": "JV030",
+          "facet": "puranic",
+          "subject": "jv_funeral_rites_vp",
+          "predicate": "are_narrated_to_sustain",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "vp4_13_17_anu",
+          "locator": "4.13.18–19",
+          "summary": "The offerings are narrated as sustaining Kṛṣṇa during the duel.",
+          "status": "translation_checked",
+          "note": "A claim within this telling, not an empirical statement about ritual efficacy.",
+          "speaker": "Parāśara"
+        },
+        {
+          "claim_id": "JV033",
+          "facet": "puranic",
+          "subject": "vp4_15_kṛṣṇa",
+          "predicate": "hears_song_of",
+          "object": "jv_nurse_vp",
+          "source": "vp4_13_17_anu",
+          "locator": "4.13.14–17",
+          "summary": "Kṛṣṇa hears the nurse before approaching the jewel.",
+          "status": "translation_checked",
+          "note": "Hearing is not necessarily a reciprocal conversation.",
+          "speaker": "Parāśara"
+        },
+        {
+          "claim_id": "JV034",
+          "facet": "puranic",
+          "subject": "jv_kin_vp",
+          "predicate": "suspect_killing_of_prasena_by",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "vp4_13_17_anu",
+          "locator": "4.13.13",
+          "summary": "The Yādavas suspect Kṛṣṇa after Prasena disappears.",
+          "status": "translation_checked",
+          "note": "This encodes suspicion, not Kṛṣṇa killing Prasena. The subject is the collectively described Yādavas.",
+          "speaker": "Parāśara"
+        },
+        {
+          "claim_id": "JV035",
+          "facet": "puranic",
+          "subject": "vp4_13_satrajita",
+          "predicate": "accuses_of_killing_prasena",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "JV_SB105616",
+          "locator": "10.56.16",
+          "summary": "Satrājit voices the accusation that spreads through the populace.",
+          "status": "translation_checked",
+          "note": "An attributed accusation, contradicted by the narrated lion episode; not an actual killing edge.",
+          "speaker": "Satrājit"
         }
       ],
       "research_notes": [],
@@ -60491,6 +61106,42 @@
           "status": "source_text_checked",
           "note": "Direct Sanskrit CE passage; relation is limited to what the cited verses state.",
           "speaker": "Vaiśaṃpāyana / narrator"
+        }
+      ],
+      "research_notes": [],
+      "open_questions": []
+    },
+    {
+      "id": "jv_kin_vp",
+      "label": "Kṛṣṇa’s kinsfolk · Viṣṇu Purāṇa Syamantaka episode",
+      "type": "people_collective",
+      "direct_claims": [],
+      "context_claims": [
+        {
+          "claim_id": "JV029",
+          "facet": "puranic",
+          "subject": "jv_kin_vp",
+          "predicate": "perform_funeral_rites_for",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "vp4_13_17_anu",
+          "locator": "4.13.18",
+          "summary": "Kṛṣṇa’s kinsfolk perform rites after receiving news of his supposed death.",
+          "status": "translation_checked",
+          "note": "The report is mistaken within the narrative; Kṛṣṇa is still fighting.",
+          "speaker": "Parāśara"
+        },
+        {
+          "claim_id": "JV034",
+          "facet": "puranic",
+          "subject": "jv_kin_vp",
+          "predicate": "suspect_killing_of_prasena_by",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "vp4_13_17_anu",
+          "locator": "4.13.13",
+          "summary": "The Yādavas suspect Kṛṣṇa after Prasena disappears.",
+          "status": "translation_checked",
+          "note": "This encodes suspicion, not Kṛṣṇa killing Prasena. The subject is the collectively described Yādavas.",
+          "speaker": "Parāśara"
         }
       ],
       "research_notes": [],
@@ -82539,6 +83190,29 @@
       "open_questions": []
     },
     {
+      "id": "jv_dvaraka_residents_sb",
+      "label": "Residents of Dvārakā · Bhāgavata 10.56.35",
+      "type": "people_collective",
+      "direct_claims": [],
+      "context_claims": [
+        {
+          "claim_id": "JV036",
+          "facet": "puranic",
+          "subject": "jv_dvaraka_residents_sb",
+          "predicate": "pray_for_krishnas_return_to",
+          "object": "jv_candrabhaga_durga",
+          "source": "JV_SB105635",
+          "locator": "10.56.35",
+          "summary": "The residents seek Kṛṣṇa’s return through Candrabhāgā / Durgā.",
+          "status": "translation_checked",
+          "note": "Compare the VP funerary-offering narrative; do not infer either practice is absent from every other witness.",
+          "speaker": "Śuka"
+        }
+      ],
+      "research_notes": [],
+      "open_questions": []
+    },
+    {
       "id": "vp4_15_revati",
       "label": "Revatī · Viṣṇu Purāṇa 4.15 witness",
       "type": "person",
@@ -85266,6 +85940,29 @@
       "open_questions": []
     },
     {
+      "id": "jv_sages_sb11",
+      "label": "Sages addressed by the Yadu boys · Bhāgavata 11.1",
+      "type": "people_collective",
+      "direct_claims": [],
+      "context_claims": [
+        {
+          "claim_id": "JV023",
+          "facet": "puranic",
+          "subject": "jv_sages_sb11",
+          "predicate": "predict_dynasty_destroying_club_to",
+          "object": "jv_yadu_boys_sb11",
+          "source": "JV_SB11116",
+          "locator": "11.1.16",
+          "summary": "The sages foretell a club destructive to their dynasty.",
+          "status": "translation_checked",
+          "note": "A reported prediction addressed to the boys; not a causal edge from Jāmbavān.",
+          "speaker": "sages"
+        }
+      ],
+      "research_notes": [],
+      "open_questions": []
+    },
+    {
       "id": "sb6_saha_vasu_son",
       "label": "Saha (Vasu son) · Śrīmad-Bhāgavatam 6.6–6.7 witness",
       "type": "person",
@@ -87430,6 +88127,19 @@
           "status": "translation_checked",
           "note": "This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.",
           "speaker": "Parāśara"
+        },
+        {
+          "claim_id": "JV035",
+          "facet": "puranic",
+          "subject": "vp4_13_satrajita",
+          "predicate": "accuses_of_killing_prasena",
+          "object": "vp4_15_kṛṣṇa",
+          "source": "JV_SB105616",
+          "locator": "10.56.16",
+          "summary": "Satrājit voices the accusation that spreads through the populace.",
+          "status": "translation_checked",
+          "note": "An attributed accusation, contradicted by the narrated lion episode; not an actual killing edge.",
+          "speaker": "Satrājit"
         }
       ],
       "research_notes": [],
@@ -93885,6 +94595,19 @@
           "status": "translation_checked",
           "note": "This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.",
           "speaker": "Parāśara"
+        },
+        {
+          "claim_id": "JV032",
+          "facet": "puranic",
+          "subject": "jv_nurse_vp",
+          "predicate": "sings_to",
+          "object": "vp4_13_sukumara",
+          "source": "vp4_13_17_anu",
+          "locator": "4.13.14–15",
+          "summary": "The nurse’s song recounts the jewel’s passage through the lion and bear.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Parāśara"
         }
       ],
       "research_notes": [],
@@ -98408,6 +99131,45 @@
           "status": "translation_checked",
           "note": "Vṛṣṇi guest",
           "speaker": "Vaiśaṃpāyana / Śiśupāla (quoted speech, §XXXVI)"
+        },
+        {
+          "claim_id": "JV020",
+          "facet": "puranic",
+          "subject": "vp4_15_jambavati",
+          "predicate": "mother_of",
+          "object": "vp4_15_samba",
+          "source": "JV_SB1061",
+          "locator": "10.61.11–12",
+          "summary": "Sāmba is listed among Jāmbavatī’s sons.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Śuka"
+        },
+        {
+          "claim_id": "JV021",
+          "facet": "puranic",
+          "subject": "vp4_15_samba",
+          "predicate": "is_son_of",
+          "object": "vp4_15_jambavati",
+          "source": "JV_SB111",
+          "locator": "11.1.14",
+          "summary": "The later episode again names Sāmba’s mother.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Śuka"
+        },
+        {
+          "claim_id": "JV022",
+          "facet": "puranic",
+          "subject": "jv_yadu_boys_sb11",
+          "predicate": "disguise_as_pregnant_woman",
+          "object": "vp4_15_samba",
+          "source": "JV_SB111",
+          "locator": "11.1.13–15",
+          "summary": "The Yadu boys disguise Sāmba to test the sages.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Śuka"
         }
       ],
       "research_notes": [],
@@ -99441,6 +100203,19 @@
           "status": "translation_checked",
           "note": "The chapter does not explicitly call Sīradhvaja her biological father or state that he adopted her; no father_of edge is inferred.",
           "speaker": "Parāśara"
+        },
+        {
+          "claim_id": "JV028",
+          "facet": "ramayana",
+          "subject": "ram6_angada",
+          "predicate": "proposes_bringing_back",
+          "object": "sita",
+          "source": "JV_R560",
+          "locator": "5.60.1–4",
+          "summary": "Aṅgada proposes returning with Sītā rather than only reporting.",
+          "status": "translation_checked",
+          "note": "A proposed action, not a completed rescue.",
+          "speaker": "Aṅgada"
         }
       ],
       "research_notes": [
@@ -104234,6 +105009,42 @@
       ]
     },
     {
+      "id": "jv_nurse_vp",
+      "label": "Unnamed nurse of Jāmbavant’s child · Viṣṇu Purāṇa 4.13",
+      "type": "person",
+      "direct_claims": [],
+      "context_claims": [
+        {
+          "claim_id": "JV032",
+          "facet": "puranic",
+          "subject": "jv_nurse_vp",
+          "predicate": "sings_to",
+          "object": "vp4_13_sukumara",
+          "source": "vp4_13_17_anu",
+          "locator": "4.13.14–15",
+          "summary": "The nurse’s song recounts the jewel’s passage through the lion and bear.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Parāśara"
+        },
+        {
+          "claim_id": "JV033",
+          "facet": "puranic",
+          "subject": "vp4_15_kṛṣṇa",
+          "predicate": "hears_song_of",
+          "object": "jv_nurse_vp",
+          "source": "vp4_13_17_anu",
+          "locator": "4.13.14–17",
+          "summary": "Kṛṣṇa hears the nurse before approaching the jewel.",
+          "status": "translation_checked",
+          "note": "Hearing is not necessarily a reciprocal conversation.",
+          "speaker": "Parāśara"
+        }
+      ],
+      "research_notes": [],
+      "open_questions": []
+    },
+    {
       "id": "tamil_later_peelivalai_child",
       "label": "Unnamed son of Peelivalai · Maṇimēkalai prior-birth story",
       "type": "person",
@@ -104361,6 +105172,42 @@
       "open_questions": [
         "King’s personal name is not supplied in this passage."
       ]
+    },
+    {
+      "id": "jv_son_sb10",
+      "label": "Unnamed young son of Jāmbavān · Bhāgavata 10.56",
+      "type": "person",
+      "direct_claims": [],
+      "context_claims": [
+        {
+          "claim_id": "JV017",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "father_of",
+          "object": "jv_son_sb10",
+          "source": "JV_SB1056",
+          "locator": "10.56.15",
+          "summary": "The jewel becomes a plaything for his young son.",
+          "status": "translation_checked",
+          "note": "The verse leaves the son unnamed. Do not automatically label him Sukumāra.",
+          "speaker": "Śuka"
+        },
+        {
+          "claim_id": "JV019",
+          "facet": "puranic",
+          "subject": "jv_son_sb10",
+          "predicate": "plays_with",
+          "object": "vp4_13_syamantaka",
+          "source": "JV_SB1056",
+          "locator": "10.56.15",
+          "summary": "The child plays with the Syamantaka jewel.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Śuka"
+        }
+      ],
+      "research_notes": [],
+      "open_questions": []
     },
     {
       "id": "sb4_unnati",
@@ -110992,6 +111839,19 @@
           "status": "translation_checked",
           "note": "Based on the cited verse translation; no purport is used.",
           "speaker": "Maitreya"
+        },
+        {
+          "claim_id": "JV007",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "recognizes_by_voice",
+          "object": "vibhishana_epic",
+          "source": "JV_R674",
+          "locator": "6.74.17",
+          "summary": "Wounded Jāmbavān identifies Vibhīṣaṇa by voice.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Jāmbavān"
         }
       ],
       "research_notes": [],
@@ -116674,6 +117534,32 @@
           "status": "translation_checked",
           "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded.",
           "speaker": "Śukadeva Gosvāmī"
+        },
+        {
+          "claim_id": "JV002",
+          "facet": "ramayana",
+          "subject": "vp4_13_jambavant",
+          "predicate": "recalls_circumambulating",
+          "object": "sb8_13_vamana",
+          "source": "JV_R465",
+          "locator": "4.65.15",
+          "summary": "Jāmbavān recalls circling Trivikrama at Bali’s sacrifice.",
+          "status": "translation_checked",
+          "note": "Verse 15 gives no count of circuits. No yuga-to-calendar conversion.",
+          "speaker": "Jāmbavān"
+        },
+        {
+          "claim_id": "JV011",
+          "facet": "puranic",
+          "subject": "vp4_13_jambavant",
+          "predicate": "announces_victory_of",
+          "object": "sb8_13_vamana",
+          "source": "JV_SB8218",
+          "locator": "8.21.8",
+          "summary": "Jāmbavān proclaims Vāmana’s victory with an instrument.",
+          "status": "translation_checked",
+          "note": "No circumambulation count is given in this verse.",
+          "speaker": "narrator"
         }
       ],
       "research_notes": [],
@@ -121994,6 +122880,42 @@
           "status": "translation_checked",
           "note": "Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded.",
           "speaker": "Śukadeva Gosvāmī"
+        }
+      ],
+      "research_notes": [],
+      "open_questions": []
+    },
+    {
+      "id": "jv_yadu_boys_sb11",
+      "label": "Young Yadu boys · Bhāgavata 11.1",
+      "type": "people_collective",
+      "direct_claims": [],
+      "context_claims": [
+        {
+          "claim_id": "JV022",
+          "facet": "puranic",
+          "subject": "jv_yadu_boys_sb11",
+          "predicate": "disguise_as_pregnant_woman",
+          "object": "vp4_15_samba",
+          "source": "JV_SB111",
+          "locator": "11.1.13–15",
+          "summary": "The Yadu boys disguise Sāmba to test the sages.",
+          "status": "translation_checked",
+          "note": "",
+          "speaker": "Śuka"
+        },
+        {
+          "claim_id": "JV023",
+          "facet": "puranic",
+          "subject": "jv_sages_sb11",
+          "predicate": "predict_dynasty_destroying_club_to",
+          "object": "jv_yadu_boys_sb11",
+          "source": "JV_SB11116",
+          "locator": "11.1.16",
+          "summary": "The sages foretell a club destructive to their dynasty.",
+          "status": "translation_checked",
+          "note": "A reported prediction addressed to the boys; not a causal edge from Jāmbavān.",
+          "speaker": "sages"
         }
       ],
       "research_notes": [],
@@ -137334,6 +138256,15 @@
     {
       "batch": "bhagavata_canto4_people",
       "search_log": []
+    },
+    {
+      "batch": "jambavant_deep_dive",
+      "search_log": [
+        {
+          "scope": "Jāmbavant source review",
+          "result": "Translation-level checks of linked Ramayana, Bhagavata, Vishnu Purana and Harivamsa passages; narrative content kept separate from commentary."
+        }
+      ]
     }
   ]
 }

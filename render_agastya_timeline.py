@@ -37,7 +37,7 @@ data=dict(as_of=graph['as_of'],rows=rows,assumption='A historical core behind Ve
 (out/'timeline-data.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
 template=(root/'agastya-timeline.template.html').read_text()
 html=template.replace('__TIMELINE_DATA__',json.dumps(data,ensure_ascii=False).replace('</','<\\/'))
-target=Path('/Users/akhand/.codex/visualizations/2026/10/27/01a17c4a-9f77-7af2-bb95-eea7843a9c7f/agastya-timeline.html')
+target=out/'timeline-fragment.html'
 target.write_text(html)
 (out/'timeline-fragment.html').write_text(html)
 print(target)

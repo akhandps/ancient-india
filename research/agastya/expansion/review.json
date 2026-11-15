@@ -1,5 +1,8 @@
 {
   "edits": {
+    "MBAPE128": {
+      "predicate": "teacher_of"
+    },
     "EEX013": {
       "summary": "Vṛdhnaśva offers wealth, but Agastya declines because the king’s income equals his expenditure; Vṛdhnaśva then joins Agastya and Śrutarvan in visiting Trasadasyu."
     },

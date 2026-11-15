@@ -9,8 +9,11 @@ EXP = OUT / 'expansion'
 seed = json.loads((OUT / 'seed-graph.json').read_text())
 batches = {name: json.loads((EXP / f'{name}.json').read_text()) for name in ('vedic', 'epic', 'tamil', 'reception', 'vedic_three_hops', 'epic_three_hops', 'tamil_puranic_three_hops', 'epic_scale', 'puranic_scale', 'vedic_tamil_scale', 'tamil_scale_review', 'genealogy_scale', 'genealogy_scale_more', 'genealogy_scale_kuru', 'genealogy_scale_kaurava', 'genealogy_anu', 'genealogy_ayus', 'rama_descendants', 'tamil_further', 'tamil_later', 'genealogy_future_kuru', 'genealogy_vedic_solar', 'tamil_final', 'genealogy_future_dynasties', 'genealogy_solar_middle', 'genealogy_yadu_middle', 'mb_sabha_people', 'mb_adi_genealogies', 'mb_sabha_earlier', 'mb_adi_incarnations', 'mb_adi_royal_lineages', 'mb_sabha_first', 'mb_adi_next', 'mb_other_roster', 'mb_war_roster', 'mb_adi_pandava_early', 'ramayana_war_roster', 'mb_battle_new_people', 'mb_vana_roster', 'bhagavata_lineages_more', 'mb_adi_later', 'bhagavata_9_24_new', 'bhagavata_canto8_people', 'mb_adi_later_more', 'bhagavata_canto4_people')}
 
+batches['jambavant_deep_dive'] = json.loads((EXP / 'jambavant_deep_dive.json').read_text())
+
 # Preserve collector output unchanged. These adjustments document the editorial review.
 edits = {
+    'MBAPE128': {'predicate': 'teacher_of'},
     'EEX013': {'summary': 'Vṛdhnaśva offers wealth, but Agastya declines because the king’s income equals his expenditure; Vṛdhnaśva then joins Agastya and Śrutarvan in visiting Trasadasyu.'},
     'TEX_008': {'status': 'scholarly_report', 'note': 'Mahadevan paraphrases Puṟanāṉūṟu 201 and separately proposes identifying the unnamed sage as Agastya. The poem itself and its translation have not been independently checked here.'},
     'TEX_006': {'note': 'The Tamil prologue names Agastya’s overturned vessel and the river’s emergence. The crow occurs in Hart’s explanatory English prose, not in the cited Tamil lines.'},
@@ -126,6 +129,13 @@ for batch in batches.values():
             raise ValueError(f'duplicate claim: {c["id"]}')
         seed['claims'].append(c); claim_ids.add(c['id'])
 
+seed['observations'] = batches['jambavant_deep_dive']['observations']
+seed['research_extensions'] = [{
+    'batch': 'jambavant_deep_dive',
+    'identity_alignments': batches['jambavant_deep_dive']['identity_alignments'],
+    'identity_note': batches['jambavant_deep_dive']['identity_note'],
+}]
+
 for n in seed['nodes']:
     if n['id'] == 'vedic_vispala':
         n['label'] = 'Viśpalā · interpreted as a mare'
@@ -206,6 +216,11 @@ seed['chronology'].append({'id': 'T13', 'facet': 'puranic', 'kind': 'text_format
 
 seed['schema_version'] = '0.3'
 seed['title'] = 'Agastya: passage-level evidence graph, expansion 3'
+seed['as_of'] = '2026-11-15'
+seed['identity_policy'] = 'The six Agastya facets are source-local dossiers. Their labels organize traditions; neither one historical individual nor six separate people is asserted. Jāmbavant’s cross-text literary alignments are documented in research_extensions; they do not establish a historical lifespan.'
+for node in seed['nodes']:
+    if node['id'] == 'vp4_13_jambavant':
+        node['label'] = 'Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses'
 seed['scope'] += ' The expansion adds Vedic, epic, Tamil, and Buddhist reception links; it remains a sampled source review, not an exhaustive corpus census.'
 seed['open_work'] += [
     'Collate Bṛhaddevatā 4.55–64 against the printed scan and Sanskrit; the online transcription is marked unproofread.',
@@ -225,7 +240,8 @@ for c in seed['claims']:
 
 (OUT / 'graph.json').write_text(json.dumps(seed, ensure_ascii=False, indent=2) + '\n')
 with (OUT / 'claims.csv').open('w', newline='') as f:
-    writer = csv.DictWriter(f, fieldnames=list(seed['claims'][0]))
+    fieldnames = list(dict.fromkeys(k for c in seed['claims'] for k in c))
+    writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader(); writer.writerows(seed['claims'])
 (EXP / 'review.json').write_text(json.dumps({'edits': edits, 'qualification': excluded, 'additional_claims': [f'RFX{i:03d}' for i in range(1, 16)]}, ensure_ascii=False, indent=2) + '\n')
 

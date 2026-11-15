@@ -4343,7 +4343,7 @@
     },
     {
       "id": "vp4_13_jambavant",
-      "label": "Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king",
+      "label": "Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses",
       "hops": 2,
       "steps": [
         {
@@ -17227,6 +17227,46 @@
       ]
     },
     {
+      "id": "jv_brahma_ram",
+      "label": "Brahmā · Rāmāyaṇa 1.17 creation account",
+      "hops": 3,
+      "steps": [
+        {
+          "from": "vedic",
+          "to": "indra",
+          "claim_id": "C002",
+          "predicate": "addresses",
+          "source": "rv170",
+          "locator": "1.170.3",
+          "status": "translation_checked",
+          "summary": "Indra questions Agastya’s withholding of an offering.",
+          "note": "Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit."
+        },
+        {
+          "from": "indra",
+          "to": "vp4_13_jambavant",
+          "claim_id": "RMW_030",
+          "predicate": "aided_in_battle",
+          "source": "ram6_yuddha_27",
+          "locator": "6.27.12",
+          "status": "translation_checked",
+          "summary": "Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons.",
+          "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted."
+        },
+        {
+          "from": "vp4_13_jambavant",
+          "to": "jv_brahma_ram",
+          "claim_id": "JV001",
+          "predicate": "creates",
+          "source": "JV_R117",
+          "locator": "1.17.7",
+          "status": "translation_checked",
+          "summary": "Brahmā describes Jāmbavān emerging when he yawned.",
+          "note": "Narrated origin, not an ordinary biological father claim."
+        }
+      ]
+    },
+    {
       "id": "mb_adi_early_brahma",
       "label": "Brahmā · commissions Viśvakarman to create Tilottamā",
       "hops": 3,
@@ -20987,6 +21027,46 @@
       ]
     },
     {
+      "id": "jv_garuda_ram",
+      "label": "Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66",
+      "hops": 3,
+      "steps": [
+        {
+          "from": "vedic",
+          "to": "indra",
+          "claim_id": "C002",
+          "predicate": "addresses",
+          "source": "rv170",
+          "locator": "1.170.3",
+          "status": "translation_checked",
+          "summary": "Indra questions Agastya’s withholding of an offering.",
+          "note": "Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit."
+        },
+        {
+          "from": "indra",
+          "to": "vp4_13_jambavant",
+          "claim_id": "RMW_030",
+          "predicate": "aided_in_battle",
+          "source": "ram6_yuddha_27",
+          "locator": "6.27.12",
+          "status": "translation_checked",
+          "summary": "Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons.",
+          "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted."
+        },
+        {
+          "from": "vp4_13_jambavant",
+          "to": "jv_garuda_ram",
+          "claim_id": "JV005",
+          "predicate": "reports_having_seen",
+          "source": "JV_R466",
+          "locator": "4.66.4–6",
+          "status": "translation_checked",
+          "summary": "He recalls seeing Garuḍa and compares Hanumān’s abilities.",
+          "note": ""
+        }
+      ]
+    },
+    {
       "id": "mb_adi_later_birth_vainateya_vainateya_3",
       "label": "Garuḍa · vainateya named at Arjuna’s birth",
       "hops": 3,
@@ -21783,6 +21863,46 @@
           "status": "source_text_checked",
           "summary": "The named figure is listed among those who follow Pārvatī in the procession.",
           "note": "Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text."
+        }
+      ]
+    },
+    {
+      "id": "ram6_hanuman",
+      "label": "Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness",
+      "hops": 3,
+      "steps": [
+        {
+          "from": "vedic",
+          "to": "indra",
+          "claim_id": "C002",
+          "predicate": "addresses",
+          "source": "rv170",
+          "locator": "1.170.3",
+          "status": "translation_checked",
+          "summary": "Indra questions Agastya’s withholding of an offering.",
+          "note": "Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit."
+        },
+        {
+          "from": "indra",
+          "to": "vp4_13_jambavant",
+          "claim_id": "RMW_030",
+          "predicate": "aided_in_battle",
+          "source": "ram6_yuddha_27",
+          "locator": "6.27.12",
+          "status": "translation_checked",
+          "summary": "Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons.",
+          "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted."
+        },
+        {
+          "from": "vp4_13_jambavant",
+          "to": "ram6_hanuman",
+          "claim_id": "JV004",
+          "predicate": "encourages_for_ocean_crossing",
+          "source": "JV_R465",
+          "locator": "4.65.34–35",
+          "status": "translation_checked",
+          "summary": "He turns to Hanumān to enable the mission.",
+          "note": ""
         }
       ]
     },
@@ -37267,6 +37387,46 @@
       ]
     },
     {
+      "id": "jv_son_sb10",
+      "label": "Unnamed young son of Jāmbavān · Bhāgavata 10.56",
+      "hops": 3,
+      "steps": [
+        {
+          "from": "vedic",
+          "to": "indra",
+          "claim_id": "C002",
+          "predicate": "addresses",
+          "source": "rv170",
+          "locator": "1.170.3",
+          "status": "translation_checked",
+          "summary": "Indra questions Agastya’s withholding of an offering.",
+          "note": "Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit."
+        },
+        {
+          "from": "indra",
+          "to": "vp4_13_jambavant",
+          "claim_id": "RMW_030",
+          "predicate": "aided_in_battle",
+          "source": "ram6_yuddha_27",
+          "locator": "6.27.12",
+          "status": "translation_checked",
+          "summary": "Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons.",
+          "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted."
+        },
+        {
+          "from": "vp4_13_jambavant",
+          "to": "jv_son_sb10",
+          "claim_id": "JV017",
+          "predicate": "father_of",
+          "source": "JV_SB1056",
+          "locator": "10.56.15",
+          "status": "translation_checked",
+          "summary": "The jewel becomes a plaything for his young son.",
+          "note": "The verse leaves the son unnamed. Do not automatically label him Sukumāra."
+        }
+      ]
+    },
+    {
       "id": "sb4_unnati",
       "label": "Unnati · daughter of Dakṣa and wife of Dharma",
       "hops": 3,
@@ -38552,37 +38712,37 @@
       "hops": 3,
       "steps": [
         {
-          "from": "ramayana",
-          "to": "rama",
-          "claim_id": "C015",
-          "predicate": "speaks_about",
-          "source": "ram311",
-          "locator": "3.11",
+          "from": "vedic",
+          "to": "indra",
+          "claim_id": "C002",
+          "predicate": "addresses",
+          "source": "rv170",
+          "locator": "1.170.3",
           "status": "translation_checked",
-          "summary": "Rāma recounts Agastya’s deeds en route to his hermitage.",
-          "note": ""
+          "summary": "Indra questions Agastya’s withholding of an offering.",
+          "note": "Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit."
         },
         {
-          "from": "rama",
-          "to": "shurpanakha",
-          "claim_id": "ES001",
-          "predicate": "meets",
-          "source": "ram317",
-          "locator": "3.17.10–11, narrative (site prose)",
+          "from": "indra",
+          "to": "vp4_13_jambavant",
+          "claim_id": "RMW_030",
+          "predicate": "aided_in_battle",
+          "source": "ram6_yuddha_27",
+          "locator": "6.27.12",
           "status": "translation_checked",
-          "summary": "While Rāma is at the Pañcavaṭī hermitage with Sītā and Lakṣmaṇa, Śūrpaṇakhā arrives and addresses him.",
-          "note": "The meeting occurs downstream of the Agastya-to-Pañcavaṭī direction; this passage does not depict Śūrpaṇakhā meeting Agastya."
+          "summary": "Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons.",
+          "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted."
         },
         {
-          "from": "shurpanakha",
+          "from": "vp4_13_jambavant",
           "to": "vibhishana_epic",
-          "claim_id": "ES005",
-          "predicate": "is_sister_of",
-          "source": "ram317",
-          "locator": "3.17.24, Śūrpaṇakhā's self-introduction (site prose)",
+          "claim_id": "JV007",
+          "predicate": "recognizes_by_voice",
+          "source": "JV_R674",
+          "locator": "6.74.17",
           "status": "translation_checked",
-          "summary": "Śūrpaṇakhā names Vibhīṣaṇa as her brother and says that he does not behave like a demon.",
-          "note": "The characterization is retained as her speech, without importing later narrative framing."
+          "summary": "Wounded Jāmbavān identifies Vibhīṣaṇa by voice.",
+          "note": ""
         }
       ]
     },
@@ -40267,6 +40427,46 @@
       ]
     },
     {
+      "id": "sb8_13_vamana",
+      "label": "Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness",
+      "hops": 3,
+      "steps": [
+        {
+          "from": "vedic",
+          "to": "indra",
+          "claim_id": "C002",
+          "predicate": "addresses",
+          "source": "rv170",
+          "locator": "1.170.3",
+          "status": "translation_checked",
+          "summary": "Indra questions Agastya’s withholding of an offering.",
+          "note": "Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit."
+        },
+        {
+          "from": "indra",
+          "to": "vp4_13_jambavant",
+          "claim_id": "RMW_030",
+          "predicate": "aided_in_battle",
+          "source": "ram6_yuddha_27",
+          "locator": "6.27.12",
+          "status": "translation_checked",
+          "summary": "Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons.",
+          "note": "Sanskrit verse and site translation checked; only the named action or relationship is asserted."
+        },
+        {
+          "from": "vp4_13_jambavant",
+          "to": "sb8_13_vamana",
+          "claim_id": "JV002",
+          "predicate": "recalls_circumambulating",
+          "source": "JV_R465",
+          "locator": "4.65.15",
+          "status": "translation_checked",
+          "summary": "Jāmbavān recalls circling Trivikrama at Bali’s sacrifice.",
+          "note": "Verse 15 gives no count of circuits. No yuga-to-calendar conversion."
+        }
+      ]
+    },
+    {
       "id": "mb2viii_varisena",
       "label": "Vāriṣeṇa · Yama’s assembly (royal sages and kings)",
       "hops": 3,
@@ -40983,6 +41183,46 @@
           "status": "translation_checked",
           "summary": "Yoga is identified as the child of Dharma.",
           "note": "Based on the cited verse translation; no purport is used."
+        }
+      ]
+    },
+    {
+      "id": "jv_yadu_boys_sb11",
+      "label": "Young Yadu boys · Bhāgavata 11.1",
+      "hops": 3,
+      "steps": [
+        {
+          "from": "mahabharata",
+          "to": "yudhisthira",
+          "claim_id": "C030",
+          "predicate": "asks_about",
+          "source": "mb396",
+          "locator": "Vana §96",
+          "status": "translation_checked",
+          "summary": "Yudhiṣṭhira asks why Agastya killed Vātāpi.",
+          "note": "He asks Lomaśa, not Agastya; no meeting is asserted."
+        },
+        {
+          "from": "yudhisthira",
+          "to": "vp4_15_samba",
+          "claim_id": "MB2ROSTER_037",
+          "predicate": "attends_rajasuya_of",
+          "source": "mb2_sabha_xxxiii",
+          "locator": "§XXXIII, p. 71",
+          "status": "translation_checked",
+          "summary": "Śāmba is individually named among those who came to Yudhiṣṭhira’s Rājasūya sacrifice.",
+          "note": "Vṛṣṇi guest"
+        },
+        {
+          "from": "vp4_15_samba",
+          "to": "jv_yadu_boys_sb11",
+          "claim_id": "JV022",
+          "predicate": "disguise_as_pregnant_woman",
+          "source": "JV_SB111",
+          "locator": "11.1.13–15",
+          "status": "translation_checked",
+          "summary": "The Yadu boys disguise Sāmba to test the sages.",
+          "note": ""
         }
       ]
     },

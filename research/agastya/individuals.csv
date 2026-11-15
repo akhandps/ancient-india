@@ -222,7 +222,7 @@ vp18_anga,Aṅga · son of Bali’s wife and Dīrghatamas · Viṣṇu Purāṇa
 sb4_anga_ulmuka,Aṅga · son of Ulmuka and Puṣkariṇī,person,passage_checked,SB4_0307;SB4_0308;SB4_0319;SB4_0320,sb4_ch13
 mb2viii_anga,Aṅga · Yama roster king · Yama’s assembly (royal sages and kings),person,passage_checked,MB2EARLY_138,mb2_sabha_viii
 vp4_angada_lakshmana,Aṅgada · Lakṣmaṇa’s son · Viṣṇu Purāṇa witness,person,passage_checked,VRD005,vp4_4_anu
-ram6_angada,Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness,person,passage_checked,RMW_002;RMW_012;RMW_013;RMW_031,ram6_yuddha_26;ram6_yuddha_43
+ram6_angada,Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness,person,passage_checked,RMW_002;RMW_012;RMW_013;RMW_031;JV003;JV027;JV028,JV_R465;JV_R560;ram6_yuddha_26;ram6_yuddha_43
 mb2xxx_angavaha,Aṅgavāha · Vṛṣṇi guest · Mahābhārata Sabha Parva §§XXXIII–XXXVI witness,person,passage_checked,MB2ROSTER_041,mb2_sabha_xxxiii
 mb3_angiras,"Aṅgiras · husband of Śivā, one of the forms assumed by Svāhā",person,passage_checked,MB3VANA_007,mb3_ce_skanda_213_221
 mb_adi_inc_anggiras,Aṅgiras · mind-born sage · Mahābhārata Ādiparvan 1.59–1.61 witness,person,passage_checked,MBAI003;MBANI060;MBAL099,mb_bori_adi_ce;mb_bori_adi_inc_ce
@@ -370,6 +370,7 @@ vp19_brahmadatta,Brahmadatta · Viṣṇu Purāṇa 4.19 witness,person,passage_
 mb_adi_early_brahma,Brahmā · commissions Viśvakarman to create Tilottamā,person,passage_checked,MBAPE171,mb_bori_adi_ce
 mb_adi_inc_brahma,Brahmā · creator · Mahābhārata Ādiparvan 1.59–1.61 witness,person,passage_checked,MBAI001;MBAI002;MBAI003;MBAI004;MBAI005;MBAI006;SB6L217,mb_bori_adi_inc_ce;sb6_7
 mb2_brahma_sabha_xi,Brahmā · host of the assembly described in MB 2 Section XI,deity,passage_checked,MB2SAB_063;MB2SAB_064;MB2SAB_065;MB2SAB_066;MB2SAB_067;MB2SAB_068;MB2SAB_069;MB2SAB_070;MB2SAB_071;MB2SAB_072;MB2SAB_073;MB2SAB_074;MB2SAB_075;MB2SAB_076;MB2SAB_077;MB2SAB_078;MB2SAB_079;MB2SAB_080;MB2SAB_081;MB2SAB_082;MB2SAB_083;MB2SAB_084;MB2SAB_085;MB2SAB_086;MB2SAB_087;MB2SAB_088;MB2SAB_089;MB2SAB_090;MB2SAB_091;MB2SAB_092;MB3VANA_055;SB4_0195;SB4_0196;SB4_0197;SB4_0198;SB4_0199;SB4_0200;SB4_0334,mb2_sabha_ganguli_xi;mb3_ce_skanda_213_221;sb4_ch15;sb4_ch8
+jv_brahma_ram,Brahmā · Rāmāyaṇa 1.17 creation account,deity,passage_checked,JV001;JV010,JV_R117;JV_R674
 tamil_final_brugarpathi,Brugarpathi · philosophical author named in Maṇimēkalai canto 27,person,passage_checked,TFNL004,tamil_manimekalai_hart
 mb_adi_early_budbuda,Budbudā · apsaras released by Arjuna from crocodile curse,person,passage_checked,MBAPE169,mb_bori_adi_ce
 tamil_final_buddha,Buddha · teacher and refuge in Maṇimēkalai canto 30,person,passage_checked,TFNL030,tamil_manimekalai_hart
@@ -439,6 +440,7 @@ vp18_champa,Campa · Viṣṇu Purāṇa 4.18 witness,person,passage_checked,ANU
 vp4_14_candanodaka_dundubhi,Candanodaka Dundubhi · name of Bhava in Viṣṇu Purāṇa 4.14,person,passage_checked,GYM080,vp4_13_17_anu
 sb8_10_actor_candra,Candra (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness,person,passage_checked,SB8P077,sb8_10
 mb_adi_inc_candra_diti_son,Candra · Diti son · Mahābhārata Ādiparvan 1.59–1.61 witness,person,passage_checked,MBAI216,mb_bori_adi_inc_ce
+jv_candrabhaga_durga,Candrabhāgā / Durgā · Bhāgavata 10.56.35,deity,passage_checked,JV036,JV_SB105635
 vp24_candragupta,Candragupta · Maurya branch · Viṣṇu Purāṇa 4.24 future-dynasty witness,person,passage_checked,GFD018;GFD019,vp4_24_anu
 mb_adi_inc_candrahanta,Candrahanta · Mahābhārata Ādiparvan 1.59–1.61 witness,person,passage_checked,MBAI220,mb_bori_adi_inc_ce
 mb_battle_candraketu,Candraketu · fighter killed by Abhimanyu in Droṇaparvan 7.47,person,passage_checked,MBBNP011,mb_bori_drona_ce
@@ -777,6 +779,7 @@ sb924_gandhamada,Gandhamāda · Bhāgavata 9.24 witness,person,passage_checked,S
 mb2_x_gandhamadana,"Gandhamādana · Yakṣa/Gandharva leader · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23",person,passage_checked,MB2SAB_052,mb2_sabha_ganguli_x
 vp19_garga,Garga · Bhavanmanyu branch · Viṣṇu Purāṇa 4.19 witness,person,passage_checked,GSM015;GSM019,vp4_19_anu
 mb2vii_garishta,Gariṣṭha · Indra’s assembly,person,passage_checked,MB2EARLY_020,mb2_sabha_vii
+jv_garuda_ram,Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66,celestial,passage_checked,JV005,JV_R466
 mb_adi_later_birth_vainateya_vainateya_3,Garuḍa · vainateya named at Arjuna’s birth,person,passage_checked,MBAL204,mb_bori_adi_ce
 mb_adi_inc_garuda_vinata_line,Garuḍa · Vinatā line · Mahābhārata Ādiparvan 1.59–1.61 witness,person,passage_checked,MBAI098;SB6L104;SB8P091,mb_bori_adi_inc_ce;sb6_6;sb8_10
 sb4_gati,Gati · wife of Pulaha,person,passage_checked,SB4_0087;SB4_0089;SB4_0091;SB4_0093,sb4_ch1
@@ -831,7 +834,7 @@ mb_adi_kadru_halika,Halika · principal serpent · Ādiparvan 1.31,person,passag
 mb3_halima_matrika,Halimā · one of the seven named child-mothers in Skanda’s retinue,deity,passage_checked,MB3VANA_018,mb3_ce_skanda_213_221
 mb_adi_vasuki_line_halisaka,Halīsaka · Vāsuki lineage serpent · Ādiparvan 1.52,person,passage_checked,MBA084,mb_bori_adi_ce
 mb_adi_inc_hanta_kala_line,Hanta · Kāla line · Mahābhārata Ādiparvan 1.59–1.61 witness,person,passage_checked,MBAI093;MBAI095,mb_bori_adi_inc_ce
-ram6_hanuman,Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness,person,passage_checked,RMW_033,ram6_yuddha_43
+ram6_hanuman,Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness,person,passage_checked,RMW_033;JV004;JV006;JV008;JV009,JV_R465;JV_R466;JV_R674;ram6_yuddha_43
 mb_adi_inc_hara_daitya,Hara · Daitya · Mahābhārata Ādiparvan 1.59–1.61 witness,person,passage_checked,MBAI067;MBAI210,mb_bori_adi_inc_ce
 ram6_hara,Hara · monkey troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness,person,passage_checked,RMW_015,ram6_yuddha_27
 sb8_10_actor_supreme_lord_hari,Hari (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness,person,passage_checked,SB8P087;SB8P088;SB8P089;SB8P090,sb8_10
@@ -982,8 +985,8 @@ sb8_tamasa_sage_jyotirdhama,Jyotirdhāma · Śrīmad-Bhāgavatam Canto 8 witness
 vp1112_jyamagha,Jyāmagha · son of Parāvṛt,person,passage_checked,ANU67_1112_091;ANU67_1112_094;ANU67_1112_095,vp4_12_anu
 sb4_jajali,Jājali · sage visited by the Pracetās,person,passage_checked,SB4_0386,sb4_ch31
 mb_adi_later_jalapadi,Jālapadī · apsaras in Kripa and Kripi’s birth account,person,passage_checked,MBAL043,mb_bori_adi_ce
-vp4_13_jambavant,Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king,person,passage_checked,GYM028;GYM029;GYM030;GYM272;GYM279;RMW_017;RMW_029;RMW_030,ram6_yuddha_27;vp4_13_17_anu
-vp4_15_jambavati,Jāmbavatī · Viṣṇu Purāṇa 4.15 witness,person,passage_checked,GYM029;GYM242,vp4_13_17_anu
+vp4_13_jambavant,"Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses",person,passage_checked,GYM028;GYM029;GYM030;GYM272;GYM279;RMW_017;RMW_029;RMW_030;JV001;JV002;JV003;JV004;JV005;JV006;JV007;JV008;JV009;JV010;JV011;JV012;JV013;JV014;JV015;JV016;JV017;JV018;JV024;JV025;JV027;JV031,JV_R117;JV_R465;JV_R466;JV_R560;JV_R674;JV_SB1056;JV_SB105624;JV_SB105626;JV_SB105628;JV_SB105632;JV_SB8218;ram6_yuddha_27;vp4_13_17_anu
+vp4_15_jambavati,Jāmbavatī · Viṣṇu Purāṇa 4.15 witness,person,passage_checked,GYM029;GYM242;JV015;JV020;JV021,JV_SB105632;JV_SB1061;JV_SB111;vp4_13_17_anu
 mb2iv_jatukarna,"Jātukarṇa · Mahābhārata Sabha Parva §IV, p. 7 roster witness",person,passage_checked,MB2FIRST_034,mb2_sabha_iv
 vp1112_jimuta,Jīmūta · Viṣṇu Purāṇa 4.12 witness,person,passage_checked,ANU67_1112_109;ANU67_1112_110,vp4_12_anu
 mb_adi_nxt_kaca,Kaca · son of Bṛhaspati and grandson of Aṅgiras,person,passage_checked,MBANI060;MBANI061;MBANI063,mb_bori_adi_ce
@@ -1974,7 +1977,7 @@ sb4_sarvateja,Sarvatejā · son of Vyuṣṭa and Puṣkariṇī,person,passage_
 vp20_sarvatraga,Sarvatraga (ANU; Sanskrit variant Sarvaga) · Viṣṇu Purāṇa 4.20 witness,person,passage_checked,GKA077;GKA078,vp4_20_anu
 sb6_sarupa,Sarūpā · Śrīmad-Bhāgavatam 6.6–6.7 witness,person,passage_checked,SB6L078;SB6L079;SB6L080;SB6L081;SB6L082;SB6L083;SB6L084;SB6L085;SB6L086;SB6L087;SB6L088;SB6L089,sb6_6
 mb_adi_later_birth_gandharva_gandharva_17,Sat · gandharva named at Arjuna’s birth,person,passage_checked,MBAL121,mb_bori_adi_ce
-vp4_13_satrajita,Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness,person,passage_checked,GYM021;GYM022;GYM023;GYM025;GYM026;GYM027;GYM032;GYM037;GYM038;GYM039,vp4_13_17_anu
+vp4_13_satrajita,Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness,person,passage_checked,GYM021;GYM022;GYM023;GYM025;GYM026;GYM027;GYM032;GYM037;GYM038;GYM039;JV035,JV_SB105616;vp4_13_17_anu
 sb8_13_satrayana,Satrāyaṇa · Śrīmad-Bhāgavatam Canto 8 witness,person,passage_checked,SB8P185,sb8_13
 vp1112_satvata,Satvata · Viṣṇu Purāṇa 4.12 witness,person,passage_checked,ANU67_1112_124,vp4_12_anu
 mb2iv_satya,"Satya · sage in Yudhiṣṭhira’s court · Mahābhārata Sabha Parva §IV, p. 6 roster witness",person,passage_checked,MB2FIRST_001,mb2_sabha_iv
@@ -2150,7 +2153,7 @@ tamil_later_sukhadevi,Sukhadevi · Maṇimēkalai canto 18 witness,person,passag
 vp21_sukhibala,Sukhibala · Viṣṇu Purāṇa 4.21 future-lineage witness,person,passage_checked,GFK021;GFK022,vp4_21_anu
 mb_adi_early_sukumara,Sukumāra · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),person,passage_checked,MBAPE047,mb_bori_adi_ce
 mb_adi_takshaka_line_sukumara,Sukumāra · Takṣaka lineage serpent · Ādiparvan 1.52,person,passage_checked,MBA105;MBALM045,mb_bori_adi_ce
-vp4_13_sukumara,Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son,person,passage_checked,GYM028,vp4_13_17_anu
+vp4_13_sukumara,Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son,person,passage_checked,GYM028;JV032,vp4_13_17_anu
 vp89_sukumara,Sukumāra · Viṣṇu Purāṇa 4.8–9 witness,person,passage_checked,AYUS89_027;AYUS89_028,vp4_8_9_anu
 mb_adi_early_sukundala,Sukuṇḍala · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),person,passage_checked,MBAPE017;MBALM016,mb_bori_adi_ce
 sb8_13_sage10_sukrta,Sukṛta · Śrīmad-Bhāgavatam Canto 8 witness,person,passage_checked,SB8P147,sb8_13
@@ -2280,7 +2283,7 @@ tamil_later_saduvan,Sāduvan · Maṇimēkalai canto 16 witness,person,passage_c
 vp1112_sahamji,Sāhaṃji · Viṣṇu Purāṇa 4.11 witness,person,passage_checked,ANU67_1112_050;ANU67_1112_051,vp4_11_anu
 tamil_later_sali,Sāli · Maṇimēkalai prior-birth witness,person,passage_checked,TL047,tamil_manimekalai_hart
 mb_adi_early_samba,Sāmba · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),person,passage_checked,MBAPE079;MBALM077,mb_bori_adi_ce
-vp4_15_samba,Sāmba · Viṣṇu Purāṇa 4.15 witness,person,passage_checked,GYM246;MB2ROSTER_037,mb2_sabha_xxxiii;vp4_13_17_anu
+vp4_15_samba,Sāmba · Viṣṇu Purāṇa 4.15 witness,person,passage_checked,GYM246;MB2ROSTER_037;JV020;JV021;JV022,JV_SB1061;JV_SB111;mb2_sabha_xxxiii;vp4_13_17_anu
 mb_adi_early_saramejaya,Sāramejaya · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),person,passage_checked,MBAPE092;MBALM090,mb_bori_adi_ce
 sb924_sarameya,Sārameya · Bhāgavata 9.24 witness,person,passage_checked,SB924_001,sb9_24
 mb_adi_early_sarana,Sāraṇa · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),person,passage_checked,MBAPE081;MBALM079,mb_bori_adi_ce
@@ -2299,7 +2302,7 @@ mb_adi_early_savitri,Sāvitrī · elder sister of Tapatī,person,passage_checked
 mb3_savitri_goddess,Sāvitrī · named among the women accompanying Pārvatī; source-local identity,deity,passage_checked,MB3VANA_052,mb3_ce_skanda_213_221
 sb4_sayam,Sāyam · son of Puṣpārṇa and Prabhā,person,passage_checked,SB4_0267;SB4_0268,sb4_ch13
 vp35_siradhvaja,Sīradhvaja · Viṣṇu Purāṇa 4.3–5 witness,person,passage_checked,VSG063;VSG064;VSG065;VSG095,vp4_5_anu
-sita,Sītā,person,passage_checked,C021;EEX004;VSG041;VSG095,ram312;ram313;vp4_4_genealogy_anu;vp4_5_anu
+sita,Sītā,person,passage_checked,C021;EEX004;VSG041;VSG095;JV028,JV_R560;ram312;ram313;vp4_4_genealogy_anu;vp4_5_anu
 mb_adi_inc_sukshma_daitya,Sūkṣma · Daitya · Mahābhārata Ādiparvan 1.59–1.61 witness,person,passage_checked,MBAI062;MBAI205,mb_bori_adi_inc_ce
 sb8_sunrta,Sūnṛtā · Śrīmad-Bhāgavatam Canto 8 witness,person,passage_checked,SB8P023;SB8P024,sb8_1
 sb8_10_actor_s_rya,Sūrya (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness,person,passage_checked,SB8P074;SB8P076,sb8_10
@@ -2553,7 +2556,7 @@ sb6_vibhavasu_danu_son,Vibhāvasu (Danu son) · Śrīmad-Bhāgavatam 6.6–6.7 w
 sb6_vibhavasu_vasu,Vibhāvasu (Vasu) · Śrīmad-Bhāgavatam 6.6–6.7 witness,person,passage_checked,SB6L051;SB6L073,sb6_6
 mb_adi_nxt_vibhāvasu,Vibhāvasu · named in the Vivasvat–Devabhrāṭ solar genealogy,person,passage_checked,MBANI086,mb_bori_adi_ce
 mb2_x_vibhishana_kubera,"Vibhīṣaṇa · Kuvera’s younger brother in this passage · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23",person,passage_checked,MB2SAB_033;MB2SAB_060,mb2_sabha_ganguli_x
-vibhishana_epic,Vibhīṣaṇa · Rāmāyaṇa witness,person,passage_checked,ES005;RMW_034;RMW_047;SB4_0085;SB4_0086,ram317;ram6_yuddha_43;sb4_ch1
+vibhishana_epic,Vibhīṣaṇa · Rāmāyaṇa witness,person,passage_checked,ES005;RMW_034;RMW_047;SB4_0085;SB4_0086;JV007,JV_R674;ram317;ram6_yuddha_43;sb4_ch1
 vp35_vibudha_videha,Vibudha · Videha line · Viṣṇu Purāṇa 4.3–5 witness,person,passage_checked,VSG057;VSG058,vp4_5_anu
 sb8_13_deva_son_vicitra,Vicitra · Śrīmad-Bhāgavatam Canto 8 witness,person,passage_checked,SB8P170,sb8_13
 vp20_vicitravirya,Vicitravīrya · Śāṃtanu’s son · Viṣṇu Purāṇa 4.20 witness,person,passage_checked,GKA032;GKA033;GKA035;GKA036;MBAR004;MBAR005;MBAR008;MBAR009;MBAR013;MBAR016;MBAR019,mb_bori_adi_ce;vp4_20_anu
@@ -2697,7 +2700,7 @@ ram6_vali,"Vāli · Aṅgada’s father, named in his patronymic · Vālmīki R�
 mb2vii_valmiki,Vālmīki · Indra’s assembly,person,passage_checked,MB2EARLY_036,mb2_sabha_vii
 sb6_vama,Vāma · Śrīmad-Bhāgavatam 6.6–6.7 witness,person,passage_checked,SB6L083,sb6_6
 mb2vii_vamadeva,Vāmadeva · Indra’s assembly,person,passage_checked,MB2EARLY_040,mb2_sabha_vii
-sb8_13_vamana,"Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness",person,passage_checked,SB8P123;SB8P124,sb8_13
+sb8_13_vamana,"Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness",person,passage_checked,SB8P123;SB8P124;JV002;JV011,JV_R465;JV_SB8218;sb8_13
 mb_adi_kadru_vamana,Vāmana · principal serpent · Ādiparvan 1.31,person,passage_checked,MBA012,mb_bori_adi_ce
 mb_adi_dhrtarashtra_line_varanaka,Vāraṇaka · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52,person,passage_checked,MBA159,mb_bori_adi_ce
 mb_adi_early_vardhaksemi,Vārdhakṣemi · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177),person,passage_checked,MBAPE040;MBALM039,mb_bori_adi_ce

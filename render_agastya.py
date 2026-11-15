@@ -26,14 +26,13 @@ view_data = {
     'chronology': data['chronology'],
 }
 fragment=template.replace('__AGASTYA_DATA__',json.dumps(view_data,ensure_ascii=False,separators=(',',':')).replace('</','<\\/'))
-visual=Path('/Users/akhand/.codex/visualizations/2026/10/27/01a17c4a-9f77-7af2-bb95-eea7843a9c7f/agastya-evidence.html')
-visual.write_text(fragment)
+visual=out/'graph-fragment.html'
 (out/'graph-fragment.html').write_text(fragment)
 nodes={n['id']:n for n in data['nodes']}
 sources={s['id']:s for s in data['sources']}
 facets=[n['id'] for n in data['nodes'] if n['type']=='agastya_facet']
 lines=[f'# Agastya: evidence graph, version {data["schema_version"]}','',
-f'Research snapshot: 27 October 2026. {len(data["nodes"])} nodes, {len(data["claims"])} claims, {len(data["sources"])} sources, {len(data["chronology"])} chronological records.','',
+f'Research snapshot: {data["as_of"]}. {len(data["nodes"])} nodes, {len(data["claims"])} claims, {len(data["sources"])} sources, {len(data["chronology"])} chronological records.','',
 data['scope'],'',data['identity_policy'],'',
 '## Coverage and identity review','',
 f'{progress["passage_checked_named_records"]} named records have a checked textual passage; {progress["needs_primary_passage_review"]} more named records need primary passage review. The 3,000-record milestone is exceeded by {max(0, progress["passage_checked_named_records"] - progress["target"])} at the present review level. These are source-local textual entities, not a count of distinct historical people.','',
@@ -60,7 +59,7 @@ for facet in facets:
  lines.append('')
 lines+=['## Source register','']
 for s in data['sources']:
- lines.append(f"- **{s['id']}**: [{s['title']}]({s['url']}); {s['kind']}. {s['edition']} {s['locator']}")
+ lines.append(f"- **{s['id']}**: [{s['title']}]({s['url']}); {s['kind']}. {s['edition']} {s['locator']}".rstrip())
 lines+=['','## Next research work','']+['- '+x for x in data['open_work']]
 lines+=['','## Files','', '- `graph.json`: expanded nodes, source records, claims, and chronology.','- `seed-graph.json`: preserved initial curated graph.','- `people.md` and `people.json`: evidence dossiers for every person-like node.','- `progress.json`, `individuals.csv`, and `identity-review.csv`: counted dossiers, review levels, and same-name identity checks.','- `three-hop-paths.md` and `.json`: audited shortest paths through person-like claim endpoints.','- `force-graph-2d.html` and `force-graph-3d.html`: standalone Canvas force graphs with text witnesses, source links, and passage details.','- `force-graph-webgl.html`: alternate true 3D view using circular sprites and the locally vendored 3d-force-graph 1.80.1 bundle; `vendor/3d-force-graph-LICENSE.txt` contains its MIT license.','- `force-graph-three.html`: direct Three.js point-cloud view with circular sprites, bundled locally from `agastya-three-app.js`; `vendor/three-0.186.1-LICENSE.txt` contains its MIT license.','- `expansion/*.json`: reviewed research batches and review manifest.','- `claims.csv`: claims in a spreadsheet-compatible form.','- `chronology.csv`: narrative and textual chronology claims.','- `graph-fragment.html`: interactive view, intended for the Codex visualization runtime.','', 'Regenerate with `python3 merge_agastya_expansion.py`, then `python3 measure_agastya_progress.py`, `python3 render_agastya_people.py`, `python3 render_agastya_hops.py`, `python3 render_agastya.py`, and `python3 render_force_graph.py`. `build_agastya.py` regenerates the original seed.','']
 lines += ['To rebuild the direct Three.js bundle after editing `agastya-three-app.js`, run `npm install` and `npm run build:three` from the project root. For the WebGL library view’s circular sprites, run `npm run build:webgl-sprites`, then regenerate the standalone pages with `python3 render_force_graph.py`.', '']

@@ -1,6 +1,6 @@
 # People around Agastya
 
-3223 person-like nodes in 4199 passage claims. A direct claim names a source-local Agastya facet as an endpoint. Context claims connect other figures in the same source tradition. Neither kind proves a historical meeting.
+3232 person-like nodes in 4235 passage claims. A direct claim names a source-local Agastya facet as an endpoint. Context claims connect other figures in the same source tradition. Neither kind proves a historical meeting.
 
 Claim status is a review level: `translation_checked` concerns a translated text, `source_text_checked` concerns the Sanskrit text, `editorial_attribution` marks assigned speakers or authors, `scholarly_report` is second-hand, and `identity_hypothesis` is a proposed identification.
 
@@ -240,7 +240,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Aṅga · son of Ulmuka and Puṣkariṇī](#sb4_anga_ulmuka) — 0 direct, 4 contextual
 - [Aṅga · Yama roster king · Yama’s assembly (royal sages and kings)](#mb2viii_anga) — 0 direct, 1 contextual
 - [Aṅgada · Lakṣmaṇa’s son · Viṣṇu Purāṇa witness](#vp4_angada_lakshmana) — 0 direct, 1 contextual
-- [Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness](#ram6_angada) — 0 direct, 4 contextual
+- [Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness](#ram6_angada) — 0 direct, 7 contextual
 - [Aṅgavāha · Vṛṣṇi guest · Mahābhārata Sabha Parva §§XXXIII–XXXVI witness](#mb2xxx_angavaha) — 0 direct, 1 contextual
 - [Aṅgiras · husband of Śivā, one of the forms assumed by Svāhā](#mb3_angiras) — 0 direct, 1 contextual
 - [Aṅgiras · mind-born sage · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_anggiras) — 0 direct, 3 contextual
@@ -392,6 +392,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Brahmā · commissions Viśvakarman to create Tilottamā](#mb_adi_early_brahma) — 0 direct, 1 contextual
 - [Brahmā · creator · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_brahma) — 0 direct, 7 contextual
 - [Brahmā · host of the assembly described in MB 2 Section XI](#mb2_brahma_sabha_xi) — 0 direct, 38 contextual
+- [Brahmā · Rāmāyaṇa 1.17 creation account](#jv_brahma_ram) — 0 direct, 2 contextual
 - [Brugarpathi · philosophical author named in Maṇimēkalai canto 27](#tamil_final_brugarpathi) — 0 direct, 1 contextual
 - [Budbudā · apsaras released by Arjuna from crocodile curse](#mb_adi_early_budbuda) — 0 direct, 1 contextual
 - [Buddha · teacher and refuge in Maṇimēkalai canto 30](#tamil_final_buddha) — 0 direct, 1 contextual
@@ -464,6 +465,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Candanodaka Dundubhi · name of Bhava in Viṣṇu Purāṇa 4.14](#vp4_14_candanodaka_dundubhi) — 0 direct, 1 contextual
 - [Candra (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness](#sb8_10_actor_candra) — 0 direct, 1 contextual
 - [Candra · Diti son · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_candra_diti_son) — 0 direct, 1 contextual
+- [Candrabhāgā / Durgā · Bhāgavata 10.56.35](#jv_candrabhaga_durga) — 0 direct, 1 contextual
 - [Candragupta · Maurya branch · Viṣṇu Purāṇa 4.24 future-dynasty witness](#vp24_candragupta) — 0 direct, 2 contextual
 - [Candrahanta · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_candrahanta) — 0 direct, 1 contextual
 - [Candraketu · fighter killed by Abhimanyu in Droṇaparvan 7.47](#mb_battle_candraketu) — 0 direct, 1 contextual
@@ -817,6 +819,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Gandhamādana · Yakṣa/Gandharva leader · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23](#mb2_x_gandhamadana) — 0 direct, 1 contextual
 - [Garga · Bhavanmanyu branch · Viṣṇu Purāṇa 4.19 witness](#vp19_garga) — 0 direct, 2 contextual
 - [Gariṣṭha · Indra’s assembly](#mb2vii_garishta) — 0 direct, 1 contextual
+- [Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66](#jv_garuda_ram) — 0 direct, 1 contextual
 - [Garuḍa · vainateya named at Arjuna’s birth](#mb_adi_later_birth_vainateya_vainateya_3) — 0 direct, 1 contextual
 - [Garuḍa · Vinatā line · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_garuda_vinata_line) — 0 direct, 3 contextual
 - [Gati · wife of Pulaha](#sb4_gati) — 0 direct, 4 contextual
@@ -872,7 +875,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Halimā · one of the seven named child-mothers in Skanda’s retinue](#mb3_halima_matrika) — 0 direct, 1 contextual
 - [Halīsaka · Vāsuki lineage serpent · Ādiparvan 1.52](#mb_adi_vasuki_line_halisaka) — 0 direct, 1 contextual
 - [Hanta · Kāla line · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_hanta_kala_line) — 0 direct, 2 contextual
-- [Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness](#ram6_hanuman) — 0 direct, 1 contextual
+- [Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness](#ram6_hanuman) — 0 direct, 5 contextual
 - [Hara · Daitya · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_hara_daitya) — 0 direct, 2 contextual
 - [Hara · monkey troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness](#ram6_hara) — 0 direct, 1 contextual
 - [Hari (Canto 8 battle figure) · Śrīmad-Bhāgavatam Canto 8 witness](#sb8_10_actor_supreme_lord_hari) — 0 direct, 4 contextual
@@ -1028,8 +1031,8 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Jyāmagha · son of Parāvṛt](#vp1112_jyamagha) — 0 direct, 3 contextual
 - [Jājali · sage visited by the Pracetās](#sb4_jajali) — 0 direct, 1 contextual
 - [Jālapadī · apsaras in Kripa and Kripi’s birth account](#mb_adi_later_jalapadi) — 0 direct, 1 contextual
-- [Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king](#vp4_13_jambavant) — 0 direct, 8 contextual
-- [Jāmbavatī · Viṣṇu Purāṇa 4.15 witness](#vp4_15_jambavati) — 0 direct, 2 contextual
+- [Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses](#vp4_13_jambavant) — 0 direct, 30 contextual
+- [Jāmbavatī · Viṣṇu Purāṇa 4.15 witness](#vp4_15_jambavati) — 0 direct, 5 contextual
 - [Jānakī · human king · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_human_incarnation_janaki_human_king) — 0 direct, 1 contextual
 - [Jātukarṇa · Mahābhārata Sabha Parva §IV, p. 7 roster witness](#mb2iv_jatukarna) — 0 direct, 1 contextual
 - [Jīmūta · Viṣṇu Purāṇa 4.12 witness](#vp1112_jimuta) — 0 direct, 2 contextual
@@ -1317,12 +1320,13 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Kṛṣivala · Indra’s assembly](#mb2vii_krishivala) — 0 direct, 1 contextual
 - [Kṛṣṇa Vāsudeva](#mb_adi_inc_krishna_human_incarnation) — 0 direct, 3 contextual
 - [Kṛṣṇa · Andhra branch · Viṣṇu Purāṇa 4.24 future-dynasty witness](#vp24_krishna_andhra) — 0 direct, 2 contextual
-- [Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative](#vp4_15_kṛṣṇa) — 0 direct, 19 contextual
+- [Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative](#vp4_15_kṛṣṇa) — 0 direct, 28 contextual
 - [Kṛṣṇa · divine restorer · Viṣṇu Purāṇa 4.20 witness](#vp20_krishna_deity) — 0 direct, 6 contextual
 - [Kṛṣṇa · Nāga in Varuṇa roster · Varuṇa’s assembly (Nāga roster)](#mb2ix_naga_krishna) — 0 direct, 1 contextual
 - [Kṛṣṇa · son of Havirdhāna and Havirdhānī](#sb4_krishna_son) — 0 direct, 2 contextual
 - [Kṛṣṇa-Dvaipāyana / Vyāsa · named in §IV · Mahābhārata Sabha Parva §IV, p. 6 roster witness](#mb2iv_krishnadwaipayana) — 0 direct, 2 contextual
 - [Kṛṣṇa-Dvaipāyana · Viṣṇu Purāṇa 4.20 witness](#vp20_krishna_dvaipayana) — 0 direct, 12 contextual
+- [Kṛṣṇa’s kinsfolk · Viṣṇu Purāṇa Syamantaka episode](#jv_kin_vp) — 0 direct, 2 contextual
 - [Kṣatradeva · fighter named in the allied roster · Mahābhārata Udyoga Parva §§LVII–LVIII witness](#mb5_udyoga_kshatradeva) — 0 direct, 1 contextual
 - [Kṣatradharman · Viṣṇu Purāṇa 4.8–9 witness](#vp89_kshatradharman) — 0 direct, 1 contextual
 - [Kṣatravṛddha · Viṣṇu Purāṇa 4.8–9 witness](#vp89_kshatravriddha) — 0 direct, 3 contextual
@@ -1939,6 +1943,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Ravivarman · king in Maṇimēkalai](#tamil_ravivarman) — 0 direct, 1 contextual
 - [Raśmiketu · rākṣasa combatant who fights Rāma · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness](#ram6_rashmiketu) — 0 direct, 1 contextual
 - [Raṇaṃjaya · Viṣṇu Purāṇa 4.22 future-lineage witness](#vp22_rananjaya) — 0 direct, 2 contextual
+- [Residents of Dvārakā · Bhāgavata 10.56.35](#jv_dvaraka_residents_sb) — 0 direct, 1 contextual
 - [Revatī · Viṣṇu Purāṇa 4.15 witness](#vp4_15_revati) — 0 direct, 3 contextual
 - [Reṇu · Ikṣvāku lineage](#vp67_renu) — 0 direct, 1 contextual
 - [Reṇukā · daughter of Reṇu](#vp67_renuka) — 0 direct, 2 contextual
@@ -1999,6 +2004,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Sadaḥsuvāk · Dhṛtarāṣṭra’s son in the CE birth-order roster](#mb_adi_royal_son_v9_04) — 0 direct, 1 contextual
 - [Sagara · Viṣṇu Purāṇa 4.3–5 witness](#vp35_sagara) — 0 direct, 4 contextual
 - [Sagara · Yama’s assembly (royal sages and kings)](#mb2viii_sagara) — 0 direct, 1 contextual
+- [Sages addressed by the Yadu boys · Bhāgavata 11.1](#jv_sages_sb11) — 0 direct, 1 contextual
 - [Saha (Vasu son) · Śrīmad-Bhāgavatam 6.6–6.7 witness](#sb6_saha_vasu_son) — 0 direct, 1 contextual
 - [Saha · Dhṛtarāṣṭra’s son in the CE birth-order roster](#mb_adi_royal_son_v2_08) — 0 direct, 2 contextual
 - [Saha · Vāsuki lineage serpent · Ādiparvan 1.52](#mb_adi_vasuki_line_saha) — 0 direct, 2 contextual
@@ -2055,7 +2061,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Sarvatraga (ANU; Sanskrit variant Sarvaga) · Viṣṇu Purāṇa 4.20 witness](#vp20_sarvatraga) — 0 direct, 2 contextual
 - [Sarūpā · Śrīmad-Bhāgavatam 6.6–6.7 witness](#sb6_sarupa) — 0 direct, 12 contextual
 - [Sat · gandharva named at Arjuna’s birth](#mb_adi_later_birth_gandharva_gandharva_17) — 0 direct, 1 contextual
-- [Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness](#vp4_13_satrajita) — 0 direct, 10 contextual
+- [Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness](#vp4_13_satrajita) — 0 direct, 11 contextual
 - [Satrāyaṇa · Śrīmad-Bhāgavatam Canto 8 witness](#sb8_13_satrayana) — 0 direct, 1 contextual
 - [Satvata · Viṣṇu Purāṇa 4.12 witness](#vp1112_satvata) — 0 direct, 1 contextual
 - [Satya · sage in Yudhiṣṭhira’s court · Mahābhārata Sabha Parva §IV, p. 6 roster witness](#mb2iv_satya) — 0 direct, 1 contextual
@@ -2233,7 +2239,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Sukhibala · Viṣṇu Purāṇa 4.21 future-lineage witness](#vp21_sukhibala) — 0 direct, 2 contextual
 - [Sukumāra · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177)](#mb_adi_early_sukumara) — 0 direct, 1 contextual
 - [Sukumāra · Takṣaka lineage serpent · Ādiparvan 1.52](#mb_adi_takshaka_line_sukumara) — 0 direct, 2 contextual
-- [Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son](#vp4_13_sukumara) — 0 direct, 1 contextual
+- [Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son](#vp4_13_sukumara) — 0 direct, 2 contextual
 - [Sukumāra · Viṣṇu Purāṇa 4.8–9 witness](#vp89_sukumara) — 0 direct, 2 contextual
 - [Sukuṇḍala · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177)](#mb_adi_early_sukundala) — 0 direct, 2 contextual
 - [Sukṛta · Śrīmad-Bhāgavatam Canto 8 witness](#sb8_13_sage10_sukrta) — 0 direct, 1 contextual
@@ -2364,7 +2370,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Sāhaṃji · Viṣṇu Purāṇa 4.11 witness](#vp1112_sahamji) — 0 direct, 2 contextual
 - [Sāli · Maṇimēkalai prior-birth witness](#tamil_later_sali) — 0 direct, 1 contextual
 - [Sāmba · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177)](#mb_adi_early_samba) — 0 direct, 2 contextual
-- [Sāmba · Viṣṇu Purāṇa 4.15 witness](#vp4_15_samba) — 0 direct, 2 contextual
+- [Sāmba · Viṣṇu Purāṇa 4.15 witness](#vp4_15_samba) — 0 direct, 5 contextual
 - [Sāramejaya · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177)](#mb_adi_early_saramejaya) — 0 direct, 2 contextual
 - [Sārameya · Bhāgavata 9.24 witness](#sb924_sarameya) — 0 direct, 1 contextual
 - [Sāraṇa · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177)](#mb_adi_early_sarana) — 0 direct, 2 contextual
@@ -2384,7 +2390,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Sāvitrī · named among the women accompanying Pārvatī; source-local identity](#mb3_savitri_goddess) — 0 direct, 1 contextual
 - [Sāyam · son of Puṣpārṇa and Prabhā](#sb4_sayam) — 0 direct, 2 contextual
 - [Sīradhvaja · Viṣṇu Purāṇa 4.3–5 witness](#vp35_siradhvaja) — 0 direct, 4 contextual
-- [Sītā](#sita) — 1 direct, 3 contextual
+- [Sītā](#sita) — 1 direct, 4 contextual
 - [Sītā · daughter of Janaka · Viṣṇu Purāṇa 4.15 witness · incarnation-story identity](#vp4_15_sita) — 0 direct, 1 contextual
 - [Sūkṣma · Daitya · Mahābhārata Ādiparvan 1.59–1.61 witness](#mb_adi_inc_sukshma_daitya) — 0 direct, 2 contextual
 - [Sūnṛtā · Śrīmad-Bhāgavatam Canto 8 witness](#sb8_sunrta) — 0 direct, 2 contextual
@@ -2511,9 +2517,11 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Unnamed king of Gandhāra · father named for princes at the svayaṃvara](#mb_adi_early_gandhara_king) — 0 direct, 4 contextual
 - [Unnamed king of Kāśī · son of Kāśya · Viṣṇu Purāṇa 4.8–9 witness](#vp89_unnamed_kasi_king) — 0 direct, 2 contextual
 - [Unnamed northern sage · Puṟanāṉūṟu 201](#tamil_unnamed_northern_sage) — 0 direct, 1 contextual
+- [Unnamed nurse of Jāmbavant’s child · Viṣṇu Purāṇa 4.13](#jv_nurse_vp) — 0 direct, 2 contextual
 - [Unnamed son of Peelivalai · Maṇimēkalai prior-birth story](#tamil_later_peelivalai_child) — 0 direct, 3 contextual
 - [Unnamed student · Bṛhaddevatā witness](#root_student) — 2 direct, 0 contextual
 - [Unnamed Vidarbha king](#vidarbha_king) — 2 direct, 0 contextual
+- [Unnamed young son of Jāmbavān · Bhāgavata 10.56](#jv_son_sb10) — 0 direct, 2 contextual
 - [Unnati · daughter of Dakṣa and wife of Dharma](#sb4_unnati) — 0 direct, 3 contextual
 - [Upacitra · Dhṛtarāṣṭra’s son in the CE birth-order roster](#mb_adi_royal_son_v4_06) — 0 direct, 1 contextual
 - [Upadeva · Akrūra’s son · Viṣṇu Purāṇa 4.14 witness](#vp4_14_akruura_son_upadeva) — 0 direct, 1 contextual
@@ -2655,7 +2663,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Vibhāvasu (Vasu) · Śrīmad-Bhāgavatam 6.6–6.7 witness](#sb6_vibhavasu_vasu) — 0 direct, 2 contextual
 - [Vibhāvasu · named in the Vivasvat–Devabhrāṭ solar genealogy](#mb_adi_nxt_vibhāvasu) — 0 direct, 1 contextual
 - [Vibhīṣaṇa · Kuvera’s younger brother in this passage · Kuvera’s assembly (Yakṣa) roster, Mahābhārata Sabha Parva §X, pp. 22–23](#mb2_x_vibhishana_kubera) — 0 direct, 2 contextual
-- [Vibhīṣaṇa · Rāmāyaṇa witness](#vibhishana_epic) — 0 direct, 5 contextual
+- [Vibhīṣaṇa · Rāmāyaṇa witness](#vibhishana_epic) — 0 direct, 6 contextual
 - [Vibudha · Videha line · Viṣṇu Purāṇa 4.3–5 witness](#vp35_vibudha_videha) — 0 direct, 2 contextual
 - [Vicitra · Śrīmad-Bhāgavatam Canto 8 witness](#sb8_13_deva_son_vicitra) — 0 direct, 1 contextual
 - [Vicitravīrya · Śāṃtanu’s son · Viṣṇu Purāṇa 4.20 witness](#vp20_vicitravirya) — 0 direct, 11 contextual
@@ -2802,7 +2810,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Vālmīki · Indra’s assembly](#mb2vii_valmiki) — 0 direct, 1 contextual
 - [Vāma · Śrīmad-Bhāgavatam 6.6–6.7 witness](#sb6_vama) — 0 direct, 1 contextual
 - [Vāmadeva · Indra’s assembly](#mb2vii_vamadeva) — 0 direct, 1 contextual
-- [Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness](#sb8_13_vamana) — 0 direct, 2 contextual
+- [Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness](#sb8_13_vamana) — 0 direct, 4 contextual
 - [Vāmana · principal serpent · Ādiparvan 1.31](#mb_adi_kadru_vamana) — 0 direct, 1 contextual
 - [Vāraṇaka · Dhṛtarāṣṭra lineage serpent · Ādiparvan 1.52](#mb_adi_dhrtarashtra_line_varanaka) — 0 direct, 1 contextual
 - [Vārdhakṣemi · named attendee at Draupadī’s svayaṃvara (BORI CE Ādiparvan 1.177)](#mb_adi_early_vardhaksemi) — 0 direct, 2 contextual
@@ -2901,6 +2909,7 @@ Claim status is a review level: `translation_checked` concerns a translated text
 - [Yoga · son of Dharma and Kriyā](#sb4_yoga) — 0 direct, 2 contextual
 - [Yoganidrā · Viṣṇu Purāṇa 4.15 witness](#vp4_15_yoganidra) — 0 direct, 3 contextual
 - [Yogeśvara · Śrīmad-Bhāgavatam Canto 8 witness](#sb8_13_yogesvara) — 0 direct, 2 contextual
+- [Young Yadu boys · Bhāgavata 11.1](#jv_yadu_boys_sb11) — 0 direct, 2 contextual
 - [Yuddhamuṣṭi · Viṣṇu Purāṇa 4.14 witness](#vp4_14_yuddhamusti) — 0 direct, 1 contextual
 - [Yudhajit · son of Vṛṣṇi · Viṣṇu Purāṇa 4.13 witness](#vp4_13_yudhajit) — 0 direct, 1 contextual
 - [Yudhamanyu · Pāñcāla fighter named in the allied roster · Mahābhārata Udyoga Parva §§LVII–LVIII witness](#mb5_udyoga_yudhamanyu) — 0 direct, 1 contextual
@@ -6083,7 +6092,7 @@ Type: person. Direct links: 0. Context links: 1.
 <a id="ram6_angada"></a>
 ## Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness
 
-Type: person. Direct links: 0. Context links: 4.
+Type: person. Direct links: 0. Context links: 7.
 
 ### Context in the same passages
 
@@ -6091,6 +6100,9 @@ Type: person. Direct links: 0. Context links: 4.
 - **RMW_012** Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness → son of → Vāli · Aṅgada’s father, named in his patronymic · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 26: Sarana identifies the monkey commanders, 6.26.18](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga26/yuddharoman26.htm). translation_checked. Aṅgada is called the son of Vāli. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
 - **RMW_013** Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness → commands for → Rāma. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 26: Sarana identifies the monkey commanders, 6.26.18, 20](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga26/yuddharoman26.htm). translation_checked. Aṅgada advances for Rāma’s cause and leads troops toward Lanka. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
 - **RMW_031** Indrajit · rākṣasa combatant who strikes Aṅgada · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness → duels with → Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 43: named combatants and duels, 6.43.6–6](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga43/yuddharoman43.htm). translation_checked. Indrajit fights Aṅgada; the following verses describe their blows and the destruction of Indrajit’s chariot. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- **JV003** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → argues against sending leader → Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa 4.65, 4.65.20–27](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm). translation_checked. He argues that Aṅgada should be protected as leader.
+- **JV027** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → counsels considering ramas intent → Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa 5.60, 5.60.5–6](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm). translation_checked. He urges Aṅgada to consider Rāma’s intention before acting. This short passage does not explicitly state a ban on unauthorized rescue, despite expanded retellings.
+- **JV028** Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness → proposes bringing back → Sītā. [Vālmīki Rāmāyaṇa 5.60, 5.60.1–4](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm). translation_checked. Aṅgada proposes returning with Sītā rather than only reporting. A proposed action, not a completed rescue.
 
 
 <a id="mb2xxx_angavaha"></a>
@@ -7841,6 +7853,17 @@ Type: deity. Direct links: 0. Context links: 38.
 - **SB4_0334** Brahmā · host of the assembly described in MB 2 Section XI → presents gift to → Pṛthu · born from Vena’s arm and husband of Arci. [Bhāgavata Purāṇa, Canto 4, Chapter 15: King Pṛthu’s Appearance and Coronation, 4.15.14–18](https://vedabase.io/en/library/sb/4/15/). translation_checked. Brahmā presents a named gift to Pṛthu. Based on the cited verse translation; no purport is used.
 
 
+<a id="jv_brahma_ram"></a>
+## Brahmā · Rāmāyaṇa 1.17 creation account
+
+Type: deity. Direct links: 0. Context links: 2.
+
+### Context in the same passages
+
+- **JV001** Brahmā · Rāmāyaṇa 1.17 creation account → creates → Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses. [Vālmīki Rāmāyaṇa 1.17, 1.17.7](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm). translation_checked. Brahmā describes Jāmbavān emerging when he yawned. Narrated origin, not an ordinary biological father claim.
+- **JV010** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → is described as son of → Brahmā · Rāmāyaṇa 1.17 creation account. [Vālmīki Rāmāyaṇa 6.74, 6.74.14](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga74/yuddharoman74.htm). translation_checked. The battlefield account calls him Prajāpati’s son. Linked translation identifies Prajāpati here as Brahmā; retain that qualification.
+
+
 <a id="tamil_final_brugarpathi"></a>
 ## Brugarpathi · philosophical author named in Maṇimēkalai canto 27
 
@@ -8597,6 +8620,16 @@ Type: person. Direct links: 0. Context links: 1.
 ### Context in the same passages
 
 - **MBAI216** Ṛṣika · human king · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness → is human incarnation of → Candra · Diti son · Mahābhārata Ādiparvan 1.59–1.61 witness. [Mahābhārata, Ādiparvan, BORI Critical Edition electronic text, Mahābhārata Ādiparvan 1.61.30](https://bombay.indology.info/mahabharata/text/UR/MBh01.txt). translation_checked. Ṛṣika · human king is identified as the human birth/incarnation of Candra · Diti son. The passage explicitly maps a named divine/asura figure to a named human identity; branch labels preserve the two manifestations as distinct person nodes.
+
+
+<a id="jv_candrabhaga_durga"></a>
+## Candrabhāgā / Durgā · Bhāgavata 10.56.35
+
+Type: deity. Direct links: 0. Context links: 1.
+
+### Context in the same passages
+
+- **JV036** Residents of Dvārakā · Bhāgavata 10.56.35 → pray for krishnas return to → Candrabhāgā / Durgā · Bhāgavata 10.56.35. [Bhāgavata Purāṇa 10.56.35, 10.56.35](https://vedabase.io/en/library/sb/10/56/35/). translation_checked. The residents seek Kṛṣṇa’s return through Candrabhāgā / Durgā. Compare the VP funerary-offering narrative; do not infer either practice is absent from every other witness.
 
 
 <a id="vp24_candragupta"></a>
@@ -10881,7 +10914,7 @@ Type: person. Direct links: 0. Context links: 2.
 ### Context in the same passages
 
 - **RMW_016** Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness → commands allied troops for → Rāma. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.8–9](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Dhūmra is named in the commander roll for Rāma’s allied host. Named by Sāraṇa among the bear commanders in the allied force advancing for Rāma.
-- **RMW_029** Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → younger brother of → Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.10–11](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is described as Dhūmra’s younger brother. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- **RMW_029** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → younger brother of → Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.10–11](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is described as Dhūmra’s younger brother. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
 
 
 <a id="sb4_dhumrakesa"></a>
@@ -11269,7 +11302,7 @@ Type: person. Direct links: 0. Context links: 8.
 - **MB5WAR_045** Dhṛṣṭadyumna · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness → leads in battle → Yudhiṣṭhira. [Mahābhārata, Book 5 (Udyoga Parva), Section LVII: allied forces and opponent assignments, §LVII, pp. 134–136](https://sacred-texts.com/book/the-mahabharata-book-5-udyoga-parva/section-lvii). translation_checked. Dhṛṣṭadyumna leads the Pāṇḍava host. Claim follows the named person and action directly stated in Ganguli’s translation.
 - **MB5WAR_046** Dhṛṣṭadyumna · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness → son of → Pṛṣata · identified as Dhṛṣṭadyumna’s father · Mahābhārata Udyoga Parva §§LVII–LVIII witness. [Mahābhārata, Book 5 (Udyoga Parva), Section LVII: allied forces and opponent assignments, §LVII, pp. 134–136](https://sacred-texts.com/book/the-mahabharata-book-5-udyoga-parva/section-lvii). translation_checked. Dhṛṣṭadyumna is called the son of Pṛṣata. Claim follows the named person and action directly stated in Ganguli’s translation.
 - **MB5WAR_047** Drupada · Pṛṣata branch · Viṣṇu Purāṇa 4.19 witness → father of → Dhṛṣṭadyumna · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness. [Mahābhārata, Book 5 (Udyoga Parva), Section LVII: allied forces and opponent assignments, §LVII, pp. 134–136](https://sacred-texts.com/book/the-mahabharata-book-5-udyoga-parva/section-lvii). translation_checked. Drupada’s force is described as including his sons, headed by Dhṛṣṭadyumna. Claim follows the named person and action directly stated in Ganguli’s translation.
-- **MBAPE128** Droṇa · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness → is father of → Dhṛṣṭadyumna · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness. [Mahābhārata, Ādiparvan, BORI Critical Edition electronic text, Mahābhārata Ādiparvan 1.155.49–52](https://bombay.indology.info/mahabharata/text/UR/MBh01.txt). translation_checked. Dhṛṣṭadyumna, born from Drupada’s sacrifice to kill Droṇa, is later taken by Droṇa as a student; the passage does not call him Droṇa’s son. This is deliberately a teacher-student/prophecy connection only; do not infer parentage.
+- **MBAPE128** Droṇa · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness → teacher of → Dhṛṣṭadyumna · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness. [Mahābhārata, Ādiparvan, BORI Critical Edition electronic text, Mahābhārata Ādiparvan 1.155.49–52](https://bombay.indology.info/mahabharata/text/UR/MBh01.txt). translation_checked. Dhṛṣṭadyumna, born from Drupada’s sacrifice to kill Droṇa, is later taken by Droṇa as a student; the passage does not call him Droṇa’s son. This is deliberately a teacher-student/prophecy connection only; do not infer parentage.
 - **MBAPE147** Drupada · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness → is father of → Dhṛṣṭadyumna · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness. [Mahābhārata, Ādiparvan, BORI Critical Edition electronic text, Mahābhārata Ādiparvan 1.155.49–50](https://bombay.indology.info/mahabharata/text/UR/MBh01.txt). translation_checked. Dhṛṣṭadyumna is named as Drupada’s fire-born son. Explicitly stated in the BORI Critical Edition text at this locator.
 - **MBAPE148** Dhṛṣṭadyumna · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness → is sibling of → Draupadī · Viṣṇu Purāṇa 4.20 witness. [Mahābhārata, Ādiparvan, BORI Critical Edition electronic text, Mahābhārata Ādiparvan 1.155.49–50](https://bombay.indology.info/mahabharata/text/UR/MBh01.txt). translation_checked. Dhṛṣṭadyumna and Draupadī are born as the paired offspring at Drupada’s sacrifice. Explicitly stated in the BORI Critical Edition text at this locator.
 
@@ -11724,7 +11757,7 @@ Type: person. Direct links: 0. Context links: 25.
 - **MBAPE125** Droṇa · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness → was childhood companion of → Drupada · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness. [Mahābhārata, Ādiparvan, BORI Critical Edition electronic text, Mahābhārata Ādiparvan 1.154.7](https://bombay.indology.info/mahabharata/text/UR/MBh01.txt). translation_checked. Droṇa and Drupada were childhood companions. Explicitly stated in the BORI Critical Edition text at this locator.
 - **MBAPE126** Rāma Bhārgava / Paraśurāma · teacher who gives Droṇa weapons → gave weapons to → Droṇa · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness. [Mahābhārata, Ādiparvan, BORI Critical Edition electronic text, Mahābhārata Ādiparvan 1.154.8–13](https://bombay.indology.info/mahabharata/text/UR/MBh01.txt). translation_checked. Rāma Bhārgava gives Droṇa weapons and knowledge of their use. Explicitly stated in the BORI Critical Edition text at this locator.
 - **MBAPE127** Bhīṣma · Gaṅgā branch · Viṣṇu Purāṇa 4.20 witness → appointed as teacher → Droṇa · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness. [Mahābhārata, Ādiparvan, BORI Critical Edition electronic text, Mahābhārata Ādiparvan 1.154.17–22](https://bombay.indology.info/mahabharata/text/UR/MBh01.txt). translation_checked. Bhīṣma appoints Droṇa as instructor to the princes. Explicitly stated in the BORI Critical Edition text at this locator.
-- **MBAPE128** Droṇa · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness → is father of → Dhṛṣṭadyumna · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness. [Mahābhārata, Ādiparvan, BORI Critical Edition electronic text, Mahābhārata Ādiparvan 1.155.49–52](https://bombay.indology.info/mahabharata/text/UR/MBh01.txt). translation_checked. Dhṛṣṭadyumna, born from Drupada’s sacrifice to kill Droṇa, is later taken by Droṇa as a student; the passage does not call him Droṇa’s son. This is deliberately a teacher-student/prophecy connection only; do not infer parentage.
+- **MBAPE128** Droṇa · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness → teacher of → Dhṛṣṭadyumna · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness. [Mahābhārata, Ādiparvan, BORI Critical Edition electronic text, Mahābhārata Ādiparvan 1.155.49–52](https://bombay.indology.info/mahabharata/text/UR/MBh01.txt). translation_checked. Dhṛṣṭadyumna, born from Drupada’s sacrifice to kill Droṇa, is later taken by Droṇa as a student; the passage does not call him Droṇa’s son. This is deliberately a teacher-student/prophecy connection only; do not infer parentage.
 - **MBBNP016** Droṇa · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness → surrounded and attacked → Abhimanyu · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness. [Mahābhārata, Droṇaparvan, Bhandarkar Oriental Research Institute Critical Edition electronic text, Mahābhārata Droṇaparvan 7.45.19–20; 7.46.4–7](https://bombay.indology.info/mahabharata/text/UR/MBh07.txt). translation_checked. Droṇa is named among the six chariot warriors surrounding Abhimanyu and attacking him. Explicitly stated in the BORI Critical Edition Sanskrit at the cited verse.
 - **MBBNP027** Droṇa · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness → instructed to disable → Karṇa · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness. [Mahābhārata, Droṇaparvan, Bhandarkar Oriental Research Institute Critical Edition electronic text, Mahābhārata Droṇaparvan 7.47.26–30](https://bombay.indology.info/mahabharata/text/UR/MBh07.txt). translation_checked. Droṇa tells Karṇa how to disable Abhimanyu by cutting his bowstring, horses, and charioteers. Explicitly stated in the BORI Critical Edition Sanskrit at the cited verse.
 - **MBBNP029** Droṇa · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness → cut sword of → Abhimanyu · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness. [Mahābhārata, Droṇaparvan, Bhandarkar Oriental Research Institute Critical Edition electronic text, Mahābhārata Droṇaparvan 7.47.37](https://bombay.indology.info/mahabharata/text/UR/MBh07.txt). translation_checked. Droṇa cuts the sword from Abhimanyu’s hand. Explicitly stated in the BORI Critical Edition Sanskrit at the cited verse.
@@ -12992,6 +13025,16 @@ Type: person. Direct links: 0. Context links: 1.
 - **MB2EARLY_020** Gariṣṭha · Indra’s assembly → attends assembly of → Indra. [Mahābhārata, Book 2 (Sabhāparvan), Section VII: Sakra/Indra’s assembly, §VII, pp. 17–18](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-vii). translation_checked. Gariṣṭha is named among those who attend or worship at this assembly in the passage. Entity and claim are source-scoped to this roster; no identity with similarly named figures elsewhere in the epic or graph is implied.
 
 
+<a id="jv_garuda_ram"></a>
+## Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66
+
+Type: celestial. Direct links: 0. Context links: 1.
+
+### Context in the same passages
+
+- **JV005** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → reports having seen → Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66. [Vālmīki Rāmāyaṇa 4.66, 4.66.4–6](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm). translation_checked. He recalls seeing Garuḍa and compares Hanumān’s abilities.
+
+
 <a id="mb_adi_later_birth_vainateya_vainateya_3"></a>
 ## Garuḍa · vainateya named at Arjuna’s birth
 
@@ -13590,11 +13633,15 @@ Type: person. Direct links: 0. Context links: 2.
 <a id="ram6_hanuman"></a>
 ## Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness
 
-Type: person. Direct links: 0. Context links: 1.
+Type: person. Direct links: 0. Context links: 5.
 
 ### Context in the same passages
 
 - **RMW_033** Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness → duels with → Jambūmāli · rākṣasa combatant who wounds Hanumān · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 43: named combatants and duels, 6.43.7, 21–22](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga43/yuddharoman43.htm). translation_checked. Hanumān fights Jambūmāli; Jambūmāli wounds him, and Hanumān overturns the chariot with the demon. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- **JV004** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → encourages for ocean crossing → Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa 4.65, 4.65.34–35](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm). translation_checked. He turns to Hanumān to enable the mission.
+- **JV006** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → narrates birth and praises capacity of → Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa 4.66, 4.66.8–30, 37](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm). translation_checked. He recounts Hanumān’s origins and urges action. No forgetting-curse claim is extracted from the site’s commentary.
+- **JV008** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → asks about survival of → Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa 6.74, 6.74.18–23](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga74/yuddharoman74.htm). translation_checked. He treats Hanumān’s survival as crucial to recovery. An inquiry about Hanumān, not an address to him.
+- **JV009** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → sends for four healing herbs → Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa 6.74, 6.74.26–34](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga74/yuddharoman74.htm). translation_checked. He directs Hanumān to fetch four restorative herbs.
 
 
 <a id="mb_adi_inc_hara_daitya"></a>
@@ -14566,7 +14613,7 @@ Type: deity. Direct links: 6. Context links: 102.
 - **MB2EARLY_077** Citraseṇa · second mention in final deity list, identity unresolved · Indra’s assembly → attends assembly of → Indra. [Mahābhārata, Book 2 (Sabhāparvan), Section VII: Sakra/Indra’s assembly, §VII, p. 18](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-vii). translation_checked. Citraseṇa · second mention in final deity list, identity unresolved is named among those who attend or worship at this assembly in the passage. Entity and claim are source-scoped to this roster; no identity with similarly named figures elsewhere in the epic or graph is implied.
 - **MB2EARLY_078** Sumanas · repeated mention, identity unresolved · Indra’s assembly → attends assembly of → Indra. [Mahābhārata, Book 2 (Sabhāparvan), Section VII: Sakra/Indra’s assembly, §VII, p. 18](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-vii). translation_checked. Sumanas · repeated mention, identity unresolved is named among those who attend or worship at this assembly in the passage. Entity and claim are source-scoped to this roster; no identity with similarly named figures elsewhere in the epic or graph is implied.
 - **MB2EARLY_079** Taruṇa · repeated mention, identity unresolved · Indra’s assembly → attends assembly of → Indra. [Mahābhārata, Book 2 (Sabhāparvan), Section VII: Sakra/Indra’s assembly, §VII, p. 18](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-vii). translation_checked. Taruṇa · repeated mention, identity unresolved is named among those who attend or worship at this assembly in the passage. Entity and claim are source-scoped to this roster; no identity with similarly named figures elsewhere in the epic or graph is implied.
-- **RMW_030** Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- **RMW_030** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
 - **MB3VANA_003** Indra → rescues → Devasenā · Prajāpati’s daughter, freed by Indra and promised a husband. [Mahābhārata, Book 3 (Āraṇyakaparvan), Skanda’s birth and campaign, BORI Critical Edition, adhyāyas 213–221, 3.213.8–19](https://bombay.indology.info/mahabharata/text/UR/MBh03.txt). source_text_checked. Indra drives away Keśin and rescues Devasenā from him. Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.
 - **MB3VANA_014** Indra → attacks → Skanda. [Mahābhārata, Book 3 (Āraṇyakaparvan), Skanda’s birth and campaign, BORI Critical Edition, adhyāyas 213–221, 3.216.3–14](https://bombay.indology.info/mahabharata/text/UR/MBh03.txt). source_text_checked. Indra attacks Skanda with the thunderbolt; Viśākha emerges from Skanda’s struck side and Indra takes refuge. Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.
 - **MB3VANA_016** Skanda → accepts surrender of → Indra. [Mahābhārata, Book 3 (Āraṇyakaparvan), Skanda’s birth and campaign, BORI Critical Edition, adhyāyas 213–221, 3.216.14–15](https://bombay.indology.info/mahabharata/text/UR/MBh03.txt). source_text_checked. After Viśākha appears, Skanda grants Indra and his army safety. Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.
@@ -15424,31 +15471,56 @@ Type: person. Direct links: 0. Context links: 1.
 
 
 <a id="vp4_13_jambavant"></a>
-## Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king
+## Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses
 
-Type: person. Direct links: 0. Context links: 8.
+Type: person. Direct links: 0. Context links: 30.
 
 ### Context in the same passages
 
-- **GYM028** Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → father of → Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.14–15](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant’s nurse sings to his son Sukumāra. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
-- **GYM029** Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → father of → Jāmbavatī · Viṣṇu Purāṇa 4.15 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.21–22](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant presents his daughter Jāmbavatī to Kṛṣṇa. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
-- **GYM030** Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → gave → Syamantaka · jewel in Viṣṇu Purāṇa 4.13. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.21–22](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant gives the Syamantaka jewel to Kṛṣṇa. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
-- **GYM272** Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → took from lion → Syamantaka · jewel in Viṣṇu Purāṇa 4.13. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.12–15](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant kills the unnamed lion that killed Prasena and takes the Syamantaka jewel to his cave for his son Sukumāra. The lion is unnamed and is not given a node; the passage does not say Jāmbavant killed Prasena.
-- **GYM279** Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → fought with → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.16–20](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant and Kṛṣṇa fight for twenty-one days over the Syamantaka jewel. The passage identifies the encounter as a fight; no additional identity claim is implied.
-- **RMW_017** Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → commands allied troops for → Rāma. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.10–14](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is named in the commander roll for Rāma’s allied host. Named by Sāraṇa among the bear commanders in the allied force advancing for Rāma.
-- **RMW_029** Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → younger brother of → Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.10–11](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is described as Dhūmra’s younger brother. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
-- **RMW_030** Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- **GYM028** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → father of → Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.14–15](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant’s nurse sings to his son Sukumāra. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
+- **GYM029** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → father of → Jāmbavatī · Viṣṇu Purāṇa 4.15 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.21–22](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant presents his daughter Jāmbavatī to Kṛṣṇa. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
+- **GYM030** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → gave → Syamantaka · jewel in Viṣṇu Purāṇa 4.13. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.21–22](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant gives the Syamantaka jewel to Kṛṣṇa. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
+- **GYM272** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → took from lion → Syamantaka · jewel in Viṣṇu Purāṇa 4.13. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.12–15](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant kills the unnamed lion that killed Prasena and takes the Syamantaka jewel to his cave for his son Sukumāra. The lion is unnamed and is not given a node; the passage does not say Jāmbavant killed Prasena.
+- **GYM279** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → fought with → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.16–20](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant and Kṛṣṇa fight for twenty-one days over the Syamantaka jewel. The passage identifies the encounter as a fight; no additional identity claim is implied.
+- **RMW_017** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → commands allied troops for → Rāma. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.10–14](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is named in the commander roll for Rāma’s allied host. Named by Sāraṇa among the bear commanders in the allied force advancing for Rāma.
+- **RMW_029** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → younger brother of → Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.10–11](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is described as Dhūmra’s younger brother. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- **RMW_030** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- **JV001** Brahmā · Rāmāyaṇa 1.17 creation account → creates → Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses. [Vālmīki Rāmāyaṇa 1.17, 1.17.7](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm). translation_checked. Brahmā describes Jāmbavān emerging when he yawned. Narrated origin, not an ordinary biological father claim.
+- **JV002** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → recalls circumambulating → Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness. [Vālmīki Rāmāyaṇa 4.65, 4.65.15](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm). translation_checked. Jāmbavān recalls circling Trivikrama at Bali’s sacrifice. Verse 15 gives no count of circuits. No yuga-to-calendar conversion.
+- **JV003** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → argues against sending leader → Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa 4.65, 4.65.20–27](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm). translation_checked. He argues that Aṅgada should be protected as leader.
+- **JV004** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → encourages for ocean crossing → Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa 4.65, 4.65.34–35](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm). translation_checked. He turns to Hanumān to enable the mission.
+- **JV005** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → reports having seen → Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66. [Vālmīki Rāmāyaṇa 4.66, 4.66.4–6](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm). translation_checked. He recalls seeing Garuḍa and compares Hanumān’s abilities.
+- **JV006** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → narrates birth and praises capacity of → Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa 4.66, 4.66.8–30, 37](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm). translation_checked. He recounts Hanumān’s origins and urges action. No forgetting-curse claim is extracted from the site’s commentary.
+- **JV007** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → recognizes by voice → Vibhīṣaṇa · Rāmāyaṇa witness. [Vālmīki Rāmāyaṇa 6.74, 6.74.17](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga74/yuddharoman74.htm). translation_checked. Wounded Jāmbavān identifies Vibhīṣaṇa by voice.
+- **JV008** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → asks about survival of → Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa 6.74, 6.74.18–23](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga74/yuddharoman74.htm). translation_checked. He treats Hanumān’s survival as crucial to recovery. An inquiry about Hanumān, not an address to him.
+- **JV009** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → sends for four healing herbs → Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa 6.74, 6.74.26–34](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga74/yuddharoman74.htm). translation_checked. He directs Hanumān to fetch four restorative herbs.
+- **JV010** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → is described as son of → Brahmā · Rāmāyaṇa 1.17 creation account. [Vālmīki Rāmāyaṇa 6.74, 6.74.14](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga74/yuddharoman74.htm). translation_checked. The battlefield account calls him Prajāpati’s son. Linked translation identifies Prajāpati here as Brahmā; retain that qualification.
+- **JV011** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → announces victory of → Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness. [Bhāgavata Purāṇa 8.21.8, 8.21.8](https://vedabase.io/en/library/sb/8/21/8/). translation_checked. Jāmbavān proclaims Vāmana’s victory with an instrument. No circumambulation count is given in this verse.
+- **JV012** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → fights with → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [Bhāgavata Purāṇa 10.56.24, 10.56.24](https://vedabase.io/en/library/sb/10/56/24/). translation_checked. The two fight for twenty-eight days.
+- **JV013** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → recognizes as vishnu → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [Bhāgavata Purāṇa 10.56.26, 10.56.26](https://vedabase.io/en/library/sb/10/56/26/). translation_checked. Jāmbavān identifies his opponent as Viṣṇu. A character’s theological recognition, not a database same-person merge.
+- **JV014** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → attributes prior lanka campaign to → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [Bhāgavata Purāṇa 10.56.28, 10.56.28](https://vedabase.io/en/library/sb/10/56/28/). translation_checked. He associates his addressee with the bridge and Laṅkā campaign. Rāma is not explicitly named in the verse; the episode identification is contextual. Does not itself say the speaker personally witnessed every listed deed.
+- **JV015** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → father of → Jāmbavatī · Viṣṇu Purāṇa 4.15 witness. [Bhāgavata Purāṇa 10.56.32, 10.56.32](https://vedabase.io/en/library/sb/10/56/32/). translation_checked. Jāmbavatī is identified as Jāmbavān’s daughter.
+- **JV016** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → presents jewel and daughter to → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [Bhāgavata Purāṇa 10.56.32, 10.56.32](https://vedabase.io/en/library/sb/10/56/32/). translation_checked. He presents the jewel and his daughter to Kṛṣṇa.
+- **JV017** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → father of → Unnamed young son of Jāmbavān · Bhāgavata 10.56. [Bhāgavata Purāṇa 10.56, 10.56.15](https://vedabase.io/en/library/sb/10/56/). translation_checked. The jewel becomes a plaything for his young son. The verse leaves the son unnamed. Do not automatically label him Sukumāra.
+- **JV018** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → kills → Unnamed lion in the Syamantaka episode · Bhāgavata. [Bhāgavata Purāṇa 10.56, 10.56.14](https://vedabase.io/en/library/sb/10/56/). translation_checked. Jāmbavān kills the lion that killed Prasena. This is not a claim that Jāmbavān killed Prasena.
+- **JV024** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → reports circling twenty one times → Earth · Jāmbavān’s recollection in Rāmāyaṇa 4.66. [Vālmīki Rāmāyaṇa 4.66, 4.66.32](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm). translation_checked. He reports twenty-one circuits of the earth during Trivikrama’s time. The object is the earth, not explicitly Trivikrama’s body. This numerical passage was omitted from the initial dossier.
+- **JV025** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → recalls collecting → Herbs gathered for nectar-churning · Rāmāyaṇa 4.66. [Vālmīki Rāmāyaṇa 4.66, 4.66.33](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm). translation_checked. He recalls collecting herbs under divine orders for nectar-churning. The speaker uses a plural rendered as royal we by the linked translator. No claim that these are the later four healing herbs.
+- **JV027** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → counsels considering ramas intent → Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa 5.60, 5.60.5–6](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm). translation_checked. He urges Aṅgada to consider Rāma’s intention before acting. This short passage does not explicitly state a ban on unauthorized rescue, despite expanded retellings.
+- **JV031** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → weakens without food during → Jāmbavant–Kṛṣṇa duel · Viṣṇu Purāṇa 4.13. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.19](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant lacks food and weakens as the fight continues.
 
 
 <a id="vp4_15_jambavati"></a>
 ## Jāmbavatī · Viṣṇu Purāṇa 4.15 witness
 
-Type: person. Direct links: 0. Context links: 2.
+Type: person. Direct links: 0. Context links: 5.
 
 ### Context in the same passages
 
-- **GYM029** Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → father of → Jāmbavatī · Viṣṇu Purāṇa 4.15 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.21–22](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant presents his daughter Jāmbavatī to Kṛṣṇa. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
+- **GYM029** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → father of → Jāmbavatī · Viṣṇu Purāṇa 4.15 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.21–22](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant presents his daughter Jāmbavatī to Kṛṣṇa. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
 - **GYM242** Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative → married → Jāmbavatī · Viṣṇu Purāṇa 4.15 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.15.18–19](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. The passage identifies vp4_15_kṛṣṇa and vp4_15_jambavati as spouses. Direct marriage or spouse relationship stated in the ANU translation.
+- **JV015** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → father of → Jāmbavatī · Viṣṇu Purāṇa 4.15 witness. [Bhāgavata Purāṇa 10.56.32, 10.56.32](https://vedabase.io/en/library/sb/10/56/32/). translation_checked. Jāmbavatī is identified as Jāmbavān’s daughter.
+- **JV020** Jāmbavatī · Viṣṇu Purāṇa 4.15 witness → mother of → Sāmba · Viṣṇu Purāṇa 4.15 witness. [Bhāgavata Purāṇa 10.61.10–12, 10.61.11–12](https://vedabase.io/en/library/sb/10/61/10-12/). translation_checked. Sāmba is listed among Jāmbavatī’s sons.
+- **JV021** Sāmba · Viṣṇu Purāṇa 4.15 witness → is son of → Jāmbavatī · Viṣṇu Purāṇa 4.15 witness. [Bhāgavata Purāṇa 11.1.13–15, 11.1.14](https://vedabase.io/en/library/sb/11/1/13-15/). translation_checked. The later episode again names Sāmba’s mother.
 
 
 <a id="mb_adi_inc_human_incarnation_janaki_human_king"></a>
@@ -18748,7 +18820,7 @@ Type: person. Direct links: 0. Context links: 2.
 <a id="vp4_15_kṛṣṇa"></a>
 ## Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative
 
-Type: person. Direct links: 0. Context links: 19.
+Type: person. Direct links: 0. Context links: 28.
 
 ### Context in the same passages
 
@@ -18769,8 +18841,17 @@ Type: person. Direct links: 0. Context links: 19.
 - **GYM256** Viṣṇu · deity in Viṣṇu Purāṇa 4.15 → manifests as → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.14.12; 4.15.8–10](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. The account says Viṣṇu manifested in the world as Kṛṣṇa. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
 - **GYM257** Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative → is incarnation of → Viṣṇu · deity in Viṣṇu Purāṇa 4.15. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.14.12; 4.15.8–10](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Kṛṣṇa is presented as an aspect of Viṣṇu. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
 - **GYM278** Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative → is grandson of → Ugrasena · Viṣṇu Purāṇa 4.14 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.10](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Kṛṣṇa thinks the Syamantaka would befit his grandfather, King Ugrasena. The relationship is directly described in the ANU translation.
-- **GYM279** Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → fought with → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.16–20](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant and Kṛṣṇa fight for twenty-one days over the Syamantaka jewel. The passage identifies the encounter as a fight; no additional identity claim is implied.
+- **GYM279** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → fought with → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.16–20](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant and Kṛṣṇa fight for twenty-one days over the Syamantaka jewel. The passage identifies the encounter as a fight; no additional identity claim is implied.
 - **GYM280** Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative → killed → Śatadhanvan · Viṣṇu Purāṇa 4.13 witness · Yādava leader. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.32–33](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Kṛṣṇa pursues Śatadhanvan and kills him with his discus. Direct action in the narrated pursuit.
+- **JV012** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → fights with → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [Bhāgavata Purāṇa 10.56.24, 10.56.24](https://vedabase.io/en/library/sb/10/56/24/). translation_checked. The two fight for twenty-eight days.
+- **JV013** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → recognizes as vishnu → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [Bhāgavata Purāṇa 10.56.26, 10.56.26](https://vedabase.io/en/library/sb/10/56/26/). translation_checked. Jāmbavān identifies his opponent as Viṣṇu. A character’s theological recognition, not a database same-person merge.
+- **JV014** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → attributes prior lanka campaign to → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [Bhāgavata Purāṇa 10.56.28, 10.56.28](https://vedabase.io/en/library/sb/10/56/28/). translation_checked. He associates his addressee with the bridge and Laṅkā campaign. Rāma is not explicitly named in the verse; the episode identification is contextual. Does not itself say the speaker personally witnessed every listed deed.
+- **JV016** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → presents jewel and daughter to → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [Bhāgavata Purāṇa 10.56.32, 10.56.32](https://vedabase.io/en/library/sb/10/56/32/). translation_checked. He presents the jewel and his daughter to Kṛṣṇa.
+- **JV029** Kṛṣṇa’s kinsfolk · Viṣṇu Purāṇa Syamantaka episode → perform funeral rites for → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.18](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Kṛṣṇa’s kinsfolk perform rites after receiving news of his supposed death. The report is mistaken within the narrative; Kṛṣṇa is still fighting.
+- **JV030** Funerary offerings for the presumed-dead Kṛṣṇa · Viṣṇu Purāṇa 4.13 → are narrated to sustain → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.18–19](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. The offerings are narrated as sustaining Kṛṣṇa during the duel. A claim within this telling, not an empirical statement about ritual efficacy.
+- **JV033** Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative → hears song of → Unnamed nurse of Jāmbavant’s child · Viṣṇu Purāṇa 4.13. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.14–17](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Kṛṣṇa hears the nurse before approaching the jewel. Hearing is not necessarily a reciprocal conversation.
+- **JV034** Kṛṣṇa’s kinsfolk · Viṣṇu Purāṇa Syamantaka episode → suspect killing of prasena by → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.13](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. The Yādavas suspect Kṛṣṇa after Prasena disappears. This encodes suspicion, not Kṛṣṇa killing Prasena. The subject is the collectively described Yādavas.
+- **JV035** Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness → accuses of killing prasena → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [Bhāgavata Purāṇa 10.56.16, 10.56.16](https://vedabase.io/en/library/sb/10/56/16/). translation_checked. Satrājit voices the accusation that spreads through the populace. An attributed accusation, contradicted by the narrated lion episode; not an actual killing edge.
 
 
 <a id="vp20_krishna_deity"></a>
@@ -18839,6 +18920,17 @@ Type: person. Direct links: 0. Context links: 12.
 - **MBAR020** Vidura · Viṣṇu Purāṇa 4.20 witness → niyoga begotten son of → Kṛṣṇa-Dvaipāyana · Viṣṇu Purāṇa 4.20 witness. [Mahābhārata, Ādiparvan, BORI Critical Edition electronic text, Mahābhārata Ādiparvan 1.100.22–27](https://bombay.indology.info/mahabharata/text/UR/MBh01.txt). translation_checked. Vyāsa begets Vidura with the widows’ unnamed attendant under Satyavatī’s niyoga.
 - **MBAL025** Kṛṣṇa-Dvaipāyana · Viṣṇu Purāṇa 4.20 witness → son of → Satyavatī · Viṣṇu Purāṇa 4.20 witness. [Mahābhārata, Ādiparvan, BORI Critical Edition electronic text, Mahābhārata Ādiparvan 1.119.5–10](https://bombay.indology.info/mahabharata/text/UR/MBh01.txt). source_text_checked. Vyāsa visits Satyavatī and is identified as her son. Here Vyāsa appears after Pāṇḍu’s death; the kinship was established earlier in Ādiparvan.
 - **MBALM141** Kṛṣṇa-Dvaipāyana · Viṣṇu Purāṇa 4.20 witness → explains identity and destiny of → Draupadī · Viṣṇu Purāṇa 4.20 witness. [Mahābhārata, Ādiparvan, BORI Critical Edition electronic text, Mahābhārata Ādiparvan 1.157.5–15](https://bombay.indology.info/mahabharata/text/UR/MBh01.txt). source_text_checked. Vyāsa explains that the Pāṇḍavas are to take Drupada’s daughter Kṛṣṇā as their wife. Direct Sanskrit CE passage; relation is limited to what the cited verses state.
+
+
+<a id="jv_kin_vp"></a>
+## Kṛṣṇa’s kinsfolk · Viṣṇu Purāṇa Syamantaka episode
+
+Type: people_collective. Direct links: 0. Context links: 2.
+
+### Context in the same passages
+
+- **JV029** Kṛṣṇa’s kinsfolk · Viṣṇu Purāṇa Syamantaka episode → perform funeral rites for → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.18](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Kṛṣṇa’s kinsfolk perform rites after receiving news of his supposed death. The report is mistaken within the narrative; Kṛṣṇa is still fighting.
+- **JV034** Kṛṣṇa’s kinsfolk · Viṣṇu Purāṇa Syamantaka episode → suspect killing of prasena by → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.13](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. The Yādavas suspect Kṛṣṇa after Prasena disappears. This encodes suspicion, not Kṛṣṇa killing Prasena. The subject is the collectively described Yādavas.
 
 
 <a id="mb5_udyoga_kshatradeva"></a>
@@ -25681,6 +25773,16 @@ Type: person. Direct links: 0. Context links: 2.
 - **GFK057** Raṇaṃjaya · Viṣṇu Purāṇa 4.22 future-lineage witness → is predicted to be father of → Saṃjaya · Bṛhadbala branch · Viṣṇu Purāṇa 4.22 future-lineage witness. [The Viṣṇu Purāṇa, Book 4, chapter 22: The future descendants of Bṛhadbala, Viṣṇu Purāṇa 4.22.8](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Saṃjaya · Bṛhadbala branch is named as the future son of Raṇaṃjaya in the Ikṣvāku line. A lineage prediction stated in Parāśara’s future-king narrative; it is recorded as textual prophecy, not as independently established history.
 
 
+<a id="jv_dvaraka_residents_sb"></a>
+## Residents of Dvārakā · Bhāgavata 10.56.35
+
+Type: people_collective. Direct links: 0. Context links: 1.
+
+### Context in the same passages
+
+- **JV036** Residents of Dvārakā · Bhāgavata 10.56.35 → pray for krishnas return to → Candrabhāgā / Durgā · Bhāgavata 10.56.35. [Bhāgavata Purāṇa 10.56.35, 10.56.35](https://vedabase.io/en/library/sb/10/56/35/). translation_checked. The residents seek Kṛṣṇa’s return through Candrabhāgā / Durgā. Compare the VP funerary-offering narrative; do not infer either practice is absent from every other witness.
+
+
 <a id="vp4_15_revati"></a>
 ## Revatī · Viṣṇu Purāṇa 4.15 witness
 
@@ -26194,7 +26296,7 @@ Type: person. Direct links: 4. Context links: 31.
 - **RMW_014** Nala · monkey troop commander and builder of the bridge · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness → built bridge for → Rāma. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 26: Sarana identifies the monkey commanders, 6.26.21](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga26/yuddharoman26.htm). translation_checked. Nala is identified as the builder of the bridge in Rāma’s campaign. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
 - **RMW_015** Hara · monkey troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness → commands allied troops for → Rāma. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.2–4](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Hara is named in the commander roll for Rāma’s allied host. Named by Sāraṇa in the commander roll and described in the passage as advancing for Rāma.
 - **RMW_016** Dhūmra · bear chief and troop commander; Jāmbavān’s elder brother · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness → commands allied troops for → Rāma. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.8–9](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Dhūmra is named in the commander roll for Rāma’s allied host. Named by Sāraṇa among the bear commanders in the allied force advancing for Rāma.
-- **RMW_017** Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → commands allied troops for → Rāma. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.10–14](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is named in the commander roll for Rāma’s allied host. Named by Sāraṇa among the bear commanders in the allied force advancing for Rāma.
+- **RMW_017** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → commands allied troops for → Rāma. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.10–14](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is named in the commander roll for Rāma’s allied host. Named by Sāraṇa among the bear commanders in the allied force advancing for Rāma.
 - **RMW_018** Rambha / Dambha · unresolved Sarga 27 roster name · source-local person mention → commands allied troops for → Rāma. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.15–16](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Rambha is named in the commander roll for Rāma’s allied host. The IAST verse reads Rambha, while the page’s word-gloss and translation give Dambha. Kept as a separate, unresolved source-local mention; not identified with Sarga 26 Rambha.
 - **RMW_019** Samnādana · monkey commander and “grandfather of the monkeys” in the gloss · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness → commands allied troops for → Rāma. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.17–20](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Samnāda is named in the commander roll for Rāma’s allied host. Named by Sāraṇa in the commander roll and described in the passage as advancing for Rāma.
 - **RMW_020** Krathana · monkey troop commander, named in two consecutive sargas · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness → commands allied troops for → Rāma. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.21–24](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Krathana is named in the commander roll for Rāma’s allied host. Named by Sāraṇa in the commander roll and described in the passage as advancing for Rāma.
@@ -26400,6 +26502,16 @@ Type: person. Direct links: 0. Context links: 1.
 ### Context in the same passages
 
 - **MB2EARLY_170** Sagara · Yama’s assembly (royal sages and kings) → attends assembly of → Yama · host of the assembly described in MB 2 Section VIII · Mahābhārata Sabha Parva §VIII. [Mahābhārata, Book 2 (Sabhāparvan), Section VIII: Yama’s assembly, §VIII, p. 19](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-viii). translation_checked. Sagara is named among those who attend or worship at this assembly in the passage. Entity and claim are source-scoped to this roster; no identity with similarly named figures elsewhere in the epic or graph is implied.
+
+
+<a id="jv_sages_sb11"></a>
+## Sages addressed by the Yadu boys · Bhāgavata 11.1
+
+Type: people_collective. Direct links: 0. Context links: 1.
+
+### Context in the same passages
+
+- **JV023** Sages addressed by the Yadu boys · Bhāgavata 11.1 → predict dynasty destroying club to → Young Yadu boys · Bhāgavata 11.1. [Bhāgavata Purāṇa 11.1.16, 11.1.16](https://vedabase.io/en/library/sb/11/1/16/). translation_checked. The sages foretell a club destructive to their dynasty. A reported prediction addressed to the boys; not a causal edge from Jāmbavān.
 
 
 <a id="sb6_saha_vasu_son"></a>
@@ -27025,7 +27137,7 @@ Type: person. Direct links: 0. Context links: 1.
 <a id="vp4_13_satrajita"></a>
 ## Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness
 
-Type: person. Direct links: 0. Context links: 10.
+Type: person. Direct links: 0. Context links: 11.
 
 ### Context in the same passages
 
@@ -27039,6 +27151,7 @@ Type: person. Direct links: 0. Context links: 10.
 - **GYM037** Kṛtavarman · Viṣṇu Purāṇa 4.13 witness · Yādava leader → encouraged to kill → Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.24–25](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Kṛtavarman joins the leaders who urge Śatadhanvan to kill Satrājita. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
 - **GYM038** Akrūra · Viṣṇu Purāṇa 4.13 witness · Yadu elder → encouraged to kill → Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.24–25](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Akrūra joins the leaders who urge Śatadhanvan to kill Satrājita. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
 - **GYM039** Śatadhanvan · Viṣṇu Purāṇa 4.13 witness · Yādava leader → killed → Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.26–27](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Śatadhanvan murders Satrājita while he sleeps and takes the jewel. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
+- **JV035** Satrājita · son of Nighna · Viṣṇu Purāṇa 4.13 witness → accuses of killing prasena → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [Bhāgavata Purāṇa 10.56.16, 10.56.16](https://vedabase.io/en/library/sb/10/56/16/). translation_checked. Satrājit voices the accusation that spreads through the populace. An attributed accusation, contradicted by the narrated lion episode; not an actual killing edge.
 
 
 <a id="sb8_13_satrayana"></a>
@@ -29013,11 +29126,12 @@ Type: person. Direct links: 0. Context links: 2.
 <a id="vp4_13_sukumara"></a>
 ## Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son
 
-Type: person. Direct links: 0. Context links: 1.
+Type: person. Direct links: 0. Context links: 2.
 
 ### Context in the same passages
 
-- **GYM028** Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → father of → Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.14–15](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant’s nurse sings to his son Sukumāra. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
+- **GYM028** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → father of → Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.14–15](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant’s nurse sings to his son Sukumāra. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
+- **JV032** Unnamed nurse of Jāmbavant’s child · Viṣṇu Purāṇa 4.13 → sings to → Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.14–15](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. The nurse’s song recounts the jewel’s passage through the lion and bear.
 
 
 <a id="vp89_sukumara"></a>
@@ -30442,12 +30556,15 @@ Type: person. Direct links: 0. Context links: 2.
 <a id="vp4_15_samba"></a>
 ## Sāmba · Viṣṇu Purāṇa 4.15 witness
 
-Type: person. Direct links: 0. Context links: 2.
+Type: person. Direct links: 0. Context links: 5.
 
 ### Context in the same passages
 
 - **GYM246** Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative → father of → Sāmba · Viṣṇu Purāṇa 4.15 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.15.19](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. The translation names vp4_15_kṛṣṇa as the father of vp4_15_samba. Direct parentage stated in the ANU translation.
 - **MB2ROSTER_037** Sāmba · Viṣṇu Purāṇa 4.15 witness → attends rajasuya of → Yudhiṣṭhira. [Mahābhārata, Book 2 (Sabhāparvan), Section XXXIII: Rājasūya guests arrive, §XXXIII, p. 71](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-xxxiii). translation_checked. Śāmba is individually named among those who came to Yudhiṣṭhira’s Rājasūya sacrifice. Vṛṣṇi guest
+- **JV020** Jāmbavatī · Viṣṇu Purāṇa 4.15 witness → mother of → Sāmba · Viṣṇu Purāṇa 4.15 witness. [Bhāgavata Purāṇa 10.61.10–12, 10.61.11–12](https://vedabase.io/en/library/sb/10/61/10-12/). translation_checked. Sāmba is listed among Jāmbavatī’s sons.
+- **JV021** Sāmba · Viṣṇu Purāṇa 4.15 witness → is son of → Jāmbavatī · Viṣṇu Purāṇa 4.15 witness. [Bhāgavata Purāṇa 11.1.13–15, 11.1.14](https://vedabase.io/en/library/sb/11/1/13-15/). translation_checked. The later episode again names Sāmba’s mother.
+- **JV022** Young Yadu boys · Bhāgavata 11.1 → disguise as pregnant woman → Sāmba · Viṣṇu Purāṇa 4.15 witness. [Bhāgavata Purāṇa 11.1.13–15, 11.1.13–15](https://vedabase.io/en/library/sb/11/1/13-15/). translation_checked. The Yadu boys disguise Sāmba to test the sages.
 
 
 <a id="mb_adi_early_saramejaya"></a>
@@ -30684,7 +30801,7 @@ Type: person. Direct links: 0. Context links: 4.
 <a id="sita"></a>
 ## Sītā
 
-Type: person. Direct links: 1. Context links: 3.
+Type: person. Direct links: 1. Context links: 4.
 
 ### Direct Agastya links
 
@@ -30695,6 +30812,7 @@ Type: person. Direct links: 1. Context links: 3.
 - **EEX004** Sītā → is wife of → Rāma. [Rāmāyaṇa 3.12, 3.12, opening exchange (site numbering)](https://www.valmikiramayan.net/utf8/aranya/sarga12/aranya_12_prose.htm). translation_checked. Lakṣmaṇa identifies Sītā as Rama’s wife while announcing their arrival at Agastya’s hermitage. Directly stated in reported speech to the disciple.
 - **VSG041** King Janaka · Sītā’s father in 4.4 · Viṣṇu Purāṇa 4.3–5 witness → father of → Sītā. [Viṣṇu Purāṇa, Book 4, chapter 4: Sagara’s descendants and the story of Rāma, 4.4.50](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Sītā is explicitly identified as King Janaka’s daughter. Kept distinct from the Janaka/Mithi founder and Sīradhvaja nodes in chapter 5; this chapter does not state their identity.
 - **VSG095** Sītā → appears at ploughshare of → Sīradhvaja · Viṣṇu Purāṇa 4.3–5 witness. [Viṣṇu Purāṇa, Book 4, chapter 5: Nimi and the Videha/Janaka line, 4.5.11](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Sītā appears at the tip of Sīradhvaja’s ploughshare while he is ploughing the sacrificial ground. The chapter does not explicitly call Sīradhvaja her biological father or state that he adopted her; no father_of edge is inferred.
+- **JV028** Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness → proposes bringing back → Sītā. [Vālmīki Rāmāyaṇa 5.60, 5.60.1–4](https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm). translation_checked. Aṅgada proposes returning with Sītā rather than only reporting. A proposed action, not a completed rescue.
 
 ### Review notes
 
@@ -32160,6 +32278,17 @@ Type: person. Direct links: 0. Context links: 1.
 - Compare the Old Tamil text and commentary directly; retain any Agastya equation as a hypothesis.
 
 
+<a id="jv_nurse_vp"></a>
+## Unnamed nurse of Jāmbavant’s child · Viṣṇu Purāṇa 4.13
+
+Type: person. Direct links: 0. Context links: 2.
+
+### Context in the same passages
+
+- **JV032** Unnamed nurse of Jāmbavant’s child · Viṣṇu Purāṇa 4.13 → sings to → Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.14–15](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. The nurse’s song recounts the jewel’s passage through the lion and bear.
+- **JV033** Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative → hears song of → Unnamed nurse of Jāmbavant’s child · Viṣṇu Purāṇa 4.13. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.14–17](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Kṛṣṇa hears the nurse before approaching the jewel. Hearing is not necessarily a reciprocal conversation.
+
+
 <a id="tamil_later_peelivalai_child"></a>
 ## Unnamed son of Peelivalai · Maṇimēkalai prior-birth story
 
@@ -32208,6 +32337,17 @@ Type: person. Direct links: 2. Context links: 0.
 ### Questions
 
 - King’s personal name is not supplied in this passage.
+
+
+<a id="jv_son_sb10"></a>
+## Unnamed young son of Jāmbavān · Bhāgavata 10.56
+
+Type: person. Direct links: 0. Context links: 2.
+
+### Context in the same passages
+
+- **JV017** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → father of → Unnamed young son of Jāmbavān · Bhāgavata 10.56. [Bhāgavata Purāṇa 10.56, 10.56.15](https://vedabase.io/en/library/sb/10/56/). translation_checked. The jewel becomes a plaything for his young son. The verse leaves the son unnamed. Do not automatically label him Sukumāra.
+- **JV019** Unnamed young son of Jāmbavān · Bhāgavata 10.56 → plays with → Syamantaka · jewel in Viṣṇu Purāṇa 4.13. [Bhāgavata Purāṇa 10.56, 10.56.15](https://vedabase.io/en/library/sb/10/56/). translation_checked. The child plays with the Syamantaka jewel.
 
 
 <a id="sb4_unnati"></a>
@@ -33910,7 +34050,7 @@ Type: person. Direct links: 0. Context links: 2.
 <a id="vibhishana_epic"></a>
 ## Vibhīṣaṇa · Rāmāyaṇa witness
 
-Type: person. Direct links: 0. Context links: 5.
+Type: person. Direct links: 0. Context links: 6.
 
 ### Context in the same passages
 
@@ -33919,6 +34059,7 @@ Type: person. Direct links: 0. Context links: 5.
 - **RMW_047** Vibhīṣaṇa · Rāmāyaṇa witness → younger brother of → Rāvaṇa · Rāmāyaṇa witness. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 43: named combatants and duels, 6.43.8](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga43/yuddharoman43.htm). translation_checked. Vibhīṣaṇa is identified as Rāvaṇa’s younger brother. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
 - **SB4_0085** Vibhīṣaṇa · Rāmāyaṇa witness → is child of → Viśravā · son of Pulastya and Havirbhū. [Bhāgavata Purāṇa, Canto 4, Chapter 1: Genealogical Table of the Daughters of Manu, 4.1.37](https://vedabase.io/en/library/sb/4/1/). translation_checked. Vibhīṣaṇa is identified as the child of Viśravā. Based on the cited verse translation; no purport is used.
 - **SB4_0086** Vibhīṣaṇa · Rāmāyaṇa witness → is child of → Keśinī · wife of Viśravā and mother of Rāvaṇa, Kumbhakarṇa and Vibhīṣaṇa. [Bhāgavata Purāṇa, Canto 4, Chapter 1: Genealogical Table of the Daughters of Manu, 4.1.37](https://vedabase.io/en/library/sb/4/1/). translation_checked. Vibhīṣaṇa is identified as the child of Keśinī. Based on the cited verse translation; no purport is used.
+- **JV007** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → recognizes by voice → Vibhīṣaṇa · Rāmāyaṇa witness. [Vālmīki Rāmāyaṇa 6.74, 6.74.17](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga74/yuddharoman74.htm). translation_checked. Wounded Jāmbavān identifies Vibhīṣaṇa by voice.
 
 
 <a id="vp35_vibudha_videha"></a>
@@ -35560,12 +35701,14 @@ Type: person. Direct links: 0. Context links: 1.
 <a id="sb8_13_vamana"></a>
 ## Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness
 
-Type: person. Direct links: 0. Context links: 2.
+Type: person. Direct links: 0. Context links: 4.
 
 ### Context in the same passages
 
 - **SB8P123** Kaśyapa · son of Marīci · Mahābhārata Ādiparvan 1.59–1.61 witness → is father of → Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness. [Śrīmad-Bhāgavatam, Canto 8, Chapter 13, “Description of Future Manus”, Śrīmad-Bhāgavatam 8.13.6](https://vedabase.io/en/library/sb/8/13/). translation_checked. Vāmana is named as son of Kaśyapa. Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded.
 - **SB8P124** Aditi · Śrīmad-Bhāgavatam Canto 8 witness → is mother of → Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness. [Śrīmad-Bhāgavatam, Canto 8, Chapter 13, “Description of Future Manus”, Śrīmad-Bhāgavatam 8.13.6](https://vedabase.io/en/library/sb/8/13/). translation_checked. Vāmana is named as son of Aditi. Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded.
+- **JV002** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → recalls circumambulating → Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness. [Vālmīki Rāmāyaṇa 4.65, 4.65.15](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm). translation_checked. Jāmbavān recalls circling Trivikrama at Bali’s sacrifice. Verse 15 gives no count of circuits. No yuga-to-calendar conversion.
+- **JV011** Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → announces victory of → Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness. [Bhāgavata Purāṇa 8.21.8, 8.21.8](https://vedabase.io/en/library/sb/8/21/8/). translation_checked. Jāmbavān proclaims Vāmana’s victory with an instrument. No circumambulation count is given in this verse.
 
 
 <a id="mb_adi_kadru_vamana"></a>
@@ -36806,6 +36949,17 @@ Type: person. Direct links: 0. Context links: 2.
 
 - **SB8P174** Devahotra · Śrīmad-Bhāgavatam Canto 8 witness → is father of → Yogeśvara · Śrīmad-Bhāgavatam Canto 8 witness. [Śrīmad-Bhāgavatam, Canto 8, Chapter 13, “Description of Future Manus”, Śrīmad-Bhāgavatam 8.13.32](https://vedabase.io/en/library/sb/8/13/). translation_checked. The verse identifies Yogeśvara as a child of Devahotra. Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded.
 - **SB8P175** Bṛhatī · Śrīmad-Bhāgavatam Canto 8 witness → is mother of → Yogeśvara · Śrīmad-Bhāgavatam Canto 8 witness. [Śrīmad-Bhāgavatam, Canto 8, Chapter 13, “Description of Future Manus”, Śrīmad-Bhāgavatam 8.13.32](https://vedabase.io/en/library/sb/8/13/). translation_checked. Yogeśvara is born of Bṛhatī. Supported by the numbered Sanskrit verse and its translation; chapter synopsis and purport are excluded.
+
+
+<a id="jv_yadu_boys_sb11"></a>
+## Young Yadu boys · Bhāgavata 11.1
+
+Type: people_collective. Direct links: 0. Context links: 2.
+
+### Context in the same passages
+
+- **JV022** Young Yadu boys · Bhāgavata 11.1 → disguise as pregnant woman → Sāmba · Viṣṇu Purāṇa 4.15 witness. [Bhāgavata Purāṇa 11.1.13–15, 11.1.13–15](https://vedabase.io/en/library/sb/11/1/13-15/). translation_checked. The Yadu boys disguise Sāmba to test the sages.
+- **JV023** Sages addressed by the Yadu boys · Bhāgavata 11.1 → predict dynasty destroying club to → Young Yadu boys · Bhāgavata 11.1. [Bhāgavata Purāṇa 11.1.16, 11.1.16](https://vedabase.io/en/library/sb/11/1/16/). translation_checked. The sages foretell a club destructive to their dynasty. A reported prediction addressed to the boys; not a causal edge from Jāmbavān.
 
 
 <a id="vp4_14_yuddhamusti"></a>
@@ -40885,3 +41039,7 @@ A search log records checked leads. It is not a claim of exhaustive coverage.
 
 ### Bhagavata_Canto4_People
 
+
+### Jambavant_Deep_Dive
+
+- **Jāmbavant source review**: Translation-level checks of linked Ramayana, Bhagavata, Vishnu Purana and Harivamsa passages; narrative content kept separate from commentary.

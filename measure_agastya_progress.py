@@ -17,6 +17,7 @@ INDIVIDUAL_TYPES = {
     'bodhisattva', 'person_or_king', 'person_or_prince',
 }
 UNNAMED = {
+    'jv_son_sb10', 'jv_nurse_vp',
     'tugras_son', 'vidarbha_king', 'tamil_unnamed_northern_sage',
     'root_prince', 'root_student',
     'vp89_unnamed_kasi_king', 'tamil_later_cook',

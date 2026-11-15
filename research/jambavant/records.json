@@ -1,0 +1,874 @@
+{
+  "schema_version": "jambavant-supplement-1",
+  "as_of": "2026-11-15",
+  "scope": "Targeted reading of selected translations, not an exhaustive concordance or original-language audit.",
+  "identity_policy": "Jāmbavān dossiers remain separate by textual context. Scenario maps are explicit literary alignments, not historical identifications.",
+  "nodes": [
+    {
+      "id": "jv_ram",
+      "label": "Jāmbavān · Rāmāyaṇa dossier",
+      "type": "person"
+    },
+    {
+      "id": "jv_sb8",
+      "label": "Jāmbavān · Bhāgavata 8.21 dossier",
+      "type": "person"
+    },
+    {
+      "id": "jv_sb10",
+      "label": "Jāmbavān · Bhāgavata 10.56 dossier",
+      "type": "person"
+    },
+    {
+      "id": "jv_brahma_ram",
+      "label": "Brahmā · Rāmāyaṇa 1.17 creation account",
+      "type": "deity"
+    },
+    {
+      "id": "jv_trivikrama_ram",
+      "label": "Trivikrama / Viṣṇu · Rāmāyaṇa 4.65",
+      "type": "deity"
+    },
+    {
+      "id": "jv_garuda_ram",
+      "label": "Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66",
+      "type": "celestial"
+    },
+    {
+      "id": "jv_vamana_sb8",
+      "label": "Vāmana · Bhāgavata 8.21 victory",
+      "type": "deity"
+    },
+    {
+      "id": "jv_krishna_sb10",
+      "label": "Kṛṣṇa · Bhāgavata Syamantaka episode",
+      "type": "person"
+    },
+    {
+      "id": "jv_jambavati_sb10",
+      "label": "Jāmbavatī · Bhāgavata 10.56 / 10.61",
+      "type": "person"
+    },
+    {
+      "id": "jv_son_sb10",
+      "label": "Unnamed young son of Jāmbavān · Bhāgavata 10.56",
+      "type": "person"
+    },
+    {
+      "id": "jv_lion_sb10",
+      "label": "Unnamed lion in the Syamantaka episode · Bhāgavata",
+      "type": "animal_or_entity"
+    },
+    {
+      "id": "jv_gem_sb10",
+      "label": "Syamantaka jewel · Bhāgavata 10.56",
+      "type": "object"
+    },
+    {
+      "id": "jv_samba_sb",
+      "label": "Sāmba · Jāmbavatī’s son in Bhāgavata 10.61 / 11.1",
+      "type": "person"
+    },
+    {
+      "id": "jv_yadu_boys_sb11",
+      "label": "Young Yadu boys · Bhāgavata 11.1",
+      "type": "people_collective"
+    },
+    {
+      "id": "jv_sages_sb11",
+      "label": "Sages addressed by the Yadu boys · Bhāgavata 11.1",
+      "type": "people_collective"
+    },
+    {
+      "id": "jv_earth_ram",
+      "label": "Earth · Jāmbavān’s recollection in Rāmāyaṇa 4.66",
+      "type": "place"
+    },
+    {
+      "id": "jv_amrita_herbs",
+      "label": "Herbs gathered for nectar-churning · Rāmāyaṇa 4.66",
+      "type": "object"
+    },
+    {
+      "id": "jv_churning",
+      "label": "Nectar-churning recalled by Jāmbavān · Rāmāyaṇa 4.66",
+      "type": "event"
+    },
+    {
+      "id": "jv_kin_vp",
+      "label": "Kṛṣṇa’s kinsfolk · Viṣṇu Purāṇa Syamantaka episode",
+      "type": "people_collective"
+    },
+    {
+      "id": "jv_funeral_rites_vp",
+      "label": "Funerary offerings for the presumed-dead Kṛṣṇa · Viṣṇu Purāṇa 4.13",
+      "type": "event"
+    },
+    {
+      "id": "jv_duel_vp",
+      "label": "Jāmbavant–Kṛṣṇa duel · Viṣṇu Purāṇa 4.13",
+      "type": "event"
+    },
+    {
+      "id": "jv_nurse_vp",
+      "label": "Unnamed nurse of Jāmbavant’s child · Viṣṇu Purāṇa 4.13",
+      "type": "person"
+    },
+    {
+      "id": "jv_dvaraka_residents_sb",
+      "label": "Residents of Dvārakā · Bhāgavata 10.56.35",
+      "type": "people_collective"
+    },
+    {
+      "id": "jv_candrabhaga_durga",
+      "label": "Candrabhāgā / Durgā · Bhāgavata 10.56.35",
+      "type": "deity"
+    }
+  ],
+  "sources": [
+    {
+      "id": "JV_R117",
+      "title": "Vālmīki Rāmāyaṇa 1.17",
+      "url": "https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_R465",
+      "title": "Vālmīki Rāmāyaṇa 4.65",
+      "url": "https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_R466",
+      "title": "Vālmīki Rāmāyaṇa 4.66",
+      "url": "https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_R674",
+      "title": "Vālmīki Rāmāyaṇa 6.74",
+      "url": "https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga74/yuddharoman74.htm",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_SB8218",
+      "title": "Bhāgavata Purāṇa 8.21.8",
+      "url": "https://vedabase.io/en/library/sb/8/21/8/",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_SB1056",
+      "title": "Bhāgavata Purāṇa 10.56",
+      "url": "https://vedabase.io/en/library/sb/10/56/",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_SB105624",
+      "title": "Bhāgavata Purāṇa 10.56.24",
+      "url": "https://vedabase.io/en/library/sb/10/56/24/",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_SB105626",
+      "title": "Bhāgavata Purāṇa 10.56.26",
+      "url": "https://vedabase.io/en/library/sb/10/56/26/",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_SB105628",
+      "title": "Bhāgavata Purāṇa 10.56.28",
+      "url": "https://vedabase.io/en/library/sb/10/56/28/",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_SB105632",
+      "title": "Bhāgavata Purāṇa 10.56.32",
+      "url": "https://vedabase.io/en/library/sb/10/56/32/",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_SB105633",
+      "title": "Bhāgavata Purāṇa 10.56.33",
+      "url": "https://vedabase.io/en/library/sb/10/56/33/",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_SB1061",
+      "title": "Bhāgavata Purāṇa 10.61.10–12",
+      "url": "https://vedabase.io/en/library/sb/10/61/10-12/",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_SB111",
+      "title": "Bhāgavata Purāṇa 11.1.13–15",
+      "url": "https://vedabase.io/en/library/sb/11/1/13-15/",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_SB11116",
+      "title": "Bhāgavata Purāṇa 11.1.16",
+      "url": "https://vedabase.io/en/library/sb/11/1/16/",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_HV138",
+      "title": "Harivaṃśa, Harivaṃśaparvan 1.38, site edition",
+      "url": "https://www.dvaipayana.net/harivamsa/harivamshaparva/hv_1_38.html",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_R560",
+      "title": "Vālmīki Rāmāyaṇa 5.60",
+      "url": "https://www.valmikiramayan.net/utf8/sundara/sarga60/sundarasans60.htm",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_SB105616",
+      "title": "Bhāgavata Purāṇa 10.56.16",
+      "url": "https://vedabase.io/en/library/sb/10/56/16/",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    },
+    {
+      "id": "JV_SB105635",
+      "title": "Bhāgavata Purāṇa 10.56.35",
+      "url": "https://vedabase.io/en/library/sb/10/56/35/",
+      "kind": "primary_translation",
+      "accessed": "2026-11-15",
+      "locator": "",
+      "edition": "Linked online verse translation; site-specific numbering.",
+      "note": "Translated verse/narrative used; commentary is not promoted to primary evidence."
+    }
+  ],
+  "claims": [
+    {
+      "id": "JV001",
+      "subject": "jv_brahma_ram",
+      "predicate": "creates",
+      "object": "jv_ram",
+      "source": "JV_R117",
+      "locator": "1.17.7",
+      "summary": "Brahmā describes Jāmbavān emerging when he yawned.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Brahmā",
+      "note": "Narrated origin, not an ordinary biological father claim."
+    },
+    {
+      "id": "JV002",
+      "subject": "jv_ram",
+      "predicate": "recalls_circumambulating",
+      "object": "jv_trivikrama_ram",
+      "source": "JV_R465",
+      "locator": "4.65.15",
+      "summary": "Jāmbavān recalls circling Trivikrama at Bali’s sacrifice.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Jāmbavān",
+      "note": "Verse 15 gives no count of circuits. No yuga-to-calendar conversion."
+    },
+    {
+      "id": "JV003",
+      "subject": "jv_ram",
+      "predicate": "argues_against_sending_leader",
+      "object": "ram6_angada",
+      "source": "JV_R465",
+      "locator": "4.65.20–27",
+      "summary": "He argues that Aṅgada should be protected as leader.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Jāmbavān"
+    },
+    {
+      "id": "JV004",
+      "subject": "jv_ram",
+      "predicate": "encourages_for_ocean_crossing",
+      "object": "ram6_hanuman",
+      "source": "JV_R465",
+      "locator": "4.65.34–35",
+      "summary": "He turns to Hanumān to enable the mission.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Jāmbavān"
+    },
+    {
+      "id": "JV005",
+      "subject": "jv_ram",
+      "predicate": "reports_having_seen",
+      "object": "jv_garuda_ram",
+      "source": "JV_R466",
+      "locator": "4.66.4–6",
+      "summary": "He recalls seeing Garuḍa and compares Hanumān’s abilities.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Jāmbavān"
+    },
+    {
+      "id": "JV006",
+      "subject": "jv_ram",
+      "predicate": "narrates_birth_and_praises_capacity_of",
+      "object": "ram6_hanuman",
+      "source": "JV_R466",
+      "locator": "4.66.8–30, 37",
+      "summary": "He recounts Hanumān’s origins and urges action.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Jāmbavān",
+      "note": "No forgetting-curse claim is extracted from the site’s commentary."
+    },
+    {
+      "id": "JV007",
+      "subject": "jv_ram",
+      "predicate": "recognizes_by_voice",
+      "object": "vibhishana_epic",
+      "source": "JV_R674",
+      "locator": "6.74.17",
+      "summary": "Wounded Jāmbavān identifies Vibhīṣaṇa by voice.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Jāmbavān"
+    },
+    {
+      "id": "JV008",
+      "subject": "jv_ram",
+      "predicate": "asks_about_survival_of",
+      "object": "ram6_hanuman",
+      "source": "JV_R674",
+      "locator": "6.74.18–23",
+      "summary": "He treats Hanumān’s survival as crucial to recovery.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Jāmbavān",
+      "addressee": "vibhishana_epic",
+      "note": "An inquiry about Hanumān, not an address to him."
+    },
+    {
+      "id": "JV009",
+      "subject": "jv_ram",
+      "predicate": "sends_for_four_healing_herbs",
+      "object": "ram6_hanuman",
+      "source": "JV_R674",
+      "locator": "6.74.26–34",
+      "summary": "He directs Hanumān to fetch four restorative herbs.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Jāmbavān"
+    },
+    {
+      "id": "JV010",
+      "subject": "jv_ram",
+      "predicate": "is_described_as_son_of",
+      "object": "jv_brahma_ram",
+      "source": "JV_R674",
+      "locator": "6.74.14",
+      "summary": "The battlefield account calls him Prajāpati’s son.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "narrator",
+      "note": "Linked translation identifies Prajāpati here as Brahmā; retain that qualification."
+    },
+    {
+      "id": "JV011",
+      "subject": "jv_sb8",
+      "predicate": "announces_victory_of",
+      "object": "jv_vamana_sb8",
+      "source": "JV_SB8218",
+      "locator": "8.21.8",
+      "summary": "Jāmbavān proclaims Vāmana’s victory with an instrument.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "narrator",
+      "note": "No circumambulation count is given in this verse."
+    },
+    {
+      "id": "JV012",
+      "subject": "jv_sb10",
+      "predicate": "fights_with",
+      "object": "jv_krishna_sb10",
+      "source": "JV_SB105624",
+      "locator": "10.56.24",
+      "summary": "The two fight for twenty-eight days.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Śuka"
+    },
+    {
+      "id": "JV013",
+      "subject": "jv_sb10",
+      "predicate": "recognizes_as_vishnu",
+      "object": "jv_krishna_sb10",
+      "source": "JV_SB105626",
+      "locator": "10.56.26",
+      "summary": "Jāmbavān identifies his opponent as Viṣṇu.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Jāmbavān",
+      "note": "A character’s theological recognition, not a database same-person merge."
+    },
+    {
+      "id": "JV014",
+      "subject": "jv_sb10",
+      "predicate": "attributes_prior_lanka_campaign_to",
+      "object": "jv_krishna_sb10",
+      "source": "JV_SB105628",
+      "locator": "10.56.28",
+      "summary": "He associates his addressee with the bridge and Laṅkā campaign.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Jāmbavān",
+      "note": "Rāma is not explicitly named in the verse; the episode identification is contextual. Does not itself say the speaker personally witnessed every listed deed."
+    },
+    {
+      "id": "JV015",
+      "subject": "jv_sb10",
+      "predicate": "father_of",
+      "object": "jv_jambavati_sb10",
+      "source": "JV_SB105632",
+      "locator": "10.56.32",
+      "summary": "Jāmbavatī is identified as Jāmbavān’s daughter.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Śuka"
+    },
+    {
+      "id": "JV016",
+      "subject": "jv_sb10",
+      "predicate": "presents_jewel_and_daughter_to",
+      "object": "jv_krishna_sb10",
+      "source": "JV_SB105632",
+      "locator": "10.56.32",
+      "summary": "He presents the jewel and his daughter to Kṛṣṇa.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Śuka"
+    },
+    {
+      "id": "JV017",
+      "subject": "jv_sb10",
+      "predicate": "father_of",
+      "object": "jv_son_sb10",
+      "source": "JV_SB1056",
+      "locator": "10.56.15",
+      "summary": "The jewel becomes a plaything for his young son.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Śuka",
+      "note": "The verse leaves the son unnamed. Do not automatically label him Sukumāra."
+    },
+    {
+      "id": "JV018",
+      "subject": "jv_sb10",
+      "predicate": "kills",
+      "object": "jv_lion_sb10",
+      "source": "JV_SB1056",
+      "locator": "10.56.14",
+      "summary": "Jāmbavān kills the lion that killed Prasena.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Śuka",
+      "note": "This is not a claim that Jāmbavān killed Prasena."
+    },
+    {
+      "id": "JV019",
+      "subject": "jv_son_sb10",
+      "predicate": "plays_with",
+      "object": "jv_gem_sb10",
+      "source": "JV_SB1056",
+      "locator": "10.56.15",
+      "summary": "The child plays with the Syamantaka jewel.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Śuka"
+    },
+    {
+      "id": "JV020",
+      "subject": "jv_jambavati_sb10",
+      "predicate": "mother_of",
+      "object": "jv_samba_sb",
+      "source": "JV_SB1061",
+      "locator": "10.61.11–12",
+      "summary": "Sāmba is listed among Jāmbavatī’s sons.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Śuka"
+    },
+    {
+      "id": "JV021",
+      "subject": "jv_samba_sb",
+      "predicate": "is_son_of",
+      "object": "jv_jambavati_sb10",
+      "source": "JV_SB111",
+      "locator": "11.1.14",
+      "summary": "The later episode again names Sāmba’s mother.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Śuka"
+    },
+    {
+      "id": "JV022",
+      "subject": "jv_yadu_boys_sb11",
+      "predicate": "disguise_as_pregnant_woman",
+      "object": "jv_samba_sb",
+      "source": "JV_SB111",
+      "locator": "11.1.13–15",
+      "summary": "The Yadu boys disguise Sāmba to test the sages.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Śuka"
+    },
+    {
+      "id": "JV023",
+      "subject": "jv_sages_sb11",
+      "predicate": "predict_dynasty_destroying_club_to",
+      "object": "jv_yadu_boys_sb11",
+      "source": "JV_SB11116",
+      "locator": "11.1.16",
+      "summary": "The sages foretell a club destructive to their dynasty.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "sages",
+      "note": "A reported prediction addressed to the boys; not a causal edge from Jāmbavān."
+    },
+    {
+      "id": "JV024",
+      "subject": "jv_ram",
+      "predicate": "reports_circling_twenty_one_times",
+      "object": "jv_earth_ram",
+      "source": "JV_R466",
+      "locator": "4.66.32",
+      "summary": "He reports twenty-one circuits of the earth during Trivikrama’s time.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Jāmbavān",
+      "note": "The object is the earth, not explicitly Trivikrama’s body. This numerical passage was omitted from the initial dossier."
+    },
+    {
+      "id": "JV025",
+      "subject": "jv_ram",
+      "predicate": "recalls_collecting",
+      "object": "jv_amrita_herbs",
+      "source": "JV_R466",
+      "locator": "4.66.33",
+      "summary": "He recalls collecting herbs under divine orders for nectar-churning.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Jāmbavān",
+      "note": "The speaker uses a plural rendered as royal we by the linked translator. No claim that these are the later four healing herbs."
+    },
+    {
+      "id": "JV026",
+      "subject": "jv_amrita_herbs",
+      "predicate": "are_intended_for",
+      "object": "jv_churning",
+      "source": "JV_R466",
+      "locator": "4.66.33",
+      "summary": "The collected herbs belong to the recalled nectar-churning operation.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Jāmbavān"
+    },
+    {
+      "id": "JV027",
+      "subject": "jv_ram",
+      "predicate": "counsels_considering_ramas_intent",
+      "object": "ram6_angada",
+      "source": "JV_R560",
+      "locator": "5.60.5–6",
+      "summary": "He urges Aṅgada to consider Rāma’s intention before acting.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Jāmbavān",
+      "note": "This short passage does not explicitly state a ban on unauthorized rescue, despite expanded retellings."
+    },
+    {
+      "id": "JV028",
+      "subject": "ram6_angada",
+      "predicate": "proposes_bringing_back",
+      "object": "sita",
+      "source": "JV_R560",
+      "locator": "5.60.1–4",
+      "summary": "Aṅgada proposes returning with Sītā rather than only reporting.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Aṅgada",
+      "note": "A proposed action, not a completed rescue."
+    },
+    {
+      "id": "JV029",
+      "subject": "jv_kin_vp",
+      "predicate": "perform_funeral_rites_for",
+      "object": "vp4_15_kṛṣṇa",
+      "source": "vp4_13_17_anu",
+      "locator": "4.13.18",
+      "summary": "Kṛṣṇa’s kinsfolk perform rites after receiving news of his supposed death.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Parāśara",
+      "note": "The report is mistaken within the narrative; Kṛṣṇa is still fighting."
+    },
+    {
+      "id": "JV030",
+      "subject": "jv_funeral_rites_vp",
+      "predicate": "are_narrated_to_sustain",
+      "object": "vp4_15_kṛṣṇa",
+      "source": "vp4_13_17_anu",
+      "locator": "4.13.18–19",
+      "summary": "The offerings are narrated as sustaining Kṛṣṇa during the duel.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Parāśara",
+      "note": "A claim within this telling, not an empirical statement about ritual efficacy."
+    },
+    {
+      "id": "JV031",
+      "subject": "vp4_13_jambavant",
+      "predicate": "weakens_without_food_during",
+      "object": "jv_duel_vp",
+      "source": "vp4_13_17_anu",
+      "locator": "4.13.19",
+      "summary": "Jāmbavant lacks food and weakens as the fight continues.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Parāśara"
+    },
+    {
+      "id": "JV032",
+      "subject": "jv_nurse_vp",
+      "predicate": "sings_to",
+      "object": "vp4_13_sukumara",
+      "source": "vp4_13_17_anu",
+      "locator": "4.13.14–15",
+      "summary": "The nurse’s song recounts the jewel’s passage through the lion and bear.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Parāśara"
+    },
+    {
+      "id": "JV033",
+      "subject": "vp4_15_kṛṣṇa",
+      "predicate": "hears_song_of",
+      "object": "jv_nurse_vp",
+      "source": "vp4_13_17_anu",
+      "locator": "4.13.14–17",
+      "summary": "Kṛṣṇa hears the nurse before approaching the jewel.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Parāśara",
+      "note": "Hearing is not necessarily a reciprocal conversation."
+    },
+    {
+      "id": "JV034",
+      "subject": "jv_kin_vp",
+      "predicate": "suspect_killing_of_prasena_by",
+      "object": "vp4_15_kṛṣṇa",
+      "source": "vp4_13_17_anu",
+      "locator": "4.13.13",
+      "summary": "The Yādavas suspect Kṛṣṇa after Prasena disappears.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Parāśara",
+      "note": "This encodes suspicion, not Kṛṣṇa killing Prasena. The subject is the collectively described Yādavas."
+    },
+    {
+      "id": "JV035",
+      "subject": "vp4_13_satrajita",
+      "predicate": "accuses_of_killing_prasena",
+      "object": "jv_krishna_sb10",
+      "source": "JV_SB105616",
+      "locator": "10.56.16",
+      "summary": "Satrājit voices the accusation that spreads through the populace.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Satrājit",
+      "note": "An attributed accusation, contradicted by the narrated lion episode; not an actual killing edge."
+    },
+    {
+      "id": "JV036",
+      "subject": "jv_dvaraka_residents_sb",
+      "predicate": "pray_for_krishnas_return_to",
+      "object": "jv_candrabhaga_durga",
+      "source": "JV_SB105635",
+      "locator": "10.56.35",
+      "summary": "The residents seek Kṛṣṇa’s return through Candrabhāgā / Durgā.",
+      "status": "translation_checked",
+      "original_language_reviewed": false,
+      "speaker": "Śuka",
+      "note": "Compare the VP funerary-offering narrative; do not infer either practice is absent from every other witness."
+    }
+  ],
+  "observations": [
+    {
+      "id": "JVO01",
+      "kind": "narrated_duration",
+      "episode": "Syamantaka fight",
+      "source": "vp4_13_17_anu",
+      "locator": "4.13.17",
+      "value": 21,
+      "unit": "days"
+    },
+    {
+      "id": "JVO02",
+      "kind": "narrated_duration",
+      "episode": "Syamantaka fight",
+      "source": "JV_SB105624",
+      "locator": "10.56.24",
+      "value": 28,
+      "unit": "days"
+    },
+    {
+      "id": "JVO03",
+      "kind": "narrated_wait",
+      "episode": "Companions outside cave",
+      "source": "vp4_13_17_anu",
+      "locator": "4.13.18",
+      "alternatives": [
+        7,
+        8
+      ],
+      "unit": "days"
+    },
+    {
+      "id": "JVO04",
+      "kind": "narrated_wait",
+      "episode": "Companions outside cave",
+      "source": "JV_SB105633",
+      "locator": "10.56.33",
+      "value": 12,
+      "unit": "days"
+    },
+    {
+      "id": "JVO05",
+      "kind": "self_reported_capacity",
+      "subject": "jv_ram",
+      "source": "JV_R465",
+      "locator": "4.65.13",
+      "value": 90,
+      "unit": "yojana",
+      "note": "Narrative capacity claim; no conversion to modern distance."
+    },
+    {
+      "id": "JVO06",
+      "kind": "self_reported_capacity",
+      "subject": "ram6_angada",
+      "source": "JV_R465",
+      "locator": "4.65.19",
+      "value": 100,
+      "unit": "yojana",
+      "return_capacity": "uncertain",
+      "note": "Jāmbavān subsequently invokes protection of the leader."
+    },
+    {
+      "id": "JVO07",
+      "kind": "narrated_duration",
+      "episode": "Syamantaka fight",
+      "source": "JV_HV138",
+      "locator": "1.38.39",
+      "value": 21,
+      "unit": "days",
+      "note": "Site numbering; not asserted to equal a critical-edition locator. This is a third textual witness, not independent historical corroboration."
+    },
+    {
+      "id": "JVO08",
+      "kind": "self_reported_circuits",
+      "subject": "jv_ram",
+      "object": "jv_earth_ram",
+      "source": "JV_R466",
+      "locator": "4.66.32",
+      "value": 21,
+      "unit": "circuits",
+      "note": "Circuits of the earth; kept distinct from the unnumbered Trivikrama circumambulation in 4.65.15."
+    }
+  ],
+  "scenario_alignments": {
+    "jambavant_only": {
+      "jv_ram": "vp4_13_jambavant",
+      "jv_sb8": "vp4_13_jambavant",
+      "jv_sb10": "vp4_13_jambavant"
+    },
+    "additional_named_figures": {
+      "jv_krishna_sb10": "vp4_15_kṛṣṇa",
+      "jv_jambavati_sb10": "vp4_15_jambavati",
+      "jv_samba_sb": "vp4_15_samba",
+      "jv_vamana_sb8": "sb8_13_vamana",
+      "jv_trivikrama_ram": "sb8_13_vamana"
+    }
+  },
+  "rejected_name_matches": [
+    "Jambha",
+    "Jambhāsura",
+    "Jambūmāli",
+    "Vāmana the serpent"
+  ],
+  "open_work": [
+    "Collate Sanskrit and critical-edition numbering before philological claims.",
+    "Review more Jāmbavān passages and alternative Syamantaka tellings.",
+    "Retain disagreements in duration and names instead of harmonizing them."
+  ]
+}

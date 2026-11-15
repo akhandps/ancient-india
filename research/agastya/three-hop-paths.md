@@ -2,7 +2,7 @@
 
 This is a shortest-path audit over sourced person-to-person claim edges. All six source-local Agastya facets start at distance zero. Text witnesses, places, and citations remain visible in the 3D graph but are not counted as person hops. Direction is ignored only when finding a path. A path does not show that its people met or lived at the same time.
 
-## 3 hops · 771 people
+## 3 hops · 777 people
 
 ### Abhaya · Dhṛtarāṣṭra’s son in the CE birth-order roster
 
@@ -812,6 +812,14 @@ Agastya · Rāmāyaṇa → Rāma → Yama · host of the assembly described in 
 - MB2EARLY_161: Rāma → attends assembly of → Yama · host of the assembly described in MB 2 Section VIII · Mahābhārata Sabha Parva §VIII. [Mahābhārata, Book 2 (Sabhāparvan), Section VIII: Yama’s assembly, §VIII, p. 19](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-viii). translation_checked. Rāma · son of Daśaratha, Yama roster is named among those who attend or worship at this assembly in the passage. Entity and claim are source-scoped to this roster; no identity with similarly named figures elsewhere in the epic or graph is implied.
 - MB2EARLY_179: Brahmadatta · first occurrence · Yama’s assembly (royal sages and kings) → attends assembly of → Yama · host of the assembly described in MB 2 Section VIII · Mahābhārata Sabha Parva §VIII. [Mahābhārata, Book 2 (Sabhāparvan), Section VIII: Yama’s assembly, §VIII, p. 19](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-viii). translation_checked. Brahmadatta · first occurrence is named among those who attend or worship at this assembly in the passage. Entity and claim are source-scoped to this roster; no identity with similarly named figures elsewhere in the epic or graph is implied.
 
+### Brahmā · Rāmāyaṇa 1.17 creation account
+
+Agastya · Vedic witnesses → Indra → Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → Brahmā · Rāmāyaṇa 1.17 creation account
+
+- C002: Indra → addresses → Agastya · Vedic witnesses. [Ṛgveda 1.170, 1.170.3](https://sacred-texts.com/hin/rigveda/rv01170.htm). translation_checked. Indra questions Agastya’s withholding of an offering. Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit.
+- RMW_030: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- JV001: Brahmā · Rāmāyaṇa 1.17 creation account → creates → Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses. [Vālmīki Rāmāyaṇa 1.17, 1.17.7](https://www.valmikiramayan.net/utf8/baala/sarga17/balasans17.htm). translation_checked. Brahmā describes Jāmbavān emerging when he yawned. Narrated origin, not an ordinary biological father claim.
+
 ### Brahmā · commissions Viśvakarman to create Tilottamā
 
 Akattiyar · Tamil traditions → Skanda → Viśvakarman · creator of Tilottamā → Brahmā · commissions Viśvakarman to create Tilottamā
@@ -1564,6 +1572,14 @@ Akattiyar · Tamil traditions → Śiva → Kubera / Vaiśravaṇa · host of th
 - MB3VANA_037: Kubera / Vaiśravaṇa · host of the assembly described in MB 2 Section X → precedes → Śiva. [Mahābhārata, Book 3 (Āraṇyakaparvan), Skanda’s birth and campaign, BORI Critical Edition, adhyāyas 213–221, 3.221.1–5](https://bombay.indology.info/mahabharata/text/UR/MBh03.txt). source_text_checked. Kubera travels ahead of Śiva and Pārvatī in the procession. Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.
 - MB2SAB_052: Gandhamādana · Yakṣa/Gandharva leader · Kuvera’s assembly (named chiefs) roster, Mahābhārata Sabha Parva §X, p. 23 → attends assembly of → Kubera / Vaiśravaṇa · host of the assembly described in MB 2 Section X. [Mahābhārata, Book 2 (Sabhāparvan), Section X: Kubera’s assembly, §X, p. 23](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-x). translation_checked. Gandhamādana · Yakṣa/Gandharva leader is named among those who wait upon the Kubera assembly in this passage. Entity and claim are scoped to the named roster in this passage; no cross-text identity reconciliation is implied.
 
+### Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66
+
+Agastya · Vedic witnesses → Indra → Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66
+
+- C002: Indra → addresses → Agastya · Vedic witnesses. [Ṛgveda 1.170, 1.170.3](https://sacred-texts.com/hin/rigveda/rv01170.htm). translation_checked. Indra questions Agastya’s withholding of an offering. Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit.
+- RMW_030: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- JV005: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → reports having seen → Garuḍa · Jāmbavān’s recollection in Rāmāyaṇa 4.66. [Vālmīki Rāmāyaṇa 4.66, 4.66.4–6](https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm). translation_checked. He recalls seeing Garuḍa and compares Hanumān’s abilities.
+
 ### Garuḍa · vainateya named at Arjuna’s birth
 
 Agastya · Vedic witnesses → Indra → Arjuna · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness → Garuḍa · vainateya named at Arjuna’s birth
@@ -1723,6 +1739,14 @@ Akattiyar · Tamil traditions → Śiva → Pārvatī / Umā · Mahābhārata Sa
 - C068: Akattiyar · Tamil traditions → alternatively learns tamil from → Śiva. [Iravatham Mahadevan, Meluhha and Agastya (2009), §4.10, p. 15](https://www.harappa.com/sites/default/files/pdf/meluhha_and_agastya_2009.pdf). scholarly_report. Another tradition assigns the instruction to Śiva.
 - MB3VANA_038: Pārvatī / Umā · Mahābhārata Sabha Parva §X, p. 23 → accompanies → Śiva. [Mahābhārata, Book 3 (Āraṇyakaparvan), Skanda’s birth and campaign, BORI Critical Edition, adhyāyas 213–221, 3.221.1–4](https://bombay.indology.info/mahabharata/text/UR/MBh03.txt). source_text_checked. Pārvatī rides with Śiva in his chariot. Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.
 - MB3VANA_049: Gāndhārī · named among the women accompanying Pārvatī; source-local identity → accompanies → Pārvatī / Umā · Mahābhārata Sabha Parva §X, p. 23. [Mahābhārata, Book 3 (Āraṇyakaparvan), Skanda’s birth and campaign, BORI Critical Edition, adhyāyas 213–221, 3.221.20](https://bombay.indology.info/mahabharata/text/UR/MBh03.txt). source_text_checked. The named figure is listed among those who follow Pārvatī in the procession. Claim follows an individually named figure and an explicit relation or action in the BORI CE Sanskrit text.
+
+### Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness
+
+Agastya · Vedic witnesses → Indra → Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness
+
+- C002: Indra → addresses → Agastya · Vedic witnesses. [Ṛgveda 1.170, 1.170.3](https://sacred-texts.com/hin/rigveda/rv01170.htm). translation_checked. Indra questions Agastya’s withholding of an offering. Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit.
+- RMW_030: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- JV004: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → encourages for ocean crossing → Hanumān · monkey combatant; son of the wind-god in the battle account · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa 4.65, 4.65.34–35](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm). translation_checked. He turns to Hanumān to enable the mission.
 
 ### Hariṇa · Airāvata lineage serpent · Ādiparvan 1.52
 
@@ -2038,11 +2062,11 @@ Agastya · Rāmāyaṇa → Rāma → Yama · host of the assembly described in 
 
 ### Jāmbavatī · Viṣṇu Purāṇa 4.15 witness
 
-Agastya · Vedic witnesses → Indra → Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → Jāmbavatī · Viṣṇu Purāṇa 4.15 witness
+Agastya · Vedic witnesses → Indra → Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → Jāmbavatī · Viṣṇu Purāṇa 4.15 witness
 
 - C002: Indra → addresses → Agastya · Vedic witnesses. [Ṛgveda 1.170, 1.170.3](https://sacred-texts.com/hin/rigveda/rv01170.htm). translation_checked. Indra questions Agastya’s withholding of an offering. Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit.
-- RMW_030: Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
-- GYM029: Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → father of → Jāmbavatī · Viṣṇu Purāṇa 4.15 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.21–22](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant presents his daughter Jāmbavatī to Kṛṣṇa. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
+- RMW_030: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- GYM029: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → father of → Jāmbavatī · Viṣṇu Purāṇa 4.15 witness. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.21–22](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant presents his daughter Jāmbavatī to Kṛṣṇa. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
 
 ### Kacchapa · naga named at Arjuna’s birth
 
@@ -2574,11 +2598,11 @@ Agastya · Vedic witnesses → Indra → Arjuna · human incarnation · Mahābh�
 
 ### Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative
 
-Agastya · Vedic witnesses → Indra → Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative
+Agastya · Vedic witnesses → Indra → Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative
 
 - C002: Indra → addresses → Agastya · Vedic witnesses. [Ṛgveda 1.170, 1.170.3](https://sacred-texts.com/hin/rigveda/rv01170.htm). translation_checked. Indra questions Agastya’s withholding of an offering. Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit.
-- RMW_030: Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
-- GYM279: Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → fought with → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.16–20](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant and Kṛṣṇa fight for twenty-one days over the Syamantaka jewel. The passage identifies the encounter as a fight; no additional identity claim is implied.
+- RMW_030: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- GYM279: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → fought with → Kṛṣṇa · born to Devakī · Viṣṇu Purāṇa 4.15 witness · Kṛṣṇa’s incarnation narrative. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.16–20](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant and Kṛṣṇa fight for twenty-one days over the Syamantaka jewel. The passage identifies the encounter as a fight; no additional identity claim is implied.
 
 ### Kṛṣṇa-Dvaipāyana · Viṣṇu Purāṇa 4.20 witness
 
@@ -4358,11 +4382,11 @@ Agastya · Mahābhārata → Yudhiṣṭhira → Dharma · deity · Viṣṇu Pu
 
 ### Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son
 
-Agastya · Vedic witnesses → Indra → Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son
+Agastya · Vedic witnesses → Indra → Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son
 
 - C002: Indra → addresses → Agastya · Vedic witnesses. [Ṛgveda 1.170, 1.170.3](https://sacred-texts.com/hin/rigveda/rv01170.htm). translation_checked. Indra questions Agastya’s withholding of an offering. Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit.
-- RMW_030: Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
-- GYM028: Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → father of → Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.14–15](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant’s nurse sings to his son Sukumāra. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
+- RMW_030: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- GYM028: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → father of → Sukumāra · Viṣṇu Purāṇa 4.13 witness · Jāmbavant’s son. [The Viṣṇu Purāṇa, Book 4, chapters 13–17: Yadu, Vṛṣṇi, Kṛṣṇa, Turvasu and Druhyu lines, 4.13.14–15](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Jāmbavant’s nurse sings to his son Sukumāra. This claim follows the ANU Press English translation and preserves its named relationships without harmonizing variant genealogies.
 
 ### Sulocana · Dhṛtarāṣṭra’s son in the CE birth-order roster
 
@@ -4820,6 +4844,14 @@ Agastya · Vedic witnesses → Indra → Nedumudikkilli · Chola king in Maṇim
 - TL041: Nedumudikkilli · Chola king in Maṇimēkalai → is warned to hold festival for → Indra. [Maṇimēkalai · English translation by Kausalya Hart, Canto 24, lines 24-050–24-070 (Hart numbering)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0710.html). translation_checked. The Jain sage warns Nedumudikkilli that he must not forget Indra’s festival, citing Indra’s curse and the threatened loss of the city. Passage-level relationship from Hart’s English translation; it is a narrative witness, not independent historical evidence.
 - TFNL026: Nedumudikkilli · Chola king in Maṇimēkalai → forgot indra festival while searching for → Unnamed son of Peelivalai · Maṇimēkalai prior-birth story. [Maṇimēkalai · English translation by Kausalya Hart, Canto 29, lines 29-010–29-030 (Hart numbering)](https://www.projectmadurai.org/pm_etexts/utf8/pmuni0710.html). translation_checked. The king searches for the lost child and forgets the Indra festival, prompting the goddess’s curse in the narrated story. The canto’s English summary calls the king Nedungilli and separately labels him Killivalai; the Tamil verse uses Killi. Existing canto 25 Nedumudikkilli is not merged with this narrative king here.
 
+### Unnamed young son of Jāmbavān · Bhāgavata 10.56
+
+Agastya · Vedic witnesses → Indra → Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → Unnamed young son of Jāmbavān · Bhāgavata 10.56
+
+- C002: Indra → addresses → Agastya · Vedic witnesses. [Ṛgveda 1.170, 1.170.3](https://sacred-texts.com/hin/rigveda/rv01170.htm). translation_checked. Indra questions Agastya’s withholding of an offering. Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit.
+- RMW_030: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- JV017: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → father of → Unnamed young son of Jāmbavān · Bhāgavata 10.56. [Bhāgavata Purāṇa 10.56, 10.56.15](https://vedabase.io/en/library/sb/10/56/). translation_checked. The jewel becomes a plaything for his young son. The verse leaves the son unnamed. Do not automatically label him Sukumāra.
+
 ### Unnati · daughter of Dakṣa and wife of Dharma
 
 Agastya · Mahābhārata → Yudhiṣṭhira → Dharma · deity · Viṣṇu Purāṇa 4.20 witness → Unnati · daughter of Dakṣa and wife of Dharma
@@ -5078,11 +5110,11 @@ Akattiyar · Tamil traditions → Śiva → Kubera / Vaiśravaṇa · host of th
 
 ### Vibhīṣaṇa · Rāmāyaṇa witness
 
-Agastya · Rāmāyaṇa → Rāma → Śūrpaṇakhā · Rāmāyaṇa witness → Vibhīṣaṇa · Rāmāyaṇa witness
+Agastya · Vedic witnesses → Indra → Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → Vibhīṣaṇa · Rāmāyaṇa witness
 
-- C015: Rāma → speaks about → Agastya · Rāmāyaṇa. [Rāmāyaṇa 3.11, 3.11](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranya_11_prose.htm). translation_checked. Rāma recounts Agastya’s deeds en route to his hermitage.
-- ES001: Rāma → meets → Śūrpaṇakhā · Rāmāyaṇa witness. [Vālmīki Rāmāyaṇa 3.17, 3.17.10–11, narrative (site prose)](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranya_17_prose.htm). translation_checked. While Rāma is at the Pañcavaṭī hermitage with Sītā and Lakṣmaṇa, Śūrpaṇakhā arrives and addresses him. The meeting occurs downstream of the Agastya-to-Pañcavaṭī direction; this passage does not depict Śūrpaṇakhā meeting Agastya.
-- ES005: Śūrpaṇakhā · Rāmāyaṇa witness → is sister of → Vibhīṣaṇa · Rāmāyaṇa witness. [Vālmīki Rāmāyaṇa 3.17, 3.17.24, Śūrpaṇakhā's self-introduction (site prose)](https://www.valmikiramayan.net/utf8/aranya/sarga17/aranya_17_prose.htm). translation_checked. Śūrpaṇakhā names Vibhīṣaṇa as her brother and says that he does not behave like a demon. The characterization is retained as her speech, without importing later narrative framing.
+- C002: Indra → addresses → Agastya · Vedic witnesses. [Ṛgveda 1.170, 1.170.3](https://sacred-texts.com/hin/rigveda/rv01170.htm). translation_checked. Indra questions Agastya’s withholding of an offering. Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit.
+- RMW_030: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- JV007: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → recognizes by voice → Vibhīṣaṇa · Rāmāyaṇa witness. [Vālmīki Rāmāyaṇa 6.74, 6.74.17](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga74/yuddharoman74.htm). translation_checked. Wounded Jāmbavān identifies Vibhīṣaṇa by voice.
 
 ### Vicitravīrya · Śāṃtanu’s son · Viṣṇu Purāṇa 4.20 witness
 
@@ -5420,6 +5452,14 @@ Agastya · Rāmāyaṇa → Rāma → Aṅgada · Vāli’s son; monkey prince a
 - RMW_013: Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness → commands for → Rāma. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 26: Sarana identifies the monkey commanders, 6.26.18, 20](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga26/yuddharoman26.htm). translation_checked. Aṅgada advances for Rāma’s cause and leads troops toward Lanka. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
 - RMW_012: Aṅgada · Vāli’s son; monkey prince and troop commander · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness → son of → Vāli · Aṅgada’s father, named in his patronymic · Vālmīki Rāmāyaṇa Yuddha Kāṇḍa 6 witness. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 26: Sarana identifies the monkey commanders, 6.26.18](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga26/yuddharoman26.htm). translation_checked. Aṅgada is called the son of Vāli. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
 
+### Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness
+
+Agastya · Vedic witnesses → Indra → Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness
+
+- C002: Indra → addresses → Agastya · Vedic witnesses. [Ṛgveda 1.170, 1.170.3](https://sacred-texts.com/hin/rigveda/rv01170.htm). translation_checked. Indra questions Agastya’s withholding of an offering. Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit.
+- RMW_030: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- JV002: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → recalls circumambulating → Vāmana (youngest Āditya, Bhāgavata 8.13) · Śrīmad-Bhāgavatam Canto 8 witness. [Vālmīki Rāmāyaṇa 4.65, 4.65.15](https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm). translation_checked. Jāmbavān recalls circling Trivikrama at Bali’s sacrifice. Verse 15 gives no count of circuits. No yuga-to-calendar conversion.
+
 ### Vāriṣeṇa · Yama’s assembly (royal sages and kings)
 
 Agastya · Rāmāyaṇa → Rāma → Yama · host of the assembly described in MB 2 Section VIII · Mahābhārata Sabha Parva §VIII → Vāriṣeṇa · Yama’s assembly (royal sages and kings)
@@ -5563,6 +5603,14 @@ Agastya · Mahābhārata → Yudhiṣṭhira → Dharma · deity · Viṣṇu Pu
 - C030: Yudhiṣṭhira → asks about → Agastya · Mahābhārata. [Mahābhārata, Vana Parva, Ganguli §96, Vana §96](https://sacred-texts.com/hin/m03/m03096.htm). translation_checked. Yudhiṣṭhira asks why Agastya killed Vātāpi. He asks Lomaśa, not Agastya; no meeting is asserted.
 - GKA048: Dharma · deity · Viṣṇu Purāṇa 4.20 witness → begets with kunti → Yudhiṣṭhira. [The Viṣṇu Purāṇa, Book 4, chapter 20: The lineages of the Kauravas and Pāṇḍavas, Viṣṇu Purāṇa 4.20.40](https://press-files.anu.edu.au/downloads/press/n8264/html/book04.xhtml?page=9&referer=). translation_checked. Dharma · deity begets Yudhiṣṭhira with Kuntī for Pāṇḍu. The text names a divine begetter; Pāṇḍu is not recorded as the biological father.
 - SB4_0169: Yoga · son of Dharma and Kriyā → is child of → Dharma · deity · Viṣṇu Purāṇa 4.20 witness. [Bhāgavata Purāṇa, Canto 4, Chapter 1: Genealogical Table of the Daughters of Manu, 4.1.49–52](https://vedabase.io/en/library/sb/4/1/). translation_checked. Yoga is identified as the child of Dharma. Based on the cited verse translation; no purport is used.
+
+### Young Yadu boys · Bhāgavata 11.1
+
+Agastya · Mahābhārata → Yudhiṣṭhira → Sāmba · Viṣṇu Purāṇa 4.15 witness → Young Yadu boys · Bhāgavata 11.1
+
+- C030: Yudhiṣṭhira → asks about → Agastya · Mahābhārata. [Mahābhārata, Vana Parva, Ganguli §96, Vana §96](https://sacred-texts.com/hin/m03/m03096.htm). translation_checked. Yudhiṣṭhira asks why Agastya killed Vātāpi. He asks Lomaśa, not Agastya; no meeting is asserted.
+- MB2ROSTER_037: Sāmba · Viṣṇu Purāṇa 4.15 witness → attends rajasuya of → Yudhiṣṭhira. [Mahābhārata, Book 2 (Sabhāparvan), Section XXXIII: Rājasūya guests arrive, §XXXIII, p. 71](https://sacred-texts.com/book/the-mahabharata-book-2-sabha-parva/section-xxxiii). translation_checked. Śāmba is individually named among those who came to Yudhiṣṭhira’s Rājasūya sacrifice. Vṛṣṇi guest
+- JV022: Young Yadu boys · Bhāgavata 11.1 → disguise as pregnant woman → Sāmba · Viṣṇu Purāṇa 4.15 witness. [Bhāgavata Purāṇa 11.1.13–15, 11.1.13–15](https://vedabase.io/en/library/sb/11/1/13-15/). translation_checked. The Yadu boys disguise Sāmba to test the sages.
 
 ### Yudhiṣṭhira · human incarnation · Mahābhārata Ādiparvan 1.59–1.61 witness
 
@@ -6972,12 +7020,12 @@ Agastya · Rāmāyaṇa → Rāma → Jaṭāyu · Rāmāyaṇa witness
 - C015: Rāma → speaks about → Agastya · Rāmāyaṇa. [Rāmāyaṇa 3.11, 3.11](https://www.valmikiramayan.net/utf8/aranya/sarga11/aranya_11_prose.htm). translation_checked. Rāma recounts Agastya’s deeds en route to his hermitage.
 - E3H001: Rāma → meets and recognizes as fathers friend → Jaṭāyu · Rāmāyaṇa witness. [Vālmīki Rāmāyaṇa 3.14, 3.14.1–7, encounter and identification (site prose)](https://www.valmikiramayan.net/utf8/aranya/sarga14/aranya_14_prose.htm). translation_checked. While proceeding toward Pañcavaṭī, Rāma and Lakṣmaṇa encounter Jaṭāyu; Jaṭāyu identifies himself as a friend of Daśaratha, and Rāma accepts and honors him. This is Rāma's meeting with Jaṭāyu after Agastya's direction to Pañcavaṭī; the passage does not depict Jaṭāyu meeting Agastya.
 
-### Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king
+### Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses
 
-Agastya · Vedic witnesses → Indra → Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king
+Agastya · Vedic witnesses → Indra → Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses
 
 - C002: Indra → addresses → Agastya · Vedic witnesses. [Ṛgveda 1.170, 1.170.3](https://sacred-texts.com/hin/rigveda/rv01170.htm). translation_checked. Indra questions Agastya’s withholding of an offering. Speaker identification belongs to interpretation of the dialogue; naming Agastya is explicit.
-- RMW_030: Jāmbavant · Viṣṇu Purāṇa 4.13 witness · bear king → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
+- RMW_030: Jāmbavant · linked Rāmāyaṇa, Viṣṇu Purāṇa and Bhāgavata witnesses → aided in battle → Indra. [Vālmīki Rāmāyaṇa, Yuddha Kāṇḍa, Sarga 27: further monkey commanders, 6.27.12](https://sanskritdocuments.org/sites/valmikiramayan/yuddha/sarga27/yuddharoman27.htm). translation_checked. Jāmbavān is said to have given great help to Indra in an earlier battle between gods and demons. Sanskrit verse and site translation checked; only the named action or relationship is asserted.
 
 ### Jātukarṇa · Mahābhārata Sabha Parva §IV, p. 7 roster witness
 
